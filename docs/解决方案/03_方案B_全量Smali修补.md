@@ -1,4 +1,6 @@
-# 方案B：全量 Smali 修补（targetSdkVersion 保持 29）
+# 方案B：全量 Smali 修补 ❌ 已废弃
+
+> **2026-05-08**：targetSdkVersion=22 方案已完全避开所有 Java 层问题，不再需要全量 Smali 修补。本文保留仅供存档。
 
 ## 适用场景
 
