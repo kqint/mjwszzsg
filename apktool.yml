@@ -1,0 +1,21 @@
+version: 3.0.1
+apkFileName: mjwszzsg.apk
+usesFramework:
+  ids:
+  - 1
+sdkInfo:
+  minSdkVersion: 8
+versionInfo:
+  versionCode: 1
+  versionName: 1.7
+resourcesInfo:
+  packageId: 127
+doNotCompress:
+- arsc
+- jpg
+- mid
+- mp3
+- png
+- assets/JQ00.txt
+- assets/premessable.txt
+- assets/qa.txt

@@ -1,0 +1,2760 @@
+Manifest-Version: 1.0
+Created-By: 1.0 (Android)
+
+Name: assets/JQ3.txt
+SHA1-Digest: 59Vr8XGuN0CdZtb7+KhhrhN851o=
+
+Name: assets/UInew/DL_14.png
+SHA1-Digest: NB0LYM5C+APjRomB0+wtVGFrcNs=
+
+Name: assets/Z03_3.png
+SHA1-Digest: 10BoXpXE/ygf636LSTdXG8H3OfA=
+
+Name: assets/STOP.jpg
+SHA1-Digest: wcEZOlcP/molCO3T3Jz4PKrrK9A=
+
+Name: assets/zb/JRTH-x3.png
+SHA1-Digest: 9LklxDPofz4LvnA3z0yKQjcdQ7I=
+
+Name: assets/zb/ZBYZ-ZHOU.png
+SHA1-Digest: ybtEgk/WphBl+rUds51BnmhnLeI=
+
+Name: assets/ccbButton/UI-LIANZI.png
+SHA1-Digest: 3xmfyIBrZYqjE53NtBgW00CfNjY=
+
+Name: assets/zb/ZBYZ-KUANG8.png
+SHA1-Digest: /dqJHNI4TVM9DsiVy1gaXsqW6hU=
+
+Name: assets/6.mp3
+SHA1-Digest: GreHYEVOuKiO4onDPY15lxrh/Nw=
+
+Name: assets/ccbResources/JHWJ-kuang2.png
+SHA1-Digest: /fOBe0tMAQ58r80/2f/sDJ3r/t8=
+
+Name: assets/ccbButton/UI-055.png
+SHA1-Digest: I8yo6/XvlNMKYEOd7J8T6ooMnkE=
+
+Name: assets/ZJQ5.txt
+SHA1-Digest: AMg50dTz3QC2sxBe5JaBH6BqhMo=
+
+Name: assets/mmiap/image/vertical/button1_Confirm_Press.9.png
+SHA1-Digest: UzrvQws9fuS5mdrnlq5z3WKXU9c=
+
+Name: assets/E07_2.png
+SHA1-Digest: NOh9+bkZl/j4Zv7F/QugR0FfCZ0=
+
+Name: assets/MAP39.bin
+SHA1-Digest: rBZcTSc3brY+wjNnSupD1zCUw/s=
+
+Name: assets/text4.png
+SHA1-Digest: wcKtww4hRn4GTBYvzo/H4BfBWrM=
+
+Name: assets/mainmenu/mainmenu_3_0.png
+SHA1-Digest: N5dbTCQLHchStfzZopMPW/CyW/Y=
+
+Name: assets/ccbButton/UI-G.png
+SHA1-Digest: qWWNrNmUHsSPujYb2cf94Sz50g4=
+
+Name: assets/ccbButton/UI-111.png
+SHA1-Digest: oJFtZOs1oRlc4n8Xu1QlH20qoxQ=
+
+Name: assets/ccbMap/BM-004.png
+SHA1-Digest: fdjQwlJc1Im9fyeAOhi/WqaJZrM=
+
+Name: assets/qilitiaobai.png
+SHA1-Digest: g8K71BS6X4s8NztzhgtYaMCqCs0=
+
+Name: assets/mmiap/image/vertical/logo2.png
+SHA1-Digest: UUnHt3nTSOA2LRJ/lorreraPaAw=
+
+Name: assets/ResourcesImage/SH-000.png
+SHA1-Digest: JYAq1ZcSkuzethN/xIhTURiMoq8=
+
+Name: assets/cg/MH_21.png
+SHA1-Digest: WbLfeX59wBwWZGdUkbxbEpCqzPk=
+
+Name: assets/mmiap/image/vertical/button1_Confirm.9.png
+SHA1-Digest: 4R7Eld1CWay8DOJmOL2lNUDttNo=
+
+Name: assets/ccbResources/SHOPBUTTON-003.png
+SHA1-Digest: ANEuXr8o8tN/MheKvqS+3zwtRZ8=
+
+Name: assets/ccbResources/MRDL-kuang3.png
+SHA1-Digest: P0XG6QZBLH1aTRzuvAiCJ7I7Dvk=
+
+Name: assets/Z03_1.png
+SHA1-Digest: 1Me1Tztyip5/SblfRVr2uMtD7Mk=
+
+Name: assets/mmiap/image/vertical/icon_info.png
+SHA1-Digest: Tzxt0fKmD3jerOCKPnUUJCGeoC8=
+
+Name: assets/ccbMap/BM-045.png
+SHA1-Digest: 9km/LcrhP6bAD/gHgbs0ptNBRLQ=
+
+Name: assets/DLuo.xml
+SHA1-Digest: uhgZv6uWSgpou91QS4uk7ZjW/Fo=
+
+Name: assets/ccbResources/JHWJ-BAN2.png
+SHA1-Digest: DjMLmcZIse5M/JFqeOZGNSkZGi0=
+
+Name: assets/ccbi/jinri2.ccbi
+SHA1-Digest: A4Bxm7IwBNV37/F57dnUhVRgjCA=
+
+Name: assets/2.mp3
+SHA1-Digest: 0uYFl+cvoFF/2ja83Hl8O07lCyw=
+
+Name: assets/ccbButton/UI-C3.png
+SHA1-Digest: +nMvcyuDlO00mvzy4gogWhuz91A=
+
+Name: assets/ccbButton/UI-068.png
+SHA1-Digest: SRJ5zjoKdcfT1x83OrVnLAmNu34=
+
+Name: assets/ccbMap/BM-035.png
+SHA1-Digest: 2sRrjAIaVI3HPPT+3TxqubbATh8=
+
+Name: assets/ccbButton/UI-091.png
+SHA1-Digest: oNCVl+AxpTp3tTOTLQsMPO1aa/g=
+
+Name: res/drawable-hdpi/gc_billing_red_selector.xml
+SHA1-Digest: jZv9WDO0c8MWgJhu7YfkK/3OxQo=
+
+Name: assets/E04_2.plist
+SHA1-Digest: 5lWjETRal9adC+mWcuDhCjgp/yM=
+
+Name: assets/ccbButton/UI-J_right.png
+SHA1-Digest: 7wCrtCXdC+A05u/czOrreQir8uk=
+
+Name: assets/ccbMap/BM-003.png
+SHA1-Digest: cl/T9lh/dGCgK3JHyejTGB/BTTM=
+
+Name: assets/backgrond1.jpg
+SHA1-Digest: AJL2ddQNCqoVhgS31hhTES+ypnQ=
+
+Name: assets/24.mp3
+SHA1-Digest: pvzYcAmJl/dI5sCZZaps9OoQa+Q=
+
+Name: assets/Z07_1.png
+SHA1-Digest: fXKxqvsrHtp7P7Agfg7yAf1/W9U=
+
+Name: assets/UInew/LV-9.png
+SHA1-Digest: cDNZRN8AUg1ofFApgptdFoJ+jPU=
+
+Name: assets/UInew/DL_0.png
+SHA1-Digest: EH3tY59xuq6X7FWL7ZjQxv7DQps=
+
+Name: assets/ccbResources/UI-STAR.png
+SHA1-Digest: Q+E3Lr2j5GEP8qbeOih+IXRuszQ=
+
+Name: res/drawable-hdpi/gc_gamehall.png
+SHA1-Digest: ugMC5u65pQJ4AadGF6uK/fE0S9o=
+
+Name: assets/ResourcesImage/jiaoxue0.png
+SHA1-Digest: lKySiJdVsxjcjeFNzHQswGppWyc=
+
+Name: assets/mainmenu/mainmenu_1_0.png
+SHA1-Digest: VdqSOGnW02JYJkPfFrgDvLCDj1I=
+
+Name: assets/Z05.xml
+SHA1-Digest: LywQE3loqLI50h+mxQFfglBtXXg=
+
+Name: assets/cg/MH_24.png
+SHA1-Digest: fimsNutbWJaj3quUUKtwk1C6guI=
+
+Name: assets/UInew/DL_12.png
+SHA1-Digest: DPao9HmXMzqwT2xrhpY8LjY2Ofc=
+
+Name: assets/cg1/2.png
+SHA1-Digest: SOTwXYgg69egB/qwXnyB3Opj9f8=
+
+Name: assets/luolei.plist
+SHA1-Digest: 4lYoUjsHm2els81rRK2kIFtHmCo=
+
+Name: assets/ccbResources/dengjiman.png
+SHA1-Digest: oNTURWhvk35epcYrKV/8QvSc9lY=
+
+Name: assets/MAP41.bin
+SHA1-Digest: nfWnPP+F+exfoIuqiisZ3wcCbEs=
+
+Name: assets/ccbButton/UI-051.png
+SHA1-Digest: OH9qlgpKxppXIFiVv/A3bPQ6BcM=
+
+Name: assets/ccbResources/FH-NO9.png
+SHA1-Digest: l/nC+1Mh05/c7VStvMHgDNbxLR4=
+
+Name: assets/zbg/ZBYZ-BAN8.png
+SHA1-Digest: lytZIk0sc0bTY8B1CRe4NYV/TLM=
+
+Name: assets/mmiap/image/vertical/infobg.9.png
+SHA1-Digest: FwQrOBt3bKF94Eg5Gg6rZYZNbkA=
+
+Name: assets/ccbMap/BM-002.png
+SHA1-Digest: RUe2wB9PE4sKDSj6tlZzsc+0niE=
+
+Name: assets/ResourcesImage/TX-004.png
+SHA1-Digest: +k0gZVaDT3gFyVsN4hlQ/XOd4zE=
+
+Name: assets/mmiap/image/vertical/splash_v.jpg
+SHA1-Digest: dZt0MTzBkfF2PDG/ssQDgjQwRVk=
+
+Name: assets/Z000_1.png
+SHA1-Digest: pe2NXg7NBKplZWEuGHmesGauWDM=
+
+Name: assets/chinaunicom.png
+SHA1-Digest: NJDQ+es+Kq9GD7T4Jr0PNtgyaqs=
+
+Name: assets/JQ7.txt
+SHA1-Digest: XtXDIBkEBJ7WxlVwiFgb9YzrOFI=
+
+Name: assets/ccbResources/UI-starS.png
+SHA1-Digest: P03mD2da0OLnG8KW2lvYlp1wtn0=
+
+Name: assets/UInew/JN-21.png
+SHA1-Digest: /8FtmZelBrIYFkhgduGEmv0cFe4=
+
+Name: assets/yishitai_1.plist
+SHA1-Digest: DKP/vIrywKFd2TCI1FB9laEzCSw=
+
+Name: assets/ccbResources/TX-NPCHYY.png
+SHA1-Digest: p2EFsQD7xTjQtsOQ/rYc8/WgkIQ=
+
+Name: assets/B03.xml
+SHA1-Digest: +4vM1CCQ9wi2mxCe9hrgVBZ/vPQ=
+
+Name: assets/Z01.xml
+SHA1-Digest: Qwnwr/gP4UgaTP/yPLEnuzIiRCE=
+
+Name: assets/ccbResources/FH-NO2.png
+SHA1-Digest: 9Sz38JlkFO3VpI588Gzy9GT8fhA=
+
+Name: assets/MAP15.bin
+SHA1-Digest: Ijxg/GFNb0Ju0tDitJ3hVTvx9I0=
+
+Name: assets/ResourcesImage/TX-009.png
+SHA1-Digest: ShcY1f1P14ibgC/AvI+YgyV/dxg=
+
+Name: assets/mmiap/image/vertical/bg_transparent.png
+SHA1-Digest: 0IVse37Qcb6XPwqic8vRXr9G6Jo=
+
+Name: assets/ccbResources/MRDL-huoqu1.png
+SHA1-Digest: pkiwIDO2/erWF4rJ6GHyyvN1BlM=
+
+Name: assets/debug.txt
+SHA1-Digest: iB4tt+C+4gM3/xXPuYRgUVIcLfI=
+
+Name: assets/zbg/ZBYZ-txz.png
+SHA1-Digest: JSi3WNrxTP5iohhxrWOOEi74opI=
+
+Name: assets/MAP13.bin
+SHA1-Digest: GlSt9U8t7VPEIeI8hMwnW9G3J6Q=
+
+Name: assets/ccbi/shangchenganniu.ccbi
+SHA1-Digest: nJG1dgXSUhgmIPqCDh7bqxIMnPY=
+
+Name: assets/ccbi/ToFight.ccbi
+SHA1-Digest: rLRFixtu9fl6YtaEzeo/w8wHHts=
+
+Name: assets/zb/JRTH-qian.png
+SHA1-Digest: IKLpffxtXYgL6NucDvH+Op2i3c4=
+
+Name: assets/UInew/JN-26.png
+SHA1-Digest: hUSn48URKYU67V/29etac7Xc4eY=
+
+Name: assets/UInew/DL_7.png
+SHA1-Digest: wmWRMl9hPZZkVDO1En8DF+qv1GI=
+
+Name: assets/15.mp3
+SHA1-Digest: wvgIf6O3fN0zuJcGrWXbEhqbdpk=
+
+Name: assets/ccbResources/MRDL-duihao.png
+SHA1-Digest: gpaVBBwEagdroMgR9FHE49sH078=
+
+Name: assets/mmiap/image/vertical/button_back_Press.png
+SHA1-Digest: +nggjMaRqQpLGwgEGOo7R7DToGs=
+
+Name: assets/UInew/LV-5.png
+SHA1-Digest: OGrWZ/JABP2h2rodgcsMr6fZD4g=
+
+Name: assets/zb/JRTH-45yuan.png
+SHA1-Digest: DwbpjNqaIinfx3Xz0nqPMa/kFSs=
+
+Name: assets/Z06_2.png
+SHA1-Digest: +frZtsHHr8tpT5ApX8G7l8l2pAA=
+
+Name: assets/ccbResources/WJUP-AN1.png
+SHA1-Digest: 98VHT/VJ5ApSDcsCK30bfZe1t24=
+
+Name: assets/duihua1.png
+SHA1-Digest: 3E8nzdt9cs2sZ62TsDM3vOY6v8g=
+
+Name: assets/ResourcesImage/M4.png
+SHA1-Digest: fWTK7Ogwc7Yce09y/kXW3o86/co=
+
+Name: assets/fengfujiangli.png
+SHA1-Digest: Cn+wnosBYscYZrrcb+5OVDQeb1E=
+
+Name: res/drawable-hdpi/gc_billing_cancel_unenabled.png
+SHA1-Digest: 19BwmxO5UF7S9ULroRrssiUqz0g=
+
+Name: assets/MAP38.bin
+SHA1-Digest: x03ATItT3n4HIImh9FZaq2culJ4=
+
+Name: assets/ResourcesImage/MZ-6.png
+SHA1-Digest: ESUBAnKjVyVD81JyfSgSsmNJxVg=
+
+Name: assets/Z02_1.png
+SHA1-Digest: OiD/nCFDzDNJ4AZboKo0Q7YwLEQ=
+
+Name: assets/ccbButton/UI-078.png
+SHA1-Digest: rIOROeLz/s8lnsB/YgTxI6wAr/M=
+
+Name: assets/E06_2.png
+SHA1-Digest: cjFHCQp73X/INK7LSH54Pt0GNuk=
+
+Name: assets/ccbMap/BM-038.png
+SHA1-Digest: oJh7R6hiphszsx/6LM/1gni/rkw=
+
+Name: assets/ResourcesImage/MZ-7.png
+SHA1-Digest: PbrEClY4pc7PS+2IpJb33HQdXRE=
+
+Name: assets/ccbResources/JHWJ-jiantou.png
+SHA1-Digest: dQewL/4LD5lM07EFPpVseVzdjMU=
+
+Name: assets/25.mp3
+SHA1-Digest: qTQL/Bd/9g7m8SRUitGPybMI3x8=
+
+Name: assets/Z02_2.plist
+SHA1-Digest: q1yEXKKSLKWDKiJ4HybGE5kyS/E=
+
+Name: assets/10.mp3
+SHA1-Digest: 1EH2Ig9NcxmdHwNLFn6ifc2+EAk=
+
+Name: assets/UInew/LV-8.png
+SHA1-Digest: 29Z24Dz4rOEgTAsEH8j6wZSzGfA=
+
+Name: assets/cg/MH_14.png
+SHA1-Digest: 14wI8p2JoI1+eVi2WNtM80bVYuo=
+
+Name: assets/ccbMap/BM-010.png
+SHA1-Digest: DnsurijKn13OLaGN+FOZvZi54zA=
+
+Name: assets/UInew/DL_5.png
+SHA1-Digest: kMLqPlOJozFOqJNInUHsHQPB5IM=
+
+Name: assets/ZU.xml
+SHA1-Digest: iKYa8wUjt7XQzXB/k2qdOSfMcCk=
+
+Name: assets/ccbButton/UI-113.png
+SHA1-Digest: Lj/U9G2TV+jRG5gvnDYSWRoqfi4=
+
+Name: assets/MAP03.xml
+SHA1-Digest: Cguc1g9vNph63murz+RZ5zAjGTg=
+
+Name: assets/zb/JRTH-5zhe.png
+SHA1-Digest: HeRV1iRZxejjJdpTm1Ii6KHnLyc=
+
+Name: assets/ccbResources/SHOPBUTTON-004.png
+SHA1-Digest: IABa+kOAiHeticzKwlhh78oWOk4=
+
+Name: assets/UInew/JN-31.png
+SHA1-Digest: rIqkUOMQyPrha+4wxy71odFo0KI=
+
+Name: assets/MAP30.bin
+SHA1-Digest: Ijxg/GFNb0Ju0tDitJ3hVTvx9I0=
+
+Name: assets/MAP09.bin
+SHA1-Digest: iQVFB/rr3uBth8l0Rd3ZLUu7nxw=
+
+Name: assets/ccbi/ShopLayer.ccbi
+SHA1-Digest: kGnZcxOEPWX++BQEOBQHZOhA0F4=
+
+Name: assets/MAP37.bin
+SHA1-Digest: 6lVp8wwYSeUqnIvIhxArlyw3e4c=
+
+Name: assets/ccbButton/ICON-017.png
+SHA1-Digest: 8l3f9CUqM/v1d0EsgNqbxSU8ybo=
+
+Name: assets/ccbResources/SHOPBUTTON-009.png
+SHA1-Digest: PFLOEvUQ2JEBoV90Htvoo35hIxw=
+
+Name: assets/Z05_2.png
+SHA1-Digest: z3UWJbDF4ywye8dvhYztQRtBsgI=
+
+Name: assets/MAP04_1.png
+SHA1-Digest: xF1GCJDXkKWIxrRAnKD0hqqhhQU=
+
+Name: assets/MA_1.plist
+SHA1-Digest: 5boQfwHr7czr0qpcXMGU0s5vNpw=
+
+Name: assets/win_zhan.png
+SHA1-Digest: uc6uU40VUAZQlOI8tAw65pNx3u8=
+
+Name: assets/UInew/UI-M-00.mp3
+SHA1-Digest: NWOI++knsflzDIw7h0HLhAaIGZc=
+
+Name: assets/ccbButton/UI-049.png
+SHA1-Digest: H866ssa2b3z3gajBXRGgKHn0VKI=
+
+Name: res/raw/opening_sound.mid
+SHA1-Digest: mFDMwGfLVsJXoP5tzs1AOP6Fa/s=
+
+Name: assets/cg/MH_13.png
+SHA1-Digest: AQOBZaPcSinSicXOmjCDzoskgbo=
+
+Name: assets/ccbResources/MXUI-10.png
+SHA1-Digest: aAOCw3MdSppwZ/tw+kW/e0f3few=
+
+Name: assets/B04.xml
+SHA1-Digest: USmkQz6KroEvzYvicsnWY18JYnE=
+
+Name: assets/ResourcesImage/M10.png
+SHA1-Digest: VFY+7gdabwYy5D8PD3FTUwA0vqc=
+
+Name: assets/zb/JRTH-BAN3.png
+SHA1-Digest: aEolArYkyj/ipW6N8YZBs3lm7Bc=
+
+Name: assets/zb/JRTH-BIAOTI.png
+SHA1-Digest: ylOefaIKaRkvsqv2dYaS7mkFR1c=
+
+Name: assets/dijiangchuxian.png
+SHA1-Digest: ZzejKmrFz8ORUVXUcEff+n+hpmc=
+
+Name: assets/mmiap/image/vertical/get_verificationcode_press.9.png
+SHA1-Digest: w9wI7hWNoLR+B2e4eP4YkD27SlY=
+
+Name: res/drawable-hdpi/ic_launcher.png
+SHA1-Digest: RQ09RDJf3yWYEKYOavo2ED4Yaz0=
+
+Name: assets/shouhuxuetiao.png
+SHA1-Digest: lX0lbL1ZPcgwUjLaTeuAG5C0ROw=
+
+Name: assets/UInew/JN-20.png
+SHA1-Digest: JZyZ199U3XhCHjjcmzTVZKoFDGc=
+
+Name: assets/mainmenu/mainmenu_4.png
+SHA1-Digest: UgVqZFvYkvJyN8+IlJSlF//I9kQ=
+
+Name: assets/MAP20.bin
+SHA1-Digest: RF6upWHLPQ6caVg5klE9ISkp/Qo=
+
+Name: res/drawable-hdpi/gc_bg_small.9.png
+SHA1-Digest: PC/+9V4YywpAUxB3P+HffRiuSDA=
+
+Name: assets/zb/ZBYZ-DI.png
+SHA1-Digest: ybtEgk/WphBl+rUds51BnmhnLeI=
+
+Name: assets/ResourcesImage/TX-003.png
+SHA1-Digest: ZC70CpEtHmGQpHMsw1ro/2S4g1U=
+
+Name: assets/ccbi/mainmenu.ccbi
+SHA1-Digest: cx94Lpo5nYerrOlyig/h2TnbJ5o=
+
+Name: assets/ccbResources/SHOP-backg.png
+SHA1-Digest: wMnvCpzazb6YRYHRKfkha/3nPM4=
+
+Name: assets/mainmenu/mainmenu_7.png
+SHA1-Digest: QHFMB+FrbYoI2LH3hCUv5J4dcOE=
+
+Name: assets/Z05_2.plist
+SHA1-Digest: 85mfdSY1AzW5aucAGMi2+ugjpUw=
+
+Name: assets/ccbResources/SHOPBUTTON-007.png
+SHA1-Digest: 1q9QzPrrKThlr/giyLdYS6tRWdU=
+
+Name: assets/cg/MH_09.png
+SHA1-Digest: 0BAjbbewczTsA+8dAh5Cf3Fo8cc=
+
+Name: assets/ccbMap/BM-006.png
+SHA1-Digest: 8NA8WXmmFKAxgVOk4bKCoMfKSys=
+
+Name: assets/ccbi/erciqueren.ccbi
+SHA1-Digest: lc44YzttJTJuxbEyjSzA87eT4SY=
+
+Name: assets/ccbResources/MRDL-huoqu2.png
+SHA1-Digest: IDsKgG/t3w1O2btb9WtGpuBeNFM=
+
+Name: assets/yishitai.xml
+SHA1-Digest: x7Vx6gthAOjg884mnINBCsYxODE=
+
+Name: assets/zbg/dian1.png
+SHA1-Digest: uywctI4E9r1Lny2YUIcqiQlPWSg=
+
+Name: assets/JH.png
+SHA1-Digest: /63z0Dt7TWuLgLhWfZrySiSNjvQ=
+
+Name: assets/mmiap/image/vertical/title2_bg_shadow.png
+SHA1-Digest: Y/omk4KRRyZBUW20FKAJxCg09pM=
+
+Name: assets/ccbResources/WJUP-jianbian.png
+SHA1-Digest: Qh7i6tVZ3cY31jg/MkdTKNsmywQ=
+
+Name: assets/cg1/cg8.png
+SHA1-Digest: Ugez8cHibyLzoZQRBhrMDb8P6JA=
+
+Name: assets/501.mp3
+SHA1-Digest: KgJNcW1SYgG6skGrE6xuHhvOWY0=
+
+Name: assets/jindutiao.png
+SHA1-Digest: KvY7tXas483iF1dTLEhuVsNYE8Y=
+
+Name: assets/ccbButton/UI-J_left.png
+SHA1-Digest: p87iqlk78A9BocApwr/WBsOJzEc=
+
+Name: mmiap.xml
+SHA1-Digest: /aXaJT6Y9yYzxXL7FD5CaQWHHPo=
+
+Name: assets/MAP07.bin
+SHA1-Digest: gEZywTvTz9p3/ChuLr+9PWDMk1w=
+
+Name: res/drawable-hdpi/gc_cmgc_logo_s.png
+SHA1-Digest: LIfjaLA3RV4rcTa9FgNGof95pRI=
+
+Name: assets/btn_ac_click.png
+SHA1-Digest: xm+jm1Y5uGW6vLIK+Fr8Gjb/IX8=
+
+Name: assets/GX.xml
+SHA1-Digest: 2Ji8aVD64MjYofw0txkB5QWOKPM=
+
+Name: assets/ccbResources/MXUI-6.png
+SHA1-Digest: 1/GxsDVKQa9fgYu55JjruI6DOMc=
+
+Name: assets/ccbResources/FH-NO4.png
+SHA1-Digest: Pqojj+lwvcNXd1UgawTTbPhoYTk=
+
+Name: assets/UInew/JN-15.png
+SHA1-Digest: u3omtnIcYIG2hVCz1M4cSBEmqMI=
+
+Name: res/drawable-ldpi/icon.png
+SHA1-Digest: IhWtIz1jVEUaz4OGpbnzA4jLOag=
+
+Name: assets/map4-000.jpg
+SHA1-Digest: L8lF5FOWCikZUlcWJB5z6BwGeAg=
+
+Name: assets/debugdebug.txt
+SHA1-Digest: nAGjUcVysmyG18Xew1aTAEgujJU=
+
+Name: assets/JM-5.png
+SHA1-Digest: AnWEk311jYghLlJIXp0Qneqm5c4=
+
+Name: assets/liangchechuxian.png
+SHA1-Digest: eT2DiK8RloLC4W8lm/fBXWbMt9M=
+
+Name: assets/ccbResources/FH-NO6.png
+SHA1-Digest: HfSmVhd7IYiHtO42aT+fCe3yMGY=
+
+Name: assets/ccbResources/MXUI-8.png
+SHA1-Digest: zqElRHycxhl424iG+jl8KlgON4c=
+
+Name: assets/UInew/UI-M-02.mp3
+SHA1-Digest: GTlmCNjKkzwbCwpTK0ewWlnFpZ8=
+
+Name: assets/ccbButton/ICON-013.png
+SHA1-Digest: Sjp+EPTHNCdBB5BbmshXrAYrJgU=
+
+Name: assets/UInew/UI-M-06.mp3
+SHA1-Digest: fnSxJsyMJ+DWhpTgp1HoAI8j+Nw=
+
+Name: assets/Z05_1.plist
+SHA1-Digest: uB0Fv01QCnVuOJin8l77gJq3/Qs=
+
+Name: assets/MAP03.bin
+SHA1-Digest: nfWnPP+F+exfoIuqiisZ3wcCbEs=
+
+Name: assets/ccbButton/icon-24.png
+SHA1-Digest: IiMqU5ZQinkZfCmWAVvNRCTHXmE=
+
+Name: assets/JM-0.png
+SHA1-Digest: zGTbB7QYhCLEHB0vkVg8gHWmKjc=
+
+Name: assets/Z04.xml
+SHA1-Digest: qUaSeEF9MGoWgJa3vKjv3W82/5I=
+
+Name: assets/ccbi/WujiangLayer.ccbi
+SHA1-Digest: ajpc7cUQ3Y8r3quNQNr5GQMB/jQ=
+
+Name: assets/UInew/A-001.png
+SHA1-Digest: fk3dvAoa9dvd3O8TtKOfViK0SYg=
+
+Name: assets/ResourcesImage/jiaoxue3.png
+SHA1-Digest: OIPjKz3QwwafHoYlj6QUpzieQUQ=
+
+Name: assets/ccbButton/UI-030.png
+SHA1-Digest: /HJxfEh3eQFYdkzzRgdmErLf6Yk=
+
+Name: assets/MAP05.bin
+SHA1-Digest: 14kEw1GuuCPCRXY1MhSxGewahic=
+
+Name: assets/123.png
+SHA1-Digest: EFyijA+pOelBAaqgUThLXBz3uV0=
+
+Name: assets/JM-3.png
+SHA1-Digest: HJMNevSgBAltli4/nBm0GZ9P29k=
+
+Name: assets/ccbButton/UI-C2.png
+SHA1-Digest: Gz26gggh4LYYbqgdQAof93PJeO0=
+
+Name: assets/ccbResources/LevelError-001.png
+SHA1-Digest: Nr6UOtLRlbBEh84AZduJYXNbrNo=
+
+Name: assets/ResourcesImage/MZ-3.png
+SHA1-Digest: 4J6/fVXBpWlO9bKq2f0ZbZrgp78=
+
+Name: assets/ccbButton/UI-Zlingqu.png
+SHA1-Digest: 8zfJKk9U0fljyPohHL0Z9nzvZqU=
+
+Name: assets/E07_1.png
+SHA1-Digest: 1g5ncgVaLx6HqLzsYFy3LhP6mIU=
+
+Name: assets/ccbi/cg.ccbi
+SHA1-Digest: ge54NThW+4xqujwRLw1+oknegrg=
+
+Name: assets/DLuo.plist
+SHA1-Digest: rxYyLx4KhMc9Bi4YsLtdiozkdeM=
+
+Name: assets/ResourcesImage/MXian_1.plist
+SHA1-Digest: aPW247GuOkkAO8pqPGJ7qb1eS+Y=
+
+Name: assets/17.mp3
+SHA1-Digest: m6CQpNnBzCDwFBZ/lrBdMPeDRaY=
+
+Name: assets/cg/MH_18.png
+SHA1-Digest: P8ZKxwCcML3ShD5eaZBNawYNADc=
+
+Name: assets/UInew/UI-M-08.mp3
+SHA1-Digest: ES7b0oUJZ6WHYOtac0Nh+/zhoVo=
+
+Name: assets/ccbButton/LV-JH.png
+SHA1-Digest: GEE1wb5XBnFbGeYDo9vCnzcBPyo=
+
+Name: assets/ResourcesImage/loading-1.png
+SHA1-Digest: N0Q7Z46yQQA+zyexgEGhD8Q+Gys=
+
+Name: assets/ResourcesImage/TX-010.png
+SHA1-Digest: u5+bKth3VclRsHOCfC7XMXfTP2I=
+
+Name: assets/ResourcesImage/MXian_2.png
+SHA1-Digest: 8Am56N+QgS0zVSSfwggj1GmvtcA=
+
+Name: assets/ResourcesImage/SH-002.png
+SHA1-Digest: hJndhORY71ZDy+iNhnVZDRk+0zI=
+
+Name: assets/mainmenu/mainmenu_8.png
+SHA1-Digest: 2jpxlRqhlkNBI0GLbslMealLA2c=
+
+Name: assets/ccbButton/more.png
+SHA1-Digest: O3fSxI0exnx8FqkI1eQjbU6RfIE=
+
+Name: assets/HU.plist
+SHA1-Digest: 2rF7cxE0u+ON+2r1uRCNORPXK5Q=
+
+Name: assets/Z04_1.plist
+SHA1-Digest: q+VTH4lOr3Le14Q75hZ6DwiO1jY=
+
+Name: assets/ccbButton/UI-089.png
+SHA1-Digest: DIedgrK4irpAXssf8Nr6Fo5NpaI=
+
+Name: assets/GX.png
+SHA1-Digest: /qxTbK3NLL9qUSd90UEf8FS7rsY=
+
+Name: assets/ccbMap/BM-033.png
+SHA1-Digest: qoaTFuHuj8qaXrE495MR0OEohd4=
+
+Name: assets/fujiangtili.png
+SHA1-Digest: 8fEXft3vcpGlPfVYupveYBIlYvA=
+
+Name: assets/402.mp3
+SHA1-Digest: Fg+X/uzqBFqQHEKZOepVYuDKNko=
+
+Name: assets/E06_2.plist
+SHA1-Digest: zBsQADKl+bLJS9iptlth4bIp+Ic=
+
+Name: assets/ZU_2.png
+SHA1-Digest: o7a7NoVgUL1nzdq7REEXGyP7EtY=
+
+Name: assets/MAP31.bin
+SHA1-Digest: gEZywTvTz9p3/ChuLr+9PWDMk1w=
+
+Name: res/drawable-hdpi/gc_billing_green_selector.xml
+SHA1-Digest: Wuqj6b7qI8iruIzVXvcESThVOYM=
+
+Name: res/drawable-hdpi/gc_pay_background.9.png
+SHA1-Digest: 5dMYmgCYEdAGBqCYgpyDtQGMRV0=
+
+Name: assets/cg/DH-Z2.png
+SHA1-Digest: ZFx+KcxRV5F+wEHAUbFmSdgvTYM=
+
+Name: assets/text0.png
+SHA1-Digest: wzudptArMt3G/DhF0SfSi7GFZCQ=
+
+Name: assets/ccbButton/UI-071.png
+SHA1-Digest: LBU4ThrRwM1L+4mH/dwutrCXhRA=
+
+Name: assets/cg/MH_02.png
+SHA1-Digest: hkbun+Lv7LvGE971diQGepdX8rk=
+
+Name: assets/text2.png
+SHA1-Digest: KbuQnWoIgmMYrNLd5J01VeBuJKE=
+
+Name: assets/ccbButton/ICON-009.png
+SHA1-Digest: cw9hViFdm7R0o/j0GOaSvEkir88=
+
+Name: assets/MAP03_1.plist
+SHA1-Digest: si27Vn1/K+UsXmmDDSWR+FxHIKA=
+
+Name: assets/401.mp3
+SHA1-Digest: TBXUMPSKj5Y5T7sNpoE+hUJ5gAY=
+
+Name: assets/dxinxi.txt
+SHA1-Digest: h5AcP22zLjBD2BlkjXRjt5/HYFc=
+
+Name: assets/ccbButton/UI-109.png
+SHA1-Digest: pI1C44+n+8/eE3ojTZs0N5aiFjo=
+
+Name: assets/ccbButton/UI-107.png
+SHA1-Digest: jLKYc6TN0dMN918+3aAYVWOaCpg=
+
+Name: assets/ccbResources/WJUP-KUANG1.png
+SHA1-Digest: ncTCjjnl8YwawMBjVQZCRNAQ54A=
+
+Name: assets/LOGO.mp3
+SHA1-Digest: M0mK/BDGTtL/dX1KFAFmYpzp2PE=
+
+Name: assets/ccbResources/SHOP-tehui2.png
+SHA1-Digest: BGjwYz0FiM5AqdV1aU1hXnREKJY=
+
+Name: assets/ccbi/goumaichenggong.ccbi
+SHA1-Digest: MJgrxBL4rTAYpB25dH1E1GRHo7Y=
+
+Name: assets/ccbResources/MXUI-5.png
+SHA1-Digest: bPfy3nuJm90NaouKh7mJRoMYY3I=
+
+Name: assets/ZJQ2.txt
+SHA1-Digest: pO0X9jWNXNWEn8jXak3cV5lZz3E=
+
+Name: assets/ccbMap/BM-005.png
+SHA1-Digest: UVjtrDctNKPxDRg0hvChQue0pgI=
+
+Name: assets/map02.xml
+SHA1-Digest: WVHZ1ACOutNz7gtabhZYBI3jt6w=
+
+Name: assets/ccbResources/WJUP-line1.png
+SHA1-Digest: 4ZenDNEbb7uKtKuiT0QZ1Aana9k=
+
+Name: assets/ResourcesImage/file.plist
+SHA1-Digest: 5xN/ETbKDkpbEZFhoHvMu2qmMoE=
+
+Name: assets/Z05_1.png
+SHA1-Digest: zgpWAc4QkQf+UyCk9LGHB0/IoRo=
+
+Name: assets/xulitiao.png
+SHA1-Digest: gRFmSThFoNBMg7eR5jMkyY0mviQ=
+
+Name: assets/HU.xml
+SHA1-Digest: xT+8enc2bLNym97/oBllf4BnXyk=
+
+Name: assets/exinxi.txt
+SHA1-Digest: XkLVJ3qZCyYMd1+YswDk1jDr5mw=
+
+Name: assets/20.mp3
+SHA1-Digest: SoMVtE4Kq/EBmSsuEay2vTYemNA=
+
+Name: assets/UInew/DL_13.png
+SHA1-Digest: waSRQBSXjZNsNG/zz0Iiunujd0I=
+
+Name: assets/ccbMap/BM-015.png
+SHA1-Digest: PFjNjt0lUc7hOUz7vUdSy4J20UI=
+
+Name: assets/UInew/JN-13.png
+SHA1-Digest: r34cfZp4+pCOTfF2wYwQRdoFM08=
+
+Name: assets/cg/MH_07.png
+SHA1-Digest: b2zsLzFXWNGaQldf281bpIsbWok=
+
+Name: assets/yishitai_2.png
+SHA1-Digest: ortc//pxFlB6cq6GZ6RvmnRx3sg=
+
+Name: assets/ccbResources/UI-zi.png
+SHA1-Digest: p4UWGJ33pHK6weUPHp/ephW0Zwg=
+
+Name: assets/premessable.txt
+SHA1-Digest: OJS7XlugNAc8Upy5+SnobABppOE=
+
+Name: res/drawable-hdpi/gc_billing_green.9.png
+SHA1-Digest: 6Mpda56kXNFfiqp8gVlZFCg0K4M=
+
+Name: assets/SH-0000.png
+SHA1-Digest: IyN1Y6Xi/v/3dIrblDRed1zGXww=
+
+Name: assets/Z02_2.png
+SHA1-Digest: Q41/w2KUSM7wE4nLXWd7YhzrBeU=
+
+Name: assets/ccbMap/BM-037.png
+SHA1-Digest: WzRQJO9/3DQremsyjHXWpLJIPSo=
+
+Name: assets/zbg/SHOPBUTTON-013.png
+SHA1-Digest: xWsxK7V8nyJh+nkQV1Iwrqo6M1k=
+
+Name: assets/mainmenu/mainmenu_6_0.png
+SHA1-Digest: /heNJ36fkQ8VU+4KnQtZKqKmNjs=
+
+Name: res/drawable-hdpi/gc_billing_divider_line.png
+SHA1-Digest: AzQWSSA7R0+9Kaotmjn1C3TKmAw=
+
+Name: assets/xiaobingxuetiao.png
+SHA1-Digest: 7mQ+fClNodmucMXtuJ1b2rBM/lc=
+
+Name: assets/MAP28.bin
+SHA1-Digest: 6G9XR9qhiBcmRsrZFIPFGRWCZA4=
+
+Name: assets/12.mp3
+SHA1-Digest: VLKnSHpWMFAICGFSG2iyQIGCl9w=
+
+Name: assets/E05_2.plist
+SHA1-Digest: +6rT1Balx6DqVmN3Tz4iBRhYotE=
+
+Name: assets/Z05_3.png
+SHA1-Digest: LGdfKOdpYUsM7cMy45Y02h/ODVM=
+
+Name: assets/ccbButton/UI-Ban.png
+SHA1-Digest: SYzFYsKo9yK5w0lMawfLXM5rmTs=
+
+Name: assets/Icon-48.png
+SHA1-Digest: 6aimtYhwDuJEIaNgW40KsQeegS0=
+
+Name: assets/701.mp3
+SHA1-Digest: U/7VcWXfIBWgFdHFTNPFT7pgtws=
+
+Name: assets/E07.xml
+SHA1-Digest: 9CueMDI8Ly0VgH24Ht5Uznmeeco=
+
+Name: assets/MAP17.bin
+SHA1-Digest: pQHQVukf+XRQBPk4Bqps1U3/gT4=
+
+Name: assets/UInew/JN-18.png
+SHA1-Digest: RFts/rmITXwp6sFBubqtXsbhBWM=
+
+Name: res/drawable-hdpi/gc_net_black.9.png
+SHA1-Digest: nB/ZcC+Kv8H7AcTh+yyNAph4YrA=
+
+Name: assets/UInew/LV-2.png
+SHA1-Digest: ylU6ycM5ZVomalwiuiGf71OWUsw=
+
+Name: assets/luolei.png
+SHA1-Digest: tqccqveJklr+dOQhbDM3NvF4MGM=
+
+Name: assets/btn_an.png
+SHA1-Digest: b2H+KelbeDsSrlOMAFaUyDHOao8=
+
+Name: assets/ccbResources/FH-NO0.png
+SHA1-Digest: D3dU7cnhE7LXgCK2CzyJcktzKQg=
+
+Name: assets/UInew/LV-1.png
+SHA1-Digest: EQ8DOU+5J+Ale+ozaFJM01JXR0k=
+
+Name: assets/ccbResources/FH-xianshi.png
+SHA1-Digest: /qum7ggTngRnEqrL5ktX4HqZ4eA=
+
+Name: assets/UInew/JN-23.png
+SHA1-Digest: yAzmd79nHy2ICDtZP2w+bUVEUc8=
+
+Name: assets/Z03_3.plist
+SHA1-Digest: SOB3LAbI8kmbVcAN6FrdPvWCOOY=
+
+Name: assets/ccbButton/UI-081.png
+SHA1-Digest: Zi65OGj5eQpSBQd8HfMiGhA/v78=
+
+Name: assets/ccbButton/UI-083.png
+SHA1-Digest: gtR5GhiQtySlKQSDqAeCJ3hEaLY=
+
+Name: assets/zb/JRTH-BAN1.png
+SHA1-Digest: yCxxX8Lp80DHBANc1cjOnptZP1Q=
+
+Name: assets/UInew/JN-24.png
+SHA1-Digest: IajOk88zBA/q3J5ITw77dDzhfHc=
+
+Name: res/drawable-hdpi/gc_billing_blue.9.png
+SHA1-Digest: 1jrf5QRVbi7Azk/lP7sQXzcDdY4=
+
+Name: assets/map02_2.png
+SHA1-Digest: UE3daLoMINoWO20cVY7UdHxAWa0=
+
+Name: assets/MAP10.bin
+SHA1-Digest: iQVFB/rr3uBth8l0Rd3ZLUu7nxw=
+
+Name: assets/cg/MH_28.png
+SHA1-Digest: W3f07QF6XI5hpFwkKQeLFNDwF2k=
+
+Name: assets/Z03_2.plist
+SHA1-Digest: vpTiDLBW6V5xDFNwXMn/w4WDODo=
+
+Name: assets/E03_2.png
+SHA1-Digest: 68xMpCOypREuVG/VufaJkzQ1j5A=
+
+Name: assets/ResourcesImage/LevelError-000.png
+SHA1-Digest: lQpnwmFtrs9nUpozbbXVh7w2mEg=
+
+Name: assets/UInew/JN-5.png
+SHA1-Digest: urs2U8p5k0wmDEW8YYCOCWmvx0g=
+
+Name: assets/502.mp3
+SHA1-Digest: 5xRIFmL670v7edpq0KOk1tQb2ug=
+
+Name: assets/ccbMap/BM-011.png
+SHA1-Digest: 52D0yn95i913KIEm8YK4TA8Qh0c=
+
+Name: assets/UInew/JN-2.png
+SHA1-Digest: 2mEDBQHVttO3vog96z87q6BbhyQ=
+
+Name: assets/tilitiao.png
+SHA1-Digest: odWZzq5U8E3zahODbLENhLhydto=
+
+Name: assets/cg/MH_29.png
+SHA1-Digest: u9Jye/nGOTMq56Vu4Z892chJrUg=
+
+Name: assets/ccbResources/SHOP-tehui3.png
+SHA1-Digest: X1x3tuLHGB0LS9D25MXr4F7RKqQ=
+
+Name: assets/DM_2.plist
+SHA1-Digest: Xen2CM5NABZbwR/UEGAM+IDbDAY=
+
+Name: assets/map.xml
+SHA1-Digest: y4z6x5D0hyZFdArdEqnwvuicLks=
+
+Name: assets/jindushuzi.png
+SHA1-Digest: bnMQD4YoGr98Er2005pfvdYnTUU=
+
+Name: assets/ccbResources/SHOP-tehui4.png
+SHA1-Digest: 5WiEtIh2begc8e8DTJV5UF67Sjw=
+
+Name: assets/luolei.xml
+SHA1-Digest: PpBQGaerA1Fp8hE533yuvXlAztA=
+
+Name: assets/cg/MH_19.png
+SHA1-Digest: XGzB/OOfXnJssTpM+jgKrTkMpCQ=
+
+Name: assets/ccbResources/JHWJ-BAN1.png
+SHA1-Digest: eUnRKVQ9QMvp4AZATcRjn92kJJQ=
+
+Name: assets/MAP36.bin
+SHA1-Digest: M/a8F5ZNnCKpeiPbzVnSV/xz1UM=
+
+Name: assets/ResourcesImage/M9.png
+SHA1-Digest: toz+G7L7HNZow75qoCV7/SSGQgM=
+
+Name: assets/E01.xml
+SHA1-Digest: RizlGXNul2J7aujfFnw/bVA49Ng=
+
+Name: assets/ccbButton/ICON-008.png
+SHA1-Digest: l+RyblMtsV4Gnv7DBlEOk7YXMJM=
+
+Name: assets/cg1/cg13.png
+SHA1-Digest: Gedneplla3vQc1bOk6ucEfrWXak=
+
+Name: assets/ccbi/siwangtishi.ccbi
+SHA1-Digest: oUMRijcJ8N0fWpJoGO3zvHSXU8g=
+
+Name: assets/ccbButton/UI-039.png
+SHA1-Digest: x5Lw1f7T4FSKPMAO3gX/pl46MNo=
+
+Name: assets/E01_1.png
+SHA1-Digest: g4IvUePU++Zf0u+kPPM+Yj01lDU=
+
+Name: assets/UInew/JN-8.png
+SHA1-Digest: DXShjeMBB3UJsDvovm/B5ycQCQk=
+
+Name: assets/mainmenu/mainmenu_3.png
+SHA1-Digest: 7OHjGZHt0TA9Pxgf4+zfkMLDowI=
+
+Name: assets/yishitai_2.plist
+SHA1-Digest: 4js9fSRLOlL/+VPMAEIvmREuZyo=
+
+Name: assets/ccbResources/SHOPBUTTON-010.png
+SHA1-Digest: Z8p6dDyK7nuuiOQyH3GRlVctRT8=
+
+Name: assets/ccbButton/UI-060.png
+SHA1-Digest: oZS3iSWbzjhRAzr5UxuFQLpBqww=
+
+Name: assets/ccbResources/sanguo_ui.plist
+SHA1-Digest: Cusg6+1FAp8AfTGNLX4Oj56L09s=
+
+Name: assets/ResourcesImage/M3.png
+SHA1-Digest: tggfHAYbSsQelkUnyjzot4S7gA0=
+
+Name: assets/Z000_2.png
+SHA1-Digest: erKF9NBVYbcfqNnr4bynKdM/gGw=
+
+Name: assets/Z03_1.plist
+SHA1-Digest: oau9h1+IUNvkHXHumjIsPvFtVRw=
+
+Name: assets/ccbMap/BM-031.png
+SHA1-Digest: 1GVj/OiJw927FIUi5NgwnhtzuHA=
+
+Name: assets/zbg/ZBYZ-BAN13.png
+SHA1-Digest: MDzBMWe80ZiVSQYcivGN2G2xoAE=
+
+Name: assets/ResourcesImage/loading-2.png
+SHA1-Digest: yeD2q+hRaSQzcOvJnPoqkEdSAZc=
+
+Name: assets/zb/ZBYZ-BAN2.png
+SHA1-Digest: ybtEgk/WphBl+rUds51BnmhnLeI=
+
+Name: assets/E07_1.plist
+SHA1-Digest: KEacKBlcQ4iUBwAxKypfPr1/tQU=
+
+Name: assets/Z04_1.png
+SHA1-Digest: mjhWey1UeZ/fC6OT6INXfApbSKY=
+
+Name: assets/sms.ini
+SHA1-Digest: LqDR6Fkf8NDb+1XOYdMsS5aiL0M=
+
+Name: assets/Z02.xml
+SHA1-Digest: MLZQ0SRwb+/4lZb65XmaumW4wdc=
+
+Name: assets/ccbResources/wjNull.png
+SHA1-Digest: RpaRHbnjLdihfxGSnDyGWpNqO5w=
+
+Name: assets/29.mp3
+SHA1-Digest: 6dy8bWPh1l9V9B+iCXc761WF58g=
+
+Name: assets/ccbButton/icon-25.png
+SHA1-Digest: G3xEgEWJljjSSku8LZ0t4DpOBa4=
+
+Name: assets/mission.txt
+SHA1-Digest: 030qrHyEPDV1TZzq1w+MBZ75Zqs=
+
+Name: assets/MAP06.bin
+SHA1-Digest: Ijxg/GFNb0Ju0tDitJ3hVTvx9I0=
+
+Name: assets/ccbi/WorldLayer.ccbi
+SHA1-Digest: 48XC59uXNdQW0sOPF0JLjYqO1cs=
+
+Name: assets/ccbResources/SHOP-shengg.png
+SHA1-Digest: YciuhdEPb4tmbyrgXfA9+NJtuBs=
+
+Name: assets/ccbMap/UI-J_left.png
+SHA1-Digest: brVAAjv1bQUrCVJmZdVTHk3t0Zk=
+
+Name: assets/mmiap/image/vertical/keyboard_button_delete_press.png
+SHA1-Digest: yv7satnRxZ23IwgQS1qqoJGaamE=
+
+Name: assets/ccbButton/UI-Banan.png
+SHA1-Digest: 5mO8OEE99teZ3+VoMqwRlmzDrFg=
+
+Name: assets/UInew/LV-lv.png
+SHA1-Digest: d3hrjZCPhh0uv/B3k0vXLdVT09o=
+
+Name: assets/ccbResources/FH-Z3.png
+SHA1-Digest: 0MnQW0aNVvzb4eEb2GgTWfO2UkE=
+
+Name: assets/ccbi/MRDLLayer.ccbi
+SHA1-Digest: 8ohhrpZoLSe/xcJYAB4mpyjmfxo=
+
+Name: assets/ccbMap/BM-013.png
+SHA1-Digest: vo9XxrdokvY+dUJphq0YDAXPQvI=
+
+Name: assets/ccbButton/UI-037.png
+SHA1-Digest: c4hfi5dVVQEodJItrc0M0BcuP94=
+
+Name: assets/Z07_2.plist
+SHA1-Digest: SWKOEgHJoF9BoMv5HDIYGtIIscY=
+
+Name: assets/zb/JRTH-BAN2.png
+SHA1-Digest: XxoAbrOo6M66DhaWFIxHBR96udY=
+
+Name: lib/armeabi/libgame.so
+SHA1-Digest: FOau7D9e2ljhK5El7XRDLditExw=
+
+Name: res/drawable-hdpi/gc_notification_icon.png
+SHA1-Digest: 6fOSHXOYHpgEibG9yqAfRZyXNxc=
+
+Name: assets/ccbButton/UI-065.png
+SHA1-Digest: 0b2Sw5puuafSqGLRJLDOKiQG2fU=
+
+Name: assets/Icon-72.png
+SHA1-Digest: 0sx5ZPel+Wbxt4GWyrhRGLz27FI=
+
+Name: assets/ccbi/BackWorld.ccbi
+SHA1-Digest: XRXAom4SIaPtRSNEoi3Kz5m0RgA=
+
+Name: assets/UInew/JN-19.png
+SHA1-Digest: OVuXpSb4CGzZ8cZ6QqprHGcYfZU=
+
+Name: assets/E05_2.png
+SHA1-Digest: cUfhnz2jELAzvkRiylo8rAxN+Qo=
+
+Name: assets/zb/ZBYZ-BAN3.png
+SHA1-Digest: ybtEgk/WphBl+rUds51BnmhnLeI=
+
+Name: assets/cg/DH-Z1.png
+SHA1-Digest: XpgfyRV77om+hZ2bIHaSl2ER9m8=
+
+Name: assets/11.mp3
+SHA1-Digest: BjGx55QvL+L+HYSV3SonyremDbA=
+
+Name: assets/ccbResources/SHOPBUTTON-001.png
+SHA1-Digest: mnSeTI7ILHLuUk3JZqxou5amnFU=
+
+Name: assets/CDxian.png
+SHA1-Digest: EL4R84JtPJEZvjaRtV73skW0ajM=
+
+Name: assets/text14.png
+SHA1-Digest: S1aPGcxhC5hOKNXLv/nzwTa5kVA=
+
+Name: assets/ccbResources/MXUI-1.png
+SHA1-Digest: LSvTuhnc96msLc05v764tXZFEYc=
+
+Name: assets/E02_1.png
+SHA1-Digest: ZhVCY7YLOyocpBUnrgdYgVW1l4k=
+
+Name: assets/MAP24.bin
+SHA1-Digest: ZcaW+NXFidkFyDVKZn9jT3okC7I=
+
+Name: assets/ccbButton/UI-052.png
+SHA1-Digest: khdIHNL5HqMNmUmMB5pEXnQTu74=
+
+Name: assets/ResourcesImage/MZ-8.png
+SHA1-Digest: tkX3Hl1tiFInBQ7hBjg1pnblWhw=
+
+Name: assets/cg/MH_Z2.png
+SHA1-Digest: 7O46jsCdm7c5axXR2u5tPVtn65E=
+
+Name: assets/5.mp3
+SHA1-Digest: AveDsE3dkBbRQvpU3dAyX1jRH+s=
+
+Name: assets/MAP01_2.plist
+SHA1-Digest: 4By/1M5xgggcrX4iQbVV9PCPveM=
+
+Name: assets/ccbButton/ICON-019.png
+SHA1-Digest: gSuuAF1ElJgclJGFHhvLMtDW9Rc=
+
+Name: res/drawable-hdpi/gc_member_logo.png
+SHA1-Digest: WyELcWvhmVZML24RZ3EF5vGqee8=
+
+Name: assets/duihua0.png
+SHA1-Digest: a+W4zz/Q2S0HfupERUarQ3dkrW0=
+
+Name: assets/ccbResources/WJUP-tou.png
+SHA1-Digest: tJnbmDNT0M2IMVZYnJ6I01fH6ys=
+
+Name: assets/ccbResources/SHOPBUTTON-012.png
+SHA1-Digest: DFYsz8iRrdIodl4ouL7ZP00tbSc=
+
+Name: assets/ccbButton/UI-080.png
+SHA1-Digest: oYgz/CxaUSe+NrtIKTDfl3B8lwE=
+
+Name: assets/ccbMap/BM-050.png
+SHA1-Digest: ys6UJVABZl08xMRNvGQ2sLdbN1I=
+
+Name: assets/cg/MH_30.png
+SHA1-Digest: EELVUhhrwClp+xiDl2oLsDiE7Kw=
+
+Name: assets/3.mp3
+SHA1-Digest: xhh4d0AVuYsCRhf7d515dF2k3gM=
+
+Name: assets/Z06_1.plist
+SHA1-Digest: zNI7ke7hgH/vVd2gaSxLCYn1QgY=
+
+Name: assets/mmiap/image/vertical/editbg_b.9.png
+SHA1-Digest: HxXiDkoiG7IiIi+qKwEX75i3YQM=
+
+Name: assets/cg/MH_11.png
+SHA1-Digest: 01UezqovdaRW4Li8U2DOEgqHTOU=
+
+Name: assets/ccbButton/UI-034.png
+SHA1-Digest: v6vOxBtW2+Zpg6NfjaEyiDGWXn4=
+
+Name: assets/UInew/JN-28.png
+SHA1-Digest: LkQgRkWPYrgYZsnUaXZRtLYA0ZI=
+
+Name: assets/ResourcesImage/M6.png
+SHA1-Digest: OGZEiXgOavkKyGpn7ZaV4KZXyIw=
+
+Name: assets/mmiap/image/vertical/splash_h.jpg
+SHA1-Digest: symIwSm/WFCzShmF83MwvQTMXHc=
+
+Name: assets/ResourcesImage/TX-001.png
+SHA1-Digest: 7wQ87nmEFZVh162c5zJbitte/Xg=
+
+Name: res/drawable-hdpi/gc_net_no_selector.xml
+SHA1-Digest: GDNVFhN666xfG2fX1gQzfdV/h5I=
+
+Name: assets/text12.png
+SHA1-Digest: SiEHqlVotUjtEHtv8NYmWfpnrxM=
+
+Name: assets/mainmenu/mainmenu_2_1.png
+SHA1-Digest: ZuaLqYHZPlMiraI2ge8++TTbknw=
+
+Name: assets/MAP35.bin
+SHA1-Digest: 9UmC1Hgj48xl69u+IBpEUI6gHn8=
+
+Name: assets/ccbResources/TX-NPCZF.png
+SHA1-Digest: eXrEB9UpjZuV6H1KaaF9ldQVmgE=
+
+Name: assets/ccbButton/UI-035.png
+SHA1-Digest: zh7x15pkDYroyaPgPD/E8QMX0+c=
+
+Name: assets/Z000_2.plist
+SHA1-Digest: SSXAbOtqfJPw9pVMwqLzbVoSdW4=
+
+Name: assets/MAP03_2.plist
+SHA1-Digest: KP58Qx02W4Cm9JnYJqeKo7HzFfA=
+
+Name: assets/ccbResources/WJUP-fenge.png
+SHA1-Digest: +TNEihLa+XvfJGWMzXtP+QbYRrg=
+
+Name: assets/zbg/ZBYZ-BAN16.png
+SHA1-Digest: vGc9Vwlu+OO5vqkqy7ZPRp6CX2Y=
+
+Name: assets/zb/ZBYZ-BAN7.png
+SHA1-Digest: ybtEgk/WphBl+rUds51BnmhnLeI=
+
+Name: assets/UInew/JN-29.png
+SHA1-Digest: ieCKPem5TNInfe0AQ/9cHBCvuts=
+
+Name: assets/mmiap/image/vertical/icon_chifubao.png
+SHA1-Digest: VuJshThtrF4Rjw//Ctr5pIFx5jg=
+
+Name: assets/zbg/ZBYZ-BAN11.png
+SHA1-Digest: 47NuLIUDmXCkdgDuWmTaydLXbu8=
+
+Name: assets/ResourcesImage/TX-008.png
+SHA1-Digest: W01r4lm7A3h177w6MeysYaeYHY8=
+
+Name: assets/mmiap/image/vertical/editbg_a.9.png
+SHA1-Digest: QGXMb8LjWODylPkVZ1y373junbM=
+
+Name: assets/ccbButton/UI-C1.png
+SHA1-Digest: v3+JvxMk++SBP5BvE0wZWqhgxvc=
+
+Name: assets/ccbi/SkillLayer.ccbi
+SHA1-Digest: qcG5PyoelYCzgeJ2bXjhQvUWNZo=
+
+Name: assets/8.mp3
+SHA1-Digest: is6siZ9hdwgQ5HA07t3vFVdcm6Y=
+
+Name: assets/MAP01_2.png
+SHA1-Digest: GCNx7C0dGWvwHoF/nzegjcpthrg=
+
+Name: assets/ccbi/jinri1.ccbi
+SHA1-Digest: 3dKW4mJlJrqVNBia1JTEKBhWtqw=
+
+Name: assets/ResourcesImage/jiaoxue1.png
+SHA1-Digest: gJFXZyYtjaiFfjPe3yTALPfnSHo=
+
+Name: assets/Z05_3.plist
+SHA1-Digest: Z0t7qnm033nBubXGEDx90pusJEw=
+
+Name: assets/ccbButton/ICON-016.png
+SHA1-Digest: +FOah79cF7ym4YRYiK1JbQI0Mlc=
+
+Name: assets/ccbButton/UI-067.png
+SHA1-Digest: qk4GS941weG5eI2/KJo2WDrJiX0=
+
+Name: assets/E01_2.plist
+SHA1-Digest: 5XiJwTefO6hLNaEmvpOK1bxapl0=
+
+Name: assets/mmiap/image/vertical/line.png
+SHA1-Digest: JfevbgnxsUG+NrGALeC/D+Dqr5I=
+
+Name: assets/JQ0.txt
+SHA1-Digest: tfiEBp7I71Ke4wo2x00FkmhXKNY=
+
+Name: assets/backgound.jpg
+SHA1-Digest: xH8tEi+1Zb/2HBnAHokng6VApiA=
+
+Name: assets/zb/ZBYZ-BAN6.png
+SHA1-Digest: ybtEgk/WphBl+rUds51BnmhnLeI=
+
+Name: assets/ccbi/IconCCNode.ccbi
+SHA1-Digest: mWlrEZrgXRfgiRkCGwfgoMLH31g=
+
+Name: assets/ccbResources/NullAlpha.png
+SHA1-Digest: /wL+BEbH4EUKAQjVMccQAemEX2w=
+
+Name: assets/600.mp3
+SHA1-Digest: F8qc/qwO25rHnuF1VR1rpoJLD+g=
+
+Name: assets/ccbButton/ICON-010.png
+SHA1-Digest: rSXmQeocEwJm0ODlZDXVOQCUEcU=
+
+Name: assets/UInew/DL_9.png
+SHA1-Digest: T6J1PIs5Rq8jogAfCzQqtYqRl2Y=
+
+Name: assets/zb/ZBYZ-Z0.png
+SHA1-Digest: TYGbh20aU8mY6o5vw/mTSoXbdaY=
+
+Name: assets/Icon-32.png
+SHA1-Digest: 3XbYk0Rtluzb5fN3OGh8s0Fdx3w=
+
+Name: assets/E03_2.plist
+SHA1-Digest: zuPakyR2I9bP5TYN2NObRrPBcQI=
+
+Name: assets/cg/MH_03.png
+SHA1-Digest: 4/eSb2I0nbNrljwHYK8c4ULTPdE=
+
+Name: assets/zb/JRTH-25000g.png
+SHA1-Digest: 5puAHQE/1htYu2Ua2CpZ4/LzKzA=
+
+Name: assets/UInew/DL_1.png
+SHA1-Digest: dgjavOiOICglXz7JCqj0KHRDnjs=
+
+Name: assets/ccbButton/ICON-022.png
+SHA1-Digest: N2pUfLgU0Lgt+J5rDy2Mu+Nr48Y=
+
+Name: assets/MAP26.bin
+SHA1-Digest: Ijxg/GFNb0Ju0tDitJ3hVTvx9I0=
+
+Name: assets/mmiap/image/vertical/keyboard_button_delete.png
+SHA1-Digest: lBQG2fICgpQKnUWaoBv8e6tpXOI=
+
+Name: assets/ResourcesImage/FLASH.png
+SHA1-Digest: H3XxBj9NqjCLithduWZWsiFHhFk=
+
+Name: assets/GX-128.png
+SHA1-Digest: YhJ+2UWX1PrBpdLhgAE8Apz1mnM=
+
+Name: assets/MAP00.bin
+SHA1-Digest: NjKIcRJg35VGF+OvQb+CNPZBlNI=
+
+Name: assets/UInew/JN-9.png
+SHA1-Digest: nexCBpIAih5hFKXSaJdzqCOzaYg=
+
+Name: assets/mainmenu/mainmenu_6.png
+SHA1-Digest: DHjqCyJ1uokGRm2juK6TXUlDdbw=
+
+Name: assets/E02_2.plist
+SHA1-Digest: AJGi1gMuKMMbmY+xqNz2o1yQi2o=
+
+Name: assets/mmiap/image/vertical/keyboard_button_hide.png
+SHA1-Digest: EvSCNXnU8uRq4EiTbNUb0TzJYBA=
+
+Name: assets/MAP04_1.plist
+SHA1-Digest: gYsNA+YZirBIPK4ZBnRnpnSQdig=
+
+Name: assets/MA_2.plist
+SHA1-Digest: nwYpfDoYDy8bkOSor8+xQHffZj4=
+
+Name: assets/Z06_2.plist
+SHA1-Digest: jmZFroBDbCH4nhJHhZmij3SwbfE=
+
+Name: assets/JQ2.txt
+SHA1-Digest: poNPAjuLA1QvJvBPaFWJe947MQ8=
+
+Name: assets/mainmenu/mainmenu_5_0.png
+SHA1-Digest: /BX2aEQ6jYV/l4lUEGCHSBpKVwQ=
+
+Name: assets/cg1/1.png
+SHA1-Digest: 71jqTA7zgF4LmpJh83qtBH+yyWQ=
+
+Name: assets/ZU_2.plist
+SHA1-Digest: pEmM6X3ogQSUfTPdYtCL+Tnq6fM=
+
+Name: assets/ResourcesImage/MZ-2.png
+SHA1-Digest: oUklHBEdsDWMNtzvOCNAnpVZZ1c=
+
+Name: assets/E03.xml
+SHA1-Digest: vtQ/b5WGCpE7hAtTZE1DqVXkEpU=
+
+Name: assets/ccbi/baowu.ccbi
+SHA1-Digest: BRZvMmRLLnifMF4PHQ0nXFSHHXI=
+
+Name: assets/ResourcesImage/MXian_2.plist
+SHA1-Digest: QieoUD9aeBcZjL7swF5fIHT/vLo=
+
+Name: assets/ccbResources/FH-NO3.png
+SHA1-Digest: zGpTwu1rHk+hgoRi6ezlYb/Cx88=
+
+Name: assets/text5.png
+SHA1-Digest: IG92SosrT4sRGPKaLKiNE/KQE3E=
+
+Name: assets/ccbi/SmsWujiangLayer.ccbi
+SHA1-Digest: 2bhfnos9icvKDhvyR10+LBt/T+I=
+
+Name: assets/E07_2.plist
+SHA1-Digest: EJfLLyj7/tJrQ0DMbH+cA4+YpTs=
+
+Name: assets/close.png
+SHA1-Digest: 1GtPToSoM6snYvuUt0F3AF/nixo=
+
+Name: assets/ccbResources/SHOPBUTTON-005.png
+SHA1-Digest: VBQscJ4EOR8iDXqaXNNjX2eFpzs=
+
+Name: assets/ccbButton/ICON-012.png
+SHA1-Digest: ewEttt6w69BdFsF/UaLvsqsZaZM=
+
+Name: assets/ResourcesImage/M8.png
+SHA1-Digest: dJyO8JmbeFqxKJEr1Qyx+JEAaLU=
+
+Name: assets/text11.png
+SHA1-Digest: Rq2lEdlLlyiDnm0W/tS4jCnc5rw=
+
+Name: assets/text222.png
+SHA1-Digest: ED05KWqdT9v9yXZaZdC4G2Qx7Vw=
+
+Name: assets/ccbMap/BM-052.png
+SHA1-Digest: 2a32Jh9K/1Y2ZnBsIfg7SbgbjW4=
+
+Name: assets/mmiap/image/vertical/button_finishbilling_press.png
+SHA1-Digest: BrVgMjJiAoPYkkTNDAPXpH7n1iQ=
+
+Name: assets/mmiap/image/vertical/button_back.png
+SHA1-Digest: MAKjtMzOcziMm1qiqs2KBpxc2Bw=
+
+Name: assets/ccbResources/SHOPBUTTON-006.png
+SHA1-Digest: GKKQAX/IgIvQWmw/vOxvBoHYsBs=
+
+Name: assets/cg/MH_Z3.png
+SHA1-Digest: pgrzAGIvx5PC0dmSmUux1mNk0WA=
+
+Name: res/drawable-hdpi/gc_billing_unenabled.9.png
+SHA1-Digest: bXeL0nU15xuP5d7h+8rnxq6X/9E=
+
+Name: assets/JH.plist
+SHA1-Digest: f6pZ2uHCysUIg+Io/mPSJEM2EnA=
+
+Name: assets/ResourcesImage/M2.png
+SHA1-Digest: muD6w/4knpgQlnRfWGTSB+gJ0iE=
+
+Name: assets/E06_1.png
+SHA1-Digest: AibTh9Gygr60cOYPv1z+2BjJTFA=
+
+Name: assets/ccbResources/UI-zi3.png
+SHA1-Digest: 0QVk7Gx0Lr/p4aD1QAsSwKLHHQY=
+
+Name: assets/100.mp3
+SHA1-Digest: +LWJWswPzQokeLonRg2/g7o0VXo=
+
+Name: assets/text13.png
+SHA1-Digest: 103wsd9L9PpHMQbWpluAVmSJrBs=
+
+Name: assets/ResourcesImage/SH-001.png
+SHA1-Digest: l9ajEb7yPQu4e6ybC2sIu/93OUo=
+
+Name: assets/text15.png
+SHA1-Digest: NW46DQu3QK+/3i7+R7rl6aVrIW0=
+
+Name: assets/jineng.png
+SHA1-Digest: Lb2tVrGQ5viu6r6T1SwJZq5g+8k=
+
+Name: assets/Z06.xml
+SHA1-Digest: jH8tgD83vv3Iiut6eNHFdFNp/Rw=
+
+Name: assets/UInew/JN-11.png
+SHA1-Digest: WsWQVJjiEl0JTqK/8vJYmz+imsI=
+
+Name: assets/ZJQ8.txt
+SHA1-Digest: ISNtQ0BaufY6tCn5nwmPNV2FX50=
+
+Name: assets/ccbResources/FH-Z2.png
+SHA1-Digest: +G8YFfpPFrSAWlIUsKJY0zmEzh8=
+
+Name: assets/ccbResources/SHOPBUTTON-008.png
+SHA1-Digest: UICmK4bcLUnwkAZNbNAq0WTKCmM=
+
+Name: assets/MUSIC_Y.png
+SHA1-Digest: vO0FfQYGymxLF0NJZBudEKp0RcY=
+
+Name: assets/Z01_1.plist
+SHA1-Digest: ddLyXY+ptpAQEQF2z69nabDOndg=
+
+Name: assets/ccbButton/UI-C4.png
+SHA1-Digest: kcxY0f86XccDPxtdb/Z5C9knbMk=
+
+Name: assets/mainmenu/mainmenu_8_0.png
+SHA1-Digest: h9wvePCCjnRDAhpaEzzvhomM6TI=
+
+Name: assets/ResourcesImage/loading-3.png
+SHA1-Digest: UWmnvCrbu+AwZXAxqvXD3WKD4HM=
+
+Name: res/drawable-hdpi/gc_logo.png
+SHA1-Digest: 6fOSHXOYHpgEibG9yqAfRZyXNxc=
+
+Name: assets/E01_2.png
+SHA1-Digest: jS1TnGtQCPkpfEEyb/fNZXH8TbI=
+
+Name: assets/map_2.png
+SHA1-Digest: GCNx7C0dGWvwHoF/nzegjcpthrg=
+
+Name: assets/ccbResources/SHOP-tehui1.png
+SHA1-Digest: ImZwGGUtweiDx9dKGVGZpEW73V8=
+
+Name: assets/BACKZI.png
+SHA1-Digest: c348w5t8TZRM9UtIELi1bhfhgP8=
+
+Name: assets/ccbMap/BM-048.png
+SHA1-Digest: CQuvniTJ56dlExNK5RkjNEQ9b/E=
+
+Name: assets/text3.png
+SHA1-Digest: j2rpG9whkj+q/fckOE6HslnnBC4=
+
+Name: assets/zbg/SHOP-tehui5.png
+SHA1-Digest: JVEkMb+v+r7gjoE3fo5vi6gruaA=
+
+Name: assets/zb/JRTH-blood.png
+SHA1-Digest: xK3aRMPPrbFeUlUjTC1+ibTgPsY=
+
+Name: assets/21.mp3
+SHA1-Digest: mdI0B7a5STAlG96Bf0l725T+1L0=
+
+Name: assets/btn_ac.png
+SHA1-Digest: qNRkc5mSC+r8DmA96ARsNboTZzg=
+
+Name: assets/map_1.plist
+SHA1-Digest: oPMFOttdDyww6VSTq3HSmFnn0gE=
+
+Name: assets/map02_1.plist
+SHA1-Digest: DoffGSmQHtEGhURrbyR+VK6WxfM=
+
+Name: assets/daojushuliang.png
+SHA1-Digest: NLNVrG2J3HG7/VhIFT2v/QR+tPE=
+
+Name: assets/zbg/SHOP-QIANg.png
+SHA1-Digest: zhqNIE0HGpd1y8lK8FPHLTvg2VE=
+
+Name: assets/28.mp3
+SHA1-Digest: pMEbzf2eFmfNSMrPYeeQqioUooE=
+
+Name: assets/MAP04.bin
+SHA1-Digest: ZcaW+NXFidkFyDVKZn9jT3okC7I=
+
+Name: assets/zb/JRTH-BAN4.png
+SHA1-Digest: aqHmHiFfUMElb5TewPyE4bxIkpk=
+
+Name: assets/JQ00.txt
+SHA1-Digest: gSBfNZUGlHYEhZ7/gH2v7OECZUI=
+
+Name: assets/yingzi.png
+SHA1-Digest: nskvbxyTL+XNRBC5wkzehOnrH50=
+
+Name: assets/E01_1.plist
+SHA1-Digest: JyvyaOviQYjefbGWGUqvxMf9NvE=
+
+Name: assets/ccbResources/FH-NO1.png
+SHA1-Digest: 5fyFD0r8sfpJFe8pC75vk7rfPOc=
+
+Name: assets/ResourcesImage/MainMenu.jpg
+SHA1-Digest: inQPFldF+LnxM+OgMxVV05w19/s=
+
+Name: assets/mmiap/image/vertical/keyboard_button.png
+SHA1-Digest: CtkhOTa03WkL0Ra8zpjAIpBpBhg=
+
+Name: assets/cg/MH_20.png
+SHA1-Digest: ClF82ucl/FHuzNUzKCQBBQnm6Fs=
+
+Name: assets/ccbResources/FH-Z.png
+SHA1-Digest: uzmEvs8Brrs6dmk79RwDZWM/6Rs=
+
+Name: assets/ZU_1.plist
+SHA1-Digest: AX+x9aFkToS83omoR7FwkX0oP8s=
+
+Name: assets/ccbButton/UI-038.png
+SHA1-Digest: VtQhvoqEKPzu2S/b7t6SUF7LrtA=
+
+Name: assets/zb/tiyanmanji.png
+SHA1-Digest: oKnQ5dCikG4ggKViFozbYqdQNFk=
+
+Name: assets/MAP25.bin
+SHA1-Digest: RF6upWHLPQ6caVg5klE9ISkp/Qo=
+
+Name: assets/E02_1.plist
+SHA1-Digest: XqyD3XcUKcn83fHh7RMpAWsmgto=
+
+Name: assets/cg/DH-b.png
+SHA1-Digest: 1w/afl0IO09hIfFB+P+ITLR9uGE=
+
+Name: VERSION
+SHA1-Digest: BpcYPVVyAYI7rzJnfSA05ykBct4=
+
+Name: assets/mainmenu/mainmenu_2_2.png
+SHA1-Digest: wiIerXVY2lpKftP+/LyVcJrGt84=
+
+Name: assets/ccbResources/FH-FH1.png
+SHA1-Digest: ATEB069itHGcALPsivzLaLjqJH8=
+
+Name: assets/UInew/DL_3.png
+SHA1-Digest: P+0FmA4eNi9E1e6DjjKAIZd1GxI=
+
+Name: assets/ccbButton/UI-054.png
+SHA1-Digest: FYHCJeO+xH1e/7pGIGkBTfZvX7c=
+
+Name: assets/27.mp3
+SHA1-Digest: zvRa05W9l4AvEu/rGGSBfJyufBs=
+
+Name: assets/cg/MH_17.png
+SHA1-Digest: VZQ1zcDK6d6bTDD3Yg/U6QdYaIU=
+
+Name: assets/ccbResources/MRDL-MRDL.png
+SHA1-Digest: pYDbV5Pw+WNkVWRsuXj6HoJ11bk=
+
+Name: assets/ccbMap/BM-036.png
+SHA1-Digest: 1halHPVnWAjNvM5/a8pCNaip4AY=
+
+Name: assets/ZJQ7.txt
+SHA1-Digest: 7xmg8ufXZOX/akVmKsUcUd2eOx0=
+
+Name: assets/ccbMap/BM-039.png
+SHA1-Digest: RnA47JTPUTKhs5F44n6o4vgASwU=
+
+Name: assets/ccbi/jinritehuianniu.ccbi
+SHA1-Digest: shcVCzjyLS7T7VkVFE3gRD4P8NY=
+
+Name: assets/ccbi/cg1.ccbi
+SHA1-Digest: ExREB05de9cYF4p6vuo56WJc+hc=
+
+Name: assets/ccbResources/MXUI-9.png
+SHA1-Digest: yzoHR1nVYbt7YbzBXYgHsxOge6o=
+
+Name: assets/18.mp3
+SHA1-Digest: e1c0FVw2KbGktgHYaw0veL/mrGM=
+
+Name: assets/zb/JRTH-2yuan.png
+SHA1-Digest: nIWHvJwIa2yhzD5GIqwp/9HdaFY=
+
+Name: assets/mmiap/image/vertical/keyboard_button_hide_press.png
+SHA1-Digest: WAHk880AZV9IqRxg5mi/hvUmwPk=
+
+Name: assets/ccbButton/UI-108.png
+SHA1-Digest: /+feOA5Rb6aCcaZ8/c2UdhVPT1g=
+
+Name: assets/ccbMap/BM-030.png
+SHA1-Digest: ekU++/WQEH1hrlBe6RRSjbg5LFE=
+
+Name: assets/mainmenu/mainmenu_2.png
+SHA1-Digest: MFHUBr01HRdD/wdRYxy3gogmKRY=
+
+Name: assets/ccbResources/WJUP-z.png
+SHA1-Digest: nm4jjrQaUyMee+lHoV6/R3kgobc=
+
+Name: assets/ccbButton/UI-058.png
+SHA1-Digest: YeUh5jg2j9eUzZBlKbCpbi3tOTM=
+
+Name: assets/UInew/JN-27.png
+SHA1-Digest: i3gAs68AfD88n+09eAvtjZjaHoI=
+
+Name: assets/zb/JRTH-12000g.png
+SHA1-Digest: Z6IH3YeAkVMtNxmd4oNYf3nqiWk=
+
+Name: assets/BattleStart1.png
+SHA1-Digest: UoswkgVSsjaGuNd5JfpsfW2T4pc=
+
+Name: assets/Charge.xml
+SHA1-Digest: dIUyUu0emFaeLpuVapoFgUn2Jmo=
+
+Name: assets/ccbMap/BM-040.png
+SHA1-Digest: /0rsJJrfhd8l5mqT+7JztFxBw8s=
+
+Name: assets/UInew/JN-32.png
+SHA1-Digest: gZ52Vl7bAeyHFosJEdNtFglKRSM=
+
+Name: assets/zb/ZBYZ-tx-2.png
+SHA1-Digest: 0Wco+wT7LEh+rmPikv8fk8Wo0DY=
+
+Name: assets/MAP01_1.png
+SHA1-Digest: uEOhW6e7dqAtXyzCETsWsIvbQ/E=
+
+Name: assets/JM-2.png
+SHA1-Digest: yAsYRBTgqlYsFNhqUH0z+DvW/As=
+
+Name: assets/lose.png
+SHA1-Digest: 6fAot6vM4ueDnTvqrtwiotQ7klQ=
+
+Name: assets/ResourcesImage/Flash.xml
+SHA1-Digest: WsgtcLsnrWRR400mRH8VRUstNuw=
+
+Name: assets/ccbButton/ICON-007.png
+SHA1-Digest: LqZDsEcLLeIcjlTxjO42unOReYg=
+
+Name: assets/ccbResources/FH-NO5.png
+SHA1-Digest: raJ3DMCWujuAIE9KeLija9fKz8c=
+
+Name: assets/Z03_2.png
+SHA1-Digest: 26UNZkCBFFruBaybBRYBnLUqMT4=
+
+Name: assets/ccbResources/WJUP-AN2.png
+SHA1-Digest: OxA1sKQno2TVKaNHd/qzVeSyV7c=
+
+Name: assets/ccbi/zb1.ccbi
+SHA1-Digest: 2Vkfw8E9AFfZKqlvDh0LFWB66iA=
+
+Name: assets/MAP21.bin
+SHA1-Digest: nfWnPP+F+exfoIuqiisZ3wcCbEs=
+
+Name: assets/ResourcesImage/M0.png
+SHA1-Digest: 4hBSogFFesspMbXtlRT5uvlR5jI=
+
+Name: assets/ccbButton/ICON-018.png
+SHA1-Digest: xmZ9DZukEzf0sm4kZ/j7O+s3E0Y=
+
+Name: assets/Kaojin.png
+SHA1-Digest: ZAgrRuN4Yi1UwkG/DkuSRd1cius=
+
+Name: assets/fileLookup.plist
+SHA1-Digest: Wn8c1oTgh4bFtcqdETIC336bjzw=
+
+Name: assets/26.mp3
+SHA1-Digest: W9F402yVUJpCgpnNSoYA/zEMq+U=
+
+Name: assets/mmiap/image/vertical/get_verificationcode_press.png
+SHA1-Digest: vHvrkZvgL29Rwm3UX0ki5BCS5rU=
+
+Name: assets/ResourcesImage/tehui.plist
+SHA1-Digest: zvZi/mXiMVvRCiuykYitzOH0BjU=
+
+Name: assets/ccbButton/UI-029.png
+SHA1-Digest: R5J6hAAdK5gRLLd3VFOj8QWRT4s=
+
+Name: assets/UInew/JN-17.png
+SHA1-Digest: DNoSn1Uxa+uh6B8QMnhWNBigEOs=
+
+Name: assets/ResourcesImage/SH-1.txt
+SHA1-Digest: dHgGgdYNTpyBlO3MWv5QQF/C2Pk=
+
+Name: assets/zbg/ZBYZ-Z0gg.png
+SHA1-Digest: LyVDQfnNncfgRmKOoMYcNnGxeuA=
+
+Name: res/drawable-hdpi/icon.png
+SHA1-Digest: HI96WOP/zaNNYLiyfWfr1RyrxcQ=
+
+Name: assets/ResourcesImage/file.png
+SHA1-Digest: 8gP3Xrqex/HQA02/r6ExihKQkX8=
+
+Name: assets/UInew/JN-25.png
+SHA1-Digest: +7W7IaAhZxedrXVoBR2cmSWWGEM=
+
+Name: assets/ccbMap/BM-041.png
+SHA1-Digest: XSAoEs7OmmDEYjzJsjeBLUhACPA=
+
+Name: assets/16.mp3
+SHA1-Digest: Xg48AHdmxkDMd/DSL22kkUWxOLM=
+
+Name: assets/ccbMap/BM-007.png
+SHA1-Digest: RLTnfKjxvBFkdf3oipP/6BO+FmM=
+
+Name: assets/Z07_3.png
+SHA1-Digest: W35C95WYj/kVgWZykNEwafmvjc0=
+
+Name: assets/UInew/UI-M-03.mp3
+SHA1-Digest: MooQzEVfuy+DfCSVwB7IUOlM0kU=
+
+Name: assets/B06.xml
+SHA1-Digest: 5phEWiGOaWtBi2JDUxFl1kVvYpc=
+
+Name: assets/UInew/BAOXIANG2.png
+SHA1-Digest: 1NadyvzFjXfDv2RLix/uZJYdFso=
+
+Name: assets/500.mp3
+SHA1-Digest: 1WK+/NgdI1SDX5b5HRKBm9SM1zY=
+
+Name: assets/ResourcesImage/TX-002.png
+SHA1-Digest: lAFM0DBm/eNKr474TEldEkNLuMM=
+
+Name: assets/ccbResources/UI-zi2.png
+SHA1-Digest: 53CiFBXnqFCRg1euxa3VOdB9wS0=
+
+Name: assets/ZJQ9.txt
+SHA1-Digest: ZAt5Sldv94WrXgZUpb8h6iWhxYk=
+
+Name: assets/Z01_2.png
+SHA1-Digest: eulpltxx1bPxL1LcOah3VqSNOww=
+
+Name: assets/E05_1.png
+SHA1-Digest: 3Pur9FpExHy7wwQDpQAxSdAOKgY=
+
+Name: assets/JH.xml
+SHA1-Digest: /BtfK4KBQ4gZprY+gPq7ae2BWMA=
+
+Name: assets/SH-0001.png
+SHA1-Digest: 2PEPFcrrYb7apEv0PjdkTeCXpb4=
+
+Name: assets/ccbi/choubaoxiangLayer.ccbi
+SHA1-Digest: wWGOTU4KE4F0kKtXM63cba3pmDU=
+
+Name: assets/mainmenu/mainmenu_1.png
+SHA1-Digest: gSu4KZpsf4/JOEokosE/S6emTVo=
+
+Name: assets/MUSIC_N.png
+SHA1-Digest: jghSjuWBOvJrhkxYp2FfYPLMIwk=
+
+Name: assets/btn_an.jpg
+SHA1-Digest: bUmdgKhdLHN/xAoy3HgzrVZqaDM=
+
+Name: assets/ResourcesImage/MZ-5.png
+SHA1-Digest: jKzoioGYDyb84NQ1+wfS7ivb8Yo=
+
+Name: assets/ccbButton/UI-110.png
+SHA1-Digest: 5cPRmdMzMRv/oN2hgWj56QBvdSc=
+
+Name: assets/ResourcesImage/tehui.xml
+SHA1-Digest: 2/XBx/HUg8CCXSNnwXieyAlE+80=
+
+Name: assets/mainmenu/mainmenu_2_0.png
+SHA1-Digest: M3JW5CrCP20pWJqo1Lvd/SoWdxA=
+
+Name: assets/MAP34.bin
+SHA1-Digest: pQHQVukf+XRQBPk4Bqps1U3/gT4=
+
+Name: assets/ccbButton/UI-Zshengji.png
+SHA1-Digest: ZQ7jwf2M++TO35GKt8AL0HJ1z1E=
+
+Name: assets/zb/JRTH-35yuan.png
+SHA1-Digest: rH+m7z6+xE1ChX9mRwTOHhObtC4=
+
+Name: assets/ccbResources/WJUP-line2.png
+SHA1-Digest: QLKZYCnUZJ8SfE0i16X1Pb/dSGc=
+
+Name: assets/ResourcesImage/tehui.png
+SHA1-Digest: fw3pUJzLcJWpuJSRkKg9f4IHcTQ=
+
+Name: assets/ccbMap/BM-046.png
+SHA1-Digest: HMy8RiH9jdPL+C/narDrAx0M1nk=
+
+Name: assets/ccbMap/BM-043.png
+SHA1-Digest: ak5F6IVeQCgddyTDFhTICFLs84g=
+
+Name: assets/UInew/JN-10.png
+SHA1-Digest: orS/H+/IUc2rCkhWTmHWIB60dvE=
+
+Name: assets/ccbi/SmsReliveLayer.ccbi
+SHA1-Digest: ZYN6HaMkcI1Gr1yeuStfvxxtjjc=
+
+Name: assets/ResourcesImage/SH-1.txt.bak
+SHA1-Digest: 7RD1FOwcAwSLSRO2mXfkzIfmUts=
+
+Name: AndroidManifest.xml
+SHA1-Digest: 5Hm0Blrn1S4pC0Ayrw5ooni1ofc=
+
+Name: assets/E02.xml
+SHA1-Digest: 9D+StER2WTFLCRKIeCeg+lvQOMQ=
+
+Name: assets/UInew/LV-4.png
+SHA1-Digest: KEZiKDyEFRGFNbWga5m1Hf+V6Zk=
+
+Name: assets/MAP12.bin
+SHA1-Digest: DaeYqOQlAPD622Kql1caBSvOz7A=
+
+Name: assets/9.mp3
+SHA1-Digest: ApEkyHPSxkZENY60lf2sx5RGJ9Q=
+
+Name: assets/dengjishuzi.png
+SHA1-Digest: 7CGvGpFVTtVYPEIMGLhOYFTndZg=
+
+Name: assets/ccbResources/MRDL-kuang4.png
+SHA1-Digest: Qope8GcHWRQgEZZH5pKFu/yv2yM=
+
+Name: assets/ccbResources/WJUP-jiantou.png
+SHA1-Digest: BfCoxVSAzvTkUHMzq1UsdwCjNxY=
+
+Name: assets/zb/ZBYZ-tx-1.png
+SHA1-Digest: UZNQCWG9t1OhbGJRAewnbTQKVCE=
+
+Name: res/drawable-hdpi/gc_billing_red.9.png
+SHA1-Digest: jCiuDPAGhBaR/hsIgfYjqrlUc0o=
+
+Name: assets/ccbButton/icon-27.png
+SHA1-Digest: ruUtSdFKKUM6pp7Sghy1OFxttC8=
+
+Name: assets/edxinxi.txt
+SHA1-Digest: Oo1mo2YNL6njw38a149EMCfINOE=
+
+Name: assets/ccbButton/ICON-023.png
+SHA1-Digest: cPg3IvVMSunGVT5a9+B6otBgd7w=
+
+Name: classes.dex
+SHA1-Digest: hb8GHkDd144uvfx6UWlYePWRqbQ=
+
+Name: assets/zbg/ZBYZ-BAN9.png
+SHA1-Digest: 8aSvDGvrsHMlIowZXlhWkpjlGhg=
+
+Name: assets/senlin1.bin
+SHA1-Digest: YPQvhQrxGqqhM3n3xhKrAwLLqU4=
+
+Name: res/drawable-hdpi/gc_net_yes_selector.xml
+SHA1-Digest: BfPcEq+G0cFwIZONRkiHt2dGO1I=
+
+Name: lib/armeabi/libcasdkjni.so
+SHA1-Digest: RSEl7jDhXVbHMb8d/5VAsJJJgtM=
+
+Name: assets/zbg/SHOP-dalig.png
+SHA1-Digest: q52Z68670oZ6MFYChpN5cLgdhrM=
+
+Name: assets/Z04_2.plist
+SHA1-Digest: AnxZqm5G+CDr3j7mvupkX1yqI2Q=
+
+Name: assets/ccbResources/FH-NO7.png
+SHA1-Digest: 9n5bjbyM53ul5DbNdWm90SGwNFc=
+
+Name: assets/ResourcesImage/LD-001.jpg
+SHA1-Digest: op/ChEUAkBVklwopQ9BoYgPVeh8=
+
+Name: assets/backgrond2.jpg
+SHA1-Digest: vFJKXJirBuM3pZgxYnhR8A0h0oY=
+
+Name: assets/mmiap/image/vertical/bg.png
+SHA1-Digest: RJ/BIiul+6SZ5rhgrZJsL8bbv7U=
+
+Name: assets/ccbMap/BM-047.png
+SHA1-Digest: /IahFfhGUZewukafAg5ziBTdcsI=
+
+Name: assets/zb/ZBYZ-Z3.png
+SHA1-Digest: hg7xGPpmX6nkHDO4nnHd1guBGnw=
+
+Name: assets/ResourcesImage/jiaoxue2.png
+SHA1-Digest: 3Yyrhq3h48r+j48d+EyqZ20DXoc=
+
+Name: assets/cg1/cg12.png
+SHA1-Digest: PYZznpnpILYVkYP8L80aqEAJ+9o=
+
+Name: assets/mainmenu/mainmenu_5.png
+SHA1-Digest: 0xaOR19esHllQ3bJVvpRqmSX+M8=
+
+Name: assets/UInew/UI-M-01.mp3
+SHA1-Digest: WazyrFaKW+p6aWUNYCDe0bi8G9s=
+
+Name: assets/ccbResources/SHOPBUTTON-011.png
+SHA1-Digest: e6wh6OVSqxvpeNi4Jb72Lo21AtA=
+
+Name: assets/ccbResources/MXUI-7.png
+SHA1-Digest: c/YYwbMjn4LVGPDoc6/C5ZKZcnE=
+
+Name: assets/ccbMap/BM-008.png
+SHA1-Digest: uA4qslNkzI+VDCGIdm2A6erEtBE=
+
+Name: assets/map02_2.plist
+SHA1-Digest: pxsyZakCi5N0aH8J0OGgjLrOJ7U=
+
+Name: assets/CMGC/ConfigExtend.xml
+SHA1-Digest: WSLuFXLDHOs3HAcNTBUFur46Uw0=
+
+Name: assets/ResourcesImage/M11.png
+SHA1-Digest: idknlKRThzPyLPccL2l3LX7eJ9s=
+
+Name: assets/mmiap/image/vertical/keyboard_button_press.png
+SHA1-Digest: A/LLFAt35jZldVmonRDl3iMsWcY=
+
+Name: assets/UInew/JN-3.png
+SHA1-Digest: WBmUtlObKdjW1Rf6/fJZdkgpnTU=
+
+Name: assets/mmiap/image/vertical/yanzhengma_bg.png
+SHA1-Digest: +d6hwrsSpRwTOtmco42H1xw30lg=
+
+Name: assets/cg/MH_Z4.png
+SHA1-Digest: HRV5SpATyM8Ua/3XHsYv6Snw1kU=
+
+Name: assets/ccbResources/MXUI-3.png
+SHA1-Digest: 0RA1p5U0DsonLjfjRMn7SnA6KxM=
+
+Name: assets/UInew/JN-4.png
+SHA1-Digest: FbNkvs+ls7B7nB1XXBJ5s+NGzTo=
+
+Name: assets/zb/ZBYZ-ZZ4.png
+SHA1-Digest: RMFxN4xUVcO9rtXmvdHLJ+tAFFk=
+
+Name: assets/E06.xml
+SHA1-Digest: eFDTF0w6l61YQZEMHxjyMd69n8E=
+
+Name: assets/UInew/UI-M-05.mp3
+SHA1-Digest: vs2qRb+lbi3kvJj/cycBiTU+qO0=
+
+Name: assets/ccbi/StartToFight.ccbi
+SHA1-Digest: 5X7JBhgSZIv5MHZ6saAYLvtH+tU=
+
+Name: assets/ResourcesImage/M7.png
+SHA1-Digest: dB0U2MOV+vOZhHJu+5sz5yDA1qs=
+
+Name: assets/UInew/JN-1.png
+SHA1-Digest: kg0al1YMxztxpFHhgPrkgazvH38=
+
+Name: assets/BattleStart0.png
+SHA1-Digest: JyA+FL2DJUztgaeyyCRfwktXlxk=
+
+Name: assets/mmiap/image/vertical/logo1.png
+SHA1-Digest: 3z8eFSH38qMkw/y0JspPePvo33k=
+
+Name: assets/UInew/JN-6.png
+SHA1-Digest: p+da5EzHcy5+5duQsr/P4m439Sg=
+
+Name: assets/MAP29.bin
+SHA1-Digest: 6lVp8wwYSeUqnIvIhxArlyw3e4c=
+
+Name: assets/MAP02.bin
+SHA1-Digest: nfWnPP+F+exfoIuqiisZ3wcCbEs=
+
+Name: assets/BOSSxuetiao.png
+SHA1-Digest: /5MwgRMe/u1djcslNma7bd2sElE=
+
+Name: assets/Config.xml
+SHA1-Digest: aVMyKB95ykYg3cm7ujLpZ2Gq8WY=
+
+Name: assets/Z01_2.plist
+SHA1-Digest: 8r7PrlXtqT4Jp8rspCW6f9KvC8Q=
+
+Name: assets/ccbResources/UI-starM.png
+SHA1-Digest: uctuaGmMdxsRSa2Lln1GpHC5Qog=
+
+Name: assets/E03_1.png
+SHA1-Digest: +mA6y85/TPgvhz4JT7g6cweOoXw=
+
+Name: assets/E03_1.plist
+SHA1-Digest: cWiH4PfHZKdLJScPwOi6bCcurn4=
+
+Name: assets/MAP08.bin
+SHA1-Digest: jNZr9EvtZNxw9WywKgm6Y+yih/8=
+
+Name: assets/ResourcesImage/TX-007.png
+SHA1-Digest: CVZWR2E9KRW19XhpI0HbITHuUxM=
+
+Name: assets/LV-WJH.png
+SHA1-Digest: zEJHhwDjZAG6I9/pBZMbf721bAU=
+
+Name: assets/ccbi/beiguang.ccbi
+SHA1-Digest: ose0mIvKAiSzYS648ohmkeuQSOU=
+
+Name: assets/UInew/A-002.png
+SHA1-Digest: M0+0Z74klmc0v9bskekGfN96oOU=
+
+Name: assets/ResourcesImage/MZ-4.png
+SHA1-Digest: sU3/8XoFlhruC7OvAEzOJIkzm6U=
+
+Name: assets/MAP32.bin
+SHA1-Digest: x03ATItT3n4HIImh9FZaq2culJ4=
+
+Name: assets/qa.txt
+SHA1-Digest: 5gzl7WcMH/flHZVG8rbm9RY63vY=
+
+Name: assets/ZU_1.png
+SHA1-Digest: zqY3ImxC3xGKme53zI/opa09FcE=
+
+Name: assets/Z01_1.png
+SHA1-Digest: OTFvQDsYJBxokRgr/V1h4QFTt4M=
+
+Name: assets/ResourcesImage/MXian_1.png
+SHA1-Digest: +FNDHedR1E4daAZUCACgtZBBm7o=
+
+Name: assets/B05.xml
+SHA1-Digest: XmJO5DFD0ywXZprHizpwjQFIAaI=
+
+Name: assets/SM.xml
+SHA1-Digest: JSVhVIendkhWhhOkJasKb2hyDXE=
+
+Name: assets/map02_1.png
+SHA1-Digest: BTXEvywOoaPfPEIoRm9mHb8mfzs=
+
+Name: assets/ccbResources/SHOPBUTTON-002.png
+SHA1-Digest: d4rTOctzb2QlYelmG91haItQW8I=
+
+Name: assets/ccbMap/UI-J_right.png
+SHA1-Digest: cqKEwuIbt0ruP/3XPF9F19gYmOg=
+
+Name: assets/Z07.xml
+SHA1-Digest: 8yedLCKUpBRze6DA6ce9jAe7wqM=
+
+Name: assets/UInew/JN-16.png
+SHA1-Digest: dCodfr/t+UBVcSyhKOY8gXjPb8Q=
+
+Name: assets/cg/MH_08.png
+SHA1-Digest: XM9SQUM5Oh69Ynt+aTmmEfNrFtQ=
+
+Name: assets/ccbResources/UI-starL.png
+SHA1-Digest: 08HddnIA5O1PfkwlomH4KVYRg4s=
+
+Name: assets/E06_1.plist
+SHA1-Digest: 3Lx360T6074Xi28k1h07IctPNLI=
+
+Name: assets/UInew/DL_4.png
+SHA1-Digest: gRYxDTHejmOI9LuQVgc3vHH1nPU=
+
+Name: assets/logo1.jpg
+SHA1-Digest: NQzwiz5ycqw4FehFDbzTavDin2s=
+
+Name: assets/MAP19.bin
+SHA1-Digest: pQHQVukf+XRQBPk4Bqps1U3/gT4=
+
+Name: assets/CMGC/ChPkgs.xml
+SHA1-Digest: 2lR/nBtryUuAjNVffBiwNbklyMQ=
+
+Name: assets/ccbButton/UI-048.png
+SHA1-Digest: z4fabUKDpAgZSYSOH9jNF9EZbIg=
+
+Name: assets/zb/JRTH-48zhe.png
+SHA1-Digest: 9BgagqRTBQaAGttW9O8Mh/S6uiY=
+
+Name: assets/Z02_1.plist
+SHA1-Digest: rz5xnuF4P5MepGJyZm6x5ZPZcH4=
+
+Name: assets/ccbButton/UI-114.png
+SHA1-Digest: Fst9bywYEGlgcpZbJUg/t1zvhxc=
+
+Name: assets/cg1/cg9.png
+SHA1-Digest: pJjtEiG4BndF4O8o9bEqCBJBjMA=
+
+Name: assets/UInew/JN-14.png
+SHA1-Digest: XlVx1LXpgwEAnepXn+ZmhZrNBzQ=
+
+Name: assets/ccbResources/FH-qianggou.png
+SHA1-Digest: Y+kmmDB/6DNI23DrGsFJ3WjMksQ=
+
+Name: res/drawable-hdpi/gc_net_bg.9.png
+SHA1-Digest: 0e1UwN7iFT+m9EP2U4rxi4kQnM4=
+
+Name: assets/23.mp3
+SHA1-Digest: 7KVJhgGbTIh13+9iYPP3YkpqeiY=
+
+Name: assets/UInew/DL_11.png
+SHA1-Digest: s60jiQplfszTAwAqvocIsjqLSo8=
+
+Name: assets/MAP04.xml
+SHA1-Digest: m/BJ/wNrbSApkErFys5K7dTTLEM=
+
+Name: assets/UInew/JN-12.png
+SHA1-Digest: cWbuJ10cdQYMnRo9rCFb+dFkDj0=
+
+Name: assets/ConsumeCodeInfo.xml
+SHA1-Digest: npgCSou+wKHlRCzg9neaAzz7/Sw=
+
+Name: assets/E02_2.png
+SHA1-Digest: UvIgQlsIPBt5b/XLR/qHPWnewy8=
+
+Name: assets/UInew/DL_15.png
+SHA1-Digest: SS3bMLxA0qd9eQIb/AYLd/TZxHY=
+
+Name: assets/22.mp3
+SHA1-Digest: HNpp2J2xaVQvXcJdzeAhIAcF/jM=
+
+Name: assets/zbg/dian2.png
+SHA1-Digest: vHbpQ6mQplDKbzy+jhRYMLGsg28=
+
+Name: assets/JM-6.png
+SHA1-Digest: XD/QfR1XdlSNhZ3a5E+IXBsUtpE=
+
+Name: assets/MUSIC_shifou.png
+SHA1-Digest: 8D4oLqaSZTWem3JEb7/KAkhzFxM=
+
+Name: res/drawable-hdpi/gc_net_yes.9.png
+SHA1-Digest: +lsdY6/8HvKQlNk95VQg31g8JUw=
+
+Name: assets/strings.xml
+SHA1-Digest: 9ywt1lRN3GydLZ9WV+7BBYuMpWs=
+
+Name: assets/UInew/UI-M-07.mp3
+SHA1-Digest: 8Bst36K/sOGa/3MWWJJLDPZdtuI=
+
+Name: assets/ccbResources/TH1.png
+SHA1-Digest: e8Z2ECr+9m2oleF0esp7DfuutLs=
+
+Name: assets/map_2.plist
+SHA1-Digest: kKVaPSG/GWYSPm44OhIqWTnY5Rw=
+
+Name: assets/MAP27.bin
+SHA1-Digest: pQHQVukf+XRQBPk4Bqps1U3/gT4=
+
+Name: assets/mmiap/image/vertical/top_button_back_press.png
+SHA1-Digest: 2cMHTSEO2PqPanzrOjAWIST2vqI=
+
+Name: assets/mmiap/image/vertical/icon_success.png
+SHA1-Digest: loG43GVYgeqRQiI63nV9iCASmVY=
+
+Name: assets/zb/ZBYZ-BAN.png
+SHA1-Digest: ybtEgk/WphBl+rUds51BnmhnLeI=
+
+Name: assets/UInew/JN-7.png
+SHA1-Digest: LVg3nv40iRZvtG2yZhvP3aKJOpM=
+
+Name: assets/mmiap/image/vertical/infoline.png
+SHA1-Digest: RYUCPPwehYMWB3iUCJ9WRAX/dMQ=
+
+Name: assets/MAP01.bin
+SHA1-Digest: YSeLZ7jvWNg3l3rnD1hLKeFEy/I=
+
+Name: assets/MAP42.bin
+SHA1-Digest: PzVyZlHYwzSMMonzeUMYO8/UP0o=
+
+Name: assets/UInew/A-003.png
+SHA1-Digest: WDJtTkJR24VtlFHPeRHNogbCVEQ=
+
+Name: assets/mmiap/image/vertical/loading.png
+SHA1-Digest: F/+VFVjbI3Rcwj/oEo94pUJqTBA=
+
+Name: assets/cg/MH_04.png
+SHA1-Digest: 2AMmfmOA8DpCYkz2ie5+8bMwX6k=
+
+Name: assets/mainmenu/mainmenu_4_0.png
+SHA1-Digest: KJGiXs7npJ9ydSSbC0SMg4VX/FU=
+
+Name: assets/ccbResources/UI-G.png
+SHA1-Digest: 8vimLGdpTjBeBNhDFEi+vrX+uQs=
+
+Name: assets/ResourcesImage/M5.png
+SHA1-Digest: qtKh/6AZq38otHfN6vZhlFkJvlo=
+
+Name: assets/DM_2.png
+SHA1-Digest: 3yNUD9m2zetnUW2jdg0ckAjyaJQ=
+
+Name: assets/MAP03_2.png
+SHA1-Digest: xoCbWR//wkrwyzhJtW9bXeBJbJ0=
+
+Name: res/drawable-hdpi/gc_more_game.png
+SHA1-Digest: f7YA937ym6bF5qxPCkwYIGTc0rM=
+
+Name: assets/UInew/BAOXIANG.png
+SHA1-Digest: +jMH3WgoN3uzJkLwwg4zfMRwZbM=
+
+Name: assets/UInew/DL_8.png
+SHA1-Digest: YY5pxhifJu2Wwk7qrCizw1baly0=
+
+Name: assets/cg/MH_16.png
+SHA1-Digest: t/B+1rw9eNMaFxiwyUWM1xqIUmA=
+
+Name: assets/zb/ZBYZ-txz.png
+SHA1-Digest: L9ZAuUQbAkcPZExmqyfzq8gm2k0=
+
+Name: assets/ccbResources/TX-NPCGY.png
+SHA1-Digest: dy4HPi+zepAJUQoypvexhwKN3A0=
+
+Name: assets/ccbButton/UI-059.png
+SHA1-Digest: 8fEAXl1tr88itA4WctJK/vZIVpA=
+
+Name: assets/ccbi/jinri3.ccbi
+SHA1-Digest: SnpL2VX7TLOML0QE4V32dMl9U9o=
+
+Name: assets/E05_1.plist
+SHA1-Digest: e3oRyhCWUwS395SUAgcSSSIZx9g=
+
+Name: assets/MAP18.bin
+SHA1-Digest: Ijxg/GFNb0Ju0tDitJ3hVTvx9I0=
+
+Name: assets/zb/ZBYZ-Z1.png
+SHA1-Digest: 1BTAYZjE/NpTD+8PAKvK910rj+8=
+
+Name: assets/14.mp3
+SHA1-Digest: 49bqQP9jFTrDuTmtPirq/X6FHpk=
+
+Name: assets/ResourcesImage/M13.png
+SHA1-Digest: muD6w/4knpgQlnRfWGTSB+gJ0iE=
+
+Name: assets/ccbMap/BM-029.png
+SHA1-Digest: CCI+RXgNTpNUXk3ZjZ8hb9uBzbY=
+
+Name: assets/zbg/ZBYZ-BAN12.png
+SHA1-Digest: fdO70U93qspIzi6tUWO3LahOyA0=
+
+Name: assets/btn_an_click.png
+SHA1-Digest: FlND+ER/XUnsKKMIXuQd0oevZmQ=
+
+Name: assets/ResourcesImage/MainTouch.png
+SHA1-Digest: JZ+cM1ik/SLGeFUowaRruYEI8g8=
+
+Name: assets/13.mp3
+SHA1-Digest: Tu3uMy649b76MTqtTRR2yyo+tdU=
+
+Name: res/drawable-hdpi/gc_billing_blue_selector.xml
+SHA1-Digest: SgntsDnI7LqufFLjm5sh8yecB0A=
+
+Name: assets/MAP14.bin
+SHA1-Digest: IbBUB9EaIzOtvDxkl7p0q/01u0A=
+
+Name: res/drawable-mdpi/icon.png
+SHA1-Digest: 8qwgF7mFaaZmMMdL1D6C2BppngI=
+
+Name: assets/19.mp3
+SHA1-Digest: ghHjryTOD8mP1QivfDw6pL7eBvE=
+
+Name: assets/cg1/cg11.png
+SHA1-Digest: W6bblhvBFm+w2vM3TdXP/CYM2nA=
+
+Name: assets/ccbButton/UI-112.png
+SHA1-Digest: 7zgPvr9OsaYlyRg7YjPBWeY2Uis=
+
+Name: assets/ccbResources/sanguo_ui.png
+SHA1-Digest: LDB/qeUg+jF2P+8wI7U1GK25sGw=
+
+Name: res/drawable-hdpi/gc_net_no.9.png
+SHA1-Digest: PLiBpv7S1SMWOYcBcHqLUqXQ7dQ=
+
+Name: assets/zb/JRTH-x2xin.png
+SHA1-Digest: ybtEgk/WphBl+rUds51BnmhnLeI=
+
+Name: assets/Z04_2.png
+SHA1-Digest: s8pbiPv8dRNNkhfyylI1EFTW/yU=
+
+Name: assets/UInew/LV-0.png
+SHA1-Digest: K2lX7CMlY7ut9ru1bBJCUUCl2m4=
+
+Name: assets/E04.xml
+SHA1-Digest: 4ayhgVYypXYAD3BJW8CNq+hXLn8=
+
+Name: assets/UInew/JN-22.png
+SHA1-Digest: hlrG4GV1pA2Xa1OwcZQWIREnxZo=
+
+Name: assets/UInew/DL_10.png
+SHA1-Digest: J5p7GKTe1Ogg7VgSXw5NnxBjnMM=
+
+Name: assets/ccbButton/ICON-006.png
+SHA1-Digest: uhY8LOucN7cHKivW7qrz4sRkAqg=
+
+Name: assets/7.mp3
+SHA1-Digest: YSYscEJhVA7dDX0bDF9LbZEaJfM=
+
+Name: assets/DM.xml
+SHA1-Digest: jmWBxMwflU9NPRvG4iMQec43PIs=
+
+Name: assets/ccbResources/FH-NO8.png
+SHA1-Digest: RWXYEJHFeDcXQrdsjPA69nYbzf8=
+
+Name: assets/ccbButton/ICON-011.png
+SHA1-Digest: BgYmXeE8wAYkIBY/jtaMssfpaww=
+
+Name: assets/MAP43.bin
+SHA1-Digest: 14kEw1GuuCPCRXY1MhSxGewahic=
+
+Name: assets/DM_1.png
+SHA1-Digest: qm2je4XoOd1bJsPDou5VDQjOEdQ=
+
+Name: assets/Z07_3.plist
+SHA1-Digest: H+HL6vKPTf9ie53/kc5z80UEhb4=
+
+Name: assets/ccbButton/UI-Zhuoqu.png
+SHA1-Digest: 3wolNmAbScDfif2ky0gDS5L98Ws=
+
+Name: assets/0.mp3
+SHA1-Digest: Dyl4ezBuSXHKh6YhKgvVcYW+2aI=
+
+Name: assets/ccbButton/UI-092.png
+SHA1-Digest: AAvu51aTFZIk6km0JQz4WvaeoVU=
+
+Name: assets/Z000_1.plist
+SHA1-Digest: DSPEs5bHmpZ3HJZ0Bh3mGrdapBQ=
+
+Name: assets/ccbButton/ICON-021.png
+SHA1-Digest: nC2+W9Km971JZtllKwrfu8BaxGk=
+
+Name: assets/MAP01_1.plist
+SHA1-Digest: xX10pqw2y9soAS8KJS4mCCR05J0=
+
+Name: assets/cg/MH_25.png
+SHA1-Digest: WfQSNvv+iv+41cLNViCWRMf272s=
+
+Name: assets/BOSS.png
+SHA1-Digest: 8/He6+tNiRm9KL4AgB5YOKhy7dM=
+
+Name: assets/B07.xml
+SHA1-Digest: IkKi0q6xi02ruYs33WqPWIsnORU=
+
+Name: assets/map_1.png
+SHA1-Digest: 7Eqp7HKd/Gs7nknKk0DfxOjRzfU=
+
+Name: assets/700.mp3
+SHA1-Digest: QoqLmzqKaTZ0oedXgZP+yDxQpMY=
+
+Name: assets/000.mp3
+SHA1-Digest: cVthM4LUyuemJ7KZ/Gb1jTGIJLs=
+
+Name: assets/MAP44.bin
+SHA1-Digest: O3eTV5YgLFw0jxletXMAF7F3lk4=
+
+Name: assets/zbg/ZBYZ-BAN15g.png
+SHA1-Digest: xyR+nfoLvq2hK/ypV3eMYZKiN0I=
+
+Name: assets/E04_1.png
+SHA1-Digest: 2a/zXO7uAlv+KfBYR7jsypaqzao=
+
+Name: assets/zbg/ZBYZ-ZHOUg.png
+SHA1-Digest: 7cTOdpIQZbxg+D6Z4o7M9768jn8=
+
+Name: res/drawable-hdpi/gc_billing_cancel.png
+SHA1-Digest: UYiZCtb5U5MYmktS3J3jFgOcavM=
+
+Name: assets/Z07_1.plist
+SHA1-Digest: rO+dsu6RVBGghZH3QRaJ4nT1Rxw=
+
+Name: res/drawable-hdpi/gc_billing_hl.9.png
+SHA1-Digest: Ha5oFrrkI0IBqDhCpDJE9BAxuFM=
+
+Name: assets/logo.jpg
+SHA1-Digest: Ekw6OOc9jqMyPeCnUCuSQ1H7sPM=
+
+Name: assets/Z06_1.png
+SHA1-Digest: UfIaKAXW4kfC8mxqnigIBlfDbM4=
+
+Name: assets/JM-4.png
+SHA1-Digest: BqSoE4AGd6CGI2b8DeZmzjncOdA=
+
+Name: assets/ccbButton/UI-072.png
+SHA1-Digest: x/n9dbWrpvZ+0qu7yI1sDNEFWbw=
+
+Name: assets/HU.png
+SHA1-Digest: zGT6JvZyrodKJSjtr9TGk8lyuCk=
+
+Name: assets/UInew/LV-3.png
+SHA1-Digest: 4ewRIH7080S/wAZQr1ZPDW3dpl8=
+
+Name: assets/ResourcesImage/M1.png
+SHA1-Digest: Ud6s7vGrphzLhL5kimjRktjlVVY=
+
+Name: assets/mmiap/image/vertical/logo3.png
+SHA1-Digest: 19ywvCd0UcaOajY7Acz2bST2Zpg=
+
+Name: assets/JM-1.png
+SHA1-Digest: Fflbua9BLRnX3YT3N78rNOu3osU=
+
+Name: assets/zb/JRTH-56zhe.png
+SHA1-Digest: NNqdEh6KttriVzPuQIBuWf3stpA=
+
+Name: assets/BACKNUM.png
+SHA1-Digest: iBUMV2WTOpyk67DEagWJffQWO5U=
+
+Name: assets/MAP40.bin
+SHA1-Digest: nBz7VR74/RZte9J1NPGR9oC15ns=
+
+Name: assets/ccbi/ShoulieLayer.ccbi
+SHA1-Digest: I+f/mlEqSZPZ9+qPxgsTjICPSTE=
+
+Name: assets/GX.plist
+SHA1-Digest: wiJq/wRL0aFMLi2oHjDsmr7G24E=
+
+Name: assets/E04_1.plist
+SHA1-Digest: xxjwm2ldclI3MZ68k56MlMVXjsc=
+
+Name: assets/ccbMap/BM-032.png
+SHA1-Digest: m8iIC8qmi+X8LIpbGveeQ11q8XA=
+
+Name: assets/cg1/cg10.png
+SHA1-Digest: ohn1Wt9auSob0CZG8cu8CckEXcI=
+
+Name: assets/ZJQ1.txt
+SHA1-Digest: ofH3CdTcJw6W0v44IKcRrVE3K1E=
+
+Name: res/drawable-hdpi/gc_billing_cancel_hl.png
+SHA1-Digest: nvGYPebRLgMtv3CbJ/OfXADM5Tw=
+
+Name: assets/xinxi.txt
+SHA1-Digest: Nr8LsP8x23HNB9nMyKr8ujJC3uM=
+
+Name: assets/4.mp3
+SHA1-Digest: 4akzD3R22a/FXKVDAssIbrj8vLw=
+
+Name: assets/backgrond4.jpg
+SHA1-Digest: osxhlhzys4r9ibXF56BJU551xt4=
+
+Name: assets/Z07_2.png
+SHA1-Digest: mex25ucMqKQaH1Icp2zjMkP5dX4=
+
+Name: assets/yishitai_1.png
+SHA1-Digest: uH0lLOj/CjHgRnmr9i1tCutUuLE=
+
+Name: assets/MAP33.bin
+SHA1-Digest: nfWnPP+F+exfoIuqiisZ3wcCbEs=
+
+Name: assets/MAP16.bin
+SHA1-Digest: bdKXHTvX6DBuI8DLnPA8u/1NIL0=
+
+Name: assets/SH-0002.png
+SHA1-Digest: QZw0Dwy5wxcUkOrsURRTWpL1qrU=
+
+Name: assets/zb/JRTH-8000g.png
+SHA1-Digest: 9+2jfVxS84p1SjbE2w55I5iff1U=
+
+Name: assets/ResourcesImage/FLASH.plist
+SHA1-Digest: Ul4MVogfr1rCpK/85/mQlMm1Sg8=
+
+Name: assets/mmiap/image/vertical/top_button_back.png
+SHA1-Digest: V3dNbV6poCc3LJ4bf2p07bAJY5g=
+
+Name: assets/mmiap/image/vertical/button_finishbilling.png
+SHA1-Digest: IubPvq7wECqp0SAmjupM7jQBN3M=
+
+Name: assets/ccbResources/JHWJ-z1.png
+SHA1-Digest: 3/bPr/OkVZT8VB9SaL4LWnUqAng=
+
+Name: assets/ccbButton/UI-C5.png
+SHA1-Digest: wi/+cK0AkSSCsiKLog5NS5kvX8s=
+
+Name: assets/ResourcesImage/TX-005.png
+SHA1-Digest: FDTuFvha7tBcWkUYW9ghIZ8qrR4=
+
+Name: assets/MAP22.bin
+SHA1-Digest: 1j/tyYa+bG1h1bl0gfC9KR50g+o=
+
+Name: assets/ZJQ8.txt.bak
+SHA1-Digest: ke71X3/A74k9XYqIdHs59MJ3wrQ=
+
+Name: assets/MAP04_2.plist
+SHA1-Digest: n9l/4eLkhAD+JsgiFV+NR/Dl47k=
+
+Name: assets/ccbButton/ICON-014.png
+SHA1-Digest: OLVTUnyfz3frVst2JwwjfzEaZS0=
+
+Name: assets/zbg/ZBYZ-BAN14.png
+SHA1-Digest: DOl1KoDVYFIMzfKjThT5fsYHeUM=
+
+Name: assets/mmiap/image/vertical/editbg.9.png
+SHA1-Digest: 1m0+JuHqbuFodFKZfF8hAMr3DW8=
+
+Name: assets/cg/MH_06.png
+SHA1-Digest: EfQSex0acgQESeGpZC3VKcQSrYM=
+
+Name: CopyrightDeclaration.xml
+SHA1-Digest: +W0My1uxMVlzySSCpxWEA+SpAdU=
+
+Name: assets/ZJQ0.txt
+SHA1-Digest: Y7fDtbX0hwt2BAY1Mo5KbTYa/oY=
+
+Name: assets/ccbMap/BM-028.png
+SHA1-Digest: KalULHuhx9akBeg++jg/t31iFfo=
+
+Name: assets/Z03.xml
+SHA1-Digest: cZ8q4Zqs19l24PJEHmWQUYVAZMs=
+
+Name: assets/ccbResources/MXUI-2.png
+SHA1-Digest: 51Ff6QhkS9rQdRSGyDneWx4HiYA=
+
+Name: assets/ccbMap/BM-014.png
+SHA1-Digest: QqNkkrNdSM1IN5q6YSFzrz7LDXs=
+
+Name: assets/ccbMap/BM-001.png
+SHA1-Digest: O2s188SPK/HZsRq3imllZysqlK4=
+
+Name: assets/cg/MH_26.png
+SHA1-Digest: zn0ehrqLUOS9xJ5sdSSgXUpo1B8=
+
+Name: assets/ccbButton/UI-090.png
+SHA1-Digest: 16lS/0ZJNRrJ4uSEst8wUgZ+0rs=
+
+Name: assets/ccbMap/BM-049.png
+SHA1-Digest: boOCP9WsiqtYdzwlG/MW8RT0dw0=
+
+Name: assets/UInew/lungongxingshang.png
+SHA1-Digest: i/yXzHHMop2vJcB17UYBlqi80Hc=
+
+Name: assets/ccbMap/BM-012.png
+SHA1-Digest: ihk391n4FgNEt0a/0UwA2l7dlPA=
+
+Name: assets/cg/MH_23.png
+SHA1-Digest: UoITCswSlKHpa3+bk8rQsp5+sCg=
+
+Name: assets/UInew/LV-6.png
+SHA1-Digest: jYqinQpZh2IG4MR5gaBxJlagYGE=
+
+Name: assets/ccbi/LevelOKLayer.ccbi
+SHA1-Digest: 5Oo9ZamgC1TS2QrFL8WkCWmt/Tk=
+
+Name: assets/ccbButton/ICON-020.png
+SHA1-Digest: UujWH5iGd+4iM85BD6zcswvoRzg=
+
+Name: resources.arsc
+SHA1-Digest: am19MuTff8z8Ho0NpyiUoTMvq8I=
+
+Name: assets/MA_1.png
+SHA1-Digest: NOMT0HjPmKv7VoESp16oIpvCorY=
+
+Name: assets/MAP23.bin
+SHA1-Digest: 3+g8V0NvS73hKqoSPn90QtHltl0=
+
+Name: assets/cg/MH_01.png
+SHA1-Digest: uZSxVvRuEltu+SbfJjYfek8pH1E=
+
+Name: res/drawable-hdpi/gc_billing_cancel_selector.xml
+SHA1-Digest: dmIJxJUqnyJw/0Hm8a68JaDEla8=
+
+Name: assets/ccbMap/BM-051.png
+SHA1-Digest: cNa7sdrLXruQfbb2QVhQVqyDnv0=
+
+Name: assets/mmiap/image/vertical/title2_bg.png
+SHA1-Digest: at2u0fbDEzTAO0+wRjZwD7WAJJs=
+
+Name: assets/DM_1.plist
+SHA1-Digest: pXUT5mBcKtBr66tdPfn2++icA2E=
+
+Name: assets/JQ1.txt
+SHA1-Digest: EULNB15DN2Zfh7DzHkj91INQiCQ=
+
+Name: assets/702.mp3
+SHA1-Digest: /y4X3b+k18yvnxQ5iNbnBqUy9ac=
+
+Name: assets/qilitiaobai1.png
+SHA1-Digest: VDO/VNqb29Bv6to0sqp4+2c7AaY=
+
+Name: assets/MA_2.png
+SHA1-Digest: mZH/ggQdziF6Da5XIvd2LUs2cEA=
+
+Name: assets/mmiap/image/vertical/keyboard_bg.png
+SHA1-Digest: 3Mvk4x4VIjjbqnqwrit50fGt9pU=
+
+Name: assets/MA.xml
+SHA1-Digest: Kzpvtis5kTGF6MLWbIy4x69oKdQ=
+
+Name: assets/ccbResources/FH-NOMAOHAO.png
+SHA1-Digest: ZGPDJ+TY3qgTVrjVU53192YoPDg=
+
+Name: assets/30.mp3
+SHA1-Digest: Ym+ekvK/xWVZJKsQju0Rdqsly+c=
+
+Name: assets/ResourcesImage/M12.png
+SHA1-Digest: ye2xoVHnmZ6ze1g53I0G2/fzdCU=
+
+Name: assets/ccbButton/UI-073.png
+SHA1-Digest: n7238KILaM/AIhQezlWFJNYTXPQ=
+
+Name: assets/ZJQ3.txt
+SHA1-Digest: y818STspVuld6OAYedD1YBwgwAA=
+
+Name: assets/zb/ZBYZ-tx-4.png
+SHA1-Digest: 8khWloonwVA/UtLTsoGKz1i3xa8=
+
+Name: assets/ccbMap/BM-009.png
+SHA1-Digest: L15coqHc9KDfdcY4WpzIfg1QGA0=
+
+Name: assets/UInew/JN-30.png
+SHA1-Digest: bhQWZpcBS0/XZjRWLgEUv5u1mH0=
+
+Name: assets/ccbMap/BM-044.png
+SHA1-Digest: k8ocPvHtIWvpgAQJk/bIaHqM0tQ=
+
+Name: assets/ccbButton/icon-26.png
+SHA1-Digest: f2cvYWT5nM+mPNivUAK93vNn4gs=
+
+Name: assets/zb/JRTH-4yuan.png
+SHA1-Digest: yNXbEBlBmaRgwQJ0aE/ogNIY/IM=
+
+Name: assets/cg/MH_10.png
+SHA1-Digest: +simE2uCYshtiT80h3hWNxrLs0s=
+
+Name: assets/cg/MH_15.png
+SHA1-Digest: 67SINn1ov+KCZAiB/6AH+MqWaWQ=
+
+Name: assets/mmiap/image/vertical/get_verificationcode.9.png
+SHA1-Digest: F93ixYNe+RkZVuToVd3p+g/AKUY=
+
+Name: assets/UInew/LV-7.png
+SHA1-Digest: 4ElpEaX1W3XVYDUNHPWQX8tgdN4=
+
+Name: assets/ccbButton/UI-079.png
+SHA1-Digest: RqTsR2UBEanBFE2IDe/sBNdldZQ=
+
+Name: assets/ccbResources/TX-NPCZGL.png
+SHA1-Digest: HH8hKztVjAiMZhTo46AjpcdCX+E=
+
+Name: assets/E05.xml
+SHA1-Digest: GwRT9EcQlZl7xKselbaJ/A+ToLw=
+
+Name: assets/mmiap/image/vertical/title1_bg.png
+SHA1-Digest: Mk9uKdROHrMkoWDpgcd7Pm85gfU=
+
+Name: assets/cg/MH_Z1.png
+SHA1-Digest: hOoZNQPIyhYU28Rq8mfrqUgcOHE=
+
+Name: assets/wostore_logo.png
+SHA1-Digest: yzGYKIjc83onH5Ic89UbYew/aG4=
+
+Name: assets/MAP11.bin
+SHA1-Digest: jNZr9EvtZNxw9WywKgm6Y+yih/8=
+
+Name: assets/ccbButton/UI-082.png
+SHA1-Digest: Mz5o32NovqNFjEzi4iFNCbI8Uv4=
+
+Name: assets/qilitiao.png
+SHA1-Digest: 130cYOJ9M7ATUbRSMAiZCstHhjE=
+
+Name: assets/DLuo.png
+SHA1-Digest: 4I9IGz2A1yBN9rOVSp9pgzEp/qw=
+
+Name: assets/cg/MH_12.png
+SHA1-Digest: uHPDmM8mWX3Rm5tHmbr5HnVm3Po=
+
+Name: assets/UInew/DL_2.png
+SHA1-Digest: fbDum9xjjrzfvDYg5WHNTjiVBBU=
+
+Name: assets/MAP03_1.png
+SHA1-Digest: mNYRu9bNhtPL2LsGkPpYIoMgF30=
+
+Name: assets/ccbMap/BM-034.png
+SHA1-Digest: 3ce/ZKazII4pwg+k0yJUJPPbVcU=
+
+Name: assets/ccbMap/BM-042.png
+SHA1-Digest: IEUz04Oax85wR7LAHgyZhcK/H5k=
+
+Name: assets/ResourcesImage/TX-006.png
+SHA1-Digest: Apm3o3o6OjnlPba0cK1Z9CXgL04=
+
+Name: assets/MAP04_2.png
+SHA1-Digest: XNT2yLMp4d6Ss876oxNDrLCaAl0=
+
+Name: assets/mmiap/image/vertical/icon_false.png
+SHA1-Digest: fDEolNO1n1Fw+DKhkGolEMT6BOE=
+
+Name: assets/ResourcesImage/MXian.xml
+SHA1-Digest: /HO0fZ8+QkPPNYbvYaUJZYgFDHA=
+
+Name: assets/ResourcesImage/MZ-1.png
+SHA1-Digest: 2Nf38XOnAN1gsM/jH76FLPSliqc=
+
+Name: assets/ccbResources/MXUI-4.png
+SHA1-Digest: PSCC5h8WENPsc7WSzcXObgkDE0k=
+
+Name: lib/armeabi/libidentifyapp.so
+SHA1-Digest: kNzvovUp6hod8hC5mDdvdpmEQ7I=
+
+Name: assets/map.bin
+SHA1-Digest: o/gmHPg/suM+R6sfW3xiLPxEqto=
+
+Name: assets/001.mp3
+SHA1-Digest: zuVcgABoa3XDOMimXhm+wCr3U1I=
+
+Name: assets/MAP01.xml
+SHA1-Digest: 4LmZC7/958dWnCxF/Q5To0he1MI=
+
+Name: assets/text1.png
+SHA1-Digest: eNG9q0F7Gl5VJFysoMlmOpOHSSY=
+
+Name: assets/cg/MH_27.png
+SHA1-Digest: c+mPO4Ap9lL7nirIMwLiE/xQVQM=
+
+Name: assets/zb/JRTH-x5.png
+SHA1-Digest: lRDKt4qqA5K8qwP8bmKx7x66ebw=
+
+Name: assets/UInew/UI-M-04.mp3
+SHA1-Digest: JnQDex/B+y7aO6sep5Vgs6jD2LU=
+
+Name: assets/E04_2.png
+SHA1-Digest: /XMv4sbs5sc7FCz18fktXupKTzk=
+
+Name: assets/ccbMap/BM-1000.jpg
+SHA1-Digest: TCPMbq/UDec3k/CnzJ9Bo1Ty1ag=
+
+Name: assets/ccbButton/more_lt.png
+SHA1-Digest: UuRjl8muTWA/kr4wFkX4Kl9Gi/k=
+
+Name: assets/ccbResources/FH-FH2.png
+SHA1-Digest: Hg1CaP5jMgGbd2/YsHwYPRHdEFg=
+
+Name: assets/ccbResources/JHWJ-kuang3.png
+SHA1-Digest: 7pNNMSMy4dhkGNxG5qRY11+tHFs=
+
+Name: assets/cg/MH_22.png
+SHA1-Digest: U7FvqzE09djLcMfSvCf+ITK2Jnc=
+
+Name: assets/UInew/DL_6.png
+SHA1-Digest: eCIcle75j1td3a/5RV4VUM8aAK0=
+
+Name: assets/ccbButton/UI-088.png
+SHA1-Digest: z/IQxYQWysipAvfgZIytvxZvmU4=
+
+Name: assets/ccbResources/FH-LINE.png
+SHA1-Digest: FGgGzOfGqzKXHHoppDv/vIoP/34=
+
+Name: assets/ccbi/shangcheng.ccbi
+SHA1-Digest: eMOuo+Cr59/gUH/AwRVRwUgt24o=
+
+Name: assets/JM-7.png
+SHA1-Digest: y2vCKH8UVFwvD9yvkU8Piwkg69g=
+
+Name: assets/mainmenu/mainmenu_7_0.png
+SHA1-Digest: of3XNpLDdKJNxOBfwwB93kwxL6Q=
+
+Name: assets/Z000.xml
+SHA1-Digest: mIQNFZzkOaVIyPMALZvw/jShZx8=
+
+Name: assets/ccbButton/ICON-015.png
+SHA1-Digest: aO2jaIdut+fnTIoUgQZcXoF6ghI=
+
+Name: assets/zbg/ZBYZ-BAN10.png
+SHA1-Digest: Rw1uLIOasQ972bVHXsNTa182lXA=
+

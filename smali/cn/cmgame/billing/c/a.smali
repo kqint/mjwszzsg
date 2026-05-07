@@ -1,0 +1,72 @@
+.class public Lcn/cmgame/billing/c/a;
+.super Lcn/cmgame/sdk/d/b;
+.source "ChargeCodeResponse.java"
+
+
+# instance fields
+.field private bU:Ljava/lang/String;
+
+
+# direct methods
+.method public constructor <init>()V
+    .locals 0
+
+    .prologue
+    .line 11
+    invoke-direct {p0}, Lcn/cmgame/sdk/d/b;-><init>()V
+
+    return-void
+.end method
+
+.method public static av()Lcn/cmgame/sdk/c/b;
+    .locals 4
+
+    .prologue
+    .line 15
+    new-instance v0, Lcn/cmgame/billing/c/a$1;
+
+    const-class v1, Lcn/cmgame/billing/c/a;
+
+    const-string v2, "chargecoderesponse"
+
+    invoke-direct {v0, v1, v2}, Lcn/cmgame/billing/c/a$1;-><init>(Ljava/lang/Class;Ljava/lang/String;)V
+
+    .line 23
+    invoke-virtual {v0}, Lcn/cmgame/sdk/c/b;->dl()Ljava/util/HashMap;
+
+    move-result-object v1
+
+    const-string v2, "chargingcode"
+
+    new-instance v3, Lcn/cmgame/billing/c/a$2;
+
+    invoke-direct {v3}, Lcn/cmgame/billing/c/a$2;-><init>()V
+
+    invoke-virtual {v1, v2, v3}, Ljava/util/HashMap;->put(Ljava/lang/Object;Ljava/lang/Object;)Ljava/lang/Object;
+
+    .line 35
+    return-object v0
+.end method
+
+
+# virtual methods
+.method public ap(Ljava/lang/String;)V
+    .locals 0
+
+    .prologue
+    .line 43
+    iput-object p1, p0, Lcn/cmgame/billing/c/a;->bU:Ljava/lang/String;
+
+    .line 44
+    return-void
+.end method
+
+.method public bx()Ljava/lang/String;
+    .locals 1
+
+    .prologue
+    .line 39
+    iget-object v0, p0, Lcn/cmgame/billing/c/a;->bU:Ljava/lang/String;
+
+    return-object v0
+.end method

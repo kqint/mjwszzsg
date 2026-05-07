@@ -1,0 +1,21 @@
+.class public interface abstract Lcom/infinit/multimode_billig/log/LogNet$LogResult;
+.super Ljava/lang/Object;
+
+
+# annotations
+.annotation system Ldalvik/annotation/EnclosingClass;
+    value = Lcom/infinit/multimode_billig/log/LogNet;
+.end annotation
+
+.annotation system Ldalvik/annotation/InnerClass;
+    accessFlags = 0x609
+    name = "LogResult"
+.end annotation
+
+
+# virtual methods
+.method public abstract onComplete(Z)V
+.end method
+
+.method public abstract onError(Ljava/lang/Exception;)V
+.end method
