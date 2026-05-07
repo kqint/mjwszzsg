@@ -108,12 +108,6 @@
     .locals 1
 
     .prologue
-    const/4 v0, 0x0
-
-    .line 23
-    invoke-static {p0, v0, v0, v0}, Lcn/cmgame/billing/api/GameInterface;->initializeApp(Landroid/app/Activity;Ljava/lang/String;Ljava/lang/String;Ljava/lang/String;)V
-
-    .line 24
     return-void
 .end method
 

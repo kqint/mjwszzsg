@@ -13,7 +13,9 @@
       "Read(//tmp/verify2/**)",
       "Bash(pip install *)",
       "Bash(python patch_so2.py)",
-      "Bash(xxd -s 0x0015EE90 -l 50 d:/Dev/AndroidDev/mjwszzsg/lib/armeabi/libgame.so)"
+      "Bash(xxd -s 0x0015EE90 -l 50 d:/Dev/AndroidDev/mjwszzsg/lib/armeabi/libgame.so)",
+      "Bash(xxd -s 0x0015EE9A -l 2 d:/Dev/AndroidDev/mjwszzsg/lib/armeabi/libgame.so)",
+      "Bash(python fix_arm.py)"
     ]
   }
 }

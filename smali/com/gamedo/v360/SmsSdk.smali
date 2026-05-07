@@ -2302,6 +2302,10 @@
     .param p2, "params"    # Ljava/lang/String;
 
     .prologue
+    const-string v0, ""
+
+    return-object v0
+
     .line 448
     const-string v5, ""
 
