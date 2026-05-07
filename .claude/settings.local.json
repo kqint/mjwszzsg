@@ -1,0 +1,16 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(java -jar apktool.jar b -o mjwszzsg_fixed.apk .)",
+      "Bash(keytool -genkey -v -keystore debug.keystore -alias androiddebugkey -storepass android -keypass android -keyalg RSA -validity 10000 -dname \"CN=Android Debug\")",
+      "Bash(jarsigner -verbose -keystore debug.keystore -storepass android mjwszzsg_fixed.apk androiddebugkey)",
+      "Bash(jarsigner -verify -verbose mjwszzsg_fixed.apk)",
+      "Bash(java -jar apktool.jar d -s -f mjwszzsg_fixed.apk -o /tmp/verify_apk)",
+      "Read(//tmp/verify_apk/**)",
+      "Bash(which aapt *)",
+      "Read(//c/Users/vjnfyip/AppData/Local/Android/Sdk/**)",
+      "Bash(java -jar apktool.jar d -s -f mjwszzsg_fixed.apk -o /tmp/verify2)",
+      "Read(//tmp/verify2/**)"
+    ]
+  }
+}
