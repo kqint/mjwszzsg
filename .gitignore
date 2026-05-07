@@ -29,6 +29,7 @@ out/
 *.log
 logcat.log
 crash.log
+all_logs*
 
 # OS
 .DS_Store
