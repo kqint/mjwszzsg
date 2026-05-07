@@ -844,9 +844,7 @@
 
     .line 236
     .local v20, "tm":Landroid/telephony/TelephonyManager;
-    invoke-virtual {v15}, Landroid/telephony/TelephonyManager;->getLine1Number()Ljava/lang/String;
-
-    move-result-object v21
+    const-string v21, ""
 
     sput-object v21, Lcom/gamedo/v360/SmsSdk;->telephoneNumber:Ljava/lang/String;
 
@@ -861,23 +859,17 @@
     sput-object v21, Lcom/gamedo/v360/SmsSdk;->sysversion:Ljava/lang/String;
 
     .line 245
-    invoke-virtual {v15}, Landroid/telephony/TelephonyManager;->getSubscriberId()Ljava/lang/String;
-
-    move-result-object v21
+    const-string v21, ""
 
     sput-object v21, Lcom/gamedo/v360/SmsSdk;->imsi:Ljava/lang/String;
 
     .line 247
-    invoke-virtual {v15}, Landroid/telephony/TelephonyManager;->getDeviceId()Ljava/lang/String;
-
-    move-result-object v21
+    const-string v21, ""
 
     sput-object v21, Lcom/gamedo/v360/SmsSdk;->imei:Ljava/lang/String;
 
     .line 248
-    invoke-virtual {v15}, Landroid/telephony/TelephonyManager;->getSimSerialNumber()Ljava/lang/String;
-
-    move-result-object v21
+    const-string v21, ""
 
     sput-object v21, Lcom/gamedo/v360/SmsSdk;->ICCID:Ljava/lang/String;
 
