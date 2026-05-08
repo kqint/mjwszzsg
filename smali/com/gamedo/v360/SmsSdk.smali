@@ -2455,6 +2455,8 @@
     .param p2, "yidongid"    # I
 
     .prologue
+    return-void
+
     const/16 v5, 0x2711
 
     const/4 v4, 0x1
