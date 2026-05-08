@@ -11,19 +11,22 @@ This is a **decompiled APK** (apktool 3.0.1 output) of an old Cocos2dx Android g
 - Only `armeabi` (32-bit ARM) native libs: `libgame.so` (7.7MB, embeds libcurl 7.26.0 + Cocos2dx), `libidentifyapp.so`, `libcasdkjni.so`
 - Integrates 7 SDKs: 360 safiap, mm purchasesdk, CMGame billing, 咪咕 mmwlan, multimode_billing, cn.game189.sms, com.a (channel SDK)
 
-## Current Status (2026-05-08)
+## Current Status (2026-05-09)
 
 **What works:**
 - APK installs and launches on Android 11 (Realme RMX3031)
 - Startup time: ~0.4s (was 141s before network stubs)
 - Game renders, audio plays, characters animate
 - No crashes (Java or native)
+- Z1+Z2+Z3 patches: zhengban gate disabled → first level loads correctly
+- B1 patch: purchase buttons no longer freeze the game
 
 **What's broken:**
-- At a fixed game progress point, screen goes black (game logic/audio continue)
-- Root cause: heap corruption in `CCDictionary::setObject()` during plist parsing inside `CCSpriteFrameCache::removeSpriteFramesFromFile()`, triggered by `AniCartoon::clear()` → `MapLayer::removeall()`
+- "木牛流马" (game mechanic) shows black screen at a specific point
+- Re-entering the first level causes character to freeze (UI visible)
+- Likely remaining zhengbanFlag checks or missing server data
 
-**Next step:** Patch `CCSpriteFrameCache::removeSpriteFramesFromFile` (offset `0x0052C3B0`) to return immediately via `bx lr`.
+**Root cause of most issues:** `HeroShuXing::zhengbanFlag` defaults to `true` (1) when loaded from `CCUserDefault`. This triggers "genuine version" paths that need dead server data. Z1+Z2+Z3 patches force it to `false`.
 
 ## Active Modifications
 
@@ -36,8 +39,10 @@ All modifications are applied directly to the decompiled source. The APK is rebu
 | `apktool.yml` | `doNotCompress` includes `- so` |
 | `AndroidManifest.xml` | `targetSdkVersion="22"`, `requestLegacyExternalStorage="true"`, `usesCleartextTraffic="true"` |
 | `smali/com/gamedo/v360/sanguoAndroid360.smali` | `onCreate()` begins with `StrictMode.setThreadPolicy(permitAll())` |
+| `smali/com/gamedo/v360/sanguoAndroid360.smali` | `denglu` field init: -1 → 0, `guanka` field init: -1 → 0 |
 | `smali/com/gamedo/v360/SmsSdk.smali` | `init()`: 4 telephony calls (getLine1Number/getSubscriberId/getDeviceId/getSimSerialNumber) → `const-string v21, ""` |
 | `smali/com/gamedo/v360/SmsSdk.smali` | `sendGameInfo()`: early return `const-string v0, ""` + `return-object v0` inserted after `.prologue` |
+| `smali/com/gamedo/v360/SmsSdk.smali` | `sendSms(II)V`: `return-void` inserted after `.prologue` (prevents billing freeze) |
 | `smali/cn/cmgame/billing/api/GameInterface.smali` | `initializeApp(Activity)`: entire body replaced with just `return-void` |
 
 ### Native/ARM (libgame.so hex patches, all in effect)
@@ -46,7 +51,11 @@ All modifications are applied directly to the decompiled source. The APK is rebu
 |--------|----------|---------|--------|
 | `0x0015EE9A` | `01 dc` (BGT) | `ff e7` (B #0x15ee9c) | Always call safe func before crash path |
 | `0x0015EE94` | `01 32` (adds r2, #1) | `00 22` (movs r2, #0) | Counter always 0 |
+| `0x0052C3C2` | `f0 b5` (push {r4-r7,lr}) | `70 47` (bx lr) | removeSpriteFramesFromFile → instant return |
 | `0x00558440` | `70 b5 04 1c` (push; adds) | `07 20 70 47` (movs r0,#7; bx lr) | curl_easy_perform → instant error |
+| `0x00243EEE` | `1b d0` (BEQ zhengban path) | `1b e0` (B skip zhengban) | getNowMapIndex: skip zhengban gate (Z1) |
+| `0x001F0C20` | `01 22` (MOVS R2, #1) | `00 22` (MOVS R2, #0) | loadJF: zhengbanFlag default = 0 (Z2) |
+| `0x001F0E7C` | `01 22` (MOVS R2, #1) | `00 22` (MOVS R2, #0) | loadZB: zhengbanFlag default = 0 (Z3) |
 
 ## Build / Rebuild / Install Cycle
 
@@ -98,13 +107,16 @@ nop-like           ; 2 bytes: 00 bf
 |--------|----------------|---------|
 | `0x0015E7F4` | `MapLayer::zhengbanlogic()` | Game state machine (30+ states) |
 | `0x00156D28` | `MapLayer::removeall()` | Scene cleanup (triggers crash) |
-| `0x0015DA90` | `init(r0, r1)` | Scene initialization |
+| `0x0015DA90` | `MapLayer::restart(int)` | Scene re-initialization |
 | `0x0015EE9A` | BGT in state 194 | Counter threshold check (our patch site) |
 | `0x0015FAC0` | BL to zhengbanlogic | Called from MapLayer::logic() |
-| `0x0052C3B0` | `removeSpriteFramesFromFile` | plist parsing crash trigger |
+| `0x0052C3C2` | `removeSpriteFramesFromFile` | plist parsing crash trigger (patched) |
 | `0x005019AC` | `CCDictionary::setObject` | Actual crash instruction |
 | `0x00558440` | `curl_easy_perform` | libcurl network I/O (now stubbed) |
 | `0x005585C4` | `curl_easy_init` | libcurl handle creation |
+| `0x00243EAC` | `HeroShuXing::getNowMapIndex()` | zhengban gate (Z1 patch) |
+| `0x001F0C20` | `SaveManager::loadJF()` | zhengbanFlag default load (Z2) |
+| `0x001F0E7C` | `SaveManager::loadZB()` | zhengbanFlag default load (Z3) |
 
 ### Disassembling with capstone
 ```python
@@ -120,6 +132,12 @@ for insn in md.disasm(data[offset:offset+length], offset):
 xxd -s <offset> -l <length> lib/armeabi/libgame.so
 ```
 
+### IDA disassembly
+The file `lib/armeabi/libgame.lst` is a full IDA Pro disassembly listing (4.7M lines). Use `grep` to search it. Key patterns:
+- Symbol names demangle with `c++filt` (e.g. `_ZN8MapLayer7restartEi` → `MapLayer::restart(int)`)
+- `CODE XREF` shows callers
+- `DATA XREF` shows data references
+
 ## Key Discoveries
 
 1. **targetSdkVersion=22** is the critical choice — it's pre-runtime-permissions (API 23) so no SecurityException for telephony calls, but `requestLegacyExternalStorage` still works on Android 11 (works for targetSdkVersion ≤ 29).
@@ -130,16 +148,19 @@ xxd -s <offset> -l <length> lib/armeabi/libgame.so
 
 4. **The crash is heap corruption** in `CCDictionary::setObject()` — not signature verification, not anti-piracy. The fault address varies between runs, confirming memory corruption rather than a deterministic logic bug.
 
+5. **The zhengban (genuine) gate** is the root cause of most progress-blocking issues. `zhengbanFlag` defaults to `true` in `CCUserDefault`, causing `getNowMapIndex()` to return special levels (39-44) that need dead server data. 10+ functions check this flag. Z1+Z2+Z3 patches disable it at both the read site and the load defaults.
+
 ## Key Files for Modification
 
 | File | Purpose |
 |------|---------|
 | `apktool.yml` | Controls compression (critical: `.so` files must be in `doNotCompress`) |
 | `AndroidManifest.xml` | targetSdkVersion + compat flags |
-| `smali/com/gamedo/v360/SmsSdk.smali` | Main SDK — telephony calls, HTTP requests (now stubbed) |
+| `smali/com/gamedo/v360/SmsSdk.smali` | Main SDK — telephony calls, HTTP requests, SMS billing (all stubbed) |
 | `smali/cn/cmgame/billing/api/GameInterface.smali` | CMGame SDK entry point (now stubbed) |
-| `smali/com/gamedo/v360/sanguoAndroid360.smali` | Main Activity — StrictMode patch |
-| `lib/armeabi/libgame.so` | Game engine native code — ARM patches for crash/curl |
+| `smali/com/gamedo/v360/sanguoAndroid360.smali` | Main Activity — StrictMode patch, denglu/guanka init |
+| `lib/armeabi/libgame.so` | Game engine native code — ARM patches for crash/curl/zhengban |
+| `lib/armeabi/libgame.lst` | IDA Pro disassembly listing for analysis |
 
 ## Document Index
 
@@ -147,7 +168,7 @@ xxd -s <offset> -l <length> lib/armeabi/libgame.so
 |-----|---------|
 | `docs/修复历程.md` | Full repair history with all attempts |
 | `docs/解决方案/README.md` | Solution overview and current status |
-| `docs/解决方案/11_原版对比与最终方向.md` | Latest: original vs patched comparison + P1 plan |
-| `docs/解决方案/06_方案E_Native层ARM修补.md` | ARM disassembly methodology |
+| `docs/解决方案/14_IDA分析_正版门修复.md` | IDA analysis: zhengban gate discovery + Z1/Z2/Z3 patches |
 | `docs/解决方案/08_去除登录与服务器连接.md` | Network stub details |
 | `docs/解决方案/10_Native层深度分析与修复方向.md` | State machine + libcurl discovery |
+| `docs/解决方案/13_当前状态与剩余方向.md` | All attempts summary |

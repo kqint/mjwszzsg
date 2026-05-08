@@ -1,28 +1,28 @@
 # 解决方案总览
 
-## 当前进展（2026-05-08）
+## 当前进展（2026-05-09）
 
 ```
-✅ Java 层已完全修通（启动 141s → 0.4s）
-✅ Native 层不再闪退
+✅ 启动 141s → 0.4s（网络 stub）
+✅ Java/Native 层不再闪退
 ✅ plist 解析崩溃已阻止（P1 修正版）
-❌ 进度黑屏：12 次 ARM patch 全部无法解决
-🔍 根因：init(0) 在登录门处创建空场景，无法通过二进制 patch 修复
-📋 务实方案：装箱（VMOS）/ 深入反汇编 init()
+✅ 正版门已破：第一关可正常游玩（Z1+Z2+Z3）
+✅ 购买按钮不再卡死（B1）
+⚠️  "木牛流马" 处黑屏；二次进入关卡人物卡死
 ```
 
-### 核心矛盾
+### 重大突破：IDA 反汇编发现正版门
+
+通过 IDA 分析 470 万行反汇编文本，发现根因是 **`HeroShuXing::zhengbanFlag`**（默认 `true`）在 `getNowMapIndex()` 中构成"正版门"——返回特殊关卡 39-44 而非正常索引。Z1+Z2+Z3 三连 patch 从根源禁用了此机制。
+
+详见 [14_IDA分析_正版门修复.md](14_IDA分析_正版门修复.md)
+
+### plist 崩溃有两条路径（均已阻止）
 
 ```
-zhengbanlogic 运行 → UI/交互正常 → 触发 init(0) → 空场景 → 黑屏
-zhengbanlogic 不运行 → 场景正常渲染 → 但无UI无交互 → 无法游玩
-```
-
-### plist 崩溃有两条路径
-
-```
-路径A: zhengbanlogic → removeall → Hero::~Hero → AniCartoon::clear()+244 → 💥
-路径B: MapLayer::logic → removenpc → Npc::~Npc → AniCartoon::clear()+150 → 💥
+路径A: MapLayer::removeall → Hero::~Hero → AniCartoon::clear()+244 → 💥
+路径B: MapLayer::removenpc → Npc::~Npc → AniCartoon::clear()+150 → 💥
+P1: removeSpriteFramesFromFile @ 0x52C3C2 → bx lr (阻止两条路径)
 ```
 
 P1 修正版（`0x0052C3C2`→bx lr）同时阻止两条路径，已不闪退。
