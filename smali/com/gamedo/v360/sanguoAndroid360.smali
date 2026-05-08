@@ -59,13 +59,17 @@
     sput v1, Lcom/gamedo/v360/sanguoAndroid360;->zbflag:I
 
     .line 184
-    sput v1, Lcom/gamedo/v360/sanguoAndroid360;->guanka:I
+    const/4 v0, 0x0
+
+    sput v0, Lcom/gamedo/v360/sanguoAndroid360;->guanka:I
 
     .line 185
     sput v1, Lcom/gamedo/v360/sanguoAndroid360;->jinqian:I
 
     .line 186
-    sput v1, Lcom/gamedo/v360/sanguoAndroid360;->denglu:I
+    const/4 v0, 0x0
+
+    sput v0, Lcom/gamedo/v360/sanguoAndroid360;->denglu:I
 
     .line 187
     sput v1, Lcom/gamedo/v360/sanguoAndroid360;->Twujiang:I

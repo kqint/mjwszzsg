@@ -5,32 +5,27 @@
 ```
 ✅ Java 层已完全修通（启动 141s → 0.4s）
 ✅ Native 层不再闪退
-🔬 根因定位：CCDictionary::setObject() 堆损坏，既导致原版闪退也导致修补版黑屏
-📋 待实施：P1 — patch removeSpriteFramesFromFile 跳过 plist 解析
+✅ plist 解析崩溃已阻止（P1 修正版）
+❌ 进度黑屏：12 次 ARM patch 全部无法解决
+🔍 根因：init(0) 在登录门处创建空场景，无法通过二进制 patch 修复
+📋 务实方案：装箱（VMOS）/ 深入反汇编 init()
 ```
 
-### 核心发现：原版 vs 修补版对比
-
-| | 原版 APK | 修补版 APK |
-|:--|:--|:--|
-| 启动速度 | 黑屏数分钟（网络超时） | **0.4 秒** |
-| 登录窗口 | 弹出 | **不弹出** |
-| 进度表现 | 偶尔能加载更多，最终 SIGSEGV 闪退 | 不闪退，但黑屏（游戏逻辑/音频正常运行） |
-| 崩溃地址 | 随机（`0x7b2c7e3b` / `0x392c353d`） | — |
-
-**结论**：原版闪退和修补版黑屏是**同一个堆损坏 bug 的不同表现**。我们的 patch 改变了内存布局，使损坏从"致命崩溃"变为"GL 渲染污染"。
-
-### 崩溃链（精确定位）
+### 核心矛盾
 
 ```
-MapLayer::removeall()
-  → CCArray::removeAllObjects()
-    → Hero::~Hero()
-      → AniCartoon::clear()
-        → CCSpriteFrameCache::removeSpriteFramesFromFile()  ← P1 目标
-          → plist 解析 → CCDictionary::setObject()
-            → 💥 std::string 写入已释放内存
+zhengbanlogic 运行 → UI/交互正常 → 触发 init(0) → 空场景 → 黑屏
+zhengbanlogic 不运行 → 场景正常渲染 → 但无UI无交互 → 无法游玩
 ```
+
+### plist 崩溃有两条路径
+
+```
+路径A: zhengbanlogic → removeall → Hero::~Hero → AniCartoon::clear()+244 → 💥
+路径B: MapLayer::logic → removenpc → Npc::~Npc → AniCartoon::clear()+150 → 💥
+```
+
+P1 修正版（`0x0052C3C2`→bx lr）同时阻止两条路径，已不闪退。
 
 ---
 
@@ -51,15 +46,17 @@ MapLayer::removeall()
 
 | 方案 | 偏移 | 修改 | 结果 |
 |:--|:--|:--|:--|
-| NOP-BGT | `0x15EE9A` | `bgt` → `nop` | ❌ 黑屏（仍执行 removeall） |
-| B-skip | `0x15EE9A` | → `b #0x15eeb6` | ❌ 黑屏（跳过 removeall 但 GL 已污染） |
-| **B-safe** | `0x15EE9A` | → `b #0x15ee9c` | ✅ 不闪退（当前保留） |
-| H1 | `0x15FAC0` | `bl zhengbanlogic` → `nop;nop` | ⚠️ 有画面无 UI |
-| **H3** | `0x15EE94` | `adds r2,#1` → `movs r2,#0` | ❌ 黑屏（removeall 仍执行） |
-| N1 | `0x558440` | `curl_easy_perform` → `return 7` | ❌ 黑屏（不解决根因） |
-| **P1** | `0x52C3B0` | `removeSpriteFramesFromFile` → `bx lr` | 📋 待实施 |
+| NOP-BGT | `0x15EE9A` | `bgt` → `nop` | ❌ 黑屏 |
+| B-skip | `0x15EE9A` | → `b #0x15eeb6` | ❌ 黑屏 |
+| **B-safe** | `0x15EE9A` | → `b #0x15ee9c` | ⚠️ 不闪退（保留） |
+| H1 | `0x15FAC0` | → `nop;nop` | ⚠️ **唯一有效**：有画面无UI |
+| H3 | `0x15EE94` | → `movs r2,#0` | ❌ 黑屏（保留） |
+| N1 | `0x558440` | curl_easy_perform → ret 7 | ❌ 黑屏（保留） |
+| P1 (错) | `0x52C3B0` | → bx lr | ❌ 打错函数 |
+| **P1 (正)** | `0x52C3C2` | → bx lr | ✅ 阻止 plist 解析，仍黑屏 |
+| **L1** | `sanguoAndroid360` | denglu/guanka = 0 | ❌ 黑屏（闪退一次） |
 
-### 当前生效的 patch（7 处）
+### 当前生效的 patch（10 处）
 
 | # | 文件 | 修改 | 目的 |
 |:--|:--|:--|:--|
