@@ -1,0 +1,7 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(grep -v \"libcurl\\\\|mozilla\\\\|openssl\\\\|\\\\.cpp\\\\|\\\\.h\\\\|png\\\\|jpg\\\\|mp3\\\\|wav\\\\|\\\\.c$\")"
+    ]
+  }
+}

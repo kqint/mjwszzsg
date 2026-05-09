@@ -453,6 +453,12 @@
 
     invoke-virtual {v0, v1, v2}, Lcom/gamedo/v360/SmsSdk;->sendSms(II)V
 
+    invoke-static {p0}, Lcom/gamedo/v360/sanguoAndroid360;->jifeiBack(I)V
+
+    const/4 v0, 0x1
+
+    invoke-static {v0}, Lcom/gamedo/v360/sanguoAndroid360;->nativePayResult(I)V
+
     .line 122
     return-void
 .end method
