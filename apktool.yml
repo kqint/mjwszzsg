@@ -8,7 +8,7 @@ sdkInfo:
   targetSdkVersion: 22
 versionInfo:
   versionCode: 1
-  versionName: 1.7
+  versionName: 1.8
 resourcesInfo:
   packageId: 127
 doNotCompress:
