@@ -166,9 +166,10 @@ The file `lib/armeabi/libgame.lst` is a full IDA Pro disassembly listing (4.7M l
 
 | Doc | Content |
 |-----|---------|
-| `docs/修复历程.md` | Full repair history with all attempts |
+| `docs/修复总结.md` | **Complete fix summary** — all effective/ineffective methods, current status |
+| `docs/编译打包.md` | Build/sign/install guide |
 | `docs/解决方案/README.md` | Solution overview and current status |
-| `docs/解决方案/14_IDA分析_正版门修复.md` | IDA analysis: zhengban gate discovery + Z1/Z2/Z3 patches |
-| `docs/解决方案/08_去除登录与服务器连接.md` | Network stub details |
-| `docs/解决方案/10_Native层深度分析与修复方向.md` | State machine + libcurl discovery |
-| `docs/解决方案/13_当前状态与剩余方向.md` | All attempts summary |
+| `docs/解决方案/14_IDA分析_正版门修复.md` | IDA analysis: zhengban gate discovery |
+| `docs/解决方案/15_存档路径分析.md` | Save file locations and import/export |
+| `docs/解决方案/16_购买计费跳过方案.md` | Direct purchase bypass |
+| `docs/解决方案/17_恢复序章方案.md` | Prologue recovery analysis |
