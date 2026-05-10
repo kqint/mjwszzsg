@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<Map>
+<frames FrameCount="14">
+<frame DateCount="0" FrameIndex="0" FrameName="map" TitleCount="1">
+<Ftitle InFrameReverse="0" InFrameX="-15" InFrameY="-26" InFrameY0="map02-000.png"/>
+</frame>
+<frame DateCount="1" FrameIndex="1" FrameName="zhuzi" TitleCount="1">
+<data DataH="67" DataName="4" DataW="45" DataX="-23" DataY="-67"/>
+<Ftitle InFrameReverse="0" InFrameX="-26" InFrameY="-77" InFrameY0="map02-004.png"/>
+</frame>
+<frame DateCount="10" FrameIndex="2" FrameName="tong" TitleCount="1">
+<data DataH="21" DataName="4" DataW="22" DataX="-310" DataY="-422"/>
+<data DataH="24" DataName="4" DataW="31" DataX="-319" DataY="-424"/>
+<data DataH="61" DataName="4" DataW="65" DataX="-343" DataY="-437"/>
+<data DataH="127" DataName="4" DataW="136" DataX="-374" DataY="-468"/>
+<data DataH="136" DataName="4" DataW="125" DataX="-381" DataY="-482"/>
+<data DataH="146" DataName="4" DataW="166" DataX="-410" DataY="-476"/>
+<data DataH="127" DataName="4" DataW="110" DataX="-286" DataY="-390"/>
+<data DataH="144" DataName="4" DataW="116" DataX="-357" DataY="-477"/>
+<data DataH="40" DataName="4" DataW="53" DataX="-400" DataY="-537"/>
+<data DataH="26" DataName="4" DataW="23" DataX="-11" DataY="-26"/>
+<Ftitle InFrameReverse="0" InFrameX="-13" InFrameY="-27" InFrameY0="map02-000.png"/>
+</frame>
+<frame DateCount="0" FrameIndex="3" FrameName="qi1" TitleCount="1">
+<Ftitle InFrameReverse="0" InFrameX="-21" InFrameY="-158" InFrameY0="map02-008.png"/>
+</frame>
+<frame DateCount="0" FrameIndex="4" FrameName="qi2" TitleCount="1">
+<Ftitle InFrameReverse="0" InFrameX="-21" InFrameY="-158" InFrameY0="map02-009.png"/>
+</frame>
+<frame DateCount="0" FrameIndex="5" FrameName="qi3" TitleCount="1">
+<Ftitle InFrameReverse="0" InFrameX="-21" InFrameY="-158" InFrameY0="map02-010.png"/>
+</frame>
+<frame DateCount="0" FrameIndex="6" FrameName="qi4" TitleCount="1">
+<Ftitle InFrameReverse="0" InFrameX="-21" InFrameY="-158" InFrameY0="map02-011.png"/>
+</frame>
+<frame DateCount="0" FrameIndex="7" FrameName="gelou" TitleCount="1">
+<Ftitle InFrameReverse="0" InFrameX="-76" InFrameY="-41" InFrameY0="map02-001.png"/>
+</frame>
+<frame DateCount="0" FrameIndex="8" FrameName="tielian" TitleCount="1">
+<Ftitle InFrameReverse="0" InFrameX="-89" InFrameY="-47" InFrameY0="map02-005.png"/>
+</frame>
+<frame DateCount="0" FrameIndex="9" FrameName="jian" TitleCount="1">
+<Ftitle InFrameReverse="0" InFrameX="1" InFrameY="-16" InFrameY0="map02-006.png"/>
+</frame>
+<frame DateCount="0" FrameIndex="10" FrameName="mao" TitleCount="1">
+<Ftitle InFrameReverse="0" InFrameX="-9" InFrameY="-39" InFrameY0="map02-007.png"/>
+</frame>
+<frame DateCount="0" FrameIndex="11" FrameName="guang" TitleCount="1">
+<Ftitle InFrameReverse="0" InFrameX="-73" InFrameY="-52" InFrameY0="map02-012.png"/>
+</frame>
+<frame DateCount="0" FrameIndex="12" FrameName="deng" TitleCount="1">
+<Ftitle InFrameReverse="0" InFrameX="-16" InFrameY="-20" InFrameY0="map02-003.png"/>
+</frame>
+<frame DateCount="0" FrameIndex="13" FrameName="dingzi" TitleCount="1">
+<Ftitle InFrameReverse="0" InFrameX="-9" InFrameY="-14" InFrameY0="map02-002.png"/>
+</frame>
+</frames>
+<actions ActionCount="11">
+<action FrameCount="1" actionIndex="0" actionName="zhanchuan">
+<Aframe Delay="0" Index="0"/>
+</action>
+<action FrameCount="1" actionIndex="1" actionName="zhuzi">
+<Aframe Delay="0" Index="1"/>
+</action>
+<action FrameCount="1" actionIndex="2" actionName="tong">
+<Aframe Delay="0" Index="2"/>
+</action>
+<action FrameCount="4" actionIndex="3" actionName="qi">
+<Aframe Delay="2" Index="3"/>
+<Aframe Delay="2" Index="4"/>
+<Aframe Delay="2" Index="5"/>
+<Aframe Delay="2" Index="6"/>
+</action>
+<action FrameCount="1" actionIndex="4" actionName="gelou">
+<Aframe Delay="0" Index="7"/>
+</action>
+<action FrameCount="1" actionIndex="5" actionName="tielian">
+<Aframe Delay="0" Index="8"/>
+</action>
+<action FrameCount="1" actionIndex="6" actionName="jian">
+<Aframe Delay="0" Index="9"/>
+</action>
+<action FrameCount="1" actionIndex="7" actionName="mao">
+<Aframe Delay="0" Index="10"/>
+</action>
+<action FrameCount="1" actionIndex="8" actionName="guang">
+<Aframe Delay="0" Index="11"/>
+</action>
+<action FrameCount="1" actionIndex="9" actionName="deng">
+<Aframe Delay="0" Index="12"/>
+</action>
+<action FrameCount="1" actionIndex="10" actionName="dingzi">
+<Aframe Delay="0" Index="13"/>
+</action>
+</actions>
+</Map>

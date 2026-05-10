@@ -1,0 +1,287 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<Map>
+<frames FrameCount="51">
+<frame DateCount="0" FrameIndex="0" FrameName="0" TitleCount="1">
+<Ftitle InFrameReverse="0" InFrameX="-24" InFrameY="-27" InFrameY0="DLuo-000.png"/>
+</frame>
+<frame DateCount="0" FrameIndex="1" FrameName="1" TitleCount="1">
+<Ftitle InFrameReverse="0" InFrameX="-24" InFrameY="-26" InFrameY0="DLuo-001.png"/>
+</frame>
+<frame DateCount="0" FrameIndex="2" FrameName="2" TitleCount="1">
+<Ftitle InFrameReverse="0" InFrameX="-24" InFrameY="-30" InFrameY0="DLuo-002.png"/>
+</frame>
+<frame DateCount="0" FrameIndex="3" FrameName="3" TitleCount="1">
+<Ftitle InFrameReverse="0" InFrameX="-27" InFrameY="-29" InFrameY0="DLuo-003.png"/>
+</frame>
+<frame DateCount="0" FrameIndex="4" FrameName="4" TitleCount="1">
+<Ftitle InFrameReverse="0" InFrameX="-24" InFrameY="-30" InFrameY0="DLuo-004.png"/>
+</frame>
+<frame DateCount="0" FrameIndex="5" FrameName="5" TitleCount="1">
+<Ftitle InFrameReverse="0" InFrameX="-24" InFrameY="-24" InFrameY0="DLuo-005.png"/>
+</frame>
+<frame DateCount="0" FrameIndex="6" FrameName="6" TitleCount="1">
+<Ftitle InFrameReverse="0" InFrameX="-24" InFrameY="-24" InFrameY0="DLuo-006.png"/>
+</frame>
+<frame DateCount="0" FrameIndex="7" FrameName="7" TitleCount="1">
+<Ftitle InFrameReverse="0" InFrameX="-24" InFrameY="-24" InFrameY0="DLuo-007.png"/>
+</frame>
+<frame DateCount="0" FrameIndex="8" FrameName="8" TitleCount="1">
+<Ftitle InFrameReverse="0" InFrameX="-24" InFrameY="-24" InFrameY0="DLuo-008.png"/>
+</frame>
+<frame DateCount="0" FrameIndex="9" FrameName="9" TitleCount="1">
+<Ftitle InFrameReverse="0" InFrameX="-24" InFrameY="-24" InFrameY0="DLuo-009.png"/>
+</frame>
+<frame DateCount="0" FrameIndex="10" FrameName="10" TitleCount="1">
+<Ftitle InFrameReverse="0" InFrameX="-24" InFrameY="-40" InFrameY0="DLuo-010.png"/>
+</frame>
+<frame DateCount="0" FrameIndex="11" FrameName="11" TitleCount="1">
+<Ftitle InFrameReverse="0" InFrameX="-24" InFrameY="-32" InFrameY0="DLuo-011.png"/>
+</frame>
+<frame DateCount="0" FrameIndex="12" FrameName="12" TitleCount="1">
+<Ftitle InFrameReverse="0" InFrameX="-24" InFrameY="-37" InFrameY0="DLuo-012.png"/>
+</frame>
+<frame DateCount="0" FrameIndex="13" FrameName="13" TitleCount="1">
+<Ftitle InFrameReverse="0" InFrameX="-24" InFrameY="-37" InFrameY0="DLuo-013.png"/>
+</frame>
+<frame DateCount="0" FrameIndex="14" FrameName="14" TitleCount="1">
+<Ftitle InFrameReverse="0" InFrameX="-24" InFrameY="-27" InFrameY0="DLuo-014.png"/>
+</frame>
+<frame DateCount="0" FrameIndex="15" FrameName="15" TitleCount="1">
+<Ftitle InFrameReverse="0" InFrameX="-24" InFrameY="-38" InFrameY0="DLuo-015.png"/>
+</frame>
+<frame DateCount="0" FrameIndex="16" FrameName="16" TitleCount="1">
+<Ftitle InFrameReverse="0" InFrameX="-24" InFrameY="-40" InFrameY0="DLuo-016.png"/>
+</frame>
+<frame DateCount="0" FrameIndex="17" FrameName="17" TitleCount="1">
+<Ftitle InFrameReverse="0" InFrameX="-24" InFrameY="-41" InFrameY0="DLuo-017.png"/>
+</frame>
+<frame DateCount="0" FrameIndex="18" FrameName="18" TitleCount="1">
+<Ftitle InFrameReverse="0" InFrameX="-24" InFrameY="-42" InFrameY0="DLuo-018.png"/>
+</frame>
+<frame DateCount="0" FrameIndex="19" FrameName="19" TitleCount="1">
+<Ftitle InFrameReverse="0" InFrameX="-24" InFrameY="-33" InFrameY0="DLuo-019.png"/>
+</frame>
+<frame DateCount="0" FrameIndex="20" FrameName="20" TitleCount="1">
+<Ftitle InFrameReverse="0" InFrameX="-24" InFrameY="-35" InFrameY0="DLuo-020.png"/>
+</frame>
+<frame DateCount="0" FrameIndex="21" FrameName="21" TitleCount="1">
+<Ftitle InFrameReverse="0" InFrameX="-24" InFrameY="-36" InFrameY0="DLuo-021.png"/>
+</frame>
+<frame DateCount="0" FrameIndex="22" FrameName="22" TitleCount="1">
+<Ftitle InFrameReverse="0" InFrameX="-24" InFrameY="-37" InFrameY0="DLuo-022.png"/>
+</frame>
+<frame DateCount="0" FrameIndex="23" FrameName="23" TitleCount="1">
+<Ftitle InFrameReverse="0" InFrameX="-24" InFrameY="-38" InFrameY0="DLuo-023.png"/>
+</frame>
+<frame DateCount="0" FrameIndex="24" FrameName="24" TitleCount="1">
+<Ftitle InFrameReverse="0" InFrameX="-24" InFrameY="-40" InFrameY0="DLuo-024.png"/>
+</frame>
+<frame DateCount="0" FrameIndex="25" FrameName="25" TitleCount="1">
+<Ftitle InFrameReverse="0" InFrameX="-24" InFrameY="-41" InFrameY0="DLuo-025.png"/>
+</frame>
+<frame DateCount="0" FrameIndex="26" FrameName="26" TitleCount="1">
+<Ftitle InFrameReverse="0" InFrameX="-24" InFrameY="-42" InFrameY0="DLuo-026.png"/>
+</frame>
+<frame DateCount="0" FrameIndex="27" FrameName="27" TitleCount="1">
+<Ftitle InFrameReverse="0" InFrameX="-24" InFrameY="-41" InFrameY0="DLuo-027.png"/>
+</frame>
+<frame DateCount="0" FrameIndex="28" FrameName="28" TitleCount="1">
+<Ftitle InFrameReverse="0" InFrameX="-24" InFrameY="-43" InFrameY0="DLuo-028.png"/>
+</frame>
+<frame DateCount="0" FrameIndex="29" FrameName="29" TitleCount="1">
+<Ftitle InFrameReverse="0" InFrameX="-24" InFrameY="-44" InFrameY0="DLuo-029.png"/>
+</frame>
+<frame DateCount="0" FrameIndex="30" FrameName="30" TitleCount="1">
+<Ftitle InFrameReverse="0" InFrameX="-24" InFrameY="-45" InFrameY0="DLuo-030.png"/>
+</frame>
+<frame DateCount="0" FrameIndex="31" FrameName="31" TitleCount="1">
+<Ftitle InFrameReverse="0" InFrameX="-24" InFrameY="-27" InFrameY0="DLuo-031.png"/>
+</frame>
+<frame DateCount="0" FrameIndex="32" FrameName="32" TitleCount="2">
+<Ftitle InFrameReverse="0" InFrameX="-24" InFrameY="-27" InFrameY0="DLuo-031.png"/>
+<Ftitle InFrameReverse="0" InFrameX="1" InFrameY="-15" InFrameY0="DLuo-033.png"/>
+</frame>
+<frame DateCount="0" FrameIndex="33" FrameName="33" TitleCount="2">
+<Ftitle InFrameReverse="0" InFrameX="-24" InFrameY="-27" InFrameY0="DLuo-031.png"/>
+<Ftitle InFrameReverse="0" InFrameX="-1" InFrameY="-17" InFrameY0="DLuo-032.png"/>
+</frame>
+<frame DateCount="0" FrameIndex="34" FrameName="34" TitleCount="2">
+<Ftitle InFrameReverse="0" InFrameX="-24" InFrameY="-24" InFrameY0="DLuo-009.png"/>
+<Ftitle InFrameReverse="0" InFrameX="-19" InFrameY="-12" InFrameY0="DLuo-033.png"/>
+</frame>
+<frame DateCount="0" FrameIndex="35" FrameName="35" TitleCount="3">
+<Ftitle InFrameReverse="0" InFrameX="-24" InFrameY="-24" InFrameY0="DLuo-009.png"/>
+<Ftitle InFrameReverse="0" InFrameX="-21" InFrameY="-14" InFrameY0="DLuo-032.png"/>
+<Ftitle InFrameReverse="0" InFrameX="1" InFrameY="-11" InFrameY0="DLuo-033.png"/>
+</frame>
+<frame DateCount="0" FrameIndex="36" FrameName="36" TitleCount="3">
+<Ftitle InFrameReverse="0" InFrameX="-24" InFrameY="-24" InFrameY0="DLuo-009.png"/>
+<Ftitle InFrameReverse="0" InFrameX="-2" InFrameY="-14" InFrameY0="DLuo-032.png"/>
+<Ftitle InFrameReverse="0" InFrameX="-17" InFrameY="-12" InFrameY0="DLuo-033.png"/>
+</frame>
+<frame DateCount="0" FrameIndex="37" FrameName="36_1" TitleCount="2">
+<Ftitle InFrameReverse="0" InFrameX="-24" InFrameY="-24" InFrameY0="DLuo-009.png"/>
+<Ftitle InFrameReverse="0" InFrameX="2" InFrameY="-11" InFrameY0="DLuo-033.png"/>
+</frame>
+<frame DateCount="0" FrameIndex="38" FrameName="37" TitleCount="2">
+<Ftitle InFrameReverse="0" InFrameX="-24" InFrameY="-24" InFrameY0="DLuo-009.png"/>
+<Ftitle InFrameReverse="0" InFrameX="-11" InFrameY="-7" InFrameY0="DLuo-033.png"/>
+</frame>
+<frame DateCount="0" FrameIndex="39" FrameName="38" TitleCount="2">
+<Ftitle InFrameReverse="0" InFrameX="-24" InFrameY="-24" InFrameY0="DLuo-009.png"/>
+<Ftitle InFrameReverse="0" InFrameX="-14" InFrameY="-9" InFrameY0="DLuo-032.png"/>
+</frame>
+<frame DateCount="0" FrameIndex="40" FrameName="39" TitleCount="2">
+<Ftitle InFrameReverse="0" InFrameX="-24" InFrameY="-24" InFrameY0="DLuo-009.png"/>
+<Ftitle InFrameReverse="0" InFrameX="-11" InFrameY="-7" InFrameY0="DLuo-033.png"/>
+</frame>
+<frame DateCount="0" FrameIndex="41" FrameName="41" TitleCount="2">
+<Ftitle InFrameReverse="0" InFrameX="-24" InFrameY="-24" InFrameY0="DLuo-006.png"/>
+<Ftitle InFrameReverse="0" InFrameX="-17" InFrameY="-12" InFrameY0="DLuo-033.png"/>
+</frame>
+<frame DateCount="0" FrameIndex="42" FrameName="42" TitleCount="2">
+<Ftitle InFrameReverse="0" InFrameX="-24" InFrameY="-24" InFrameY0="DLuo-006.png"/>
+<Ftitle InFrameReverse="0" InFrameX="-20" InFrameY="-14" InFrameY0="DLuo-032.png"/>
+</frame>
+<frame DateCount="0" FrameIndex="43" FrameName="44" TitleCount="2">
+<Ftitle InFrameReverse="0" InFrameX="-24" InFrameY="-24" InFrameY0="DLuo-007.png"/>
+<Ftitle InFrameReverse="0" InFrameX="-17" InFrameY="-13" InFrameY0="DLuo-033.png"/>
+</frame>
+<frame DateCount="0" FrameIndex="44" FrameName="45" TitleCount="2">
+<Ftitle InFrameReverse="0" InFrameX="-24" InFrameY="-24" InFrameY0="DLuo-007.png"/>
+<Ftitle InFrameReverse="0" InFrameX="-20" InFrameY="-15" InFrameY0="DLuo-032.png"/>
+</frame>
+<frame DateCount="0" FrameIndex="45" FrameName="46" TitleCount="2">
+<Ftitle InFrameReverse="0" InFrameX="-24" InFrameY="-24" InFrameY0="DLuo-008.png"/>
+<Ftitle InFrameReverse="0" InFrameX="-17" InFrameY="-12" InFrameY0="DLuo-033.png"/>
+</frame>
+<frame DateCount="0" FrameIndex="46" FrameName="47" TitleCount="3">
+<Ftitle InFrameReverse="0" InFrameX="-24" InFrameY="-24" InFrameY0="DLuo-008.png"/>
+<Ftitle InFrameReverse="0" InFrameX="0" InFrameY="-12" InFrameY0="DLuo-033.png"/>
+<Ftitle InFrameReverse="0" InFrameX="-20" InFrameY="-15" InFrameY0="DLuo-032.png"/>
+</frame>
+<frame DateCount="0" FrameIndex="47" FrameName="48" TitleCount="3">
+<Ftitle InFrameReverse="0" InFrameX="-24" InFrameY="-24" InFrameY0="DLuo-008.png"/>
+<Ftitle InFrameReverse="0" InFrameX="-2" InFrameY="-15" InFrameY0="DLuo-032.png"/>
+<Ftitle InFrameReverse="0" InFrameX="-17" InFrameY="-13" InFrameY0="DLuo-033.png"/>
+</frame>
+<frame DateCount="0" FrameIndex="48" FrameName="49" TitleCount="2">
+<Ftitle InFrameReverse="0" InFrameX="-24" InFrameY="-24" InFrameY0="DLuo-008.png"/>
+<Ftitle InFrameReverse="0" InFrameX="0" InFrameY="-13" InFrameY0="DLuo-033.png"/>
+</frame>
+<frame DateCount="0" FrameIndex="49" FrameName="50" TitleCount="2">
+<Ftitle InFrameReverse="0" InFrameX="-24" InFrameY="-27" InFrameY0="DLuo-014.png"/>
+<Ftitle InFrameReverse="0" InFrameX="-14" InFrameY="-8" InFrameY0="DLuo-033.png"/>
+</frame>
+<frame DateCount="0" FrameIndex="50" FrameName="51" TitleCount="2">
+<Ftitle InFrameReverse="0" InFrameX="-24" InFrameY="-27" InFrameY0="DLuo-014.png"/>
+<Ftitle InFrameReverse="0" InFrameX="-16" InFrameY="-11" InFrameY0="DLuo-032.png"/>
+</frame>
+</frames>
+<actions ActionCount="16">
+<action FrameCount="1" actionIndex="0" actionName="0_小加血">
+<Aframe Delay="0" Index="0"/>
+</action>
+<action FrameCount="1" actionIndex="1" actionName="1_大加血">
+<Aframe Delay="0" Index="1"/>
+</action>
+<action FrameCount="1" actionIndex="2" actionName="2_小加蓝">
+<Aframe Delay="0" Index="2"/>
+</action>
+<action FrameCount="1" actionIndex="3" actionName="3_大加蓝">
+<Aframe Delay="0" Index="3"/>
+</action>
+<action FrameCount="4" actionIndex="4" actionName="4_烤乳猪">
+<Aframe Delay="20" Index="31"/>
+<Aframe Delay="1" Index="32"/>
+<Aframe Delay="1" Index="33"/>
+<Aframe Delay="1" Index="32"/>
+</action>
+<action FrameCount="1" actionIndex="5" actionName="5_木">
+<Aframe Delay="0" Index="4"/>
+</action>
+<action FrameCount="1" actionIndex="6" actionName="6_铁">
+<Aframe Delay="0" Index="5"/>
+</action>
+<action FrameCount="5" actionIndex="7" actionName="7_铜">
+<Aframe Delay="1" Index="41"/>
+<Aframe Delay="1" Index="42"/>
+<Aframe Delay="1" Index="41"/>
+<Aframe Delay="19" Index="6"/>
+<Aframe Delay="0" Index="6"/>
+</action>
+<action FrameCount="5" actionIndex="8" actionName="8_锡">
+<Aframe Delay="1" Index="43"/>
+<Aframe Delay="1" Index="44"/>
+<Aframe Delay="1" Index="43"/>
+<Aframe Delay="19" Index="7"/>
+<Aframe Delay="0" Index="7"/>
+</action>
+<action FrameCount="6" actionIndex="9" actionName="9_银">
+<Aframe Delay="1" Index="45"/>
+<Aframe Delay="1" Index="46"/>
+<Aframe Delay="1" Index="47"/>
+<Aframe Delay="1" Index="48"/>
+<Aframe Delay="15" Index="8"/>
+<Aframe Delay="0" Index="8"/>
+</action>
+<action FrameCount="10" actionIndex="10" actionName="10_金">
+<Aframe Delay="1" Index="34"/>
+<Aframe Delay="1" Index="35"/>
+<Aframe Delay="1" Index="36"/>
+<Aframe Delay="1" Index="37"/>
+<Aframe Delay="1" Index="9"/>
+<Aframe Delay="1" Index="38"/>
+<Aframe Delay="1" Index="39"/>
+<Aframe Delay="1" Index="40"/>
+<Aframe Delay="15" Index="9"/>
+<Aframe Delay="0" Index="9"/>
+</action>
+<action FrameCount="8" actionIndex="11" actionName="11_朱雀羽">
+<Aframe Delay="2" Index="11"/>
+<Aframe Delay="1" Index="19"/>
+<Aframe Delay="1" Index="20"/>
+<Aframe Delay="1" Index="21"/>
+<Aframe Delay="2" Index="22"/>
+<Aframe Delay="1" Index="21"/>
+<Aframe Delay="1" Index="20"/>
+<Aframe Delay="1" Index="19"/>
+</action>
+<action FrameCount="8" actionIndex="12" actionName="12_白虎牙">
+<Aframe Delay="2" Index="12"/>
+<Aframe Delay="1" Index="23"/>
+<Aframe Delay="1" Index="24"/>
+<Aframe Delay="1" Index="25"/>
+<Aframe Delay="2" Index="26"/>
+<Aframe Delay="1" Index="25"/>
+<Aframe Delay="1" Index="24"/>
+<Aframe Delay="1" Index="23"/>
+</action>
+<action FrameCount="8" actionIndex="13" actionName="13_玄武令">
+<Aframe Delay="2" Index="10"/>
+<Aframe Delay="1" Index="27"/>
+<Aframe Delay="1" Index="28"/>
+<Aframe Delay="1" Index="29"/>
+<Aframe Delay="2" Index="30"/>
+<Aframe Delay="1" Index="29"/>
+<Aframe Delay="1" Index="28"/>
+<Aframe Delay="1" Index="27"/>
+</action>
+<action FrameCount="8" actionIndex="14" actionName="14_青龙胆">
+<Aframe Delay="2" Index="13"/>
+<Aframe Delay="1" Index="15"/>
+<Aframe Delay="1" Index="16"/>
+<Aframe Delay="1" Index="17"/>
+<Aframe Delay="2" Index="18"/>
+<Aframe Delay="1" Index="17"/>
+<Aframe Delay="1" Index="16"/>
+<Aframe Delay="1" Index="15"/>
+</action>
+<action FrameCount="4" actionIndex="15" actionName="15_金钱">
+<Aframe Delay="20" Index="14"/>
+<Aframe Delay="1" Index="49"/>
+<Aframe Delay="1" Index="50"/>
+<Aframe Delay="1" Index="49"/>
+</action>
+</actions>
+</Map>

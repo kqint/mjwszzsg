@@ -1,0 +1,585 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<Map>
+<frames FrameCount="92">
+<frame DateCount="0" FrameIndex="0" FrameName="张飞出场0" TitleCount="3">
+<Ftitle InFrameReverse="0" InFrameX="-21" InFrameY="-16" InFrameY0="MX-034.png"/>
+<Ftitle InFrameReverse="0" InFrameX="-34" InFrameY="-54" InFrameY0="MX-000.png"/>
+<Ftitle InFrameReverse="0" InFrameX="-38" InFrameY="3" InFrameY0="MX-001.png"/>
+</frame>
+<frame DateCount="0" FrameIndex="1" FrameName="张飞出场1" TitleCount="3">
+<Ftitle InFrameReverse="0" InFrameX="-21" InFrameY="-16" InFrameY0="MX-034.png"/>
+<Ftitle InFrameReverse="0" InFrameX="-34" InFrameY="-53" InFrameY0="MX-000.png"/>
+<Ftitle InFrameReverse="0" InFrameX="-41" InFrameY="1" InFrameY0="MX-002.png"/>
+</frame>
+<frame DateCount="0" FrameIndex="2" FrameName="张飞出场2" TitleCount="3">
+<Ftitle InFrameReverse="0" InFrameX="-21" InFrameY="-16" InFrameY0="MX-034.png"/>
+<Ftitle InFrameReverse="0" InFrameX="-34" InFrameY="-54" InFrameY0="MX-000.png"/>
+<Ftitle InFrameReverse="0" InFrameX="-41" InFrameY="2" InFrameY0="MX-003.png"/>
+</frame>
+<frame DateCount="0" FrameIndex="3" FrameName="张飞出场3" TitleCount="3">
+<Ftitle InFrameReverse="0" InFrameX="-21" InFrameY="-16" InFrameY0="MX-034.png"/>
+<Ftitle InFrameReverse="0" InFrameX="-34" InFrameY="-53" InFrameY0="MX-000.png"/>
+<Ftitle InFrameReverse="0" InFrameX="-42" InFrameY="2" InFrameY0="MX-004.png"/>
+</frame>
+<frame DateCount="0" FrameIndex="4" FrameName="战斗准备0" TitleCount="2">
+<Ftitle InFrameReverse="0" InFrameX="-21" InFrameY="-16" InFrameY0="MX-034.png"/>
+<Ftitle InFrameReverse="0" InFrameX="-34" InFrameY="-53" InFrameY0="MX-000.png"/>
+</frame>
+<frame DateCount="0" FrameIndex="5" FrameName="1" TitleCount="2">
+<Ftitle InFrameReverse="0" InFrameX="-21" InFrameY="-16" InFrameY0="MX-034.png"/>
+<Ftitle InFrameReverse="0" InFrameX="-34" InFrameY="-54" InFrameY0="MX-000.png"/>
+</frame>
+<frame DateCount="0" FrameIndex="6" FrameName="2" TitleCount="2">
+<Ftitle InFrameReverse="0" InFrameX="-21" InFrameY="-16" InFrameY0="MX-034.png"/>
+<Ftitle InFrameReverse="0" InFrameX="-34" InFrameY="-56" InFrameY0="MX-000.png"/>
+</frame>
+<frame DateCount="0" FrameIndex="7" FrameName="3" TitleCount="2">
+<Ftitle InFrameReverse="0" InFrameX="-21" InFrameY="-16" InFrameY0="MX-034.png"/>
+<Ftitle InFrameReverse="0" InFrameX="-34" InFrameY="-59" InFrameY0="MX-000.png"/>
+</frame>
+<frame DateCount="0" FrameIndex="8" FrameName="4" TitleCount="2">
+<Ftitle InFrameReverse="0" InFrameX="-21" InFrameY="-16" InFrameY0="MX-034.png"/>
+<Ftitle InFrameReverse="0" InFrameX="-34" InFrameY="-62" InFrameY0="MX-000.png"/>
+</frame>
+<frame DateCount="0" FrameIndex="9" FrameName="5" TitleCount="2">
+<Ftitle InFrameReverse="0" InFrameX="-22" InFrameY="-14" InFrameY0="MX-034.png"/>
+<Ftitle InFrameReverse="0" InFrameX="-35" InFrameY="-52" InFrameY0="MX-000.png"/>
+</frame>
+<frame DateCount="0" FrameIndex="10" FrameName="6" TitleCount="2">
+<Ftitle InFrameReverse="0" InFrameX="-24" InFrameY="-12" InFrameY0="MX-034.png"/>
+<Ftitle InFrameReverse="0" InFrameX="-37" InFrameY="-50" InFrameY0="MX-000.png"/>
+</frame>
+<frame DateCount="0" FrameIndex="11" FrameName="7" TitleCount="2">
+<Ftitle InFrameReverse="0" InFrameX="-27" InFrameY="-9" InFrameY0="MX-034.png"/>
+<Ftitle InFrameReverse="0" InFrameX="-40" InFrameY="-47" InFrameY0="MX-000.png"/>
+</frame>
+<frame DateCount="0" FrameIndex="12" FrameName="8" TitleCount="2">
+<Ftitle InFrameReverse="0" InFrameX="-31" InFrameY="-5" InFrameY0="MX-034.png"/>
+<Ftitle InFrameReverse="0" InFrameX="-44" InFrameY="-43" InFrameY0="MX-000.png"/>
+</frame>
+<frame DateCount="0" FrameIndex="13" FrameName="9" TitleCount="2">
+<Ftitle InFrameReverse="0" InFrameX="-37" InFrameY="0" InFrameY0="MX-034.png"/>
+<Ftitle InFrameReverse="0" InFrameX="-49" InFrameY="-38" InFrameY0="MX-000.png"/>
+</frame>
+<frame DateCount="0" FrameIndex="14" FrameName="10" TitleCount="2">
+<Ftitle InFrameReverse="0" InFrameX="-40" InFrameY="4" InFrameY0="MX-034.png"/>
+<Ftitle InFrameReverse="0" InFrameX="-53" InFrameY="-34" InFrameY0="MX-000.png"/>
+</frame>
+<frame DateCount="0" FrameIndex="15" FrameName="11" TitleCount="2">
+<Ftitle InFrameReverse="0" InFrameX="-44" InFrameY="7" InFrameY0="MX-034.png"/>
+<Ftitle InFrameReverse="0" InFrameX="-56" InFrameY="-31" InFrameY0="MX-000.png"/>
+</frame>
+<frame DateCount="0" FrameIndex="16" FrameName="12" TitleCount="2">
+<Ftitle InFrameReverse="0" InFrameX="-46" InFrameY="9" InFrameY0="MX-034.png"/>
+<Ftitle InFrameReverse="0" InFrameX="-58" InFrameY="-29" InFrameY0="MX-000.png"/>
+</frame>
+<frame DateCount="0" FrameIndex="17" FrameName="13" TitleCount="2">
+<Ftitle InFrameReverse="0" InFrameX="-48" InFrameY="11" InFrameY0="MX-034.png"/>
+<Ftitle InFrameReverse="0" InFrameX="-60" InFrameY="-27" InFrameY0="MX-000.png"/>
+</frame>
+<frame DateCount="0" FrameIndex="18" FrameName="14" TitleCount="2">
+<Ftitle InFrameReverse="0" InFrameX="-49" InFrameY="12" InFrameY0="MX-034.png"/>
+<Ftitle InFrameReverse="0" InFrameX="-61" InFrameY="-26" InFrameY0="MX-000.png"/>
+</frame>
+<frame DateCount="0" FrameIndex="19" FrameName="15" TitleCount="2">
+<Ftitle InFrameReverse="0" InFrameX="-50" InFrameY="13" InFrameY0="MX-034.png"/>
+<Ftitle InFrameReverse="0" InFrameX="-62" InFrameY="-25" InFrameY0="MX-000.png"/>
+</frame>
+<frame DateCount="0" FrameIndex="20" FrameName="16" TitleCount="2">
+<Ftitle InFrameReverse="0" InFrameX="-51" InFrameY="14" InFrameY0="MX-034.png"/>
+<Ftitle InFrameReverse="0" InFrameX="-63" InFrameY="-24" InFrameY0="MX-000.png"/>
+</frame>
+<frame DateCount="0" FrameIndex="21" FrameName="17" TitleCount="2">
+<Ftitle InFrameReverse="0" InFrameX="-52" InFrameY="15" InFrameY0="MX-034.png"/>
+<Ftitle InFrameReverse="0" InFrameX="-64" InFrameY="-23" InFrameY0="MX-000.png"/>
+</frame>
+<frame DateCount="0" FrameIndex="22" FrameName="18" TitleCount="2">
+<Ftitle InFrameReverse="0" InFrameX="-53" InFrameY="16" InFrameY0="MX-034.png"/>
+<Ftitle InFrameReverse="0" InFrameX="-65" InFrameY="-22" InFrameY0="MX-000.png"/>
+</frame>
+<frame DateCount="0" FrameIndex="23" FrameName="19" TitleCount="2">
+<Ftitle InFrameReverse="0" InFrameX="-54" InFrameY="17" InFrameY0="MX-034.png"/>
+<Ftitle InFrameReverse="0" InFrameX="-66" InFrameY="-21" InFrameY0="MX-000.png"/>
+</frame>
+<frame DateCount="0" FrameIndex="24" FrameName="20" TitleCount="2">
+<Ftitle InFrameReverse="0" InFrameX="-55" InFrameY="18" InFrameY0="MX-034.png"/>
+<Ftitle InFrameReverse="0" InFrameX="-67" InFrameY="-20" InFrameY0="MX-000.png"/>
+</frame>
+<frame DateCount="0" FrameIndex="25" FrameName="21" TitleCount="2">
+<Ftitle InFrameReverse="0" InFrameX="-56" InFrameY="19" InFrameY0="MX-034.png"/>
+<Ftitle InFrameReverse="0" InFrameX="-68" InFrameY="-19" InFrameY0="MX-000.png"/>
+</frame>
+<frame DateCount="0" FrameIndex="26" FrameName="22" TitleCount="3">
+<Ftitle InFrameReverse="0" InFrameX="-21" InFrameY="-16" InFrameY0="MX-034.png"/>
+<Ftitle InFrameReverse="0" InFrameX="-42" InFrameY="2" InFrameY0="MX-004.png"/>
+<Ftitle InFrameReverse="0" InFrameX="-34" InFrameY="-53" InFrameY0="MX-000.png"/>
+</frame>
+<frame DateCount="0" FrameIndex="27" FrameName="战斗0" TitleCount="1">
+<Ftitle InFrameReverse="0" InFrameX="-101" InFrameY="-79" InFrameY0="MX-011.png"/>
+</frame>
+<frame DateCount="0" FrameIndex="28" FrameName="01" TitleCount="1">
+<Ftitle InFrameReverse="0" InFrameX="-87" InFrameY="-91" InFrameY0="MX-012.png"/>
+</frame>
+<frame DateCount="0" FrameIndex="29" FrameName="02" TitleCount="1">
+<Ftitle InFrameReverse="0" InFrameX="-78" InFrameY="-88" InFrameY0="MX-013.png"/>
+</frame>
+<frame DateCount="0" FrameIndex="30" FrameName="03" TitleCount="1">
+<Ftitle InFrameReverse="0" InFrameX="-84" InFrameY="-57" InFrameY0="MX-011.png"/>
+</frame>
+<frame DateCount="0" FrameIndex="31" FrameName="04" TitleCount="1">
+<Ftitle InFrameReverse="0" InFrameX="-67" InFrameY="-70" InFrameY0="MX-012.png"/>
+</frame>
+<frame DateCount="0" FrameIndex="32" FrameName="05" TitleCount="1">
+<Ftitle InFrameReverse="0" InFrameX="-55" InFrameY="-66" InFrameY0="MX-013.png"/>
+</frame>
+<frame DateCount="0" FrameIndex="33" FrameName="06" TitleCount="1">
+<Ftitle InFrameReverse="0" InFrameX="-115" InFrameY="-53" InFrameY0="MX-011.png"/>
+</frame>
+<frame DateCount="0" FrameIndex="34" FrameName="07" TitleCount="1">
+<Ftitle InFrameReverse="0" InFrameX="-103" InFrameY="-71" InFrameY0="MX-012.png"/>
+</frame>
+<frame DateCount="0" FrameIndex="35" FrameName="08" TitleCount="1">
+<Ftitle InFrameReverse="0" InFrameX="-91" InFrameY="-71" InFrameY0="MX-013.png"/>
+</frame>
+<frame DateCount="0" FrameIndex="36" FrameName="骰子转动0" TitleCount="1">
+<Ftitle InFrameReverse="0" InFrameX="-35" InFrameY="-70" InFrameY0="MX-020.png"/>
+</frame>
+<frame DateCount="0" FrameIndex="37" FrameName="a" TitleCount="1">
+<Ftitle InFrameReverse="0" InFrameX="-35" InFrameY="-70" InFrameY0="MX-021.png"/>
+</frame>
+<frame DateCount="0" FrameIndex="38" FrameName="b" TitleCount="1">
+<Ftitle InFrameReverse="0" InFrameX="-35" InFrameY="-70" InFrameY0="MX-022.png"/>
+</frame>
+<frame DateCount="0" FrameIndex="39" FrameName="c" TitleCount="1">
+<Ftitle InFrameReverse="0" InFrameX="-35" InFrameY="-70" InFrameY0="MX-023.png"/>
+</frame>
+<frame DateCount="0" FrameIndex="40" FrameName="d" TitleCount="1">
+<Ftitle InFrameReverse="0" InFrameX="-35" InFrameY="-70" InFrameY0="MX-024.png"/>
+</frame>
+<frame DateCount="0" FrameIndex="41" FrameName="e" TitleCount="1">
+<Ftitle InFrameReverse="0" InFrameX="-35" InFrameY="-70" InFrameY0="MX-025.png"/>
+</frame>
+<frame DateCount="0" FrameIndex="42" FrameName="f" TitleCount="1">
+<Ftitle InFrameReverse="0" InFrameX="-35" InFrameY="-70" InFrameY0="MX-026.png"/>
+</frame>
+<frame DateCount="0" FrameIndex="43" FrameName="g" TitleCount="1">
+<Ftitle InFrameReverse="0" InFrameX="-35" InFrameY="-70" InFrameY0="MX-027.png"/>
+</frame>
+<frame DateCount="0" FrameIndex="44" FrameName="h" TitleCount="1">
+<Ftitle InFrameReverse="0" InFrameX="-33" InFrameY="-70" InFrameY0="MX-029.png"/>
+</frame>
+<frame DateCount="0" FrameIndex="45" FrameName="i" TitleCount="1">
+<Ftitle InFrameReverse="0" InFrameX="-35" InFrameY="-70" InFrameY0="MX-030.png"/>
+</frame>
+<frame DateCount="0" FrameIndex="46" FrameName="j" TitleCount="1">
+<Ftitle InFrameReverse="0" InFrameX="-35" InFrameY="-70" InFrameY0="MX-031.png"/>
+</frame>
+<frame DateCount="0" FrameIndex="47" FrameName="骰子点数1" TitleCount="6">
+<Ftitle InFrameReverse="0" InFrameX="-48" InFrameY="-34" InFrameY0="MX-033.png"/>
+<Ftitle InFrameReverse="0" InFrameX="-30" InFrameY="-50" InFrameY0="MX-014.png"/>
+<Ftitle InFrameReverse="0" InFrameX="-48" InFrameY="-67" InFrameY0="MX-032.png"/>
+<Ftitle InFrameReverse="0" InFrameX="-48" InFrameY="-67" InFrameY0="MX-032.png"/>
+<Ftitle InFrameReverse="0" InFrameX="-48" InFrameY="-67" InFrameY0="MX-032.png"/>
+<Ftitle InFrameReverse="0" InFrameX="-48" InFrameY="-67" InFrameY0="MX-032.png"/>
+</frame>
+<frame DateCount="0" FrameIndex="48" FrameName="1_1" TitleCount="5">
+<Ftitle InFrameReverse="0" InFrameX="-48" InFrameY="-34" InFrameY0="MX-033.png"/>
+<Ftitle InFrameReverse="0" InFrameX="-30" InFrameY="-50" InFrameY0="MX-014.png"/>
+<Ftitle InFrameReverse="0" InFrameX="-48" InFrameY="-67" InFrameY0="MX-032.png"/>
+<Ftitle InFrameReverse="0" InFrameX="-48" InFrameY="-67" InFrameY0="MX-032.png"/>
+<Ftitle InFrameReverse="0" InFrameX="-48" InFrameY="-67" InFrameY0="MX-032.png"/>
+</frame>
+<frame DateCount="0" FrameIndex="49" FrameName="1_2" TitleCount="4">
+<Ftitle InFrameReverse="0" InFrameX="-48" InFrameY="-34" InFrameY0="MX-033.png"/>
+<Ftitle InFrameReverse="0" InFrameX="-30" InFrameY="-50" InFrameY0="MX-014.png"/>
+<Ftitle InFrameReverse="0" InFrameX="-48" InFrameY="-67" InFrameY0="MX-032.png"/>
+<Ftitle InFrameReverse="0" InFrameX="-48" InFrameY="-67" InFrameY0="MX-032.png"/>
+</frame>
+<frame DateCount="0" FrameIndex="50" FrameName="1_3" TitleCount="3">
+<Ftitle InFrameReverse="0" InFrameX="-48" InFrameY="-34" InFrameY0="MX-033.png"/>
+<Ftitle InFrameReverse="0" InFrameX="-30" InFrameY="-50" InFrameY0="MX-014.png"/>
+<Ftitle InFrameReverse="0" InFrameX="-48" InFrameY="-67" InFrameY0="MX-032.png"/>
+</frame>
+<frame DateCount="0" FrameIndex="51" FrameName="1_4" TitleCount="2">
+<Ftitle InFrameReverse="0" InFrameX="-48" InFrameY="-34" InFrameY0="MX-033.png"/>
+<Ftitle InFrameReverse="0" InFrameX="-30" InFrameY="-50" InFrameY0="MX-014.png"/>
+</frame>
+<frame DateCount="0" FrameIndex="52" FrameName="骰子点数2" TitleCount="6">
+<Ftitle InFrameReverse="0" InFrameX="-48" InFrameY="-34" InFrameY0="MX-033.png"/>
+<Ftitle InFrameReverse="0" InFrameX="-30" InFrameY="-50" InFrameY0="MX-015.png"/>
+<Ftitle InFrameReverse="0" InFrameX="-48" InFrameY="-67" InFrameY0="MX-032.png"/>
+<Ftitle InFrameReverse="0" InFrameX="-48" InFrameY="-67" InFrameY0="MX-032.png"/>
+<Ftitle InFrameReverse="0" InFrameX="-48" InFrameY="-67" InFrameY0="MX-032.png"/>
+<Ftitle InFrameReverse="0" InFrameX="-48" InFrameY="-67" InFrameY0="MX-032.png"/>
+</frame>
+<frame DateCount="0" FrameIndex="53" FrameName="2_1" TitleCount="5">
+<Ftitle InFrameReverse="0" InFrameX="-48" InFrameY="-34" InFrameY0="MX-033.png"/>
+<Ftitle InFrameReverse="0" InFrameX="-30" InFrameY="-50" InFrameY0="MX-015.png"/>
+<Ftitle InFrameReverse="0" InFrameX="-48" InFrameY="-67" InFrameY0="MX-032.png"/>
+<Ftitle InFrameReverse="0" InFrameX="-48" InFrameY="-67" InFrameY0="MX-032.png"/>
+<Ftitle InFrameReverse="0" InFrameX="-48" InFrameY="-67" InFrameY0="MX-032.png"/>
+</frame>
+<frame DateCount="0" FrameIndex="54" FrameName="2_2" TitleCount="4">
+<Ftitle InFrameReverse="0" InFrameX="-48" InFrameY="-34" InFrameY0="MX-033.png"/>
+<Ftitle InFrameReverse="0" InFrameX="-30" InFrameY="-50" InFrameY0="MX-015.png"/>
+<Ftitle InFrameReverse="0" InFrameX="-48" InFrameY="-67" InFrameY0="MX-032.png"/>
+<Ftitle InFrameReverse="0" InFrameX="-48" InFrameY="-67" InFrameY0="MX-032.png"/>
+</frame>
+<frame DateCount="0" FrameIndex="55" FrameName="2_3" TitleCount="3">
+<Ftitle InFrameReverse="0" InFrameX="-48" InFrameY="-34" InFrameY0="MX-033.png"/>
+<Ftitle InFrameReverse="0" InFrameX="-30" InFrameY="-50" InFrameY0="MX-015.png"/>
+<Ftitle InFrameReverse="0" InFrameX="-48" InFrameY="-67" InFrameY0="MX-032.png"/>
+</frame>
+<frame DateCount="0" FrameIndex="56" FrameName="2_4" TitleCount="2">
+<Ftitle InFrameReverse="0" InFrameX="-48" InFrameY="-34" InFrameY0="MX-033.png"/>
+<Ftitle InFrameReverse="0" InFrameX="-30" InFrameY="-50" InFrameY0="MX-015.png"/>
+</frame>
+<frame DateCount="0" FrameIndex="57" FrameName="骰子点数3" TitleCount="6">
+<Ftitle InFrameReverse="0" InFrameX="-48" InFrameY="-34" InFrameY0="MX-033.png"/>
+<Ftitle InFrameReverse="0" InFrameX="-30" InFrameY="-50" InFrameY0="MX-016.png"/>
+<Ftitle InFrameReverse="0" InFrameX="-48" InFrameY="-67" InFrameY0="MX-032.png"/>
+<Ftitle InFrameReverse="0" InFrameX="-48" InFrameY="-67" InFrameY0="MX-032.png"/>
+<Ftitle InFrameReverse="0" InFrameX="-48" InFrameY="-67" InFrameY0="MX-032.png"/>
+<Ftitle InFrameReverse="0" InFrameX="-48" InFrameY="-67" InFrameY0="MX-032.png"/>
+</frame>
+<frame DateCount="0" FrameIndex="58" FrameName="3_1" TitleCount="5">
+<Ftitle InFrameReverse="0" InFrameX="-48" InFrameY="-34" InFrameY0="MX-033.png"/>
+<Ftitle InFrameReverse="0" InFrameX="-30" InFrameY="-50" InFrameY0="MX-016.png"/>
+<Ftitle InFrameReverse="0" InFrameX="-48" InFrameY="-67" InFrameY0="MX-032.png"/>
+<Ftitle InFrameReverse="0" InFrameX="-48" InFrameY="-67" InFrameY0="MX-032.png"/>
+<Ftitle InFrameReverse="0" InFrameX="-48" InFrameY="-67" InFrameY0="MX-032.png"/>
+</frame>
+<frame DateCount="0" FrameIndex="59" FrameName="3_2" TitleCount="4">
+<Ftitle InFrameReverse="0" InFrameX="-48" InFrameY="-34" InFrameY0="MX-033.png"/>
+<Ftitle InFrameReverse="0" InFrameX="-30" InFrameY="-50" InFrameY0="MX-016.png"/>
+<Ftitle InFrameReverse="0" InFrameX="-48" InFrameY="-67" InFrameY0="MX-032.png"/>
+<Ftitle InFrameReverse="0" InFrameX="-48" InFrameY="-67" InFrameY0="MX-032.png"/>
+</frame>
+<frame DateCount="0" FrameIndex="60" FrameName="3_3" TitleCount="3">
+<Ftitle InFrameReverse="0" InFrameX="-48" InFrameY="-34" InFrameY0="MX-033.png"/>
+<Ftitle InFrameReverse="0" InFrameX="-30" InFrameY="-50" InFrameY0="MX-016.png"/>
+<Ftitle InFrameReverse="0" InFrameX="-48" InFrameY="-67" InFrameY0="MX-032.png"/>
+</frame>
+<frame DateCount="0" FrameIndex="61" FrameName="3_4" TitleCount="2">
+<Ftitle InFrameReverse="0" InFrameX="-48" InFrameY="-34" InFrameY0="MX-033.png"/>
+<Ftitle InFrameReverse="0" InFrameX="-30" InFrameY="-50" InFrameY0="MX-016.png"/>
+</frame>
+<frame DateCount="0" FrameIndex="62" FrameName="骰子点数4" TitleCount="6">
+<Ftitle InFrameReverse="0" InFrameX="-48" InFrameY="-34" InFrameY0="MX-033.png"/>
+<Ftitle InFrameReverse="0" InFrameX="-30" InFrameY="-50" InFrameY0="MX-017.png"/>
+<Ftitle InFrameReverse="0" InFrameX="-48" InFrameY="-67" InFrameY0="MX-032.png"/>
+<Ftitle InFrameReverse="0" InFrameX="-48" InFrameY="-67" InFrameY0="MX-032.png"/>
+<Ftitle InFrameReverse="0" InFrameX="-48" InFrameY="-67" InFrameY0="MX-032.png"/>
+<Ftitle InFrameReverse="0" InFrameX="-48" InFrameY="-67" InFrameY0="MX-032.png"/>
+</frame>
+<frame DateCount="0" FrameIndex="63" FrameName="4_1" TitleCount="5">
+<Ftitle InFrameReverse="0" InFrameX="-48" InFrameY="-34" InFrameY0="MX-033.png"/>
+<Ftitle InFrameReverse="0" InFrameX="-30" InFrameY="-50" InFrameY0="MX-017.png"/>
+<Ftitle InFrameReverse="0" InFrameX="-48" InFrameY="-67" InFrameY0="MX-032.png"/>
+<Ftitle InFrameReverse="0" InFrameX="-48" InFrameY="-67" InFrameY0="MX-032.png"/>
+<Ftitle InFrameReverse="0" InFrameX="-48" InFrameY="-67" InFrameY0="MX-032.png"/>
+</frame>
+<frame DateCount="0" FrameIndex="64" FrameName="4_2" TitleCount="4">
+<Ftitle InFrameReverse="0" InFrameX="-48" InFrameY="-34" InFrameY0="MX-033.png"/>
+<Ftitle InFrameReverse="0" InFrameX="-30" InFrameY="-50" InFrameY0="MX-017.png"/>
+<Ftitle InFrameReverse="0" InFrameX="-48" InFrameY="-67" InFrameY0="MX-032.png"/>
+<Ftitle InFrameReverse="0" InFrameX="-48" InFrameY="-67" InFrameY0="MX-032.png"/>
+</frame>
+<frame DateCount="0" FrameIndex="65" FrameName="4_3" TitleCount="3">
+<Ftitle InFrameReverse="0" InFrameX="-48" InFrameY="-34" InFrameY0="MX-033.png"/>
+<Ftitle InFrameReverse="0" InFrameX="-30" InFrameY="-50" InFrameY0="MX-017.png"/>
+<Ftitle InFrameReverse="0" InFrameX="-48" InFrameY="-67" InFrameY0="MX-032.png"/>
+</frame>
+<frame DateCount="0" FrameIndex="66" FrameName="4_4" TitleCount="2">
+<Ftitle InFrameReverse="0" InFrameX="-48" InFrameY="-34" InFrameY0="MX-033.png"/>
+<Ftitle InFrameReverse="0" InFrameX="-30" InFrameY="-50" InFrameY0="MX-017.png"/>
+</frame>
+<frame DateCount="0" FrameIndex="67" FrameName="骰子点数5" TitleCount="6">
+<Ftitle InFrameReverse="0" InFrameX="-48" InFrameY="-34" InFrameY0="MX-033.png"/>
+<Ftitle InFrameReverse="0" InFrameX="-30" InFrameY="-50" InFrameY0="MX-018.png"/>
+<Ftitle InFrameReverse="0" InFrameX="-48" InFrameY="-67" InFrameY0="MX-032.png"/>
+<Ftitle InFrameReverse="0" InFrameX="-48" InFrameY="-67" InFrameY0="MX-032.png"/>
+<Ftitle InFrameReverse="0" InFrameX="-48" InFrameY="-67" InFrameY0="MX-032.png"/>
+<Ftitle InFrameReverse="0" InFrameX="-48" InFrameY="-67" InFrameY0="MX-032.png"/>
+</frame>
+<frame DateCount="0" FrameIndex="68" FrameName="5_1" TitleCount="5">
+<Ftitle InFrameReverse="0" InFrameX="-48" InFrameY="-34" InFrameY0="MX-033.png"/>
+<Ftitle InFrameReverse="0" InFrameX="-30" InFrameY="-50" InFrameY0="MX-018.png"/>
+<Ftitle InFrameReverse="0" InFrameX="-48" InFrameY="-67" InFrameY0="MX-032.png"/>
+<Ftitle InFrameReverse="0" InFrameX="-48" InFrameY="-67" InFrameY0="MX-032.png"/>
+<Ftitle InFrameReverse="0" InFrameX="-48" InFrameY="-67" InFrameY0="MX-032.png"/>
+</frame>
+<frame DateCount="0" FrameIndex="69" FrameName="5_2" TitleCount="4">
+<Ftitle InFrameReverse="0" InFrameX="-48" InFrameY="-34" InFrameY0="MX-033.png"/>
+<Ftitle InFrameReverse="0" InFrameX="-30" InFrameY="-50" InFrameY0="MX-018.png"/>
+<Ftitle InFrameReverse="0" InFrameX="-48" InFrameY="-67" InFrameY0="MX-032.png"/>
+<Ftitle InFrameReverse="0" InFrameX="-48" InFrameY="-67" InFrameY0="MX-032.png"/>
+</frame>
+<frame DateCount="0" FrameIndex="70" FrameName="5_3" TitleCount="3">
+<Ftitle InFrameReverse="0" InFrameX="-48" InFrameY="-34" InFrameY0="MX-033.png"/>
+<Ftitle InFrameReverse="0" InFrameX="-30" InFrameY="-50" InFrameY0="MX-018.png"/>
+<Ftitle InFrameReverse="0" InFrameX="-48" InFrameY="-67" InFrameY0="MX-032.png"/>
+</frame>
+<frame DateCount="0" FrameIndex="71" FrameName="5_4" TitleCount="2">
+<Ftitle InFrameReverse="0" InFrameX="-48" InFrameY="-34" InFrameY0="MX-033.png"/>
+<Ftitle InFrameReverse="0" InFrameX="-30" InFrameY="-50" InFrameY0="MX-018.png"/>
+</frame>
+<frame DateCount="0" FrameIndex="72" FrameName="骰子点数6" TitleCount="8">
+<Ftitle InFrameReverse="0" InFrameX="-48" InFrameY="-34" InFrameY0="MX-033.png"/>
+<Ftitle InFrameReverse="0" InFrameX="-30" InFrameY="-50" InFrameY0="MX-019.png"/>
+<Ftitle InFrameReverse="0" InFrameX="-48" InFrameY="-67" InFrameY0="MX-032.png"/>
+<Ftitle InFrameReverse="0" InFrameX="-48" InFrameY="-67" InFrameY0="MX-032.png"/>
+<Ftitle InFrameReverse="0" InFrameX="-48" InFrameY="-67" InFrameY0="MX-032.png"/>
+<Ftitle InFrameReverse="0" InFrameX="-48" InFrameY="-67" InFrameY0="MX-032.png"/>
+<Ftitle InFrameReverse="0" InFrameX="-48" InFrameY="-67" InFrameY0="MX-032.png"/>
+<Ftitle InFrameReverse="0" InFrameX="-48" InFrameY="-67" InFrameY0="MX-032.png"/>
+</frame>
+<frame DateCount="0" FrameIndex="73" FrameName="6_1" TitleCount="5">
+<Ftitle InFrameReverse="0" InFrameX="-48" InFrameY="-34" InFrameY0="MX-033.png"/>
+<Ftitle InFrameReverse="0" InFrameX="-48" InFrameY="-67" InFrameY0="MX-032.png"/>
+<Ftitle InFrameReverse="0" InFrameX="-30" InFrameY="-50" InFrameY0="MX-019.png"/>
+<Ftitle InFrameReverse="0" InFrameX="-48" InFrameY="-67" InFrameY0="MX-032.png"/>
+<Ftitle InFrameReverse="0" InFrameX="-48" InFrameY="-67" InFrameY0="MX-032.png"/>
+</frame>
+<frame DateCount="0" FrameIndex="74" FrameName="6_2" TitleCount="4">
+<Ftitle InFrameReverse="0" InFrameX="-48" InFrameY="-34" InFrameY0="MX-033.png"/>
+<Ftitle InFrameReverse="0" InFrameX="-30" InFrameY="-50" InFrameY0="MX-019.png"/>
+<Ftitle InFrameReverse="0" InFrameX="-48" InFrameY="-67" InFrameY0="MX-032.png"/>
+<Ftitle InFrameReverse="0" InFrameX="-48" InFrameY="-67" InFrameY0="MX-032.png"/>
+</frame>
+<frame DateCount="0" FrameIndex="75" FrameName="6_3" TitleCount="3">
+<Ftitle InFrameReverse="0" InFrameX="-48" InFrameY="-34" InFrameY0="MX-033.png"/>
+<Ftitle InFrameReverse="0" InFrameX="-30" InFrameY="-50" InFrameY0="MX-019.png"/>
+<Ftitle InFrameReverse="0" InFrameX="-48" InFrameY="-67" InFrameY0="MX-032.png"/>
+</frame>
+<frame DateCount="0" FrameIndex="76" FrameName="6_4" TitleCount="2">
+<Ftitle InFrameReverse="0" InFrameX="-48" InFrameY="-34" InFrameY0="MX-033.png"/>
+<Ftitle InFrameReverse="0" InFrameX="-30" InFrameY="-50" InFrameY0="MX-019.png"/>
+</frame>
+<frame DateCount="0" FrameIndex="77" FrameName="6_5" TitleCount="8">
+<Ftitle InFrameReverse="0" InFrameX="-48" InFrameY="-34" InFrameY0="MX-033.png"/>
+<Ftitle InFrameReverse="0" InFrameX="-48" InFrameY="-67" InFrameY0="MX-032.png"/>
+<Ftitle InFrameReverse="0" InFrameX="-30" InFrameY="-50" InFrameY0="MX-019.png"/>
+<Ftitle InFrameReverse="0" InFrameX="-48" InFrameY="-67" InFrameY0="MX-032.png"/>
+<Ftitle InFrameReverse="0" InFrameX="-48" InFrameY="-67" InFrameY0="MX-032.png"/>
+<Ftitle InFrameReverse="0" InFrameX="-48" InFrameY="-67" InFrameY0="MX-032.png"/>
+<Ftitle InFrameReverse="0" InFrameX="-48" InFrameY="-67" InFrameY0="MX-032.png"/>
+<Ftitle InFrameReverse="0" InFrameX="-48" InFrameY="-67" InFrameY0="MX-032.png"/>
+</frame>
+<frame DateCount="0" FrameIndex="78" FrameName="失败0" TitleCount="2">
+<Ftitle InFrameReverse="0" InFrameX="-18" InFrameY="1" InFrameY0="MX-034.png"/>
+<Ftitle InFrameReverse="0" InFrameX="-43" InFrameY="-46" InFrameY0="MX-005.png"/>
+</frame>
+<frame DateCount="0" FrameIndex="79" FrameName="失败1" TitleCount="2">
+<Ftitle InFrameReverse="0" InFrameX="-18" InFrameY="1" InFrameY0="MX-034.png"/>
+<Ftitle InFrameReverse="0" InFrameX="-43" InFrameY="-47" InFrameY0="MX-006.png"/>
+</frame>
+<frame DateCount="0" FrameIndex="80" FrameName="胜利0" TitleCount="3">
+<Ftitle InFrameReverse="0" InFrameX="-18" InFrameY="4" InFrameY0="MX-034.png"/>
+<Ftitle InFrameReverse="0" InFrameX="-54" InFrameY="-51" InFrameY0="MX-007.png"/>
+<Ftitle InFrameReverse="0" InFrameX="-46" InFrameY="-3" InFrameY0="MX-009.png"/>
+</frame>
+<frame DateCount="0" FrameIndex="81" FrameName="胜利1" TitleCount="4">
+<Ftitle InFrameReverse="0" InFrameX="-18" InFrameY="4" InFrameY0="MX-034.png"/>
+<Ftitle InFrameReverse="0" InFrameX="-54" InFrameY="-53" InFrameY0="MX-008.png"/>
+<Ftitle InFrameReverse="0" InFrameX="-48" InFrameY="-6" InFrameY0="MX-010.png"/>
+<Ftitle InFrameReverse="0" InFrameX="28" InFrameY="-2" InFrameY0="MX-009.png"/>
+</frame>
+<frame DateCount="0" FrameIndex="82" FrameName="胜利2" TitleCount="4">
+<Ftitle InFrameReverse="0" InFrameX="-18" InFrameY="4" InFrameY0="MX-034.png"/>
+<Ftitle InFrameReverse="0" InFrameX="-54" InFrameY="-51" InFrameY0="MX-007.png"/>
+<Ftitle InFrameReverse="0" InFrameX="25" InFrameY="-4" InFrameY0="MX-010.png"/>
+<Ftitle InFrameReverse="0" InFrameX="-19" InFrameY="13" InFrameY0="MX-009.png"/>
+</frame>
+<frame DateCount="0" FrameIndex="83" FrameName="胜利3" TitleCount="4">
+<Ftitle InFrameReverse="0" InFrameX="-18" InFrameY="4" InFrameY0="MX-034.png"/>
+<Ftitle InFrameReverse="0" InFrameX="-54" InFrameY="-53" InFrameY0="MX-008.png"/>
+<Ftitle InFrameReverse="0" InFrameX="-23" InFrameY="9" InFrameY0="MX-010.png"/>
+<Ftitle InFrameReverse="0" InFrameX="28" InFrameY="-2" InFrameY0="MX-009.png"/>
+</frame>
+<frame DateCount="0" FrameIndex="84" FrameName="张飞标志0" TitleCount="1">
+<Ftitle InFrameReverse="0" InFrameX="-35" InFrameY="-158" InFrameY0="MX-036.png"/>
+</frame>
+<frame DateCount="0" FrameIndex="85" FrameName="张飞标志1" TitleCount="1">
+<Ftitle InFrameReverse="0" InFrameX="-35" InFrameY="-159" InFrameY0="MX-036.png"/>
+</frame>
+<frame DateCount="0" FrameIndex="86" FrameName="张飞标志2" TitleCount="1">
+<Ftitle InFrameReverse="0" InFrameX="-35" InFrameY="-161" InFrameY0="MX-036.png"/>
+</frame>
+<frame DateCount="0" FrameIndex="87" FrameName="张飞标志3" TitleCount="1">
+<Ftitle InFrameReverse="0" InFrameX="-35" InFrameY="-162" InFrameY0="MX-036.png"/>
+</frame>
+<frame DateCount="0" FrameIndex="88" FrameName="敌兵标志0" TitleCount="1">
+<Ftitle InFrameReverse="0" InFrameX="-35" InFrameY="-6" InFrameY0="MX-035.png"/>
+</frame>
+<frame DateCount="0" FrameIndex="89" FrameName="敌兵标志1" TitleCount="1">
+<Ftitle InFrameReverse="0" InFrameX="-35" InFrameY="-5" InFrameY0="MX-035.png"/>
+</frame>
+<frame DateCount="0" FrameIndex="90" FrameName="敌兵标志2" TitleCount="1">
+<Ftitle InFrameReverse="0" InFrameX="-35" InFrameY="-3" InFrameY0="MX-035.png"/>
+</frame>
+<frame DateCount="0" FrameIndex="91" FrameName="敌兵标志3" TitleCount="1">
+<Ftitle InFrameReverse="0" InFrameX="-35" InFrameY="-2" InFrameY0="MX-035.png"/>
+</frame>
+</frames>
+<actions ActionCount="15">
+<action FrameCount="4" actionIndex="0" actionName="张飞移动">
+<Aframe Delay="1" Index="0"/>
+<Aframe Delay="1" Index="1"/>
+<Aframe Delay="1" Index="2"/>
+<Aframe Delay="1" Index="3"/>
+</action>
+<action FrameCount="33" actionIndex="1" actionName="张飞冲刺">
+<Aframe Delay="0" Index="4"/>
+<Aframe Delay="0" Index="5"/>
+<Aframe Delay="0" Index="6"/>
+<Aframe Delay="0" Index="7"/>
+<Aframe Delay="0" Index="8"/>
+<Aframe Delay="0" Index="7"/>
+<Aframe Delay="0" Index="4"/>
+<Aframe Delay="0" Index="6"/>
+<Aframe Delay="0" Index="7"/>
+<Aframe Delay="0" Index="8"/>
+<Aframe Delay="0" Index="7"/>
+<Aframe Delay="0" Index="4"/>
+<Aframe Delay="0" Index="6"/>
+<Aframe Delay="0" Index="7"/>
+<Aframe Delay="0" Index="8"/>
+<Aframe Delay="0" Index="7"/>
+<Aframe Delay="3" Index="4"/>
+<Aframe Delay="0" Index="9"/>
+<Aframe Delay="0" Index="10"/>
+<Aframe Delay="0" Index="11"/>
+<Aframe Delay="0" Index="12"/>
+<Aframe Delay="0" Index="13"/>
+<Aframe Delay="0" Index="14"/>
+<Aframe Delay="0" Index="15"/>
+<Aframe Delay="0" Index="16"/>
+<Aframe Delay="0" Index="17"/>
+<Aframe Delay="0" Index="18"/>
+<Aframe Delay="0" Index="19"/>
+<Aframe Delay="0" Index="20"/>
+<Aframe Delay="0" Index="21"/>
+<Aframe Delay="0" Index="22"/>
+<Aframe Delay="0" Index="23"/>
+<Aframe Delay="0" Index="26"/>
+</action>
+<action FrameCount="9" actionIndex="2" actionName="混战持续">
+<Aframe Delay="1" Index="27"/>
+<Aframe Delay="1" Index="28"/>
+<Aframe Delay="1" Index="29"/>
+<Aframe Delay="1" Index="30"/>
+<Aframe Delay="1" Index="31"/>
+<Aframe Delay="1" Index="32"/>
+<Aframe Delay="1" Index="33"/>
+<Aframe Delay="1" Index="34"/>
+<Aframe Delay="1" Index="35"/>
+</action>
+<action FrameCount="4" actionIndex="3" actionName="冒险成功">
+<Aframe Delay="2" Index="80"/>
+<Aframe Delay="2" Index="81"/>
+<Aframe Delay="2" Index="82"/>
+<Aframe Delay="2" Index="83"/>
+</action>
+<action FrameCount="2" actionIndex="4" actionName="冒险失败">
+<Aframe Delay="2" Index="78"/>
+<Aframe Delay="2" Index="79"/>
+</action>
+<action FrameCount="11" actionIndex="5" actionName="骰子转动1">
+<Aframe Delay="0" Index="36"/>
+<Aframe Delay="0" Index="37"/>
+<Aframe Delay="0" Index="38"/>
+<Aframe Delay="0" Index="39"/>
+<Aframe Delay="0" Index="40"/>
+<Aframe Delay="0" Index="41"/>
+<Aframe Delay="0" Index="42"/>
+<Aframe Delay="0" Index="43"/>
+<Aframe Delay="0" Index="44"/>
+<Aframe Delay="0" Index="45"/>
+<Aframe Delay="0" Index="46"/>
+</action>
+<action FrameCount="11" actionIndex="6" actionName="骰子转动2">
+<Aframe Delay="0" Index="46"/>
+<Aframe Delay="0" Index="45"/>
+<Aframe Delay="0" Index="44"/>
+<Aframe Delay="0" Index="43"/>
+<Aframe Delay="0" Index="42"/>
+<Aframe Delay="0" Index="41"/>
+<Aframe Delay="0" Index="40"/>
+<Aframe Delay="0" Index="39"/>
+<Aframe Delay="0" Index="38"/>
+<Aframe Delay="0" Index="37"/>
+<Aframe Delay="0" Index="36"/>
+</action>
+<action FrameCount="7" actionIndex="7" actionName="骰子点数1">
+<Aframe Delay="0" Index="50"/>
+<Aframe Delay="2" Index="47"/>
+<Aframe Delay="1" Index="48"/>
+<Aframe Delay="1" Index="49"/>
+<Aframe Delay="1" Index="50"/>
+<Aframe Delay="40" Index="51"/>
+<Aframe Delay="0" Index="51"/>
+</action>
+<action FrameCount="7" actionIndex="8" actionName="骰子点数2">
+<Aframe Delay="0" Index="55"/>
+<Aframe Delay="2" Index="52"/>
+<Aframe Delay="1" Index="53"/>
+<Aframe Delay="1" Index="54"/>
+<Aframe Delay="1" Index="55"/>
+<Aframe Delay="40" Index="56"/>
+<Aframe Delay="0" Index="56"/>
+</action>
+<action FrameCount="7" actionIndex="9" actionName="骰子点数3">
+<Aframe Delay="0" Index="60"/>
+<Aframe Delay="2" Index="57"/>
+<Aframe Delay="1" Index="58"/>
+<Aframe Delay="1" Index="59"/>
+<Aframe Delay="1" Index="60"/>
+<Aframe Delay="40" Index="61"/>
+<Aframe Delay="0" Index="61"/>
+</action>
+<action FrameCount="7" actionIndex="10" actionName="骰子点数4">
+<Aframe Delay="0" Index="65"/>
+<Aframe Delay="2" Index="62"/>
+<Aframe Delay="1" Index="63"/>
+<Aframe Delay="1" Index="64"/>
+<Aframe Delay="1" Index="65"/>
+<Aframe Delay="40" Index="66"/>
+<Aframe Delay="0" Index="66"/>
+</action>
+<action FrameCount="7" actionIndex="11" actionName="骰子点数5">
+<Aframe Delay="0" Index="70"/>
+<Aframe Delay="2" Index="67"/>
+<Aframe Delay="1" Index="68"/>
+<Aframe Delay="1" Index="69"/>
+<Aframe Delay="1" Index="70"/>
+<Aframe Delay="40" Index="71"/>
+<Aframe Delay="0" Index="71"/>
+</action>
+<action FrameCount="7" actionIndex="12" actionName="骰子点数6">
+<Aframe Delay="0" Index="72"/>
+<Aframe Delay="8" Index="72"/>
+<Aframe Delay="1" Index="73"/>
+<Aframe Delay="1" Index="74"/>
+<Aframe Delay="1" Index="75"/>
+<Aframe Delay="40" Index="76"/>
+<Aframe Delay="0" Index="76"/>
+</action>
+<action FrameCount="6" actionIndex="13" actionName="我方标志">
+<Aframe Delay="1" Index="84"/>
+<Aframe Delay="1" Index="85"/>
+<Aframe Delay="1" Index="86"/>
+<Aframe Delay="1" Index="87"/>
+<Aframe Delay="1" Index="86"/>
+<Aframe Delay="1" Index="85"/>
+</action>
+<action FrameCount="6" actionIndex="14" actionName="敌兵标志">
+<Aframe Delay="1" Index="88"/>
+<Aframe Delay="1" Index="89"/>
+<Aframe Delay="1" Index="90"/>
+<Aframe Delay="1" Index="91"/>
+<Aframe Delay="1" Index="90"/>
+<Aframe Delay="1" Index="89"/>
+</action>
+</actions>
+</Map>

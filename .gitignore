@@ -1,7 +1,3 @@
-# Asset files
-assets/
-
-
 # Build outputs
 *.apk
 *.jar

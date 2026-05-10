@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<Map>
+<frames FrameCount="15">
+<frame DateCount="0" FrameIndex="0" FrameName="map000" TitleCount="3">
+<Ftitle InFrameReverse="0" InFrameX="2" InFrameY="-315" InFrameY0="map03-007.png"/>
+<Ftitle InFrameReverse="0" InFrameX="46" InFrameY="289" InFrameY0="map03-007.png"/>
+<Ftitle InFrameReverse="0" InFrameX="-364" InFrameY="-141" InFrameY0="map03-007.png"/>
+</frame>
+<frame DateCount="1" FrameIndex="1" FrameName="fire1" TitleCount="1">
+<data DataH="30" DataName="4" DataW="30" DataX="-13" DataY="-30"/>
+<Ftitle InFrameReverse="0" InFrameX="-18" InFrameY="-60" InFrameY0="map03-001.png"/>
+</frame>
+<frame DateCount="1" FrameIndex="2" FrameName="fire2" TitleCount="1">
+<data DataH="30" DataName="4" DataW="30" DataX="-13" DataY="-30"/>
+<Ftitle InFrameReverse="0" InFrameX="-18" InFrameY="-60" InFrameY0="map03-002.png"/>
+</frame>
+<frame DateCount="1" FrameIndex="3" FrameName="fire3" TitleCount="1">
+<data DataH="30" DataName="4" DataW="30" DataX="-13" DataY="-30"/>
+<Ftitle InFrameReverse="0" InFrameX="-18" InFrameY="-60" InFrameY0="map03-003.png"/>
+</frame>
+<frame DateCount="1" FrameIndex="4" FrameName="penquan" TitleCount="1">
+<data DataH="43" DataName="4" DataW="40" DataX="-19" DataY="-41"/>
+<Ftitle InFrameReverse="0" InFrameX="-45" InFrameY="-54" InFrameY0="map03-004.png"/>
+</frame>
+<frame DateCount="1" FrameIndex="5" FrameName="penquan2" TitleCount="1">
+<data DataH="43" DataName="4" DataW="40" DataX="-19" DataY="-41"/>
+<Ftitle InFrameReverse="0" InFrameX="-45" InFrameY="-54" InFrameY0="map03-005.png"/>
+</frame>
+<frame DateCount="1" FrameIndex="6" FrameName="penquan3" TitleCount="1">
+<data DataH="43" DataName="4" DataW="40" DataX="-19" DataY="-41"/>
+<Ftitle InFrameReverse="0" InFrameX="-45" InFrameY="-54" InFrameY0="map03-006.png"/>
+</frame>
+<frame DateCount="1" FrameIndex="7" FrameName="zhuzi" TitleCount="1">
+<data DataH="203" DataName="4" DataW="47" DataX="-22" DataY="-204"/>
+<Ftitle InFrameReverse="0" InFrameX="-37" InFrameY="-238" InFrameY0="map03-008.png"/>
+</frame>
+<frame DateCount="0" FrameIndex="8" FrameName="花坛" TitleCount="1">
+<Ftitle InFrameReverse="0" InFrameX="-82" InFrameY="-55" InFrameY0="map03-007.png"/>
+</frame>
+<frame DateCount="1" FrameIndex="9" FrameName="树" TitleCount="1">
+<data DataH="80" DataName="4" DataW="69" DataX="-31" DataY="-80"/>
+<Ftitle InFrameReverse="0" InFrameX="-40" InFrameY="-88" InFrameY0="map03-010.png"/>
+</frame>
+<frame DateCount="0" FrameIndex="10" FrameName="hua1" TitleCount="1">
+<Ftitle InFrameReverse="0" InFrameX="-9" InFrameY="-10" InFrameY0="map03-009.png"/>
+</frame>
+<frame DateCount="0" FrameIndex="11" FrameName="hua2" TitleCount="1">
+<Ftitle InFrameReverse="0" InFrameX="-24" InFrameY="-27" InFrameY0="map03-011.png"/>
+</frame>
+<frame DateCount="0" FrameIndex="12" FrameName="shuidi1" TitleCount="1">
+<Ftitle InFrameReverse="0" InFrameX="-83" InFrameY="-62" InFrameY0="map03-12.png"/>
+</frame>
+<frame DateCount="0" FrameIndex="13" FrameName="shuidi2" TitleCount="1">
+<Ftitle InFrameReverse="0" InFrameX="-83" InFrameY="-62" InFrameY0="map03-13.png"/>
+</frame>
+<frame DateCount="0" FrameIndex="14" FrameName="shuidi3" TitleCount="1">
+<Ftitle InFrameReverse="0" InFrameX="-83" InFrameY="-62" InFrameY0="map03-14.png"/>
+</frame>
+</frames>
+<actions ActionCount="9">
+<action FrameCount="1" actionIndex="0" actionName="map">
+<Aframe Delay="0" Index="0"/>
+</action>
+<action FrameCount="3" actionIndex="1" actionName="fire">
+<Aframe Delay="2" Index="1"/>
+<Aframe Delay="2" Index="2"/>
+<Aframe Delay="2" Index="3"/>
+</action>
+<action FrameCount="3" actionIndex="2" actionName="penquan">
+<Aframe Delay="2" Index="4"/>
+<Aframe Delay="2" Index="5"/>
+<Aframe Delay="2" Index="6"/>
+</action>
+<action FrameCount="1" actionIndex="3" actionName="zhuzi">
+<Aframe Delay="0" Index="7"/>
+</action>
+<action FrameCount="1" actionIndex="4" actionName="花坛">
+<Aframe Delay="0" Index="8"/>
+</action>
+<action FrameCount="1" actionIndex="5" actionName="shu">
+<Aframe Delay="0" Index="9"/>
+</action>
+<action FrameCount="1" actionIndex="6" actionName="hua1">
+<Aframe Delay="0" Index="10"/>
+</action>
+<action FrameCount="1" actionIndex="7" actionName="hua2">
+<Aframe Delay="0" Index="11"/>
+</action>
+<action FrameCount="3" actionIndex="8" actionName="shuidi">
+<Aframe Delay="2" Index="12"/>
+<Aframe Delay="2" Index="13"/>
+<Aframe Delay="2" Index="14"/>
+</action>
+</actions>
+</Map>

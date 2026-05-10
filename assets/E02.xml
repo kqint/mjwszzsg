@@ -1,0 +1,644 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<Map>
+<frames FrameCount="45">
+<frame DateCount="1" FrameIndex="0" FrameName="站立左上1" TitleCount="7">
+<data DataH="29" DataName="0" DataW="32" DataX="-17" DataY="-31"/>
+<Ftitle InFrameReverse="0" InFrameX="-18" InFrameY="-14" InFrameY0="E02-71.png"/>
+<Ftitle InFrameReverse="0" InFrameX="-21" InFrameY="-32" InFrameY0="E02-062.png"/>
+<Ftitle InFrameReverse="0" InFrameX="-9" InFrameY="-11" InFrameY0="E02-061.png"/>
+<Ftitle InFrameReverse="0" InFrameX="-2" InFrameY="-25" InFrameY0="E02-008.png"/>
+<Ftitle InFrameReverse="0" InFrameX="-8" InFrameY="-24" InFrameY0="E02-004.png"/>
+<Ftitle InFrameReverse="0" InFrameX="-19" InFrameY="-24" InFrameY0="E02-007.png"/>
+<Ftitle InFrameReverse="0" InFrameX="-12" InFrameY="-48" InFrameY0="E02-027.png"/>
+</frame>
+<frame DateCount="1" FrameIndex="1" FrameName="站立左上2" TitleCount="7">
+<data DataH="29" DataName="0" DataW="32" DataX="-17" DataY="-31"/>
+<Ftitle InFrameReverse="0" InFrameX="-18" InFrameY="-14" InFrameY0="E02-71.png"/>
+<Ftitle InFrameReverse="0" InFrameX="-21" InFrameY="-31" InFrameY0="E02-062.png"/>
+<Ftitle InFrameReverse="0" InFrameX="-9" InFrameY="-11" InFrameY0="E02-061.png"/>
+<Ftitle InFrameReverse="0" InFrameX="-2" InFrameY="-24" InFrameY0="E02-008.png"/>
+<Ftitle InFrameReverse="0" InFrameX="-8" InFrameY="-24" InFrameY0="E02-004.png"/>
+<Ftitle InFrameReverse="0" InFrameX="-19" InFrameY="-23" InFrameY0="E02-007.png"/>
+<Ftitle InFrameReverse="0" InFrameX="-12" InFrameY="-48" InFrameY0="E02-026.png"/>
+</frame>
+<frame DateCount="1" FrameIndex="2" FrameName="站立左上3" TitleCount="7">
+<data DataH="29" DataName="0" DataW="32" DataX="-17" DataY="-31"/>
+<Ftitle InFrameReverse="0" InFrameX="-18" InFrameY="-14" InFrameY0="E02-71.png"/>
+<Ftitle InFrameReverse="0" InFrameX="-21" InFrameY="-30" InFrameY0="E02-062.png"/>
+<Ftitle InFrameReverse="0" InFrameX="-9" InFrameY="-11" InFrameY0="E02-061.png"/>
+<Ftitle InFrameReverse="0" InFrameX="-2" InFrameY="-23" InFrameY0="E02-008.png"/>
+<Ftitle InFrameReverse="0" InFrameX="-8" InFrameY="-23" InFrameY0="E02-004.png"/>
+<Ftitle InFrameReverse="0" InFrameX="-19" InFrameY="-22" InFrameY0="E02-007.png"/>
+<Ftitle InFrameReverse="0" InFrameX="-12" InFrameY="-48" InFrameY0="E02-025.png"/>
+</frame>
+<frame DateCount="1" FrameIndex="3" FrameName="站立左上4" TitleCount="7">
+<data DataH="29" DataName="0" DataW="32" DataX="-17" DataY="-31"/>
+<Ftitle InFrameReverse="0" InFrameX="-18" InFrameY="-14" InFrameY0="E02-71.png"/>
+<Ftitle InFrameReverse="0" InFrameX="-21" InFrameY="-32" InFrameY0="E02-062.png"/>
+<Ftitle InFrameReverse="0" InFrameX="-9" InFrameY="-11" InFrameY0="E02-061.png"/>
+<Ftitle InFrameReverse="0" InFrameX="-2" InFrameY="-25" InFrameY0="E02-008.png"/>
+<Ftitle InFrameReverse="0" InFrameX="-8" InFrameY="-24" InFrameY0="E02-004.png"/>
+<Ftitle InFrameReverse="0" InFrameX="-19" InFrameY="-24" InFrameY0="E02-007.png"/>
+<Ftitle InFrameReverse="0" InFrameX="-12" InFrameY="-49" InFrameY0="E02-024.png"/>
+</frame>
+<frame DateCount="1" FrameIndex="4" FrameName="站立左下1" TitleCount="7">
+<data DataH="29" DataName="0" DataW="32" DataX="-17" DataY="-31"/>
+<Ftitle InFrameReverse="0" InFrameX="-14" InFrameY="-15" InFrameY0="E02-71.png"/>
+<Ftitle InFrameReverse="1" InFrameX="23" InFrameY="-32" InFrameY0="E02-000.png"/>
+<Ftitle InFrameReverse="0" InFrameX="-10" InFrameY="-25" InFrameY0="E02-009.png"/>
+<Ftitle InFrameReverse="0" InFrameX="-5" InFrameY="-14" InFrameY0="E02-060.png"/>
+<Ftitle InFrameReverse="0" InFrameX="-5" InFrameY="-25" InFrameY0="E02-005.png"/>
+<Ftitle InFrameReverse="0" InFrameX="-10" InFrameY="-52" InFrameY0="E02-015.png"/>
+<Ftitle InFrameReverse="0" InFrameX="2" InFrameY="-25" InFrameY0="E02-006.png"/>
+</frame>
+<frame DateCount="1" FrameIndex="5" FrameName="站立左下2" TitleCount="7">
+<data DataH="29" DataName="0" DataW="32" DataX="-17" DataY="-31"/>
+<Ftitle InFrameReverse="0" InFrameX="-14" InFrameY="-15" InFrameY0="E02-71.png"/>
+<Ftitle InFrameReverse="1" InFrameX="22" InFrameY="-31" InFrameY0="E02-000.png"/>
+<Ftitle InFrameReverse="0" InFrameX="-11" InFrameY="-24" InFrameY0="E02-009.png"/>
+<Ftitle InFrameReverse="0" InFrameX="-5" InFrameY="-14" InFrameY0="E02-060.png"/>
+<Ftitle InFrameReverse="0" InFrameX="-5" InFrameY="-24" InFrameY0="E02-005.png"/>
+<Ftitle InFrameReverse="0" InFrameX="-10" InFrameY="-50" InFrameY0="E02-015.png"/>
+<Ftitle InFrameReverse="0" InFrameX="3" InFrameY="-24" InFrameY0="E02-006.png"/>
+</frame>
+<frame DateCount="1" FrameIndex="6" FrameName="站立左下3" TitleCount="7">
+<data DataH="29" DataName="0" DataW="32" DataX="-17" DataY="-31"/>
+<Ftitle InFrameReverse="0" InFrameX="-14" InFrameY="-15" InFrameY0="E02-71.png"/>
+<Ftitle InFrameReverse="1" InFrameX="22" InFrameY="-29" InFrameY0="E02-000.png"/>
+<Ftitle InFrameReverse="0" InFrameX="-11" InFrameY="-22" InFrameY0="E02-009.png"/>
+<Ftitle InFrameReverse="0" InFrameX="-5" InFrameY="-14" InFrameY0="E02-060.png"/>
+<Ftitle InFrameReverse="0" InFrameX="-5" InFrameY="-23" InFrameY0="E02-005.png"/>
+<Ftitle InFrameReverse="0" InFrameX="-10" InFrameY="-49" InFrameY0="E02-015.png"/>
+<Ftitle InFrameReverse="0" InFrameX="4" InFrameY="-21" InFrameY0="E02-006.png"/>
+</frame>
+<frame DateCount="1" FrameIndex="7" FrameName="站立左下4" TitleCount="7">
+<data DataH="29" DataName="0" DataW="32" DataX="-17" DataY="-31"/>
+<Ftitle InFrameReverse="0" InFrameX="-14" InFrameY="-15" InFrameY0="E02-71.png"/>
+<Ftitle InFrameReverse="1" InFrameX="23" InFrameY="-30" InFrameY0="E02-000.png"/>
+<Ftitle InFrameReverse="0" InFrameX="-10" InFrameY="-23" InFrameY0="E02-009.png"/>
+<Ftitle InFrameReverse="0" InFrameX="-5" InFrameY="-14" InFrameY0="E02-060.png"/>
+<Ftitle InFrameReverse="0" InFrameX="-5" InFrameY="-24" InFrameY0="E02-005.png"/>
+<Ftitle InFrameReverse="0" InFrameX="-10" InFrameY="-50" InFrameY0="E02-015.png"/>
+<Ftitle InFrameReverse="0" InFrameX="3" InFrameY="-22" InFrameY0="E02-006.png"/>
+</frame>
+<frame DateCount="1" FrameIndex="8" FrameName="移动左上1" TitleCount="3">
+<data DataH="29" DataName="0" DataW="32" DataX="-17" DataY="-31"/>
+<Ftitle InFrameReverse="0" InFrameX="-18" InFrameY="-15" InFrameY0="E02-71.png"/>
+<Ftitle InFrameReverse="0" InFrameX="-24" InFrameY="-33" InFrameY0="E02-034.png"/>
+<Ftitle InFrameReverse="0" InFrameX="-17" InFrameY="-48" InFrameY0="E02-027.png"/>
+</frame>
+<frame DateCount="1" FrameIndex="9" FrameName="移动左上2" TitleCount="3">
+<data DataH="29" DataName="0" DataW="32" DataX="-17" DataY="-31"/>
+<Ftitle InFrameReverse="0" InFrameX="-18" InFrameY="-15" InFrameY0="E02-71.png"/>
+<Ftitle InFrameReverse="0" InFrameX="-24" InFrameY="-33" InFrameY0="E02-036.png"/>
+<Ftitle InFrameReverse="0" InFrameX="-17" InFrameY="-48" InFrameY0="E02-029.png"/>
+</frame>
+<frame DateCount="1" FrameIndex="10" FrameName="移动左上3" TitleCount="3">
+<data DataH="29" DataName="0" DataW="32" DataX="-17" DataY="-31"/>
+<Ftitle InFrameReverse="0" InFrameX="-18" InFrameY="-15" InFrameY0="E02-71.png"/>
+<Ftitle InFrameReverse="0" InFrameX="-24" InFrameY="-34" InFrameY0="E02-033.png"/>
+<Ftitle InFrameReverse="0" InFrameX="-17" InFrameY="-49" InFrameY0="E02-026.png"/>
+</frame>
+<frame DateCount="1" FrameIndex="11" FrameName="移动左上4" TitleCount="3">
+<data DataH="29" DataName="0" DataW="32" DataX="-17" DataY="-31"/>
+<Ftitle InFrameReverse="0" InFrameX="-18" InFrameY="-15" InFrameY0="E02-71.png"/>
+<Ftitle InFrameReverse="0" InFrameX="-25" InFrameY="-33" InFrameY0="E02-035.png"/>
+<Ftitle InFrameReverse="0" InFrameX="-17" InFrameY="-49" InFrameY0="E02-028.png"/>
+</frame>
+<frame DateCount="1" FrameIndex="12" FrameName="移动左上5" TitleCount="3">
+<data DataH="29" DataName="0" DataW="32" DataX="-17" DataY="-31"/>
+<Ftitle InFrameReverse="0" InFrameX="-18" InFrameY="-15" InFrameY0="E02-71.png"/>
+<Ftitle InFrameReverse="0" InFrameX="-24" InFrameY="-33" InFrameY0="E02-032.png"/>
+<Ftitle InFrameReverse="0" InFrameX="-17" InFrameY="-49" InFrameY0="E02-025.png"/>
+</frame>
+<frame DateCount="1" FrameIndex="13" FrameName="移动左上6" TitleCount="3">
+<data DataH="29" DataName="0" DataW="32" DataX="-17" DataY="-31"/>
+<Ftitle InFrameReverse="0" InFrameX="-18" InFrameY="-15" InFrameY0="E02-71.png"/>
+<Ftitle InFrameReverse="0" InFrameX="-24" InFrameY="-33" InFrameY0="E02-031.png"/>
+<Ftitle InFrameReverse="0" InFrameX="-16" InFrameY="-49" InFrameY0="E02-024.png"/>
+</frame>
+<frame DateCount="1" FrameIndex="14" FrameName="移动左下1" TitleCount="3">
+<data DataH="29" DataName="0" DataW="32" DataX="-17" DataY="-31"/>
+<Ftitle InFrameReverse="0" InFrameX="-14" InFrameY="-15" InFrameY0="E02-71.png"/>
+<Ftitle InFrameReverse="0" InFrameX="-25" InFrameY="-34" InFrameY0="E02-020.png"/>
+<Ftitle InFrameReverse="0" InFrameX="-14" InFrameY="-50" InFrameY0="E02-015.png"/>
+</frame>
+<frame DateCount="1" FrameIndex="15" FrameName="移动左下2" TitleCount="3">
+<data DataH="29" DataName="0" DataW="32" DataX="-17" DataY="-31"/>
+<Ftitle InFrameReverse="0" InFrameX="-14" InFrameY="-15" InFrameY0="E02-71.png"/>
+<Ftitle InFrameReverse="0" InFrameX="-25" InFrameY="-34" InFrameY0="E02-021.png"/>
+<Ftitle InFrameReverse="0" InFrameX="-14" InFrameY="-51" InFrameY0="E02-014.png"/>
+</frame>
+<frame DateCount="1" FrameIndex="16" FrameName="移动左下3" TitleCount="3">
+<data DataH="29" DataName="0" DataW="32" DataX="-17" DataY="-31"/>
+<Ftitle InFrameReverse="0" InFrameX="-14" InFrameY="-15" InFrameY0="E02-71.png"/>
+<Ftitle InFrameReverse="0" InFrameX="-25" InFrameY="-34" InFrameY0="E02-022.png"/>
+<Ftitle InFrameReverse="0" InFrameX="-14" InFrameY="-52" InFrameY0="E02-013.png"/>
+</frame>
+<frame DateCount="1" FrameIndex="17" FrameName="移动左下4" TitleCount="3">
+<data DataH="29" DataName="0" DataW="32" DataX="-17" DataY="-31"/>
+<Ftitle InFrameReverse="0" InFrameX="-14" InFrameY="-15" InFrameY0="E02-71.png"/>
+<Ftitle InFrameReverse="0" InFrameX="-26" InFrameY="-32" InFrameY0="E02-019.png"/>
+<Ftitle InFrameReverse="0" InFrameX="-14" InFrameY="-52" InFrameY0="E02-012.png"/>
+</frame>
+<frame DateCount="1" FrameIndex="18" FrameName="移动左下5" TitleCount="3">
+<data DataH="29" DataName="0" DataW="32" DataX="-17" DataY="-31"/>
+<Ftitle InFrameReverse="0" InFrameX="-14" InFrameY="-15" InFrameY0="E02-71.png"/>
+<Ftitle InFrameReverse="0" InFrameX="-26" InFrameY="-34" InFrameY0="E02-018.png"/>
+<Ftitle InFrameReverse="0" InFrameX="-14" InFrameY="-51" InFrameY0="E02-011.png"/>
+</frame>
+<frame DateCount="1" FrameIndex="19" FrameName="移动左下6" TitleCount="3">
+<data DataH="29" DataName="0" DataW="32" DataX="-17" DataY="-31"/>
+<Ftitle InFrameReverse="0" InFrameX="-14" InFrameY="-15" InFrameY0="E02-71.png"/>
+<Ftitle InFrameReverse="0" InFrameX="-26" InFrameY="-35" InFrameY0="E02-017.png"/>
+<Ftitle InFrameReverse="0" InFrameX="-14" InFrameY="-52" InFrameY0="E02-010.png"/>
+</frame>
+<frame DateCount="1" FrameIndex="20" FrameName="攻击左上1" TitleCount="3">
+<data DataH="29" DataName="0" DataW="32" DataX="-17" DataY="-31"/>
+<Ftitle InFrameReverse="0" InFrameX="-16" InFrameY="-15" InFrameY0="E02-71.png"/>
+<Ftitle InFrameReverse="0" InFrameX="-29" InFrameY="-36" InFrameY0="E02-053.png"/>
+<Ftitle InFrameReverse="0" InFrameX="-13" InFrameY="-50" InFrameY0="E02-027.png"/>
+</frame>
+<frame DateCount="1" FrameIndex="21" FrameName="攻击左上2" TitleCount="3">
+<data DataH="29" DataName="0" DataW="32" DataX="-17" DataY="-31"/>
+<Ftitle InFrameReverse="0" InFrameX="-16" InFrameY="-15" InFrameY0="E02-71.png"/>
+<Ftitle InFrameReverse="0" InFrameX="-32" InFrameY="-30" InFrameY0="E02-056.png"/>
+<Ftitle InFrameReverse="0" InFrameX="-13" InFrameY="-49" InFrameY0="E02-029.png"/>
+</frame>
+<frame DateCount="1" FrameIndex="22" FrameName="攻击左上4" TitleCount="3">
+<data DataH="29" DataName="0" DataW="32" DataX="-17" DataY="-31"/>
+<Ftitle InFrameReverse="0" InFrameX="-16" InFrameY="-15" InFrameY0="E02-71.png"/>
+<Ftitle InFrameReverse="0" InFrameX="-34" InFrameY="-45" InFrameY0="E02-049.png"/>
+<Ftitle InFrameReverse="0" InFrameX="-9" InFrameY="-49" InFrameY0="E02-028.png"/>
+</frame>
+<frame DateCount="1" FrameIndex="23" FrameName="攻击左上5" TitleCount="3">
+<data DataH="29" DataName="0" DataW="32" DataX="-17" DataY="-31"/>
+<Ftitle InFrameReverse="0" InFrameX="-16" InFrameY="-15" InFrameY0="E02-71.png"/>
+<Ftitle InFrameReverse="0" InFrameX="-37" InFrameY="-40" InFrameY0="E02-051.png"/>
+<Ftitle InFrameReverse="0" InFrameX="-9" InFrameY="-49" InFrameY0="E02-025.png"/>
+</frame>
+<frame DateCount="2" FrameIndex="24" FrameName="攻击左上6" TitleCount="3">
+<data DataH="18" DataName="3" DataW="12" DataX="-22" DataY="-41"/>
+<data DataH="29" DataName="0" DataW="32" DataX="-17" DataY="-31"/>
+<Ftitle InFrameReverse="0" InFrameX="-16" InFrameY="-15" InFrameY0="E02-71.png"/>
+<Ftitle InFrameReverse="0" InFrameX="-38" InFrameY="-41" InFrameY0="E02-052.png"/>
+<Ftitle InFrameReverse="0" InFrameX="-9" InFrameY="-49" InFrameY0="E02-024.png"/>
+</frame>
+<frame DateCount="1" FrameIndex="25" FrameName="攻击左上7" TitleCount="3">
+<data DataH="29" DataName="0" DataW="32" DataX="-17" DataY="-31"/>
+<Ftitle InFrameReverse="0" InFrameX="-16" InFrameY="-15" InFrameY0="E02-71.png"/>
+<Ftitle InFrameReverse="0" InFrameX="-40" InFrameY="-38" InFrameY0="E02-055.png"/>
+<Ftitle InFrameReverse="0" InFrameX="-10" InFrameY="-49" InFrameY0="E02-027.png"/>
+</frame>
+<frame DateCount="1" FrameIndex="26" FrameName="攻击左上8" TitleCount="3">
+<data DataH="29" DataName="0" DataW="32" DataX="-17" DataY="-31"/>
+<Ftitle InFrameReverse="0" InFrameX="-16" InFrameY="-15" InFrameY0="E02-71.png"/>
+<Ftitle InFrameReverse="0" InFrameX="-31" InFrameY="-27" InFrameY0="E02-057.png"/>
+<Ftitle InFrameReverse="0" InFrameX="-12" InFrameY="-50" InFrameY0="E02-027.png"/>
+</frame>
+<frame DateCount="1" FrameIndex="27" FrameName="攻击左上9" TitleCount="3">
+<data DataH="29" DataName="0" DataW="32" DataX="-17" DataY="-31"/>
+<Ftitle InFrameReverse="0" InFrameX="-16" InFrameY="-15" InFrameY0="E02-71.png"/>
+<Ftitle InFrameReverse="0" InFrameX="-29" InFrameY="-37" InFrameY0="E02-050.png"/>
+<Ftitle InFrameReverse="0" InFrameX="-12" InFrameY="-51" InFrameY0="E02-027.png"/>
+</frame>
+<frame DateCount="1" FrameIndex="28" FrameName="攻击左下2" TitleCount="3">
+<data DataH="29" DataName="0" DataW="32" DataX="-17" DataY="-31"/>
+<Ftitle InFrameReverse="0" InFrameX="-16" InFrameY="-15" InFrameY0="E02-71.png"/>
+<Ftitle InFrameReverse="0" InFrameX="-30" InFrameY="-31" InFrameY0="E02-042.png"/>
+<Ftitle InFrameReverse="0" InFrameX="-10" InFrameY="-52" InFrameY0="E02-014.png"/>
+</frame>
+<frame DateCount="1" FrameIndex="29" FrameName="攻击左下3" TitleCount="3">
+<data DataH="29" DataName="0" DataW="32" DataX="-17" DataY="-31"/>
+<Ftitle InFrameReverse="0" InFrameX="-16" InFrameY="-15" InFrameY0="E02-71.png"/>
+<Ftitle InFrameReverse="0" InFrameX="-9" InFrameY="-51" InFrameY0="E02-013.png"/>
+<Ftitle InFrameReverse="0" InFrameX="-24" InFrameY="-32" InFrameY0="E02-041.png"/>
+</frame>
+<frame DateCount="1" FrameIndex="30" FrameName="攻击左下4" TitleCount="3">
+<data DataH="29" DataName="0" DataW="32" DataX="-17" DataY="-31"/>
+<Ftitle InFrameReverse="0" InFrameX="-16" InFrameY="-15" InFrameY0="E02-71.png"/>
+<Ftitle InFrameReverse="0" InFrameX="-6" InFrameY="-52" InFrameY0="E02-012.png"/>
+<Ftitle InFrameReverse="0" InFrameX="-23" InFrameY="-32" InFrameY0="E02-043.png"/>
+</frame>
+<frame DateCount="1" FrameIndex="31" FrameName="攻击左下5" TitleCount="3">
+<data DataH="29" DataName="0" DataW="32" DataX="-17" DataY="-31"/>
+<Ftitle InFrameReverse="0" InFrameX="-16" InFrameY="-15" InFrameY0="E02-71.png"/>
+<Ftitle InFrameReverse="0" InFrameX="-6" InFrameY="-53" InFrameY0="E02-011.png"/>
+<Ftitle InFrameReverse="0" InFrameX="-30" InFrameY="-33" InFrameY0="E02-044.png"/>
+</frame>
+<frame DateCount="2" FrameIndex="32" FrameName="攻击左下6" TitleCount="3">
+<data DataH="18" DataName="3" DataW="12" DataX="-22" DataY="-41"/>
+<data DataH="29" DataName="0" DataW="32" DataX="-17" DataY="-31"/>
+<Ftitle InFrameReverse="0" InFrameX="-16" InFrameY="-15" InFrameY0="E02-71.png"/>
+<Ftitle InFrameReverse="0" InFrameX="-35" InFrameY="-28" InFrameY0="E02-046.png"/>
+<Ftitle InFrameReverse="0" InFrameX="-6" InFrameY="-53" InFrameY0="E02-010.png"/>
+</frame>
+<frame DateCount="1" FrameIndex="33" FrameName="攻击左下7" TitleCount="3">
+<data DataH="29" DataName="0" DataW="32" DataX="-17" DataY="-31"/>
+<Ftitle InFrameReverse="0" InFrameX="-16" InFrameY="-15" InFrameY0="E02-71.png"/>
+<Ftitle InFrameReverse="0" InFrameX="-10" InFrameY="-52" InFrameY0="E02-015.png"/>
+<Ftitle InFrameReverse="0" InFrameX="-36" InFrameY="-27" InFrameY0="E02-047.png"/>
+</frame>
+<frame DateCount="1" FrameIndex="34" FrameName="攻击左下8" TitleCount="3">
+<data DataH="29" DataName="0" DataW="32" DataX="-17" DataY="-31"/>
+<Ftitle InFrameReverse="0" InFrameX="-16" InFrameY="-15" InFrameY0="E02-71.png"/>
+<Ftitle InFrameReverse="0" InFrameX="-10" InFrameY="-52" InFrameY0="E02-015.png"/>
+<Ftitle InFrameReverse="0" InFrameX="-23" InFrameY="-30" InFrameY0="E02-045.png"/>
+</frame>
+<frame DateCount="1" FrameIndex="35" FrameName="攻击左下9" TitleCount="3">
+<data DataH="29" DataName="0" DataW="32" DataX="-17" DataY="-31"/>
+<Ftitle InFrameReverse="0" InFrameX="-16" InFrameY="-15" InFrameY0="E02-71.png"/>
+<Ftitle InFrameReverse="0" InFrameX="-22" InFrameY="-48" InFrameY0="E02-040.png"/>
+<Ftitle InFrameReverse="0" InFrameX="-10" InFrameY="-51" InFrameY0="E02-015.png"/>
+</frame>
+<frame DateCount="1" FrameIndex="36" FrameName="箭" TitleCount="1">
+<data DataH="25" DataName="1" DataW="14" DataX="-7" DataY="-13"/>
+<Ftitle InFrameReverse="0" InFrameX="-32" InFrameY="-57" InFrameY0="E02-066.png"/>
+</frame>
+<frame DateCount="1" FrameIndex="37" FrameName="挨打左上" TitleCount="4">
+<data DataH="29" DataName="0" DataW="32" DataX="-17" DataY="-31"/>
+<Ftitle InFrameReverse="0" InFrameX="-15" InFrameY="-11" InFrameY0="E02-71.png"/>
+<Ftitle InFrameReverse="0" InFrameX="-17" InFrameY="-31" InFrameY0="E02-062.png"/>
+<Ftitle InFrameReverse="0" InFrameX="-9" InFrameY="-43" InFrameY0="E02-027.png"/>
+<Ftitle InFrameReverse="0" InFrameX="-10" InFrameY="-23" InFrameY0="E02-059.png"/>
+</frame>
+<frame DateCount="1" FrameIndex="38" FrameName="挨打左下" TitleCount="4">
+<data DataH="29" DataName="0" DataW="32" DataX="-17" DataY="-31"/>
+<Ftitle InFrameReverse="0" InFrameX="-13" InFrameY="-10" InFrameY0="E02-71.png"/>
+<Ftitle InFrameReverse="1" InFrameX="33" InFrameY="-29" InFrameY0="E02-000.png"/>
+<Ftitle InFrameReverse="0" InFrameX="-5" InFrameY="-22" InFrameY0="E02-058.png"/>
+<Ftitle InFrameReverse="0" InFrameX="-5" InFrameY="-46" InFrameY0="E02-015.png"/>
+</frame>
+<frame DateCount="0" FrameIndex="39" FrameName="死亡左上" TitleCount="3">
+<Ftitle InFrameReverse="0" InFrameX="-12" InFrameY="-2" InFrameY0="E02-71.png"/>
+<Ftitle InFrameReverse="0" InFrameX="-22" InFrameY="-19" InFrameY0="E02-023.png"/>
+<Ftitle InFrameReverse="0" InFrameX="-20" InFrameY="-19" InFrameY0="E02-064.png"/>
+</frame>
+<frame DateCount="0" FrameIndex="40" FrameName="死亡左下" TitleCount="3">
+<Ftitle InFrameReverse="0" InFrameX="-6" InFrameY="-11" InFrameY0="E02-71.png"/>
+<Ftitle InFrameReverse="0" InFrameX="-29" InFrameY="-26" InFrameY0="E02-030.png"/>
+<Ftitle InFrameReverse="0" InFrameX="-29" InFrameY="-26" InFrameY0="E02-063.png"/>
+</frame>
+<frame DateCount="1" FrameIndex="41" FrameName="箭0" TitleCount="2">
+<data DataH="25" DataName="1" DataW="14" DataX="-7" DataY="-13"/>
+<Ftitle InFrameReverse="0" InFrameX="-32" InFrameY="-57" InFrameY0="E02-066.png"/>
+<Ftitle InFrameReverse="0" InFrameX="-32" InFrameY="-57" InFrameY0="E02-066.png"/>
+</frame>
+<frame DateCount="1" FrameIndex="42" FrameName="箭1" TitleCount="3">
+<data DataH="25" DataName="1" DataW="14" DataX="-7" DataY="-13"/>
+<Ftitle InFrameReverse="0" InFrameX="-32" InFrameY="-57" InFrameY0="E02-066.png"/>
+<Ftitle InFrameReverse="0" InFrameX="-32" InFrameY="-57" InFrameY0="E02-066.png"/>
+<Ftitle InFrameReverse="0" InFrameX="-32" InFrameY="-57" InFrameY0="E02-066.png"/>
+</frame>
+<frame DateCount="1" FrameIndex="43" FrameName="攻击左下5红" TitleCount="3">
+<data DataH="29" DataName="0" DataW="32" DataX="-17" DataY="-31"/>
+<Ftitle InFrameReverse="0" InFrameX="-16" InFrameY="-15" InFrameY0="E02-71.png"/>
+<Ftitle InFrameReverse="0" InFrameX="-6" InFrameY="-53" InFrameY0="E02-068.png"/>
+<Ftitle InFrameReverse="0" InFrameX="-30" InFrameY="-33" InFrameY0="E02-067.png"/>
+</frame>
+<frame DateCount="1" FrameIndex="44" FrameName="攻击左上5红" TitleCount="3">
+<data DataH="29" DataName="0" DataW="32" DataX="-17" DataY="-31"/>
+<Ftitle InFrameReverse="0" InFrameX="-16" InFrameY="-15" InFrameY0="E02-71.png"/>
+<Ftitle InFrameReverse="0" InFrameX="-37" InFrameY="-40" InFrameY0="E02-70.png"/>
+<Ftitle InFrameReverse="0" InFrameX="-9" InFrameY="-49" InFrameY0="E02-069.png"/>
+</frame>
+</frames>
+<actions ActionCount="31">
+<action FrameCount="4" actionIndex="0" actionName="站立正上">
+<Aframe Delay="1" Index="0"/>
+<Aframe Delay="1" Index="1"/>
+<Aframe Delay="3" Index="2"/>
+<Aframe Delay="3" Index="3"/>
+</action>
+<action FrameCount="4" actionIndex="1" actionName="站立正下">
+<Aframe Delay="3" Index="4"/>
+<Aframe Delay="1" Index="5"/>
+<Aframe Delay="1" Index="6"/>
+<Aframe Delay="3" Index="7"/>
+</action>
+<action FrameCount="4" actionIndex="2" actionName="站立正左">
+<Aframe Delay="3" Index="4"/>
+<Aframe Delay="1" Index="5"/>
+<Aframe Delay="1" Index="6"/>
+<Aframe Delay="3" Index="7"/>
+</action>
+<action FrameCount="4" actionIndex="3" actionName="站立左上">
+<Aframe Delay="1" Index="0"/>
+<Aframe Delay="1" Index="1"/>
+<Aframe Delay="3" Index="2"/>
+<Aframe Delay="3" Index="3"/>
+</action>
+<action FrameCount="4" actionIndex="4" actionName="站立左下">
+<Aframe Delay="3" Index="4"/>
+<Aframe Delay="1" Index="5"/>
+<Aframe Delay="1" Index="6"/>
+<Aframe Delay="3" Index="7"/>
+</action>
+<action FrameCount="6" actionIndex="5" actionName="移动正上">
+<Aframe Delay="1" Index="8"/>
+<Aframe Delay="1" Index="9"/>
+<Aframe Delay="1" Index="10"/>
+<Aframe Delay="1" Index="11"/>
+<Aframe Delay="1" Index="12"/>
+<Aframe Delay="1" Index="13"/>
+</action>
+<action FrameCount="6" actionIndex="6" actionName="移动正下">
+<Aframe Delay="1" Index="14"/>
+<Aframe Delay="1" Index="15"/>
+<Aframe Delay="1" Index="16"/>
+<Aframe Delay="1" Index="17"/>
+<Aframe Delay="1" Index="18"/>
+<Aframe Delay="1" Index="19"/>
+</action>
+<action FrameCount="6" actionIndex="7" actionName="移动正左">
+<Aframe Delay="1" Index="14"/>
+<Aframe Delay="1" Index="15"/>
+<Aframe Delay="1" Index="16"/>
+<Aframe Delay="1" Index="17"/>
+<Aframe Delay="1" Index="18"/>
+<Aframe Delay="1" Index="19"/>
+</action>
+<action FrameCount="6" actionIndex="8" actionName="移动左上">
+<Aframe Delay="1" Index="8"/>
+<Aframe Delay="1" Index="9"/>
+<Aframe Delay="1" Index="10"/>
+<Aframe Delay="1" Index="11"/>
+<Aframe Delay="1" Index="12"/>
+<Aframe Delay="1" Index="13"/>
+</action>
+<action FrameCount="6" actionIndex="9" actionName="移动左下">
+<Aframe Delay="1" Index="14"/>
+<Aframe Delay="1" Index="15"/>
+<Aframe Delay="1" Index="16"/>
+<Aframe Delay="1" Index="17"/>
+<Aframe Delay="1" Index="18"/>
+<Aframe Delay="1" Index="19"/>
+</action>
+<action FrameCount="3" actionIndex="10" actionName="挨打正上">
+<Aframe Delay="0" Index="37"/>
+<Aframe Delay="10" Index="37"/>
+<Aframe Delay="0" Index="37"/>
+</action>
+<action FrameCount="3" actionIndex="11" actionName="挨打正下">
+<Aframe Delay="0" Index="38"/>
+<Aframe Delay="10" Index="38"/>
+<Aframe Delay="0" Index="38"/>
+</action>
+<action FrameCount="3" actionIndex="12" actionName="挨打正左">
+<Aframe Delay="0" Index="38"/>
+<Aframe Delay="10" Index="38"/>
+<Aframe Delay="0" Index="38"/>
+</action>
+<action FrameCount="3" actionIndex="13" actionName="挨打左上">
+<Aframe Delay="0" Index="37"/>
+<Aframe Delay="10" Index="37"/>
+<Aframe Delay="0" Index="37"/>
+</action>
+<action FrameCount="3" actionIndex="14" actionName="挨打左下">
+<Aframe Delay="0" Index="38"/>
+<Aframe Delay="10" Index="38"/>
+<Aframe Delay="0" Index="38"/>
+</action>
+<action FrameCount="3" actionIndex="15" actionName="死亡正上">
+<Aframe Delay="1" Index="37"/>
+<Aframe Delay="20" Index="39"/>
+<Aframe Delay="0" Index="39"/>
+</action>
+<action FrameCount="3" actionIndex="16" actionName="死亡正下">
+<Aframe Delay="1" Index="38"/>
+<Aframe Delay="20" Index="40"/>
+<Aframe Delay="0" Index="40"/>
+</action>
+<action FrameCount="3" actionIndex="17" actionName="死亡正左">
+<Aframe Delay="1" Index="38"/>
+<Aframe Delay="20" Index="40"/>
+<Aframe Delay="0" Index="40"/>
+</action>
+<action FrameCount="3" actionIndex="18" actionName="死亡左上">
+<Aframe Delay="1" Index="37"/>
+<Aframe Delay="20" Index="39"/>
+<Aframe Delay="0" Index="39"/>
+</action>
+<action FrameCount="3" actionIndex="19" actionName="死亡左下">
+<Aframe Delay="1" Index="38"/>
+<Aframe Delay="20" Index="40"/>
+<Aframe Delay="0" Index="40"/>
+</action>
+<action FrameCount="20" actionIndex="20" actionName="攻击正上">
+<Aframe Delay="2" Index="20"/>
+<Aframe Delay="0" Index="21"/>
+<Aframe Delay="0" Index="22"/>
+<Aframe Delay="1" Index="23"/>
+<Aframe Delay="3" Index="44"/>
+<Aframe Delay="8" Index="23"/>
+<Aframe Delay="3" Index="44"/>
+<Aframe Delay="6" Index="23"/>
+<Aframe Delay="0" Index="24"/>
+<Aframe Delay="2" Index="25"/>
+<Aframe Delay="0" Index="26"/>
+<Aframe Delay="1" Index="27"/>
+<Aframe Delay="1" Index="0"/>
+<Aframe Delay="1" Index="1"/>
+<Aframe Delay="3" Index="2"/>
+<Aframe Delay="3" Index="3"/>
+<Aframe Delay="1" Index="0"/>
+<Aframe Delay="1" Index="1"/>
+<Aframe Delay="3" Index="2"/>
+<Aframe Delay="3" Index="3"/>
+</action>
+<action FrameCount="20" actionIndex="21" actionName="攻击正下">
+<Aframe Delay="2" Index="28"/>
+<Aframe Delay="0" Index="29"/>
+<Aframe Delay="0" Index="30"/>
+<Aframe Delay="1" Index="31"/>
+<Aframe Delay="3" Index="43"/>
+<Aframe Delay="8" Index="31"/>
+<Aframe Delay="3" Index="43"/>
+<Aframe Delay="6" Index="31"/>
+<Aframe Delay="0" Index="32"/>
+<Aframe Delay="2" Index="33"/>
+<Aframe Delay="0" Index="34"/>
+<Aframe Delay="1" Index="35"/>
+<Aframe Delay="3" Index="4"/>
+<Aframe Delay="1" Index="5"/>
+<Aframe Delay="1" Index="6"/>
+<Aframe Delay="3" Index="7"/>
+<Aframe Delay="3" Index="4"/>
+<Aframe Delay="1" Index="5"/>
+<Aframe Delay="1" Index="6"/>
+<Aframe Delay="3" Index="7"/>
+</action>
+<action FrameCount="20" actionIndex="22" actionName="攻击正左">
+<Aframe Delay="2" Index="28"/>
+<Aframe Delay="0" Index="29"/>
+<Aframe Delay="0" Index="30"/>
+<Aframe Delay="1" Index="31"/>
+<Aframe Delay="3" Index="43"/>
+<Aframe Delay="8" Index="31"/>
+<Aframe Delay="3" Index="43"/>
+<Aframe Delay="6" Index="31"/>
+<Aframe Delay="0" Index="32"/>
+<Aframe Delay="2" Index="33"/>
+<Aframe Delay="0" Index="34"/>
+<Aframe Delay="1" Index="35"/>
+<Aframe Delay="3" Index="4"/>
+<Aframe Delay="1" Index="5"/>
+<Aframe Delay="1" Index="6"/>
+<Aframe Delay="3" Index="7"/>
+<Aframe Delay="3" Index="4"/>
+<Aframe Delay="1" Index="5"/>
+<Aframe Delay="1" Index="6"/>
+<Aframe Delay="3" Index="7"/>
+</action>
+<action FrameCount="20" actionIndex="23" actionName="攻击左上">
+<Aframe Delay="2" Index="20"/>
+<Aframe Delay="0" Index="21"/>
+<Aframe Delay="0" Index="22"/>
+<Aframe Delay="1" Index="23"/>
+<Aframe Delay="3" Index="44"/>
+<Aframe Delay="8" Index="23"/>
+<Aframe Delay="3" Index="44"/>
+<Aframe Delay="6" Index="23"/>
+<Aframe Delay="0" Index="24"/>
+<Aframe Delay="2" Index="25"/>
+<Aframe Delay="0" Index="26"/>
+<Aframe Delay="1" Index="27"/>
+<Aframe Delay="1" Index="0"/>
+<Aframe Delay="1" Index="1"/>
+<Aframe Delay="3" Index="2"/>
+<Aframe Delay="3" Index="3"/>
+<Aframe Delay="1" Index="0"/>
+<Aframe Delay="1" Index="1"/>
+<Aframe Delay="3" Index="2"/>
+<Aframe Delay="3" Index="3"/>
+</action>
+<action FrameCount="20" actionIndex="24" actionName="攻击左下">
+<Aframe Delay="2" Index="28"/>
+<Aframe Delay="0" Index="29"/>
+<Aframe Delay="0" Index="30"/>
+<Aframe Delay="1" Index="31"/>
+<Aframe Delay="3" Index="43"/>
+<Aframe Delay="8" Index="31"/>
+<Aframe Delay="3" Index="43"/>
+<Aframe Delay="6" Index="31"/>
+<Aframe Delay="0" Index="32"/>
+<Aframe Delay="2" Index="33"/>
+<Aframe Delay="0" Index="34"/>
+<Aframe Delay="1" Index="35"/>
+<Aframe Delay="3" Index="4"/>
+<Aframe Delay="1" Index="5"/>
+<Aframe Delay="1" Index="6"/>
+<Aframe Delay="3" Index="7"/>
+<Aframe Delay="3" Index="4"/>
+<Aframe Delay="1" Index="5"/>
+<Aframe Delay="1" Index="6"/>
+<Aframe Delay="3" Index="7"/>
+</action>
+<action FrameCount="18" actionIndex="25" actionName="攻击1正上">
+<Aframe Delay="2" Index="20"/>
+<Aframe Delay="0" Index="21"/>
+<Aframe Delay="0" Index="22"/>
+<Aframe Delay="1" Index="23"/>
+<Aframe Delay="3" Index="44"/>
+<Aframe Delay="8" Index="23"/>
+<Aframe Delay="3" Index="44"/>
+<Aframe Delay="6" Index="23"/>
+<Aframe Delay="0" Index="24"/>
+<Aframe Delay="2" Index="25"/>
+<Aframe Delay="0" Index="26"/>
+<Aframe Delay="1" Index="27"/>
+<Aframe Delay="3" Index="2"/>
+<Aframe Delay="3" Index="3"/>
+<Aframe Delay="1" Index="0"/>
+<Aframe Delay="1" Index="1"/>
+<Aframe Delay="3" Index="2"/>
+<Aframe Delay="3" Index="3"/>
+</action>
+<action FrameCount="18" actionIndex="26" actionName="攻击1正下">
+<Aframe Delay="2" Index="28"/>
+<Aframe Delay="0" Index="29"/>
+<Aframe Delay="0" Index="30"/>
+<Aframe Delay="1" Index="31"/>
+<Aframe Delay="3" Index="43"/>
+<Aframe Delay="8" Index="31"/>
+<Aframe Delay="3" Index="43"/>
+<Aframe Delay="6" Index="31"/>
+<Aframe Delay="0" Index="32"/>
+<Aframe Delay="2" Index="33"/>
+<Aframe Delay="0" Index="34"/>
+<Aframe Delay="1" Index="35"/>
+<Aframe Delay="1" Index="6"/>
+<Aframe Delay="3" Index="7"/>
+<Aframe Delay="3" Index="4"/>
+<Aframe Delay="1" Index="5"/>
+<Aframe Delay="1" Index="6"/>
+<Aframe Delay="3" Index="7"/>
+</action>
+<action FrameCount="18" actionIndex="27" actionName="攻击1正左">
+<Aframe Delay="2" Index="28"/>
+<Aframe Delay="0" Index="29"/>
+<Aframe Delay="0" Index="30"/>
+<Aframe Delay="1" Index="31"/>
+<Aframe Delay="3" Index="43"/>
+<Aframe Delay="8" Index="31"/>
+<Aframe Delay="3" Index="43"/>
+<Aframe Delay="6" Index="31"/>
+<Aframe Delay="0" Index="32"/>
+<Aframe Delay="2" Index="33"/>
+<Aframe Delay="0" Index="34"/>
+<Aframe Delay="1" Index="35"/>
+<Aframe Delay="1" Index="6"/>
+<Aframe Delay="3" Index="7"/>
+<Aframe Delay="3" Index="4"/>
+<Aframe Delay="1" Index="5"/>
+<Aframe Delay="1" Index="6"/>
+<Aframe Delay="3" Index="7"/>
+</action>
+<action FrameCount="18" actionIndex="28" actionName="攻击1左上">
+<Aframe Delay="2" Index="20"/>
+<Aframe Delay="0" Index="21"/>
+<Aframe Delay="0" Index="22"/>
+<Aframe Delay="1" Index="23"/>
+<Aframe Delay="3" Index="44"/>
+<Aframe Delay="8" Index="23"/>
+<Aframe Delay="3" Index="44"/>
+<Aframe Delay="6" Index="23"/>
+<Aframe Delay="0" Index="24"/>
+<Aframe Delay="2" Index="25"/>
+<Aframe Delay="0" Index="26"/>
+<Aframe Delay="1" Index="27"/>
+<Aframe Delay="3" Index="2"/>
+<Aframe Delay="3" Index="3"/>
+<Aframe Delay="1" Index="0"/>
+<Aframe Delay="1" Index="1"/>
+<Aframe Delay="3" Index="2"/>
+<Aframe Delay="3" Index="3"/>
+</action>
+<action FrameCount="18" actionIndex="29" actionName="攻击1左下">
+<Aframe Delay="2" Index="28"/>
+<Aframe Delay="0" Index="29"/>
+<Aframe Delay="0" Index="30"/>
+<Aframe Delay="1" Index="31"/>
+<Aframe Delay="3" Index="43"/>
+<Aframe Delay="8" Index="31"/>
+<Aframe Delay="3" Index="43"/>
+<Aframe Delay="6" Index="31"/>
+<Aframe Delay="0" Index="32"/>
+<Aframe Delay="2" Index="33"/>
+<Aframe Delay="0" Index="34"/>
+<Aframe Delay="1" Index="35"/>
+<Aframe Delay="1" Index="6"/>
+<Aframe Delay="3" Index="7"/>
+<Aframe Delay="3" Index="4"/>
+<Aframe Delay="1" Index="5"/>
+<Aframe Delay="1" Index="6"/>
+<Aframe Delay="3" Index="7"/>
+</action>
+<action FrameCount="4" actionIndex="30" actionName="箭">
+<Aframe Delay="0" Index="36"/>
+<Aframe Delay="0" Index="41"/>
+<Aframe Delay="0" Index="42"/>
+<Aframe Delay="0" Index="41"/>
+</action>
+</actions>
+</Map>

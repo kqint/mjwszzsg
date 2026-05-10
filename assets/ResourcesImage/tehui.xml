@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<Map>
+<frames FrameCount="3">
+<frame DateCount="0" FrameIndex="0" FrameName="1" TitleCount="2">
+<Ftitle InFrameReverse="0" InFrameX="-117" InFrameY="-67" InFrameY0="tehui-001.png"/>
+<Ftitle InFrameReverse="0" InFrameX="-66" InFrameY="-38" InFrameY0="tehui-004.png"/>
+</frame>
+<frame DateCount="0" FrameIndex="1" FrameName="2" TitleCount="2">
+<Ftitle InFrameReverse="0" InFrameX="-117" InFrameY="-67" InFrameY0="tehui-001.png"/>
+<Ftitle InFrameReverse="0" InFrameX="-66" InFrameY="-38" InFrameY0="tehui-003.png"/>
+</frame>
+<frame DateCount="0" FrameIndex="2" FrameName="3" TitleCount="2">
+<Ftitle InFrameReverse="0" InFrameX="-117" InFrameY="-67" InFrameY0="tehui-001.png"/>
+<Ftitle InFrameReverse="0" InFrameX="-66" InFrameY="-38" InFrameY0="tehui-002.png"/>
+</frame>
+</frames>
+<actions ActionCount="1">
+<action FrameCount="16" actionIndex="0" actionName="0">
+<Aframe Delay="1" Index="0"/>
+<Aframe Delay="1" Index="1"/>
+<Aframe Delay="1" Index="2"/>
+<Aframe Delay="1" Index="0"/>
+<Aframe Delay="1" Index="1"/>
+<Aframe Delay="1" Index="2"/>
+<Aframe Delay="1" Index="0"/>
+<Aframe Delay="1" Index="1"/>
+<Aframe Delay="1" Index="2"/>
+<Aframe Delay="1" Index="0"/>
+<Aframe Delay="1" Index="1"/>
+<Aframe Delay="1" Index="2"/>
+<Aframe Delay="1" Index="0"/>
+<Aframe Delay="1" Index="1"/>
+<Aframe Delay="1" Index="2"/>
+<Aframe Delay="60" Index="0"/>
+</action>
+</actions>
+</Map>

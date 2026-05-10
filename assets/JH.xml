@@ -1,0 +1,110 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<Map>
+<frames FrameCount="12">
+<frame DateCount="0" FrameIndex="0" FrameName="周瑜" TitleCount="5">
+<Ftitle InFrameReverse="1" InFrameX="271" InFrameY="-320" InFrameY0="JH-001.png"/>
+<Ftitle InFrameReverse="3" InFrameX="271" InFrameY="320" InFrameY0="JH-001.png"/>
+<Ftitle InFrameReverse="2" InFrameX="-272" InFrameY="320" InFrameY0="JH-001.png"/>
+<Ftitle InFrameReverse="0" InFrameX="-272" InFrameY="-320" InFrameY0="JH-001.png"/>
+<Ftitle InFrameReverse="0" InFrameX="-241" InFrameY="-299" InFrameY0="JH-003.png"/>
+</frame>
+<frame DateCount="0" FrameIndex="1" FrameName="小乔" TitleCount="5">
+<Ftitle InFrameReverse="1" InFrameX="271" InFrameY="-320" InFrameY0="JH-001.png"/>
+<Ftitle InFrameReverse="3" InFrameX="271" InFrameY="320" InFrameY0="JH-001.png"/>
+<Ftitle InFrameReverse="2" InFrameX="-272" InFrameY="320" InFrameY0="JH-001.png"/>
+<Ftitle InFrameReverse="0" InFrameX="-272" InFrameY="-320" InFrameY0="JH-001.png"/>
+<Ftitle InFrameReverse="0" InFrameX="-241" InFrameY="-299" InFrameY0="JH-004.png"/>
+</frame>
+<frame DateCount="0" FrameIndex="2" FrameName="司马懿" TitleCount="5">
+<Ftitle InFrameReverse="1" InFrameX="271" InFrameY="-320" InFrameY0="JH-001.png"/>
+<Ftitle InFrameReverse="3" InFrameX="271" InFrameY="320" InFrameY0="JH-001.png"/>
+<Ftitle InFrameReverse="2" InFrameX="-272" InFrameY="320" InFrameY0="JH-001.png"/>
+<Ftitle InFrameReverse="0" InFrameX="-272" InFrameY="-320" InFrameY0="JH-001.png"/>
+<Ftitle InFrameReverse="0" InFrameX="-241" InFrameY="-299" InFrameY0="JH-005.png"/>
+</frame>
+<frame DateCount="0" FrameIndex="3" FrameName="甄姬" TitleCount="5">
+<Ftitle InFrameReverse="1" InFrameX="271" InFrameY="-320" InFrameY0="JH-001.png"/>
+<Ftitle InFrameReverse="3" InFrameX="271" InFrameY="320" InFrameY0="JH-001.png"/>
+<Ftitle InFrameReverse="2" InFrameX="-272" InFrameY="320" InFrameY0="JH-001.png"/>
+<Ftitle InFrameReverse="0" InFrameX="-272" InFrameY="-320" InFrameY0="JH-001.png"/>
+<Ftitle InFrameReverse="0" InFrameX="-241" InFrameY="-299" InFrameY0="JH-006.png"/>
+</frame>
+<frame DateCount="0" FrameIndex="4" FrameName="曹操" TitleCount="5">
+<Ftitle InFrameReverse="1" InFrameX="271" InFrameY="-320" InFrameY0="JH-001.png"/>
+<Ftitle InFrameReverse="3" InFrameX="271" InFrameY="320" InFrameY0="JH-001.png"/>
+<Ftitle InFrameReverse="2" InFrameX="-272" InFrameY="320" InFrameY0="JH-001.png"/>
+<Ftitle InFrameReverse="0" InFrameX="-272" InFrameY="-320" InFrameY0="JH-001.png"/>
+<Ftitle InFrameReverse="0" InFrameX="-241" InFrameY="-299" InFrameY0="JH-007.png"/>
+</frame>
+<frame DateCount="0" FrameIndex="5" FrameName="触摸继续" TitleCount="1">
+<Ftitle InFrameReverse="0" InFrameX="-91" InFrameY="268" InFrameY0="JH-002.png"/>
+</frame>
+<frame DateCount="0" FrameIndex="6" FrameName="空帧" TitleCount="0"/>
+<frame DateCount="0" FrameIndex="7" FrameName="0" TitleCount="6">
+<Ftitle InFrameReverse="1" InFrameX="271" InFrameY="-320" InFrameY0="JH-001.png"/>
+<Ftitle InFrameReverse="3" InFrameX="271" InFrameY="320" InFrameY0="JH-001.png"/>
+<Ftitle InFrameReverse="2" InFrameX="-272" InFrameY="320" InFrameY0="JH-001.png"/>
+<Ftitle InFrameReverse="0" InFrameX="-272" InFrameY="-320" InFrameY0="JH-001.png"/>
+<Ftitle InFrameReverse="0" InFrameX="-241" InFrameY="-299" InFrameY0="JH-003.png"/>
+<Ftitle InFrameReverse="0" InFrameX="-91" InFrameY="268" InFrameY0="JH-002.png"/>
+</frame>
+<frame DateCount="0" FrameIndex="8" FrameName="1" TitleCount="6">
+<Ftitle InFrameReverse="1" InFrameX="271" InFrameY="-320" InFrameY0="JH-001.png"/>
+<Ftitle InFrameReverse="3" InFrameX="271" InFrameY="320" InFrameY0="JH-001.png"/>
+<Ftitle InFrameReverse="2" InFrameX="-272" InFrameY="320" InFrameY0="JH-001.png"/>
+<Ftitle InFrameReverse="0" InFrameX="-272" InFrameY="-320" InFrameY0="JH-001.png"/>
+<Ftitle InFrameReverse="0" InFrameX="-241" InFrameY="-299" InFrameY0="JH-004.png"/>
+<Ftitle InFrameReverse="0" InFrameX="-91" InFrameY="268" InFrameY0="JH-002.png"/>
+</frame>
+<frame DateCount="0" FrameIndex="9" FrameName="2" TitleCount="6">
+<Ftitle InFrameReverse="1" InFrameX="271" InFrameY="-320" InFrameY0="JH-001.png"/>
+<Ftitle InFrameReverse="3" InFrameX="271" InFrameY="320" InFrameY0="JH-001.png"/>
+<Ftitle InFrameReverse="2" InFrameX="-272" InFrameY="320" InFrameY0="JH-001.png"/>
+<Ftitle InFrameReverse="0" InFrameX="-272" InFrameY="-320" InFrameY0="JH-001.png"/>
+<Ftitle InFrameReverse="0" InFrameX="-241" InFrameY="-299" InFrameY0="JH-005.png"/>
+<Ftitle InFrameReverse="0" InFrameX="-91" InFrameY="268" InFrameY0="JH-002.png"/>
+</frame>
+<frame DateCount="0" FrameIndex="10" FrameName="3" TitleCount="6">
+<Ftitle InFrameReverse="1" InFrameX="271" InFrameY="-320" InFrameY0="JH-001.png"/>
+<Ftitle InFrameReverse="3" InFrameX="271" InFrameY="320" InFrameY0="JH-001.png"/>
+<Ftitle InFrameReverse="2" InFrameX="-272" InFrameY="320" InFrameY0="JH-001.png"/>
+<Ftitle InFrameReverse="0" InFrameX="-272" InFrameY="-320" InFrameY0="JH-001.png"/>
+<Ftitle InFrameReverse="0" InFrameX="-241" InFrameY="-299" InFrameY0="JH-006.png"/>
+<Ftitle InFrameReverse="0" InFrameX="-91" InFrameY="268" InFrameY0="JH-002.png"/>
+</frame>
+<frame DateCount="0" FrameIndex="11" FrameName="4" TitleCount="6">
+<Ftitle InFrameReverse="1" InFrameX="271" InFrameY="-320" InFrameY0="JH-001.png"/>
+<Ftitle InFrameReverse="3" InFrameX="271" InFrameY="320" InFrameY0="JH-001.png"/>
+<Ftitle InFrameReverse="2" InFrameX="-272" InFrameY="320" InFrameY0="JH-001.png"/>
+<Ftitle InFrameReverse="0" InFrameX="-272" InFrameY="-320" InFrameY0="JH-001.png"/>
+<Ftitle InFrameReverse="0" InFrameX="-241" InFrameY="-299" InFrameY0="JH-007.png"/>
+<Ftitle InFrameReverse="0" InFrameX="-91" InFrameY="268" InFrameY0="JH-002.png"/>
+</frame>
+</frames>
+<actions ActionCount="6">
+<action FrameCount="2" actionIndex="0" actionName="周瑜">
+<Aframe Delay="10" Index="0"/>
+<Aframe Delay="4" Index="7"/>
+</action>
+<action FrameCount="2" actionIndex="1" actionName="小乔">
+<Aframe Delay="10" Index="1"/>
+<Aframe Delay="4" Index="8"/>
+</action>
+<action FrameCount="2" actionIndex="2" actionName="司马懿">
+<Aframe Delay="10" Index="2"/>
+<Aframe Delay="4" Index="9"/>
+</action>
+<action FrameCount="2" actionIndex="3" actionName="甄姬">
+<Aframe Delay="10" Index="3"/>
+<Aframe Delay="4" Index="10"/>
+</action>
+<action FrameCount="2" actionIndex="4" actionName="曹操">
+<Aframe Delay="10" Index="4"/>
+<Aframe Delay="4" Index="11"/>
+</action>
+<action FrameCount="2" actionIndex="5" actionName="触摸继续">
+<Aframe Delay="2" Index="5"/>
+<Aframe Delay="2" Index="6"/>
+</action>
+</actions>
+</Map>

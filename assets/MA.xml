@@ -1,0 +1,463 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<Map>
+<frames FrameCount="21">
+<frame DateCount="2" FrameIndex="0" FrameName="Stand1" TitleCount="6">
+<data DataH="81" DataName="0" DataW="106" DataX="-54" DataY="-71"/>
+<data DataH="71" DataName="4" DataW="106" DataX="-54" DataY="-71"/>
+<Ftitle InFrameReverse="0" InFrameX="-69" InFrameY="-48" InFrameY0="MA-15.png"/>
+<Ftitle InFrameReverse="1" InFrameX="46" InFrameY="-22" InFrameY0="MA-3.png"/>
+<Ftitle InFrameReverse="1" InFrameX="-17" InFrameY="-22" InFrameY0="MA-3.png"/>
+<Ftitle InFrameReverse="1" InFrameX="-34" InFrameY="-79" InFrameY0="MA-2.png"/>
+<Ftitle InFrameReverse="1" InFrameX="67" InFrameY="-92" InFrameY0="MA-20.png"/>
+<Ftitle InFrameReverse="1" InFrameX="65" InFrameY="-94" InFrameY0="MA-1.png"/>
+</frame>
+<frame DateCount="2" FrameIndex="1" FrameName="Stand2" TitleCount="6">
+<data DataH="81" DataName="0" DataW="106" DataX="-54" DataY="-71"/>
+<data DataH="71" DataName="4" DataW="106" DataX="-54" DataY="-71"/>
+<Ftitle InFrameReverse="0" InFrameX="-69" InFrameY="-48" InFrameY0="MA-15.png"/>
+<Ftitle InFrameReverse="1" InFrameX="46" InFrameY="-22" InFrameY0="MA-3.png"/>
+<Ftitle InFrameReverse="1" InFrameX="-17" InFrameY="-22" InFrameY0="MA-3.png"/>
+<Ftitle InFrameReverse="1" InFrameX="-34" InFrameY="-78" InFrameY0="MA-2.png"/>
+<Ftitle InFrameReverse="1" InFrameX="67" InFrameY="-91" InFrameY0="MA-20.png"/>
+<Ftitle InFrameReverse="1" InFrameX="65" InFrameY="-93" InFrameY0="MA-1.png"/>
+</frame>
+<frame DateCount="2" FrameIndex="2" FrameName="Stand3" TitleCount="6">
+<data DataH="81" DataName="0" DataW="106" DataX="-54" DataY="-71"/>
+<data DataH="71" DataName="4" DataW="106" DataX="-54" DataY="-71"/>
+<Ftitle InFrameReverse="0" InFrameX="-69" InFrameY="-48" InFrameY0="MA-15.png"/>
+<Ftitle InFrameReverse="1" InFrameX="46" InFrameY="-22" InFrameY0="MA-3.png"/>
+<Ftitle InFrameReverse="1" InFrameX="-17" InFrameY="-22" InFrameY0="MA-3.png"/>
+<Ftitle InFrameReverse="1" InFrameX="-34" InFrameY="-79" InFrameY0="MA-2.png"/>
+<Ftitle InFrameReverse="1" InFrameX="67" InFrameY="-92" InFrameY0="MA-20.png"/>
+<Ftitle InFrameReverse="1" InFrameX="65" InFrameY="-94" InFrameY0="MA-1.png"/>
+</frame>
+<frame DateCount="2" FrameIndex="3" FrameName="Stand4" TitleCount="6">
+<data DataH="81" DataName="0" DataW="106" DataX="-54" DataY="-71"/>
+<data DataH="71" DataName="4" DataW="106" DataX="-54" DataY="-71"/>
+<Ftitle InFrameReverse="0" InFrameX="-69" InFrameY="-48" InFrameY0="MA-15.png"/>
+<Ftitle InFrameReverse="1" InFrameX="46" InFrameY="-22" InFrameY0="MA-3.png"/>
+<Ftitle InFrameReverse="1" InFrameX="-17" InFrameY="-22" InFrameY0="MA-3.png"/>
+<Ftitle InFrameReverse="1" InFrameX="-34" InFrameY="-80" InFrameY0="MA-2.png"/>
+<Ftitle InFrameReverse="1" InFrameX="67" InFrameY="-93" InFrameY0="MA-20.png"/>
+<Ftitle InFrameReverse="1" InFrameX="65" InFrameY="-95" InFrameY0="MA-1.png"/>
+</frame>
+<frame DateCount="2" FrameIndex="4" FrameName="Walk1" TitleCount="6">
+<data DataH="81" DataName="0" DataW="106" DataX="-54" DataY="-71"/>
+<data DataH="71" DataName="4" DataW="106" DataX="-54" DataY="-71"/>
+<Ftitle InFrameReverse="1" InFrameX="104" InFrameY="-95" InFrameY0="MA-9.png"/>
+<Ftitle InFrameReverse="0" InFrameX="-69" InFrameY="-48" InFrameY0="MA-15.png"/>
+<Ftitle InFrameReverse="1" InFrameX="46" InFrameY="-22" InFrameY0="MA-3.png"/>
+<Ftitle InFrameReverse="1" InFrameX="-17" InFrameY="-22" InFrameY0="MA-3.png"/>
+<Ftitle InFrameReverse="1" InFrameX="-34" InFrameY="-79" InFrameY0="MA-2.png"/>
+<Ftitle InFrameReverse="1" InFrameX="65" InFrameY="-94" InFrameY0="MA-1.png"/>
+</frame>
+<frame DateCount="2" FrameIndex="5" FrameName="Walk2" TitleCount="6">
+<data DataH="81" DataName="0" DataW="106" DataX="-54" DataY="-71"/>
+<data DataH="71" DataName="4" DataW="106" DataX="-54" DataY="-71"/>
+<Ftitle InFrameReverse="1" InFrameX="104" InFrameY="-95" InFrameY0="MA-10.png"/>
+<Ftitle InFrameReverse="0" InFrameX="-69" InFrameY="-48" InFrameY0="MA-15.png"/>
+<Ftitle InFrameReverse="1" InFrameX="-17" InFrameY="-22" InFrameY0="MA-4.png"/>
+<Ftitle InFrameReverse="1" InFrameX="46" InFrameY="-22" InFrameY0="MA-4.png"/>
+<Ftitle InFrameReverse="1" InFrameX="-34" InFrameY="-78" InFrameY0="MA-2.png"/>
+<Ftitle InFrameReverse="1" InFrameX="65" InFrameY="-93" InFrameY0="MA-1.png"/>
+</frame>
+<frame DateCount="1" FrameIndex="6" FrameName="Walk3" TitleCount="6">
+<data DataH="81" DataName="0" DataW="106" DataX="-54" DataY="-71"/>
+<Ftitle InFrameReverse="0" InFrameX="-69" InFrameY="-48" InFrameY0="MA-15.png"/>
+<Ftitle InFrameReverse="1" InFrameX="46" InFrameY="-22" InFrameY0="MA-5.png"/>
+<Ftitle InFrameReverse="1" InFrameX="-17" InFrameY="-22" InFrameY0="MA-5.png"/>
+<Ftitle InFrameReverse="1" InFrameX="104" InFrameY="-95" InFrameY0="MA-11.png"/>
+<Ftitle InFrameReverse="1" InFrameX="-34" InFrameY="-77" InFrameY0="MA-2.png"/>
+<Ftitle InFrameReverse="1" InFrameX="65" InFrameY="-93" InFrameY0="MA-1.png"/>
+</frame>
+<frame DateCount="2" FrameIndex="7" FrameName="Walk4" TitleCount="6">
+<data DataH="81" DataName="0" DataW="106" DataX="-54" DataY="-71"/>
+<data DataH="71" DataName="4" DataW="106" DataX="-54" DataY="-71"/>
+<Ftitle InFrameReverse="0" InFrameX="-69" InFrameY="-48" InFrameY0="MA-15.png"/>
+<Ftitle InFrameReverse="1" InFrameX="-34" InFrameY="-75" InFrameY0="MA-2.png"/>
+<Ftitle InFrameReverse="1" InFrameX="-17" InFrameY="-22" InFrameY0="MA-6.png"/>
+<Ftitle InFrameReverse="1" InFrameX="46" InFrameY="-22" InFrameY0="MA-6.png"/>
+<Ftitle InFrameReverse="1" InFrameX="104" InFrameY="-95" InFrameY0="MA-12.png"/>
+<Ftitle InFrameReverse="1" InFrameX="65" InFrameY="-94" InFrameY0="MA-1.png"/>
+</frame>
+<frame DateCount="2" FrameIndex="8" FrameName="Walk5" TitleCount="6">
+<data DataH="81" DataName="0" DataW="106" DataX="-54" DataY="-71"/>
+<data DataH="71" DataName="4" DataW="106" DataX="-54" DataY="-71"/>
+<Ftitle InFrameReverse="0" InFrameX="-69" InFrameY="-48" InFrameY0="MA-15.png"/>
+<Ftitle InFrameReverse="1" InFrameX="-34" InFrameY="-76" InFrameY0="MA-2.png"/>
+<Ftitle InFrameReverse="1" InFrameX="-17" InFrameY="-22" InFrameY0="MA-7.png"/>
+<Ftitle InFrameReverse="1" InFrameX="46" InFrameY="-22" InFrameY0="MA-7.png"/>
+<Ftitle InFrameReverse="1" InFrameX="104" InFrameY="-95" InFrameY0="MA-13.png"/>
+<Ftitle InFrameReverse="1" InFrameX="65" InFrameY="-95" InFrameY0="MA-1.png"/>
+</frame>
+<frame DateCount="2" FrameIndex="9" FrameName="Walk6" TitleCount="6">
+<data DataH="81" DataName="0" DataW="106" DataX="-54" DataY="-71"/>
+<data DataH="71" DataName="4" DataW="106" DataX="-54" DataY="-71"/>
+<Ftitle InFrameReverse="0" InFrameX="-69" InFrameY="-48" InFrameY0="MA-15.png"/>
+<Ftitle InFrameReverse="1" InFrameX="-34" InFrameY="-77" InFrameY0="MA-2.png"/>
+<Ftitle InFrameReverse="1" InFrameX="-17" InFrameY="-22" InFrameY0="MA-8.png"/>
+<Ftitle InFrameReverse="1" InFrameX="46" InFrameY="-22" InFrameY0="MA-8.png"/>
+<Ftitle InFrameReverse="1" InFrameX="104" InFrameY="-95" InFrameY0="MA-14.png"/>
+<Ftitle InFrameReverse="1" InFrameX="65" InFrameY="-94" InFrameY0="MA-1.png"/>
+</frame>
+<frame DateCount="2" FrameIndex="10" FrameName="Walk7" TitleCount="7">
+<data DataH="81" DataName="0" DataW="106" DataX="-54" DataY="-71"/>
+<data DataH="71" DataName="4" DataW="106" DataX="-54" DataY="-71"/>
+<Ftitle InFrameReverse="1" InFrameX="104" InFrameY="-95" InFrameY0="MA-9.png"/>
+<Ftitle InFrameReverse="0" InFrameX="-69" InFrameY="-48" InFrameY0="MA-15.png"/>
+<Ftitle InFrameReverse="1" InFrameX="46" InFrameY="-22" InFrameY0="MA-3.png"/>
+<Ftitle InFrameReverse="1" InFrameX="-17" InFrameY="-22" InFrameY0="MA-3.png"/>
+<Ftitle InFrameReverse="1" InFrameX="-34" InFrameY="-79" InFrameY0="MA-2.png"/>
+<Ftitle InFrameReverse="1" InFrameX="65" InFrameY="-94" InFrameY0="MA-1.png"/>
+<Ftitle InFrameReverse="1" InFrameX="-52" InFrameY="-45" InFrameY0="MA-16.png"/>
+</frame>
+<frame DateCount="2" FrameIndex="11" FrameName="Walk8" TitleCount="7">
+<data DataH="81" DataName="0" DataW="106" DataX="-54" DataY="-71"/>
+<data DataH="71" DataName="4" DataW="106" DataX="-54" DataY="-71"/>
+<Ftitle InFrameReverse="1" InFrameX="104" InFrameY="-95" InFrameY0="MA-10.png"/>
+<Ftitle InFrameReverse="0" InFrameX="-69" InFrameY="-48" InFrameY0="MA-15.png"/>
+<Ftitle InFrameReverse="1" InFrameX="-17" InFrameY="-22" InFrameY0="MA-4.png"/>
+<Ftitle InFrameReverse="1" InFrameX="46" InFrameY="-22" InFrameY0="MA-4.png"/>
+<Ftitle InFrameReverse="1" InFrameX="-34" InFrameY="-78" InFrameY0="MA-2.png"/>
+<Ftitle InFrameReverse="1" InFrameX="65" InFrameY="-93" InFrameY0="MA-1.png"/>
+<Ftitle InFrameReverse="1" InFrameX="-52" InFrameY="-44" InFrameY0="MA-17.png"/>
+</frame>
+<frame DateCount="2" FrameIndex="12" FrameName="Walk9" TitleCount="7">
+<data DataH="81" DataName="0" DataW="106" DataX="-54" DataY="-71"/>
+<data DataH="71" DataName="4" DataW="106" DataX="-54" DataY="-71"/>
+<Ftitle InFrameReverse="0" InFrameX="-69" InFrameY="-48" InFrameY0="MA-15.png"/>
+<Ftitle InFrameReverse="1" InFrameX="46" InFrameY="-22" InFrameY0="MA-5.png"/>
+<Ftitle InFrameReverse="1" InFrameX="-17" InFrameY="-22" InFrameY0="MA-5.png"/>
+<Ftitle InFrameReverse="1" InFrameX="104" InFrameY="-95" InFrameY0="MA-11.png"/>
+<Ftitle InFrameReverse="1" InFrameX="-34" InFrameY="-77" InFrameY0="MA-2.png"/>
+<Ftitle InFrameReverse="1" InFrameX="65" InFrameY="-93" InFrameY0="MA-1.png"/>
+<Ftitle InFrameReverse="1" InFrameX="-52" InFrameY="-43" InFrameY0="MA-16.png"/>
+</frame>
+<frame DateCount="2" FrameIndex="13" FrameName="Walk10" TitleCount="6">
+<data DataH="81" DataName="0" DataW="106" DataX="-54" DataY="-71"/>
+<data DataH="71" DataName="4" DataW="106" DataX="-54" DataY="-71"/>
+<Ftitle InFrameReverse="0" InFrameX="-69" InFrameY="-48" InFrameY0="MA-15.png"/>
+<Ftitle InFrameReverse="1" InFrameX="-34" InFrameY="-75" InFrameY0="MA-2.png"/>
+<Ftitle InFrameReverse="1" InFrameX="-17" InFrameY="-22" InFrameY0="MA-6.png"/>
+<Ftitle InFrameReverse="1" InFrameX="46" InFrameY="-22" InFrameY0="MA-6.png"/>
+<Ftitle InFrameReverse="1" InFrameX="104" InFrameY="-95" InFrameY0="MA-12.png"/>
+<Ftitle InFrameReverse="1" InFrameX="65" InFrameY="-94" InFrameY0="MA-1.png"/>
+</frame>
+<frame DateCount="2" FrameIndex="14" FrameName="Walk11" TitleCount="6">
+<data DataH="81" DataName="0" DataW="106" DataX="-54" DataY="-71"/>
+<data DataH="71" DataName="4" DataW="106" DataX="-54" DataY="-71"/>
+<Ftitle InFrameReverse="0" InFrameX="-69" InFrameY="-48" InFrameY0="MA-15.png"/>
+<Ftitle InFrameReverse="1" InFrameX="-34" InFrameY="-76" InFrameY0="MA-2.png"/>
+<Ftitle InFrameReverse="1" InFrameX="-17" InFrameY="-22" InFrameY0="MA-7.png"/>
+<Ftitle InFrameReverse="1" InFrameX="46" InFrameY="-22" InFrameY0="MA-7.png"/>
+<Ftitle InFrameReverse="1" InFrameX="104" InFrameY="-95" InFrameY0="MA-13.png"/>
+<Ftitle InFrameReverse="1" InFrameX="65" InFrameY="-95" InFrameY0="MA-1.png"/>
+</frame>
+<frame DateCount="2" FrameIndex="15" FrameName="Walk12" TitleCount="6">
+<data DataH="81" DataName="0" DataW="106" DataX="-54" DataY="-71"/>
+<data DataH="71" DataName="4" DataW="106" DataX="-54" DataY="-71"/>
+<Ftitle InFrameReverse="0" InFrameX="-69" InFrameY="-48" InFrameY0="MA-15.png"/>
+<Ftitle InFrameReverse="1" InFrameX="-34" InFrameY="-77" InFrameY0="MA-2.png"/>
+<Ftitle InFrameReverse="1" InFrameX="-17" InFrameY="-22" InFrameY0="MA-8.png"/>
+<Ftitle InFrameReverse="1" InFrameX="46" InFrameY="-22" InFrameY0="MA-8.png"/>
+<Ftitle InFrameReverse="1" InFrameX="104" InFrameY="-95" InFrameY0="MA-14.png"/>
+<Ftitle InFrameReverse="1" InFrameX="65" InFrameY="-94" InFrameY0="MA-1.png"/>
+</frame>
+<frame DateCount="2" FrameIndex="16" FrameName="Aida1" TitleCount="6">
+<data DataH="81" DataName="0" DataW="106" DataX="-54" DataY="-71"/>
+<data DataH="71" DataName="4" DataW="106" DataX="-54" DataY="-71"/>
+<Ftitle InFrameReverse="0" InFrameX="-69" InFrameY="-48" InFrameY0="MA-15.png"/>
+<Ftitle InFrameReverse="1" InFrameX="-34" InFrameY="-77" InFrameY0="MA-2.png"/>
+<Ftitle InFrameReverse="1" InFrameX="-17" InFrameY="-22" InFrameY0="MA-8.png"/>
+<Ftitle InFrameReverse="1" InFrameX="46" InFrameY="-22" InFrameY0="MA-8.png"/>
+<Ftitle InFrameReverse="1" InFrameX="67" InFrameY="-92" InFrameY0="MA-20.png"/>
+<Ftitle InFrameReverse="1" InFrameX="65" InFrameY="-94" InFrameY0="MA-1.png"/>
+</frame>
+<frame DateCount="2" FrameIndex="17" FrameName="Aida2" TitleCount="6">
+<data DataH="81" DataName="0" DataW="106" DataX="-54" DataY="-71"/>
+<data DataH="71" DataName="4" DataW="106" DataX="-54" DataY="-71"/>
+<Ftitle InFrameReverse="0" InFrameX="-69" InFrameY="-47" InFrameY0="MA-15.png"/>
+<Ftitle InFrameReverse="1" InFrameX="-34" InFrameY="-76" InFrameY0="MA-2.png"/>
+<Ftitle InFrameReverse="1" InFrameX="-17" InFrameY="-21" InFrameY0="MA-8.png"/>
+<Ftitle InFrameReverse="1" InFrameX="46" InFrameY="-21" InFrameY0="MA-8.png"/>
+<Ftitle InFrameReverse="1" InFrameX="67" InFrameY="-91" InFrameY0="MA-20.png"/>
+<Ftitle InFrameReverse="1" InFrameX="65" InFrameY="-93" InFrameY0="MA-1.png"/>
+</frame>
+<frame DateCount="2" FrameIndex="18" FrameName="Aida3" TitleCount="9">
+<data DataH="81" DataName="0" DataW="106" DataX="-54" DataY="-71"/>
+<data DataH="71" DataName="4" DataW="106" DataX="-54" DataY="-71"/>
+<Ftitle InFrameReverse="0" InFrameX="-69" InFrameY="-47" InFrameY0="MA-15.png"/>
+<Ftitle InFrameReverse="1" InFrameX="-34" InFrameY="-76" InFrameY0="MA-2.png"/>
+<Ftitle InFrameReverse="1" InFrameX="-17" InFrameY="-21" InFrameY0="MA-8.png"/>
+<Ftitle InFrameReverse="1" InFrameX="46" InFrameY="-21" InFrameY0="MA-8.png"/>
+<Ftitle InFrameReverse="1" InFrameX="67" InFrameY="-91" InFrameY0="MA-20.png"/>
+<Ftitle InFrameReverse="1" InFrameX="65" InFrameY="-93" InFrameY0="MA-1.png"/>
+<Ftitle InFrameReverse="1" InFrameX="67" InFrameY="-91" InFrameY0="MA-21.png"/>
+<Ftitle InFrameReverse="1" InFrameX="80" InFrameY="-102" InFrameY0="MA-18.png"/>
+<Ftitle InFrameReverse="1" InFrameX="-34" InFrameY="-76" InFrameY0="MA-19.png"/>
+</frame>
+<frame DateCount="2" FrameIndex="19" FrameName="Aida4" TitleCount="9">
+<data DataH="81" DataName="0" DataW="106" DataX="-54" DataY="-71"/>
+<data DataH="71" DataName="4" DataW="106" DataX="-54" DataY="-71"/>
+<Ftitle InFrameReverse="0" InFrameX="-69" InFrameY="-48" InFrameY0="MA-15.png"/>
+<Ftitle InFrameReverse="1" InFrameX="-34" InFrameY="-77" InFrameY0="MA-2.png"/>
+<Ftitle InFrameReverse="1" InFrameX="-17" InFrameY="-22" InFrameY0="MA-8.png"/>
+<Ftitle InFrameReverse="1" InFrameX="46" InFrameY="-22" InFrameY0="MA-8.png"/>
+<Ftitle InFrameReverse="1" InFrameX="67" InFrameY="-92" InFrameY0="MA-20.png"/>
+<Ftitle InFrameReverse="1" InFrameX="65" InFrameY="-94" InFrameY0="MA-1.png"/>
+<Ftitle InFrameReverse="1" InFrameX="67" InFrameY="-92" InFrameY0="MA-21.png"/>
+<Ftitle InFrameReverse="1" InFrameX="80" InFrameY="-103" InFrameY0="MA-18.png"/>
+<Ftitle InFrameReverse="1" InFrameX="-34" InFrameY="-77" InFrameY0="MA-19.png"/>
+</frame>
+<frame DateCount="2" FrameIndex="20" FrameName="dead" TitleCount="6">
+<data DataH="81" DataName="0" DataW="106" DataX="-54" DataY="-71"/>
+<data DataH="71" DataName="4" DataW="106" DataX="-54" DataY="-71"/>
+<Ftitle InFrameReverse="0" InFrameX="-69" InFrameY="-48" InFrameY0="MA-15.png"/>
+<Ftitle InFrameReverse="1" InFrameX="46" InFrameY="-22" InFrameY0="MA-3.png"/>
+<Ftitle InFrameReverse="1" InFrameX="-17" InFrameY="-22" InFrameY0="MA-3.png"/>
+<Ftitle InFrameReverse="1" InFrameX="-34" InFrameY="-79" InFrameY0="MA-2.png"/>
+<Ftitle InFrameReverse="1" InFrameX="67" InFrameY="-92" InFrameY0="MA-20.png"/>
+<Ftitle InFrameReverse="1" InFrameX="65" InFrameY="-94" InFrameY0="MA-1.png"/>
+</frame>
+</frames>
+<actions ActionCount="20">
+<action FrameCount="4" actionIndex="0" actionName="站立">
+<Aframe Delay="2" Index="0"/>
+<Aframe Delay="2" Index="1"/>
+<Aframe Delay="2" Index="2"/>
+<Aframe Delay="2" Index="3"/>
+</action>
+<action FrameCount="4" actionIndex="1" actionName="站立1">
+<Aframe Delay="2" Index="0"/>
+<Aframe Delay="2" Index="1"/>
+<Aframe Delay="2" Index="2"/>
+<Aframe Delay="2" Index="3"/>
+</action>
+<action FrameCount="4" actionIndex="2" actionName="站立2">
+<Aframe Delay="2" Index="0"/>
+<Aframe Delay="2" Index="1"/>
+<Aframe Delay="2" Index="2"/>
+<Aframe Delay="2" Index="3"/>
+</action>
+<action FrameCount="4" actionIndex="3" actionName="站立3">
+<Aframe Delay="2" Index="0"/>
+<Aframe Delay="2" Index="1"/>
+<Aframe Delay="2" Index="2"/>
+<Aframe Delay="2" Index="3"/>
+</action>
+<action FrameCount="4" actionIndex="4" actionName="站立4">
+<Aframe Delay="2" Index="0"/>
+<Aframe Delay="2" Index="1"/>
+<Aframe Delay="2" Index="2"/>
+<Aframe Delay="2" Index="3"/>
+</action>
+<action FrameCount="12" actionIndex="5" actionName="行走">
+<Aframe Delay="2" Index="4"/>
+<Aframe Delay="2" Index="5"/>
+<Aframe Delay="2" Index="6"/>
+<Aframe Delay="2" Index="7"/>
+<Aframe Delay="2" Index="8"/>
+<Aframe Delay="2" Index="9"/>
+<Aframe Delay="2" Index="10"/>
+<Aframe Delay="2" Index="11"/>
+<Aframe Delay="2" Index="12"/>
+<Aframe Delay="2" Index="13"/>
+<Aframe Delay="2" Index="14"/>
+<Aframe Delay="2" Index="15"/>
+</action>
+<action FrameCount="12" actionIndex="6" actionName="行走1">
+<Aframe Delay="2" Index="4"/>
+<Aframe Delay="2" Index="5"/>
+<Aframe Delay="2" Index="6"/>
+<Aframe Delay="2" Index="7"/>
+<Aframe Delay="2" Index="8"/>
+<Aframe Delay="2" Index="9"/>
+<Aframe Delay="2" Index="10"/>
+<Aframe Delay="2" Index="11"/>
+<Aframe Delay="2" Index="12"/>
+<Aframe Delay="2" Index="13"/>
+<Aframe Delay="2" Index="14"/>
+<Aframe Delay="2" Index="15"/>
+</action>
+<action FrameCount="12" actionIndex="7" actionName="行走2">
+<Aframe Delay="2" Index="4"/>
+<Aframe Delay="2" Index="5"/>
+<Aframe Delay="2" Index="6"/>
+<Aframe Delay="2" Index="7"/>
+<Aframe Delay="2" Index="8"/>
+<Aframe Delay="2" Index="9"/>
+<Aframe Delay="2" Index="10"/>
+<Aframe Delay="2" Index="11"/>
+<Aframe Delay="2" Index="12"/>
+<Aframe Delay="2" Index="13"/>
+<Aframe Delay="2" Index="14"/>
+<Aframe Delay="2" Index="15"/>
+</action>
+<action FrameCount="12" actionIndex="8" actionName="行走3">
+<Aframe Delay="2" Index="4"/>
+<Aframe Delay="2" Index="5"/>
+<Aframe Delay="2" Index="6"/>
+<Aframe Delay="2" Index="7"/>
+<Aframe Delay="2" Index="8"/>
+<Aframe Delay="2" Index="9"/>
+<Aframe Delay="2" Index="10"/>
+<Aframe Delay="2" Index="11"/>
+<Aframe Delay="2" Index="12"/>
+<Aframe Delay="2" Index="13"/>
+<Aframe Delay="2" Index="14"/>
+<Aframe Delay="2" Index="15"/>
+</action>
+<action FrameCount="12" actionIndex="9" actionName="行走4">
+<Aframe Delay="2" Index="4"/>
+<Aframe Delay="2" Index="5"/>
+<Aframe Delay="2" Index="6"/>
+<Aframe Delay="2" Index="7"/>
+<Aframe Delay="2" Index="8"/>
+<Aframe Delay="2" Index="9"/>
+<Aframe Delay="2" Index="10"/>
+<Aframe Delay="2" Index="11"/>
+<Aframe Delay="2" Index="12"/>
+<Aframe Delay="2" Index="13"/>
+<Aframe Delay="2" Index="14"/>
+<Aframe Delay="2" Index="15"/>
+</action>
+<action FrameCount="13" actionIndex="10" actionName="挨打">
+<Aframe Delay="1" Index="17"/>
+<Aframe Delay="3" Index="18"/>
+<Aframe Delay="1" Index="16"/>
+<Aframe Delay="1" Index="19"/>
+<Aframe Delay="1" Index="17"/>
+<Aframe Delay="2" Index="0"/>
+<Aframe Delay="2" Index="1"/>
+<Aframe Delay="2" Index="2"/>
+<Aframe Delay="2" Index="3"/>
+<Aframe Delay="2" Index="0"/>
+<Aframe Delay="2" Index="1"/>
+<Aframe Delay="2" Index="2"/>
+<Aframe Delay="2" Index="3"/>
+</action>
+<action FrameCount="13" actionIndex="11" actionName="挨打1">
+<Aframe Delay="1" Index="17"/>
+<Aframe Delay="3" Index="18"/>
+<Aframe Delay="1" Index="16"/>
+<Aframe Delay="1" Index="19"/>
+<Aframe Delay="1" Index="17"/>
+<Aframe Delay="2" Index="0"/>
+<Aframe Delay="2" Index="1"/>
+<Aframe Delay="2" Index="2"/>
+<Aframe Delay="2" Index="3"/>
+<Aframe Delay="2" Index="0"/>
+<Aframe Delay="2" Index="1"/>
+<Aframe Delay="2" Index="2"/>
+<Aframe Delay="2" Index="3"/>
+</action>
+<action FrameCount="13" actionIndex="12" actionName="挨打2">
+<Aframe Delay="1" Index="17"/>
+<Aframe Delay="3" Index="18"/>
+<Aframe Delay="1" Index="16"/>
+<Aframe Delay="1" Index="19"/>
+<Aframe Delay="1" Index="17"/>
+<Aframe Delay="2" Index="0"/>
+<Aframe Delay="2" Index="1"/>
+<Aframe Delay="2" Index="2"/>
+<Aframe Delay="2" Index="3"/>
+<Aframe Delay="2" Index="0"/>
+<Aframe Delay="2" Index="1"/>
+<Aframe Delay="2" Index="2"/>
+<Aframe Delay="2" Index="3"/>
+</action>
+<action FrameCount="13" actionIndex="13" actionName="挨打3">
+<Aframe Delay="1" Index="17"/>
+<Aframe Delay="3" Index="18"/>
+<Aframe Delay="1" Index="16"/>
+<Aframe Delay="1" Index="19"/>
+<Aframe Delay="1" Index="17"/>
+<Aframe Delay="2" Index="0"/>
+<Aframe Delay="2" Index="1"/>
+<Aframe Delay="2" Index="2"/>
+<Aframe Delay="2" Index="3"/>
+<Aframe Delay="2" Index="0"/>
+<Aframe Delay="2" Index="1"/>
+<Aframe Delay="2" Index="2"/>
+<Aframe Delay="2" Index="3"/>
+</action>
+<action FrameCount="13" actionIndex="14" actionName="挨打4">
+<Aframe Delay="1" Index="17"/>
+<Aframe Delay="3" Index="18"/>
+<Aframe Delay="1" Index="16"/>
+<Aframe Delay="1" Index="19"/>
+<Aframe Delay="1" Index="17"/>
+<Aframe Delay="2" Index="0"/>
+<Aframe Delay="2" Index="1"/>
+<Aframe Delay="2" Index="2"/>
+<Aframe Delay="2" Index="3"/>
+<Aframe Delay="2" Index="0"/>
+<Aframe Delay="2" Index="1"/>
+<Aframe Delay="2" Index="2"/>
+<Aframe Delay="2" Index="3"/>
+</action>
+<action FrameCount="1" actionIndex="15" actionName="死亡">
+<Aframe Delay="40" Index="20"/>
+</action>
+<action FrameCount="13" actionIndex="16" actionName="死亡1">
+<Aframe Delay="1" Index="17"/>
+<Aframe Delay="3" Index="18"/>
+<Aframe Delay="1" Index="16"/>
+<Aframe Delay="1" Index="19"/>
+<Aframe Delay="1" Index="17"/>
+<Aframe Delay="2" Index="0"/>
+<Aframe Delay="2" Index="1"/>
+<Aframe Delay="2" Index="2"/>
+<Aframe Delay="2" Index="3"/>
+<Aframe Delay="2" Index="0"/>
+<Aframe Delay="2" Index="1"/>
+<Aframe Delay="2" Index="2"/>
+<Aframe Delay="2" Index="3"/>
+</action>
+<action FrameCount="13" actionIndex="17" actionName="死亡2">
+<Aframe Delay="1" Index="17"/>
+<Aframe Delay="3" Index="18"/>
+<Aframe Delay="1" Index="16"/>
+<Aframe Delay="1" Index="19"/>
+<Aframe Delay="1" Index="17"/>
+<Aframe Delay="2" Index="0"/>
+<Aframe Delay="2" Index="1"/>
+<Aframe Delay="2" Index="2"/>
+<Aframe Delay="2" Index="3"/>
+<Aframe Delay="2" Index="0"/>
+<Aframe Delay="2" Index="1"/>
+<Aframe Delay="2" Index="2"/>
+<Aframe Delay="2" Index="3"/>
+</action>
+<action FrameCount="13" actionIndex="18" actionName="死亡3">
+<Aframe Delay="1" Index="17"/>
+<Aframe Delay="3" Index="18"/>
+<Aframe Delay="1" Index="16"/>
+<Aframe Delay="1" Index="19"/>
+<Aframe Delay="1" Index="17"/>
+<Aframe Delay="2" Index="0"/>
+<Aframe Delay="2" Index="1"/>
+<Aframe Delay="2" Index="2"/>
+<Aframe Delay="2" Index="3"/>
+<Aframe Delay="2" Index="0"/>
+<Aframe Delay="2" Index="1"/>
+<Aframe Delay="2" Index="2"/>
+<Aframe Delay="2" Index="3"/>
+</action>
+<action FrameCount="13" actionIndex="19" actionName="死亡4">
+<Aframe Delay="1" Index="17"/>
+<Aframe Delay="3" Index="18"/>
+<Aframe Delay="1" Index="16"/>
+<Aframe Delay="1" Index="19"/>
+<Aframe Delay="1" Index="17"/>
+<Aframe Delay="2" Index="0"/>
+<Aframe Delay="2" Index="1"/>
+<Aframe Delay="2" Index="2"/>
+<Aframe Delay="2" Index="3"/>
+<Aframe Delay="2" Index="0"/>
+<Aframe Delay="2" Index="1"/>
+<Aframe Delay="2" Index="2"/>
+<Aframe Delay="2" Index="3"/>
+</action>
+</actions>
+</Map>

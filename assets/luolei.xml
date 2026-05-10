@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<Map>
+<frames FrameCount="10">
+<frame DateCount="0" FrameIndex="0" FrameName="1" TitleCount="1">
+<Ftitle InFrameReverse="0" InFrameX="-49" InFrameY="-427" InFrameY0="Luolei-000.png"/>
+</frame>
+<frame DateCount="1" FrameIndex="1" FrameName="2" TitleCount="1">
+<data DataH="93" DataName="1" DataW="168" DataX="-81" DataY="-56"/>
+<Ftitle InFrameReverse="0" InFrameX="-88" InFrameY="-421" InFrameY0="Luolei-001.png"/>
+</frame>
+<frame DateCount="0" FrameIndex="2" FrameName="3" TitleCount="1">
+<Ftitle InFrameReverse="0" InFrameX="-104" InFrameY="-417" InFrameY0="Luolei-002.png"/>
+</frame>
+<frame DateCount="0" FrameIndex="3" FrameName="4" TitleCount="1">
+<Ftitle InFrameReverse="0" InFrameX="-105" InFrameY="-416" InFrameY0="Luolei-003.png"/>
+</frame>
+<frame DateCount="1" FrameIndex="4" FrameName="5" TitleCount="1">
+<data DataH="91" DataName="1" DataW="176" DataX="-76" DataY="-54"/>
+<Ftitle InFrameReverse="0" InFrameX="-110" InFrameY="-418" InFrameY0="Luolei-004.png"/>
+</frame>
+<frame DateCount="0" FrameIndex="5" FrameName="6" TitleCount="1">
+<Ftitle InFrameReverse="0" InFrameX="-109" InFrameY="-412" InFrameY0="Luolei-005.png"/>
+</frame>
+<frame DateCount="0" FrameIndex="6" FrameName="7" TitleCount="1">
+<Ftitle InFrameReverse="0" InFrameX="-114" InFrameY="-411" InFrameY0="Luolei-006.png"/>
+</frame>
+<frame DateCount="0" FrameIndex="7" FrameName="8" TitleCount="1">
+<Ftitle InFrameReverse="0" InFrameX="-118" InFrameY="-402" InFrameY0="Luolei-007.png"/>
+</frame>
+<frame DateCount="0" FrameIndex="8" FrameName="9" TitleCount="1">
+<Ftitle InFrameReverse="0" InFrameX="-104" InFrameY="-224" InFrameY0="Luolei-008.png"/>
+</frame>
+<frame DateCount="0" FrameIndex="9" FrameName="10" TitleCount="1">
+<Ftitle InFrameReverse="0" InFrameX="-104" InFrameY="-23" InFrameY0="Luolei-009.png"/>
+</frame>
+</frames>
+<actions ActionCount="1">
+<action FrameCount="10" actionIndex="0" actionName="落雷">
+<Aframe Delay="1" Index="0"/>
+<Aframe Delay="1" Index="1"/>
+<Aframe Delay="1" Index="2"/>
+<Aframe Delay="1" Index="3"/>
+<Aframe Delay="1" Index="4"/>
+<Aframe Delay="1" Index="5"/>
+<Aframe Delay="1" Index="6"/>
+<Aframe Delay="1" Index="7"/>
+<Aframe Delay="1" Index="8"/>
+<Aframe Delay="1" Index="9"/>
+</action>
+</actions>
+</Map>

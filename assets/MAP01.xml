@@ -1,0 +1,177 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<Map>
+<frames FrameCount="27">
+<frame DateCount="1" FrameIndex="0" FrameName="snow" TitleCount="1">
+<data DataH="38" DataName="4" DataW="74" DataX="-34" DataY="-39"/>
+<Ftitle InFrameReverse="0" InFrameX="-36" InFrameY="-39" InFrameY0="map01-000.png"/>
+</frame>
+<frame DateCount="1" FrameIndex="1" FrameName="ice big" TitleCount="1">
+<data DataH="49" DataName="4" DataW="61" DataX="-34" DataY="-50"/>
+<Ftitle InFrameReverse="0" InFrameX="-36" InFrameY="-49" InFrameY0="map01-011.png"/>
+</frame>
+<frame DateCount="1" FrameIndex="2" FrameName="ice small" TitleCount="1">
+<data DataH="39" DataName="4" DataW="23" DataX="-12" DataY="-40"/>
+<Ftitle InFrameReverse="0" InFrameX="-16" InFrameY="-46" InFrameY0="map01-012.png"/>
+</frame>
+<frame DateCount="1" FrameIndex="3" FrameName="tree" TitleCount="1">
+<data DataH="46" DataName="4" DataW="48" DataX="-32" DataY="-47"/>
+<Ftitle InFrameReverse="1" InFrameX="29" InFrameY="-78" InFrameY0="map01-008.png"/>
+</frame>
+<frame DateCount="1" FrameIndex="4" FrameName="fire1" TitleCount="1">
+<data DataH="17" DataName="4" DataW="22" DataX="-12" DataY="-17"/>
+<Ftitle InFrameReverse="0" InFrameX="-39" InFrameY="-52" InFrameY0="map01-017.png"/>
+</frame>
+<frame DateCount="1" FrameIndex="5" FrameName="fire2" TitleCount="1">
+<data DataH="17" DataName="4" DataW="22" DataX="-12" DataY="-17"/>
+<Ftitle InFrameReverse="0" InFrameX="-39" InFrameY="-52" InFrameY0="map01-018.png"/>
+</frame>
+<frame DateCount="1" FrameIndex="6" FrameName="fire3" TitleCount="1">
+<data DataH="17" DataName="4" DataW="22" DataX="-12" DataY="-17"/>
+<Ftitle InFrameReverse="0" InFrameX="-39" InFrameY="-52" InFrameY0="map01-019.png"/>
+</frame>
+<frame DateCount="1" FrameIndex="7" FrameName="fire4" TitleCount="1">
+<data DataH="17" DataName="4" DataW="22" DataX="-12" DataY="-17"/>
+<Ftitle InFrameReverse="0" InFrameX="-39" InFrameY="-52" InFrameY0="map01-020.png"/>
+</frame>
+<frame DateCount="0" FrameIndex="8" FrameName="shikuai0" TitleCount="1">
+<Ftitle InFrameReverse="0" InFrameX="-26" InFrameY="-17" InFrameY0="map01-001.png"/>
+</frame>
+<frame DateCount="0" FrameIndex="9" FrameName="shikuai1" TitleCount="1">
+<Ftitle InFrameReverse="0" InFrameX="-27" InFrameY="-17" InFrameY0="map01-002.png"/>
+</frame>
+<frame DateCount="0" FrameIndex="10" FrameName="shikuai2" TitleCount="1">
+<Ftitle InFrameReverse="0" InFrameX="-27" InFrameY="-18" InFrameY0="map01-003.png"/>
+</frame>
+<frame DateCount="0" FrameIndex="11" FrameName="shikuai3" TitleCount="1">
+<Ftitle InFrameReverse="0" InFrameX="-26" InFrameY="-15" InFrameY0="map01-004.png"/>
+</frame>
+<frame DateCount="0" FrameIndex="12" FrameName="shikuai4" TitleCount="1">
+<Ftitle InFrameReverse="0" InFrameX="-26" InFrameY="-15" InFrameY0="map01-006.png"/>
+</frame>
+<frame DateCount="0" FrameIndex="13" FrameName="shikuai5" TitleCount="1">
+<Ftitle InFrameReverse="0" InFrameX="-27" InFrameY="-17" InFrameY0="map01-007.png"/>
+</frame>
+<frame DateCount="0" FrameIndex="14" FrameName="xuedui" TitleCount="1">
+<Ftitle InFrameReverse="0" InFrameX="-54" InFrameY="-32" InFrameY0="map01-005.png"/>
+</frame>
+<frame DateCount="1" FrameIndex="15" FrameName="xueshu" TitleCount="1">
+<data DataH="46" DataName="4" DataW="43" DataX="-11" DataY="-46"/>
+<Ftitle InFrameReverse="0" InFrameX="-28" InFrameY="-78" InFrameY0="map01-008.png"/>
+</frame>
+<frame DateCount="0" FrameIndex="16" FrameName="hua" TitleCount="1">
+<Ftitle InFrameReverse="0" InFrameX="-14" InFrameY="-23" InFrameY0="map01-009.png"/>
+</frame>
+<frame DateCount="0" FrameIndex="17" FrameName="bingkuai0" TitleCount="1">
+<Ftitle InFrameReverse="0" InFrameX="-8" InFrameY="-15" InFrameY0="map01-010.png"/>
+</frame>
+<frame DateCount="1" FrameIndex="18" FrameName="bingkuai1" TitleCount="1">
+<data DataH="48" DataName="4" DataW="64" DataX="-32" DataY="-48"/>
+<Ftitle InFrameReverse="0" InFrameX="-35" InFrameY="-49" InFrameY0="map01-011.png"/>
+</frame>
+<frame DateCount="1" FrameIndex="19" FrameName="bingkuai2" TitleCount="1">
+<data DataH="47" DataName="4" DataW="27" DataX="-14" DataY="-47"/>
+<Ftitle InFrameReverse="0" InFrameX="-16" InFrameY="-48" InFrameY0="map01-012.png"/>
+</frame>
+<frame DateCount="0" FrameIndex="20" FrameName="dongjie0" TitleCount="1">
+<Ftitle InFrameReverse="0" InFrameX="-95" InFrameY="-58" InFrameY0="map01-013.png"/>
+</frame>
+<frame DateCount="0" FrameIndex="21" FrameName="dongjie1" TitleCount="1">
+<Ftitle InFrameReverse="0" InFrameX="-128" InFrameY="-62" InFrameY0="map01-014.png"/>
+</frame>
+<frame DateCount="0" FrameIndex="22" FrameName="dongjie2" TitleCount="1">
+<Ftitle InFrameReverse="0" InFrameX="-73" InFrameY="-45" InFrameY0="map01-015.png"/>
+</frame>
+<frame DateCount="0" FrameIndex="23" FrameName="dongjie3" TitleCount="1">
+<Ftitle InFrameReverse="1" InFrameX="96" InFrameY="-56" InFrameY0="map01-013.png"/>
+</frame>
+<frame DateCount="0" FrameIndex="24" FrameName="dongjie4" TitleCount="1">
+<Ftitle InFrameReverse="1" InFrameX="111" InFrameY="-74" InFrameY0="map01-014.png"/>
+</frame>
+<frame DateCount="0" FrameIndex="25" FrameName="dongjie5" TitleCount="1">
+<Ftitle InFrameReverse="1" InFrameX="70" InFrameY="-54" InFrameY0="map01-015.png"/>
+</frame>
+<frame DateCount="0" FrameIndex="26" FrameName="chelun" TitleCount="1">
+<Ftitle InFrameReverse="0" InFrameX="-34" InFrameY="-20" InFrameY0="map01-021.png"/>
+</frame>
+</frames>
+<actions ActionCount="25">
+<action FrameCount="1" actionIndex="0" actionName="map">
+<Aframe Delay="0" Index="0"/>
+</action>
+<action FrameCount="1" actionIndex="1" actionName="tree">
+<Aframe Delay="0" Index="3"/>
+</action>
+<action FrameCount="1" actionIndex="2" actionName="ice big">
+<Aframe Delay="0" Index="1"/>
+</action>
+<action FrameCount="1" actionIndex="3" actionName="ice small">
+<Aframe Delay="0" Index="2"/>
+</action>
+<action FrameCount="1" actionIndex="4" actionName="snow">
+<Aframe Delay="0" Index="0"/>
+</action>
+<action FrameCount="4" actionIndex="5" actionName="fire">
+<Aframe Delay="2" Index="4"/>
+<Aframe Delay="2" Index="5"/>
+<Aframe Delay="2" Index="6"/>
+<Aframe Delay="2" Index="7"/>
+</action>
+<action FrameCount="1" actionIndex="6" actionName="shikuai0">
+<Aframe Delay="0" Index="8"/>
+</action>
+<action FrameCount="1" actionIndex="7" actionName="shikuai1">
+<Aframe Delay="0" Index="9"/>
+</action>
+<action FrameCount="1" actionIndex="8" actionName="shikuai2">
+<Aframe Delay="0" Index="10"/>
+</action>
+<action FrameCount="1" actionIndex="9" actionName="shikuai3">
+<Aframe Delay="0" Index="11"/>
+</action>
+<action FrameCount="1" actionIndex="10" actionName="shikuai4">
+<Aframe Delay="0" Index="12"/>
+</action>
+<action FrameCount="1" actionIndex="11" actionName="shikuai5">
+<Aframe Delay="0" Index="13"/>
+</action>
+<action FrameCount="1" actionIndex="12" actionName="xuedi">
+<Aframe Delay="0" Index="14"/>
+</action>
+<action FrameCount="1" actionIndex="13" actionName="xueshu">
+<Aframe Delay="0" Index="15"/>
+</action>
+<action FrameCount="1" actionIndex="14" actionName="hua">
+<Aframe Delay="0" Index="16"/>
+</action>
+<action FrameCount="1" actionIndex="15" actionName="bingkuai0">
+<Aframe Delay="0" Index="17"/>
+</action>
+<action FrameCount="1" actionIndex="16" actionName="bingkuai1">
+<Aframe Delay="0" Index="18"/>
+</action>
+<action FrameCount="1" actionIndex="17" actionName="bingkuai2">
+<Aframe Delay="0" Index="19"/>
+</action>
+<action FrameCount="1" actionIndex="18" actionName="dongjie0">
+<Aframe Delay="0" Index="20"/>
+</action>
+<action FrameCount="1" actionIndex="19" actionName="dongjie1">
+<Aframe Delay="0" Index="21"/>
+</action>
+<action FrameCount="1" actionIndex="20" actionName="dongjie2">
+<Aframe Delay="0" Index="22"/>
+</action>
+<action FrameCount="1" actionIndex="21" actionName="dongjie3">
+<Aframe Delay="0" Index="23"/>
+</action>
+<action FrameCount="1" actionIndex="22" actionName="dongjie4">
+<Aframe Delay="0" Index="24"/>
+</action>
+<action FrameCount="1" actionIndex="23" actionName="dongjie">
+<Aframe Delay="0" Index="25"/>
+</action>
+<action FrameCount="1" actionIndex="24" actionName="chelun">
+<Aframe Delay="0" Index="26"/>
+</action>
+</actions>
+</Map>

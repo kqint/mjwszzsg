@@ -1,0 +1,1845 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<Map>
+<frames FrameCount="179">
+<frame DateCount="1" FrameIndex="0" FrameName="正下站立-1" TitleCount="4">
+<data DataH="45" DataName="0" DataW="42" DataX="-21" DataY="-43"/>
+<Ftitle InFrameReverse="0" InFrameX="-14" InFrameY="-8" InFrameY0="Z05-169.png"/>
+<Ftitle InFrameReverse="0" InFrameX="-20" InFrameY="-26" InFrameY0="Z05-003.png"/>
+<Ftitle InFrameReverse="0" InFrameX="-43" InFrameY="-13" InFrameY0="Z05-107.png"/>
+<Ftitle InFrameReverse="0" InFrameX="-15" InFrameY="-55" InFrameY0="Z05-001.png"/>
+</frame>
+<frame DateCount="1" FrameIndex="1" FrameName="正下站立-2" TitleCount="4">
+<data DataH="45" DataName="0" DataW="42" DataX="-21" DataY="-43"/>
+<Ftitle InFrameReverse="0" InFrameX="-14" InFrameY="-8" InFrameY0="Z05-169.png"/>
+<Ftitle InFrameReverse="0" InFrameX="-20" InFrameY="-26" InFrameY0="Z05-004.png"/>
+<Ftitle InFrameReverse="0" InFrameX="-42" InFrameY="-12" InFrameY0="Z05-107.png"/>
+<Ftitle InFrameReverse="0" InFrameX="-15" InFrameY="-53" InFrameY0="Z05-000.png"/>
+</frame>
+<frame DateCount="1" FrameIndex="2" FrameName="正下站立-3" TitleCount="4">
+<data DataH="45" DataName="0" DataW="42" DataX="-21" DataY="-43"/>
+<Ftitle InFrameReverse="0" InFrameX="-14" InFrameY="-8" InFrameY0="Z05-169.png"/>
+<Ftitle InFrameReverse="0" InFrameX="-19" InFrameY="-25" InFrameY0="Z05-005.png"/>
+<Ftitle InFrameReverse="0" InFrameX="-42" InFrameY="-12" InFrameY0="Z05-107.png"/>
+<Ftitle InFrameReverse="0" InFrameX="-15" InFrameY="-53" InFrameY0="Z05-002.png"/>
+</frame>
+<frame DateCount="1" FrameIndex="3" FrameName="正下站立-4" TitleCount="4">
+<data DataH="45" DataName="0" DataW="42" DataX="-21" DataY="-43"/>
+<Ftitle InFrameReverse="0" InFrameX="-14" InFrameY="-8" InFrameY0="Z05-169.png"/>
+<Ftitle InFrameReverse="0" InFrameX="-19" InFrameY="-25" InFrameY0="Z05-005.png"/>
+<Ftitle InFrameReverse="0" InFrameX="-42" InFrameY="-12" InFrameY0="Z05-107.png"/>
+<Ftitle InFrameReverse="0" InFrameX="-15" InFrameY="-53" InFrameY0="Z05-000.png"/>
+</frame>
+<frame DateCount="1" FrameIndex="4" FrameName="正下站立-5" TitleCount="4">
+<data DataH="45" DataName="0" DataW="42" DataX="-21" DataY="-43"/>
+<Ftitle InFrameReverse="0" InFrameX="-14" InFrameY="-8" InFrameY0="Z05-169.png"/>
+<Ftitle InFrameReverse="0" InFrameX="-19" InFrameY="-25" InFrameY0="Z05-005.png"/>
+<Ftitle InFrameReverse="0" InFrameX="-42" InFrameY="-12" InFrameY0="Z05-107.png"/>
+<Ftitle InFrameReverse="0" InFrameX="-15" InFrameY="-53" InFrameY0="Z05-001.png"/>
+</frame>
+<frame DateCount="1" FrameIndex="5" FrameName="正下站立-6" TitleCount="4">
+<data DataH="45" DataName="0" DataW="42" DataX="-21" DataY="-43"/>
+<Ftitle InFrameReverse="0" InFrameX="-14" InFrameY="-8" InFrameY0="Z05-169.png"/>
+<Ftitle InFrameReverse="0" InFrameX="-20" InFrameY="-26" InFrameY0="Z05-004.png"/>
+<Ftitle InFrameReverse="0" InFrameX="-42" InFrameY="-12" InFrameY0="Z05-107.png"/>
+<Ftitle InFrameReverse="0" InFrameX="-15" InFrameY="-53" InFrameY0="Z05-000.png"/>
+</frame>
+<frame DateCount="1" FrameIndex="6" FrameName="正下站立-7" TitleCount="4">
+<data DataH="45" DataName="0" DataW="42" DataX="-21" DataY="-43"/>
+<Ftitle InFrameReverse="0" InFrameX="-14" InFrameY="-8" InFrameY0="Z05-169.png"/>
+<Ftitle InFrameReverse="0" InFrameX="-20" InFrameY="-26" InFrameY0="Z05-003.png"/>
+<Ftitle InFrameReverse="0" InFrameX="-43" InFrameY="-13" InFrameY0="Z05-107.png"/>
+<Ftitle InFrameReverse="0" InFrameX="-15" InFrameY="-54" InFrameY0="Z05-002.png"/>
+</frame>
+<frame DateCount="1" FrameIndex="7" FrameName="正下站立-8" TitleCount="4">
+<data DataH="45" DataName="0" DataW="42" DataX="-21" DataY="-43"/>
+<Ftitle InFrameReverse="0" InFrameX="-14" InFrameY="-8" InFrameY0="Z05-169.png"/>
+<Ftitle InFrameReverse="0" InFrameX="-20" InFrameY="-26" InFrameY0="Z05-003.png"/>
+<Ftitle InFrameReverse="0" InFrameX="-43" InFrameY="-13" InFrameY0="Z05-107.png"/>
+<Ftitle InFrameReverse="0" InFrameX="-15" InFrameY="-54" InFrameY0="Z05-000.png"/>
+</frame>
+<frame DateCount="1" FrameIndex="8" FrameName="正上站立-1" TitleCount="4">
+<data DataH="45" DataName="0" DataW="42" DataX="-21" DataY="-43"/>
+<Ftitle InFrameReverse="0" InFrameX="-14" InFrameY="-8" InFrameY0="Z05-169.png"/>
+<Ftitle InFrameReverse="1" InFrameX="41" InFrameY="-13" InFrameY0="Z05-107.png"/>
+<Ftitle InFrameReverse="0" InFrameX="-18" InFrameY="-26" InFrameY0="Z05-019.png"/>
+<Ftitle InFrameReverse="0" InFrameX="-16" InFrameY="-53" InFrameY0="Z05-016.png"/>
+</frame>
+<frame DateCount="1" FrameIndex="9" FrameName="正上站立-2" TitleCount="4">
+<data DataH="45" DataName="0" DataW="42" DataX="-21" DataY="-43"/>
+<Ftitle InFrameReverse="0" InFrameX="-14" InFrameY="-8" InFrameY0="Z05-169.png"/>
+<Ftitle InFrameReverse="1" InFrameX="40" InFrameY="-13" InFrameY0="Z05-107.png"/>
+<Ftitle InFrameReverse="0" InFrameX="-18" InFrameY="-26" InFrameY0="Z05-020.png"/>
+<Ftitle InFrameReverse="0" InFrameX="-16" InFrameY="-52" InFrameY0="Z05-017.png"/>
+</frame>
+<frame DateCount="1" FrameIndex="10" FrameName="正上站立-3" TitleCount="4">
+<data DataH="45" DataName="0" DataW="42" DataX="-21" DataY="-43"/>
+<Ftitle InFrameReverse="0" InFrameX="-14" InFrameY="-8" InFrameY0="Z05-169.png"/>
+<Ftitle InFrameReverse="1" InFrameX="40" InFrameY="-12" InFrameY0="Z05-107.png"/>
+<Ftitle InFrameReverse="0" InFrameX="-17" InFrameY="-25" InFrameY0="Z05-021.png"/>
+<Ftitle InFrameReverse="0" InFrameX="-16" InFrameY="-51" InFrameY0="Z05-018.png"/>
+</frame>
+<frame DateCount="1" FrameIndex="11" FrameName="正上站立-4" TitleCount="4">
+<data DataH="45" DataName="0" DataW="42" DataX="-21" DataY="-43"/>
+<Ftitle InFrameReverse="0" InFrameX="-14" InFrameY="-8" InFrameY0="Z05-169.png"/>
+<Ftitle InFrameReverse="1" InFrameX="40" InFrameY="-12" InFrameY0="Z05-107.png"/>
+<Ftitle InFrameReverse="0" InFrameX="-17" InFrameY="-25" InFrameY0="Z05-021.png"/>
+<Ftitle InFrameReverse="0" InFrameX="-16" InFrameY="-51" InFrameY0="Z05-017.png"/>
+</frame>
+<frame DateCount="1" FrameIndex="12" FrameName="正上站立-5" TitleCount="4">
+<data DataH="45" DataName="0" DataW="42" DataX="-21" DataY="-43"/>
+<Ftitle InFrameReverse="0" InFrameX="-14" InFrameY="-8" InFrameY0="Z05-169.png"/>
+<Ftitle InFrameReverse="1" InFrameX="40" InFrameY="-12" InFrameY0="Z05-107.png"/>
+<Ftitle InFrameReverse="0" InFrameX="-17" InFrameY="-25" InFrameY0="Z05-021.png"/>
+<Ftitle InFrameReverse="0" InFrameX="-16" InFrameY="-51" InFrameY0="Z05-016.png"/>
+</frame>
+<frame DateCount="1" FrameIndex="13" FrameName="正上站立-6" TitleCount="4">
+<data DataH="45" DataName="0" DataW="42" DataX="-21" DataY="-43"/>
+<Ftitle InFrameReverse="0" InFrameX="-14" InFrameY="-8" InFrameY0="Z05-169.png"/>
+<Ftitle InFrameReverse="1" InFrameX="40" InFrameY="-13" InFrameY0="Z05-107.png"/>
+<Ftitle InFrameReverse="0" InFrameX="-18" InFrameY="-26" InFrameY0="Z05-020.png"/>
+<Ftitle InFrameReverse="0" InFrameX="-16" InFrameY="-52" InFrameY0="Z05-017.png"/>
+</frame>
+<frame DateCount="1" FrameIndex="14" FrameName="正上站立-7" TitleCount="4">
+<data DataH="45" DataName="0" DataW="42" DataX="-21" DataY="-43"/>
+<Ftitle InFrameReverse="0" InFrameX="-14" InFrameY="-8" InFrameY0="Z05-169.png"/>
+<Ftitle InFrameReverse="1" InFrameX="41" InFrameY="-13" InFrameY0="Z05-107.png"/>
+<Ftitle InFrameReverse="0" InFrameX="-18" InFrameY="-26" InFrameY0="Z05-019.png"/>
+<Ftitle InFrameReverse="0" InFrameX="-16" InFrameY="-53" InFrameY0="Z05-018.png"/>
+</frame>
+<frame DateCount="1" FrameIndex="15" FrameName="正上站立-8" TitleCount="4">
+<data DataH="45" DataName="0" DataW="42" DataX="-21" DataY="-43"/>
+<Ftitle InFrameReverse="0" InFrameX="-14" InFrameY="-8" InFrameY0="Z05-169.png"/>
+<Ftitle InFrameReverse="1" InFrameX="41" InFrameY="-13" InFrameY0="Z05-107.png"/>
+<Ftitle InFrameReverse="0" InFrameX="-18" InFrameY="-26" InFrameY0="Z05-019.png"/>
+<Ftitle InFrameReverse="0" InFrameX="-16" InFrameY="-53" InFrameY0="Z05-017.png"/>
+</frame>
+<frame DateCount="1" FrameIndex="16" FrameName="正左站立-1" TitleCount="4">
+<data DataH="45" DataName="0" DataW="42" DataX="-21" DataY="-43"/>
+<Ftitle InFrameReverse="0" InFrameX="-24" InFrameY="-19" InFrameY0="Z05-115.png"/>
+<Ftitle InFrameReverse="0" InFrameX="-14" InFrameY="-8" InFrameY0="Z05-169.png"/>
+<Ftitle InFrameReverse="0" InFrameX="-15" InFrameY="-22" InFrameY0="Z05-011.png"/>
+<Ftitle InFrameReverse="0" InFrameX="-16" InFrameY="-56" InFrameY0="Z05-008.png"/>
+</frame>
+<frame DateCount="1" FrameIndex="17" FrameName="正左站立-2" TitleCount="4">
+<data DataH="45" DataName="0" DataW="42" DataX="-21" DataY="-43"/>
+<Ftitle InFrameReverse="0" InFrameX="-23" InFrameY="-19" InFrameY0="Z05-115.png"/>
+<Ftitle InFrameReverse="0" InFrameX="-14" InFrameY="-8" InFrameY0="Z05-169.png"/>
+<Ftitle InFrameReverse="0" InFrameX="-15" InFrameY="-21" InFrameY0="Z05-012.png"/>
+<Ftitle InFrameReverse="0" InFrameX="-18" InFrameY="-55" InFrameY0="Z05-009.png"/>
+</frame>
+<frame DateCount="1" FrameIndex="18" FrameName="正左站立-3" TitleCount="4">
+<data DataH="45" DataName="0" DataW="42" DataX="-21" DataY="-43"/>
+<Ftitle InFrameReverse="0" InFrameX="-23" InFrameY="-18" InFrameY0="Z05-115.png"/>
+<Ftitle InFrameReverse="0" InFrameX="-14" InFrameY="-8" InFrameY0="Z05-169.png"/>
+<Ftitle InFrameReverse="0" InFrameX="-15" InFrameY="-21" InFrameY0="Z05-013.png"/>
+<Ftitle InFrameReverse="0" InFrameX="-19" InFrameY="-54" InFrameY0="Z05-010.png"/>
+</frame>
+<frame DateCount="1" FrameIndex="19" FrameName="正左站立-4" TitleCount="4">
+<data DataH="45" DataName="0" DataW="42" DataX="-21" DataY="-43"/>
+<Ftitle InFrameReverse="0" InFrameX="-23" InFrameY="-18" InFrameY0="Z05-115.png"/>
+<Ftitle InFrameReverse="0" InFrameX="-14" InFrameY="-8" InFrameY0="Z05-169.png"/>
+<Ftitle InFrameReverse="0" InFrameX="-15" InFrameY="-21" InFrameY0="Z05-013.png"/>
+<Ftitle InFrameReverse="0" InFrameX="-18" InFrameY="-54" InFrameY0="Z05-009.png"/>
+</frame>
+<frame DateCount="1" FrameIndex="20" FrameName="正左站立-5" TitleCount="4">
+<data DataH="45" DataName="0" DataW="42" DataX="-21" DataY="-43"/>
+<Ftitle InFrameReverse="0" InFrameX="-23" InFrameY="-18" InFrameY0="Z05-115.png"/>
+<Ftitle InFrameReverse="0" InFrameX="-14" InFrameY="-8" InFrameY0="Z05-169.png"/>
+<Ftitle InFrameReverse="0" InFrameX="-15" InFrameY="-21" InFrameY0="Z05-013.png"/>
+<Ftitle InFrameReverse="0" InFrameX="-16" InFrameY="-54" InFrameY0="Z05-008.png"/>
+</frame>
+<frame DateCount="1" FrameIndex="21" FrameName="正左站立-6" TitleCount="4">
+<data DataH="45" DataName="0" DataW="42" DataX="-21" DataY="-43"/>
+<Ftitle InFrameReverse="0" InFrameX="-23" InFrameY="-19" InFrameY0="Z05-115.png"/>
+<Ftitle InFrameReverse="0" InFrameX="-14" InFrameY="-8" InFrameY0="Z05-169.png"/>
+<Ftitle InFrameReverse="0" InFrameX="-15" InFrameY="-21" InFrameY0="Z05-012.png"/>
+<Ftitle InFrameReverse="0" InFrameX="-18" InFrameY="-55" InFrameY0="Z05-009.png"/>
+</frame>
+<frame DateCount="1" FrameIndex="22" FrameName="正左站立-7" TitleCount="4">
+<data DataH="45" DataName="0" DataW="42" DataX="-21" DataY="-43"/>
+<Ftitle InFrameReverse="0" InFrameX="-24" InFrameY="-19" InFrameY0="Z05-115.png"/>
+<Ftitle InFrameReverse="0" InFrameX="-14" InFrameY="-8" InFrameY0="Z05-169.png"/>
+<Ftitle InFrameReverse="0" InFrameX="-15" InFrameY="-22" InFrameY0="Z05-011.png"/>
+<Ftitle InFrameReverse="0" InFrameX="-19" InFrameY="-56" InFrameY0="Z05-010.png"/>
+</frame>
+<frame DateCount="1" FrameIndex="23" FrameName="正左站立-8" TitleCount="4">
+<data DataH="45" DataName="0" DataW="42" DataX="-21" DataY="-43"/>
+<Ftitle InFrameReverse="0" InFrameX="-24" InFrameY="-19" InFrameY0="Z05-115.png"/>
+<Ftitle InFrameReverse="0" InFrameX="-14" InFrameY="-8" InFrameY0="Z05-169.png"/>
+<Ftitle InFrameReverse="0" InFrameX="-15" InFrameY="-22" InFrameY0="Z05-011.png"/>
+<Ftitle InFrameReverse="0" InFrameX="-18" InFrameY="-56" InFrameY0="Z05-009.png"/>
+</frame>
+<frame DateCount="1" FrameIndex="24" FrameName="斜上站立-1" TitleCount="4">
+<data DataH="45" DataName="0" DataW="42" DataX="-21" DataY="-43"/>
+<Ftitle InFrameReverse="0" InFrameX="-14" InFrameY="-8" InFrameY0="Z05-169.png"/>
+<Ftitle InFrameReverse="1" InFrameX="14" InFrameY="-22" InFrameY0="Z05-025.png"/>
+<Ftitle InFrameReverse="1" InFrameX="12" InFrameY="-54" InFrameY0="Z05-022.png"/>
+<Ftitle InFrameReverse="1" InFrameX="-10" InFrameY="-3" InFrameY0="Z05-170.png"/>
+</frame>
+<frame DateCount="1" FrameIndex="25" FrameName="斜上站立-2" TitleCount="4">
+<data DataH="45" DataName="0" DataW="42" DataX="-21" DataY="-43"/>
+<Ftitle InFrameReverse="0" InFrameX="-14" InFrameY="-8" InFrameY0="Z05-169.png"/>
+<Ftitle InFrameReverse="1" InFrameX="13" InFrameY="-21" InFrameY0="Z05-026.png"/>
+<Ftitle InFrameReverse="1" InFrameX="-10" InFrameY="-3" InFrameY0="Z05-170.png"/>
+<Ftitle InFrameReverse="1" InFrameX="12" InFrameY="-53" InFrameY0="Z05-023.png"/>
+</frame>
+<frame DateCount="1" FrameIndex="26" FrameName="斜上站立-3" TitleCount="4">
+<data DataH="45" DataName="0" DataW="42" DataX="-21" DataY="-43"/>
+<Ftitle InFrameReverse="0" InFrameX="-14" InFrameY="-8" InFrameY0="Z05-169.png"/>
+<Ftitle InFrameReverse="1" InFrameX="13" InFrameY="-21" InFrameY0="Z05-027.png"/>
+<Ftitle InFrameReverse="1" InFrameX="-10" InFrameY="-3" InFrameY0="Z05-170.png"/>
+<Ftitle InFrameReverse="1" InFrameX="15" InFrameY="-52" InFrameY0="Z05-024.png"/>
+</frame>
+<frame DateCount="1" FrameIndex="27" FrameName="斜上站立-4" TitleCount="4">
+<data DataH="45" DataName="0" DataW="42" DataX="-21" DataY="-43"/>
+<Ftitle InFrameReverse="0" InFrameX="-14" InFrameY="-8" InFrameY0="Z05-169.png"/>
+<Ftitle InFrameReverse="1" InFrameX="13" InFrameY="-21" InFrameY0="Z05-027.png"/>
+<Ftitle InFrameReverse="1" InFrameX="-10" InFrameY="-3" InFrameY0="Z05-170.png"/>
+<Ftitle InFrameReverse="1" InFrameX="12" InFrameY="-52" InFrameY0="Z05-023.png"/>
+</frame>
+<frame DateCount="1" FrameIndex="28" FrameName="斜上站立-5" TitleCount="4">
+<data DataH="45" DataName="0" DataW="42" DataX="-21" DataY="-43"/>
+<Ftitle InFrameReverse="0" InFrameX="-14" InFrameY="-8" InFrameY0="Z05-169.png"/>
+<Ftitle InFrameReverse="1" InFrameX="13" InFrameY="-21" InFrameY0="Z05-027.png"/>
+<Ftitle InFrameReverse="1" InFrameX="-10" InFrameY="-3" InFrameY0="Z05-170.png"/>
+<Ftitle InFrameReverse="1" InFrameX="12" InFrameY="-52" InFrameY0="Z05-022.png"/>
+</frame>
+<frame DateCount="1" FrameIndex="29" FrameName="斜上站立-6" TitleCount="4">
+<data DataH="45" DataName="0" DataW="42" DataX="-21" DataY="-43"/>
+<Ftitle InFrameReverse="0" InFrameX="-14" InFrameY="-8" InFrameY0="Z05-169.png"/>
+<Ftitle InFrameReverse="1" InFrameX="13" InFrameY="-21" InFrameY0="Z05-026.png"/>
+<Ftitle InFrameReverse="1" InFrameX="-10" InFrameY="-3" InFrameY0="Z05-170.png"/>
+<Ftitle InFrameReverse="1" InFrameX="12" InFrameY="-53" InFrameY0="Z05-023.png"/>
+</frame>
+<frame DateCount="1" FrameIndex="30" FrameName="斜上站立-7" TitleCount="4">
+<data DataH="45" DataName="0" DataW="42" DataX="-21" DataY="-43"/>
+<Ftitle InFrameReverse="0" InFrameX="-14" InFrameY="-8" InFrameY0="Z05-169.png"/>
+<Ftitle InFrameReverse="1" InFrameX="14" InFrameY="-22" InFrameY0="Z05-025.png"/>
+<Ftitle InFrameReverse="1" InFrameX="-10" InFrameY="-3" InFrameY0="Z05-170.png"/>
+<Ftitle InFrameReverse="1" InFrameX="15" InFrameY="-54" InFrameY0="Z05-024.png"/>
+</frame>
+<frame DateCount="1" FrameIndex="31" FrameName="斜上站立-8" TitleCount="4">
+<data DataH="45" DataName="0" DataW="42" DataX="-21" DataY="-43"/>
+<Ftitle InFrameReverse="0" InFrameX="-14" InFrameY="-8" InFrameY0="Z05-169.png"/>
+<Ftitle InFrameReverse="1" InFrameX="14" InFrameY="-22" InFrameY0="Z05-025.png"/>
+<Ftitle InFrameReverse="1" InFrameX="-10" InFrameY="-3" InFrameY0="Z05-170.png"/>
+<Ftitle InFrameReverse="1" InFrameX="12" InFrameY="-54" InFrameY0="Z05-023.png"/>
+</frame>
+<frame DateCount="1" FrameIndex="32" FrameName="正下移动-1" TitleCount="3">
+<data DataH="45" DataName="0" DataW="42" DataX="-21" DataY="-43"/>
+<Ftitle InFrameReverse="0" InFrameX="-42" InFrameY="-13" InFrameY0="Z05-107.png"/>
+<Ftitle InFrameReverse="0" InFrameX="-14" InFrameY="-8" InFrameY0="Z05-169.png"/>
+<Ftitle InFrameReverse="0" InFrameX="-19" InFrameY="-54" InFrameY0="Z05-028.png"/>
+</frame>
+<frame DateCount="1" FrameIndex="33" FrameName="正下移动-2" TitleCount="3">
+<data DataH="45" DataName="0" DataW="42" DataX="-21" DataY="-43"/>
+<Ftitle InFrameReverse="0" InFrameX="-41" InFrameY="-11" InFrameY0="Z05-107.png"/>
+<Ftitle InFrameReverse="0" InFrameX="-14" InFrameY="-8" InFrameY0="Z05-169.png"/>
+<Ftitle InFrameReverse="0" InFrameX="-19" InFrameY="-52" InFrameY0="Z05-029.png"/>
+</frame>
+<frame DateCount="1" FrameIndex="34" FrameName="正下移动-3" TitleCount="3">
+<data DataH="45" DataName="0" DataW="42" DataX="-21" DataY="-43"/>
+<Ftitle InFrameReverse="0" InFrameX="-41" InFrameY="-11" InFrameY0="Z05-107.png"/>
+<Ftitle InFrameReverse="0" InFrameX="-14" InFrameY="-8" InFrameY0="Z05-169.png"/>
+<Ftitle InFrameReverse="0" InFrameX="-19" InFrameY="-52" InFrameY0="Z05-030.png"/>
+</frame>
+<frame DateCount="1" FrameIndex="35" FrameName="正下移动-4" TitleCount="3">
+<data DataH="45" DataName="0" DataW="42" DataX="-21" DataY="-43"/>
+<Ftitle InFrameReverse="0" InFrameX="-43" InFrameY="-13" InFrameY0="Z05-107.png"/>
+<Ftitle InFrameReverse="0" InFrameX="-14" InFrameY="-8" InFrameY0="Z05-169.png"/>
+<Ftitle InFrameReverse="0" InFrameX="-20" InFrameY="-54" InFrameY0="Z05-031.png"/>
+</frame>
+<frame DateCount="1" FrameIndex="36" FrameName="正下移动-5" TitleCount="3">
+<data DataH="45" DataName="0" DataW="42" DataX="-21" DataY="-43"/>
+<Ftitle InFrameReverse="0" InFrameX="-42" InFrameY="-11" InFrameY0="Z05-107.png"/>
+<Ftitle InFrameReverse="0" InFrameX="-14" InFrameY="-8" InFrameY0="Z05-169.png"/>
+<Ftitle InFrameReverse="0" InFrameX="-19" InFrameY="-52" InFrameY0="Z05-032.png"/>
+</frame>
+<frame DateCount="1" FrameIndex="37" FrameName="正上移动-1" TitleCount="3">
+<data DataH="45" DataName="0" DataW="42" DataX="-21" DataY="-43"/>
+<Ftitle InFrameReverse="1" InFrameX="41" InFrameY="-12" InFrameY0="Z05-107.png"/>
+<Ftitle InFrameReverse="0" InFrameX="-14" InFrameY="-8" InFrameY0="Z05-169.png"/>
+<Ftitle InFrameReverse="0" InFrameX="-17" InFrameY="-54" InFrameY0="Z05-038.png"/>
+</frame>
+<frame DateCount="1" FrameIndex="38" FrameName="正上移动-2" TitleCount="3">
+<data DataH="45" DataName="0" DataW="42" DataX="-21" DataY="-43"/>
+<Ftitle InFrameReverse="1" InFrameX="41" InFrameY="-11" InFrameY0="Z05-107.png"/>
+<Ftitle InFrameReverse="0" InFrameX="-14" InFrameY="-8" InFrameY0="Z05-169.png"/>
+<Ftitle InFrameReverse="0" InFrameX="-18" InFrameY="-52" InFrameY0="Z05-039.png"/>
+</frame>
+<frame DateCount="1" FrameIndex="39" FrameName="正上移动-3" TitleCount="3">
+<data DataH="45" DataName="0" DataW="42" DataX="-21" DataY="-43"/>
+<Ftitle InFrameReverse="1" InFrameX="41" InFrameY="-12" InFrameY0="Z05-107.png"/>
+<Ftitle InFrameReverse="0" InFrameX="-14" InFrameY="-8" InFrameY0="Z05-169.png"/>
+<Ftitle InFrameReverse="0" InFrameX="-16" InFrameY="-54" InFrameY0="Z05-040.png"/>
+</frame>
+<frame DateCount="1" FrameIndex="40" FrameName="正上移动-4" TitleCount="3">
+<data DataH="45" DataName="0" DataW="42" DataX="-21" DataY="-43"/>
+<Ftitle InFrameReverse="1" InFrameX="41" InFrameY="-11" InFrameY0="Z05-107.png"/>
+<Ftitle InFrameReverse="0" InFrameX="-14" InFrameY="-8" InFrameY0="Z05-169.png"/>
+<Ftitle InFrameReverse="0" InFrameX="-18" InFrameY="-52" InFrameY0="Z05-039.png"/>
+</frame>
+<frame DateCount="1" FrameIndex="41" FrameName="正左移动-1" TitleCount="3">
+<data DataH="45" DataName="0" DataW="42" DataX="-21" DataY="-43"/>
+<Ftitle InFrameReverse="0" InFrameX="-24" InFrameY="-19" InFrameY0="Z05-115.png"/>
+<Ftitle InFrameReverse="0" InFrameX="-14" InFrameY="-8" InFrameY0="Z05-169.png"/>
+<Ftitle InFrameReverse="0" InFrameX="-16" InFrameY="-57" InFrameY0="Z05-033.png"/>
+</frame>
+<frame DateCount="1" FrameIndex="42" FrameName="正左移动-2" TitleCount="3">
+<data DataH="45" DataName="0" DataW="42" DataX="-21" DataY="-43"/>
+<Ftitle InFrameReverse="0" InFrameX="-23" InFrameY="-17" InFrameY0="Z05-115.png"/>
+<Ftitle InFrameReverse="0" InFrameX="-14" InFrameY="-8" InFrameY0="Z05-169.png"/>
+<Ftitle InFrameReverse="0" InFrameX="-17" InFrameY="-56" InFrameY0="Z05-034.png"/>
+</frame>
+<frame DateCount="1" FrameIndex="43" FrameName="正左移动-3" TitleCount="3">
+<data DataH="45" DataName="0" DataW="42" DataX="-21" DataY="-43"/>
+<Ftitle InFrameReverse="0" InFrameX="-23" InFrameY="-19" InFrameY0="Z05-115.png"/>
+<Ftitle InFrameReverse="0" InFrameX="-14" InFrameY="-8" InFrameY0="Z05-169.png"/>
+<Ftitle InFrameReverse="0" InFrameX="-15" InFrameY="-57" InFrameY0="Z05-035.png"/>
+</frame>
+<frame DateCount="1" FrameIndex="44" FrameName="正左移动-4" TitleCount="3">
+<data DataH="45" DataName="0" DataW="42" DataX="-21" DataY="-43"/>
+<Ftitle InFrameReverse="0" InFrameX="-23" InFrameY="-19" InFrameY0="Z05-115.png"/>
+<Ftitle InFrameReverse="0" InFrameX="-14" InFrameY="-8" InFrameY0="Z05-169.png"/>
+<Ftitle InFrameReverse="0" InFrameX="-15" InFrameY="-57" InFrameY0="Z05-036.png"/>
+</frame>
+<frame DateCount="1" FrameIndex="45" FrameName="正左移动-5" TitleCount="3">
+<data DataH="45" DataName="0" DataW="42" DataX="-21" DataY="-43"/>
+<Ftitle InFrameReverse="0" InFrameX="-23" InFrameY="-17" InFrameY0="Z05-115.png"/>
+<Ftitle InFrameReverse="0" InFrameX="-14" InFrameY="-8" InFrameY0="Z05-169.png"/>
+<Ftitle InFrameReverse="0" InFrameX="-15" InFrameY="-56" InFrameY0="Z05-037.png"/>
+</frame>
+<frame DateCount="1" FrameIndex="46" FrameName="斜上移动-1" TitleCount="3">
+<data DataH="45" DataName="0" DataW="42" DataX="-21" DataY="-43"/>
+<Ftitle InFrameReverse="0" InFrameX="-14" InFrameY="-8" InFrameY0="Z05-169.png"/>
+<Ftitle InFrameReverse="1" InFrameX="14" InFrameY="-55" InFrameY0="Z05-042.png"/>
+<Ftitle InFrameReverse="1" InFrameX="-10" InFrameY="-3" InFrameY0="Z05-170.png"/>
+</frame>
+<frame DateCount="1" FrameIndex="47" FrameName="斜上移动-2" TitleCount="3">
+<data DataH="45" DataName="0" DataW="42" DataX="-21" DataY="-43"/>
+<Ftitle InFrameReverse="0" InFrameX="-14" InFrameY="-8" InFrameY0="Z05-169.png"/>
+<Ftitle InFrameReverse="1" InFrameX="14" InFrameY="-54" InFrameY0="Z05-043.png"/>
+<Ftitle InFrameReverse="1" InFrameX="-9" InFrameY="-2" InFrameY0="Z05-170.png"/>
+</frame>
+<frame DateCount="1" FrameIndex="48" FrameName="斜上移动-3" TitleCount="3">
+<data DataH="45" DataName="0" DataW="42" DataX="-21" DataY="-43"/>
+<Ftitle InFrameReverse="0" InFrameX="-14" InFrameY="-8" InFrameY0="Z05-169.png"/>
+<Ftitle InFrameReverse="1" InFrameX="16" InFrameY="-55" InFrameY0="Z05-044.png"/>
+<Ftitle InFrameReverse="1" InFrameX="-9" InFrameY="-3" InFrameY0="Z05-170.png"/>
+</frame>
+<frame DateCount="1" FrameIndex="49" FrameName="斜上移动-4" TitleCount="3">
+<data DataH="45" DataName="0" DataW="42" DataX="-21" DataY="-43"/>
+<Ftitle InFrameReverse="0" InFrameX="-14" InFrameY="-8" InFrameY0="Z05-169.png"/>
+<Ftitle InFrameReverse="1" InFrameX="14" InFrameY="-54" InFrameY0="Z05-045.png"/>
+<Ftitle InFrameReverse="1" InFrameX="-9" InFrameY="-2" InFrameY0="Z05-170.png"/>
+</frame>
+<frame DateCount="1" FrameIndex="50" FrameName="下挨打" TitleCount="3">
+<data DataH="45" DataName="0" DataW="42" DataX="-21" DataY="-43"/>
+<Ftitle InFrameReverse="0" InFrameX="-14" InFrameY="-8" InFrameY0="Z05-169.png"/>
+<Ftitle InFrameReverse="0" InFrameX="-27" InFrameY="-37" InFrameY0="Z05-114.png"/>
+<Ftitle InFrameReverse="0" InFrameX="-20" InFrameY="-53" InFrameY0="Z05-046.png"/>
+</frame>
+<frame DateCount="1" FrameIndex="51" FrameName="上挨打" TitleCount="3">
+<data DataH="45" DataName="0" DataW="42" DataX="-21" DataY="-43"/>
+<Ftitle InFrameReverse="0" InFrameX="-14" InFrameY="-8" InFrameY0="Z05-169.png"/>
+<Ftitle InFrameReverse="1" InFrameX="18" InFrameY="-54" InFrameY0="Z05-047.png"/>
+<Ftitle InFrameReverse="1" InFrameX="-12" InFrameY="-18" InFrameY0="Z05-122.png"/>
+</frame>
+<frame DateCount="1" FrameIndex="52" FrameName="正下攻击-1" TitleCount="3">
+<data DataH="45" DataName="0" DataW="42" DataX="-21" DataY="-43"/>
+<Ftitle InFrameReverse="0" InFrameX="-14" InFrameY="-8" InFrameY0="Z05-169.png"/>
+<Ftitle InFrameReverse="0" InFrameX="-22" InFrameY="-54" InFrameY0="Z05-048.png"/>
+<Ftitle InFrameReverse="0" InFrameX="-47" InFrameY="-31" InFrameY0="Z05-108.png"/>
+</frame>
+<frame DateCount="1" FrameIndex="53" FrameName="正下攻击-2" TitleCount="3">
+<data DataH="45" DataName="0" DataW="42" DataX="-21" DataY="-43"/>
+<Ftitle InFrameReverse="0" InFrameX="-14" InFrameY="-8" InFrameY0="Z05-169.png"/>
+<Ftitle InFrameReverse="0" InFrameX="-22" InFrameY="-54" InFrameY0="Z05-049.png"/>
+<Ftitle InFrameReverse="0" InFrameX="-45" InFrameY="-37" InFrameY0="Z05-109.png"/>
+</frame>
+<frame DateCount="1" FrameIndex="54" FrameName="正下攻击-3" TitleCount="3">
+<data DataH="45" DataName="0" DataW="42" DataX="-21" DataY="-43"/>
+<Ftitle InFrameReverse="0" InFrameX="-14" InFrameY="-8" InFrameY0="Z05-169.png"/>
+<Ftitle InFrameReverse="0" InFrameX="-45" InFrameY="-37" InFrameY0="Z05-109.png"/>
+<Ftitle InFrameReverse="0" InFrameX="-22" InFrameY="-54" InFrameY0="Z05-050.png"/>
+</frame>
+<frame DateCount="1" FrameIndex="55" FrameName="正下攻击-4" TitleCount="3">
+<data DataH="45" DataName="0" DataW="42" DataX="-21" DataY="-43"/>
+<Ftitle InFrameReverse="0" InFrameX="-14" InFrameY="-8" InFrameY0="Z05-169.png"/>
+<Ftitle InFrameReverse="0" InFrameX="-45" InFrameY="-37" InFrameY0="Z05-109.png"/>
+<Ftitle InFrameReverse="0" InFrameX="-22" InFrameY="-54" InFrameY0="Z05-051.png"/>
+</frame>
+<frame DateCount="2" FrameIndex="56" FrameName="正下攻击-5" TitleCount="4">
+<data DataH="45" DataName="0" DataW="42" DataX="-21" DataY="-43"/>
+<data DataH="45" DataName="0" DataW="42" DataX="-21" DataY="-43"/>
+<Ftitle InFrameReverse="0" InFrameX="-14" InFrameY="-8" InFrameY0="Z05-169.png"/>
+<Ftitle InFrameReverse="0" InFrameX="-24" InFrameY="-54" InFrameY0="Z05-052.png"/>
+<Ftitle InFrameReverse="0" InFrameX="-22" InFrameY="-31" InFrameY0="Z05-110.png"/>
+<Ftitle InFrameReverse="0" InFrameX="-48" InFrameY="-55" InFrameY0="Z05-153.png"/>
+</frame>
+<frame DateCount="1" FrameIndex="57" FrameName="正下攻击-6" TitleCount="4">
+<data DataH="45" DataName="0" DataW="42" DataX="-21" DataY="-43"/>
+<Ftitle InFrameReverse="0" InFrameX="-14" InFrameY="-8" InFrameY0="Z05-169.png"/>
+<Ftitle InFrameReverse="0" InFrameX="-17" InFrameY="-54" InFrameY0="Z05-053.png"/>
+<Ftitle InFrameReverse="0" InFrameX="2" InFrameY="-25" InFrameY0="Z05-111.png"/>
+<Ftitle InFrameReverse="0" InFrameX="-47" InFrameY="-43" InFrameY0="Z05-154.png"/>
+</frame>
+<frame DateCount="3" FrameIndex="58" FrameName="正下攻击-7" TitleCount="4">
+<data DataH="45" DataName="0" DataW="42" DataX="-21" DataY="-43"/>
+<data DataH="31" DataName="1" DataW="63" DataX="-31" DataY="-29"/>
+<data DataH="29" DataName="3" DataW="29" DataX="-17" DataY="-59"/>
+<Ftitle InFrameReverse="0" InFrameX="-14" InFrameY="-8" InFrameY0="Z05-169.png"/>
+<Ftitle InFrameReverse="0" InFrameX="-13" InFrameY="-54" InFrameY0="Z05-054.png"/>
+<Ftitle InFrameReverse="0" InFrameX="7" InFrameY="-26" InFrameY0="Z05-112.png"/>
+<Ftitle InFrameReverse="0" InFrameX="-42" InFrameY="-40" InFrameY0="Z05-155.png"/>
+</frame>
+<frame DateCount="1" FrameIndex="59" FrameName="正下攻击-8" TitleCount="4">
+<data DataH="45" DataName="0" DataW="42" DataX="-21" DataY="-43"/>
+<Ftitle InFrameReverse="0" InFrameX="-14" InFrameY="-8" InFrameY0="Z05-169.png"/>
+<Ftitle InFrameReverse="0" InFrameX="-13" InFrameY="-54" InFrameY0="Z05-055.png"/>
+<Ftitle InFrameReverse="0" InFrameX="7" InFrameY="-26" InFrameY0="Z05-112.png"/>
+<Ftitle InFrameReverse="0" InFrameX="-34" InFrameY="-40" InFrameY0="Z05-156.png"/>
+</frame>
+<frame DateCount="1" FrameIndex="60" FrameName="正下攻击-9" TitleCount="3">
+<data DataH="45" DataName="0" DataW="42" DataX="-21" DataY="-43"/>
+<Ftitle InFrameReverse="0" InFrameX="-14" InFrameY="-8" InFrameY0="Z05-169.png"/>
+<Ftitle InFrameReverse="0" InFrameX="-13" InFrameY="-54" InFrameY0="Z05-056.png"/>
+<Ftitle InFrameReverse="0" InFrameX="7" InFrameY="-26" InFrameY0="Z05-112.png"/>
+</frame>
+<frame DateCount="1" FrameIndex="61" FrameName="正下攻击-10" TitleCount="3">
+<data DataH="45" DataName="0" DataW="42" DataX="-21" DataY="-43"/>
+<Ftitle InFrameReverse="0" InFrameX="-14" InFrameY="-8" InFrameY0="Z05-169.png"/>
+<Ftitle InFrameReverse="0" InFrameX="-17" InFrameY="-54" InFrameY0="Z05-053.png"/>
+<Ftitle InFrameReverse="0" InFrameX="2" InFrameY="-25" InFrameY0="Z05-111.png"/>
+</frame>
+<frame DateCount="1" FrameIndex="62" FrameName="正下攻击-11" TitleCount="3">
+<data DataH="45" DataName="0" DataW="42" DataX="-21" DataY="-43"/>
+<Ftitle InFrameReverse="0" InFrameX="-14" InFrameY="-8" InFrameY0="Z05-169.png"/>
+<Ftitle InFrameReverse="0" InFrameX="-24" InFrameY="-54" InFrameY0="Z05-052.png"/>
+<Ftitle InFrameReverse="0" InFrameX="-22" InFrameY="-31" InFrameY0="Z05-110.png"/>
+</frame>
+<frame DateCount="1" FrameIndex="63" FrameName="正下攻击-12" TitleCount="3">
+<data DataH="45" DataName="0" DataW="42" DataX="-21" DataY="-43"/>
+<Ftitle InFrameReverse="0" InFrameX="-14" InFrameY="-8" InFrameY0="Z05-169.png"/>
+<Ftitle InFrameReverse="0" InFrameX="-22" InFrameY="-54" InFrameY0="Z05-048.png"/>
+<Ftitle InFrameReverse="0" InFrameX="-47" InFrameY="-31" InFrameY0="Z05-108.png"/>
+</frame>
+<frame DateCount="1" FrameIndex="64" FrameName="正下必杀-1" TitleCount="3">
+<data DataH="45" DataName="0" DataW="42" DataX="-21" DataY="-43"/>
+<Ftitle InFrameReverse="0" InFrameX="-14" InFrameY="-8" InFrameY0="Z05-169.png"/>
+<Ftitle InFrameReverse="0" InFrameX="-21" InFrameY="-55" InFrameY0="Z05-057.png"/>
+<Ftitle InFrameReverse="0" InFrameX="-33" InFrameY="-51" InFrameY0="Z05-113.png"/>
+</frame>
+<frame DateCount="1" FrameIndex="65" FrameName="正下必杀-2" TitleCount="3">
+<data DataH="45" DataName="0" DataW="42" DataX="-21" DataY="-43"/>
+<Ftitle InFrameReverse="0" InFrameX="-14" InFrameY="-8" InFrameY0="Z05-169.png"/>
+<Ftitle InFrameReverse="0" InFrameX="-19" InFrameY="-55" InFrameY0="Z05-058.png"/>
+<Ftitle InFrameReverse="0" InFrameX="-33" InFrameY="-51" InFrameY0="Z05-113.png"/>
+</frame>
+<frame DateCount="1" FrameIndex="66" FrameName="正下必杀-3" TitleCount="3">
+<data DataH="45" DataName="0" DataW="42" DataX="-21" DataY="-43"/>
+<Ftitle InFrameReverse="0" InFrameX="-14" InFrameY="-8" InFrameY0="Z05-169.png"/>
+<Ftitle InFrameReverse="0" InFrameX="-20" InFrameY="-55" InFrameY0="Z05-059.png"/>
+<Ftitle InFrameReverse="0" InFrameX="-33" InFrameY="-51" InFrameY0="Z05-113.png"/>
+</frame>
+<frame DateCount="1" FrameIndex="67" FrameName="正下必杀-4" TitleCount="3">
+<data DataH="45" DataName="0" DataW="42" DataX="-21" DataY="-43"/>
+<Ftitle InFrameReverse="0" InFrameX="-14" InFrameY="-8" InFrameY0="Z05-169.png"/>
+<Ftitle InFrameReverse="0" InFrameX="-19" InFrameY="-55" InFrameY0="Z05-060.png"/>
+<Ftitle InFrameReverse="0" InFrameX="-33" InFrameY="-51" InFrameY0="Z05-113.png"/>
+</frame>
+<frame DateCount="0" FrameIndex="68" FrameName="正下蓄力-1" TitleCount="4">
+<Ftitle InFrameReverse="0" InFrameX="-14" InFrameY="-8" InFrameY0="Z05-169.png"/>
+<Ftitle InFrameReverse="0" InFrameX="-24" InFrameY="-46" InFrameY0="Z05-061.png"/>
+<Ftitle InFrameReverse="0" InFrameX="-22" InFrameY="-23" InFrameY0="Z05-110.png"/>
+<Ftitle InFrameReverse="0" InFrameX="-48" InFrameY="-47" InFrameY0="Z05-153.png"/>
+</frame>
+<frame DateCount="1" FrameIndex="69" FrameName="正下蓄力-2" TitleCount="4">
+<data DataH="45" DataName="0" DataW="42" DataX="-21" DataY="-43"/>
+<Ftitle InFrameReverse="0" InFrameX="-14" InFrameY="-8" InFrameY0="Z05-169.png"/>
+<Ftitle InFrameReverse="0" InFrameX="-19" InFrameY="-45" InFrameY0="Z05-062.png"/>
+<Ftitle InFrameReverse="0" InFrameX="1" InFrameY="-16" InFrameY0="Z05-111.png"/>
+<Ftitle InFrameReverse="0" InFrameX="-47" InFrameY="-35" InFrameY0="Z05-154.png"/>
+</frame>
+<frame DateCount="2" FrameIndex="70" FrameName="正下蓄力-3" TitleCount="4">
+<data DataH="29" DataName="3" DataW="29" DataX="-17" DataY="-59"/>
+<data DataH="45" DataName="0" DataW="42" DataX="-21" DataY="-43"/>
+<Ftitle InFrameReverse="0" InFrameX="-14" InFrameY="-8" InFrameY0="Z05-169.png"/>
+<Ftitle InFrameReverse="0" InFrameX="-12" InFrameY="-45" InFrameY0="Z05-063.png"/>
+<Ftitle InFrameReverse="0" InFrameX="6" InFrameY="-17" InFrameY0="Z05-112.png"/>
+<Ftitle InFrameReverse="0" InFrameX="-42" InFrameY="-32" InFrameY0="Z05-155.png"/>
+</frame>
+<frame DateCount="1" FrameIndex="71" FrameName="正下蓄力-4" TitleCount="4">
+<data DataH="45" DataName="0" DataW="42" DataX="-21" DataY="-43"/>
+<Ftitle InFrameReverse="0" InFrameX="-14" InFrameY="-8" InFrameY0="Z05-169.png"/>
+<Ftitle InFrameReverse="0" InFrameX="-12" InFrameY="-45" InFrameY0="Z05-064.png"/>
+<Ftitle InFrameReverse="0" InFrameX="6" InFrameY="-17" InFrameY0="Z05-112.png"/>
+<Ftitle InFrameReverse="0" InFrameX="-34" InFrameY="-32" InFrameY0="Z05-156.png"/>
+</frame>
+<frame DateCount="1" FrameIndex="72" FrameName="正下蓄力-5" TitleCount="3">
+<data DataH="45" DataName="0" DataW="42" DataX="-21" DataY="-43"/>
+<Ftitle InFrameReverse="0" InFrameX="-14" InFrameY="-8" InFrameY0="Z05-169.png"/>
+<Ftitle InFrameReverse="0" InFrameX="-12" InFrameY="-45" InFrameY0="Z05-064.png"/>
+<Ftitle InFrameReverse="0" InFrameX="6" InFrameY="-17" InFrameY0="Z05-112.png"/>
+</frame>
+<frame DateCount="1" FrameIndex="73" FrameName="正下蓄力-6" TitleCount="3">
+<data DataH="45" DataName="0" DataW="42" DataX="-21" DataY="-43"/>
+<Ftitle InFrameReverse="0" InFrameX="-14" InFrameY="-8" InFrameY0="Z05-169.png"/>
+<Ftitle InFrameReverse="0" InFrameX="-19" InFrameY="-45" InFrameY0="Z05-062.png"/>
+<Ftitle InFrameReverse="0" InFrameX="1" InFrameY="-16" InFrameY0="Z05-111.png"/>
+</frame>
+<frame DateCount="1" FrameIndex="74" FrameName="正下蓄力-7" TitleCount="3">
+<data DataH="45" DataName="0" DataW="42" DataX="-21" DataY="-43"/>
+<Ftitle InFrameReverse="0" InFrameX="-14" InFrameY="-8" InFrameY0="Z05-169.png"/>
+<Ftitle InFrameReverse="0" InFrameX="-24" InFrameY="-46" InFrameY0="Z05-061.png"/>
+<Ftitle InFrameReverse="0" InFrameX="-22" InFrameY="-23" InFrameY0="Z05-110.png"/>
+</frame>
+<frame DateCount="1" FrameIndex="75" FrameName="正上攻击-1" TitleCount="3">
+<data DataH="45" DataName="0" DataW="42" DataX="-21" DataY="-43"/>
+<Ftitle InFrameReverse="0" InFrameX="-14" InFrameY="-8" InFrameY0="Z05-169.png"/>
+<Ftitle InFrameReverse="0" InFrameX="-16" InFrameY="-54" InFrameY0="Z05-079.png"/>
+<Ftitle InFrameReverse="0" InFrameX="18" InFrameY="-22" InFrameY0="Z05-122.png"/>
+</frame>
+<frame DateCount="1" FrameIndex="76" FrameName="正上攻击-2" TitleCount="3">
+<data DataH="45" DataName="0" DataW="42" DataX="-21" DataY="-43"/>
+<Ftitle InFrameReverse="0" InFrameX="-14" InFrameY="-8" InFrameY0="Z05-169.png"/>
+<Ftitle InFrameReverse="0" InFrameX="-16" InFrameY="-54" InFrameY0="Z05-080.png"/>
+<Ftitle InFrameReverse="0" InFrameX="19" InFrameY="-32" InFrameY0="Z05-123.png"/>
+</frame>
+<frame DateCount="1" FrameIndex="77" FrameName="正上攻击-3" TitleCount="3">
+<data DataH="45" DataName="0" DataW="42" DataX="-21" DataY="-43"/>
+<Ftitle InFrameReverse="0" InFrameX="-14" InFrameY="-8" InFrameY0="Z05-169.png"/>
+<Ftitle InFrameReverse="0" InFrameX="-16" InFrameY="-54" InFrameY0="Z05-081.png"/>
+<Ftitle InFrameReverse="0" InFrameX="19" InFrameY="-32" InFrameY0="Z05-123.png"/>
+</frame>
+<frame DateCount="1" FrameIndex="78" FrameName="正上攻击-4" TitleCount="3">
+<data DataH="45" DataName="0" DataW="42" DataX="-21" DataY="-43"/>
+<Ftitle InFrameReverse="0" InFrameX="-14" InFrameY="-8" InFrameY0="Z05-169.png"/>
+<Ftitle InFrameReverse="0" InFrameX="-16" InFrameY="-54" InFrameY0="Z05-082.png"/>
+<Ftitle InFrameReverse="0" InFrameX="19" InFrameY="-32" InFrameY0="Z05-123.png"/>
+</frame>
+<frame DateCount="1" FrameIndex="79" FrameName="正上攻击-5" TitleCount="4">
+<data DataH="45" DataName="0" DataW="42" DataX="-21" DataY="-43"/>
+<Ftitle InFrameReverse="0" InFrameX="-14" InFrameY="-8" InFrameY0="Z05-169.png"/>
+<Ftitle InFrameReverse="0" InFrameX="13" InFrameY="-49" InFrameY0="Z05-124.png"/>
+<Ftitle InFrameReverse="0" InFrameX="-15" InFrameY="-54" InFrameY0="Z05-083.png"/>
+<Ftitle InFrameReverse="0" InFrameX="20" InFrameY="-55" InFrameY0="Z05-161.png"/>
+</frame>
+<frame DateCount="1" FrameIndex="80" FrameName="正上攻击-6" TitleCount="4">
+<data DataH="45" DataName="0" DataW="42" DataX="-21" DataY="-43"/>
+<Ftitle InFrameReverse="0" InFrameX="-14" InFrameY="-8" InFrameY0="Z05-169.png"/>
+<Ftitle InFrameReverse="1" InFrameX="-6" InFrameY="-49" InFrameY0="Z05-124.png"/>
+<Ftitle InFrameReverse="0" InFrameX="-28" InFrameY="-64" InFrameY0="Z05-162.png"/>
+<Ftitle InFrameReverse="0" InFrameX="-15" InFrameY="-54" InFrameY0="Z05-084.png"/>
+</frame>
+<frame DateCount="3" FrameIndex="81" FrameName="正上攻击-7" TitleCount="4">
+<data DataH="45" DataName="0" DataW="42" DataX="-21" DataY="-43"/>
+<data DataH="31" DataName="1" DataW="63" DataX="-31" DataY="-59"/>
+<data DataH="20" DataName="3" DataW="23" DataX="-9" DataY="-67"/>
+<Ftitle InFrameReverse="0" InFrameX="-14" InFrameY="-8" InFrameY0="Z05-169.png"/>
+<Ftitle InFrameReverse="3" InFrameX="-3" InFrameY="-23" InFrameY0="Z05-121.png"/>
+<Ftitle InFrameReverse="0" InFrameX="-38" InFrameY="-64" InFrameY0="Z05-163.png"/>
+<Ftitle InFrameReverse="0" InFrameX="-15" InFrameY="-54" InFrameY0="Z05-085.png"/>
+</frame>
+<frame DateCount="1" FrameIndex="82" FrameName="正上攻击-8" TitleCount="4">
+<data DataH="45" DataName="0" DataW="42" DataX="-21" DataY="-43"/>
+<Ftitle InFrameReverse="3" InFrameX="-3" InFrameY="-23" InFrameY0="Z05-121.png"/>
+<Ftitle InFrameReverse="0" InFrameX="-14" InFrameY="-8" InFrameY0="Z05-169.png"/>
+<Ftitle InFrameReverse="0" InFrameX="-40" InFrameY="-64" InFrameY0="Z05-164.png"/>
+<Ftitle InFrameReverse="0" InFrameX="-15" InFrameY="-54" InFrameY0="Z05-085.png"/>
+</frame>
+<frame DateCount="1" FrameIndex="83" FrameName="正上攻击-9" TitleCount="3">
+<data DataH="45" DataName="0" DataW="42" DataX="-21" DataY="-43"/>
+<Ftitle InFrameReverse="3" InFrameX="-3" InFrameY="-23" InFrameY0="Z05-121.png"/>
+<Ftitle InFrameReverse="0" InFrameX="-14" InFrameY="-8" InFrameY0="Z05-169.png"/>
+<Ftitle InFrameReverse="0" InFrameX="-15" InFrameY="-54" InFrameY0="Z05-085.png"/>
+</frame>
+<frame DateCount="1" FrameIndex="84" FrameName="正上攻击-10" TitleCount="3">
+<data DataH="45" DataName="0" DataW="42" DataX="-21" DataY="-43"/>
+<Ftitle InFrameReverse="0" InFrameX="-14" InFrameY="-8" InFrameY0="Z05-169.png"/>
+<Ftitle InFrameReverse="1" InFrameX="-6" InFrameY="-49" InFrameY0="Z05-124.png"/>
+<Ftitle InFrameReverse="0" InFrameX="-15" InFrameY="-54" InFrameY0="Z05-084.png"/>
+</frame>
+<frame DateCount="1" FrameIndex="85" FrameName="正上攻击-11" TitleCount="3">
+<data DataH="45" DataName="0" DataW="42" DataX="-21" DataY="-43"/>
+<Ftitle InFrameReverse="0" InFrameX="-14" InFrameY="-8" InFrameY0="Z05-169.png"/>
+<Ftitle InFrameReverse="0" InFrameX="13" InFrameY="-49" InFrameY0="Z05-124.png"/>
+<Ftitle InFrameReverse="0" InFrameX="-15" InFrameY="-54" InFrameY0="Z05-083.png"/>
+</frame>
+<frame DateCount="1" FrameIndex="86" FrameName="正上攻击-12" TitleCount="3">
+<data DataH="45" DataName="0" DataW="42" DataX="-21" DataY="-43"/>
+<Ftitle InFrameReverse="0" InFrameX="-14" InFrameY="-8" InFrameY0="Z05-169.png"/>
+<Ftitle InFrameReverse="0" InFrameX="-16" InFrameY="-54" InFrameY0="Z05-079.png"/>
+<Ftitle InFrameReverse="0" InFrameX="18" InFrameY="-22" InFrameY0="Z05-122.png"/>
+</frame>
+<frame DateCount="1" FrameIndex="87" FrameName="正上必杀-1" TitleCount="3">
+<data DataH="45" DataName="0" DataW="42" DataX="-21" DataY="-43"/>
+<Ftitle InFrameReverse="0" InFrameX="-14" InFrameY="-8" InFrameY0="Z05-169.png"/>
+<Ftitle InFrameReverse="0" InFrameX="-16" InFrameY="-54" InFrameY0="Z05-086.png"/>
+<Ftitle InFrameReverse="0" InFrameX="15" InFrameY="-50" InFrameY0="Z05-125.png"/>
+</frame>
+<frame DateCount="1" FrameIndex="88" FrameName="正上必杀-2" TitleCount="3">
+<data DataH="45" DataName="0" DataW="42" DataX="-21" DataY="-43"/>
+<Ftitle InFrameReverse="0" InFrameX="-14" InFrameY="-8" InFrameY0="Z05-169.png"/>
+<Ftitle InFrameReverse="0" InFrameX="-16" InFrameY="-54" InFrameY0="Z05-087.png"/>
+<Ftitle InFrameReverse="0" InFrameX="15" InFrameY="-50" InFrameY0="Z05-125.png"/>
+</frame>
+<frame DateCount="1" FrameIndex="89" FrameName="正上必杀-3" TitleCount="3">
+<data DataH="45" DataName="0" DataW="42" DataX="-21" DataY="-43"/>
+<Ftitle InFrameReverse="0" InFrameX="-14" InFrameY="-8" InFrameY0="Z05-169.png"/>
+<Ftitle InFrameReverse="0" InFrameX="-16" InFrameY="-54" InFrameY0="Z05-088.png"/>
+<Ftitle InFrameReverse="0" InFrameX="15" InFrameY="-50" InFrameY0="Z05-125.png"/>
+</frame>
+<frame DateCount="1" FrameIndex="90" FrameName="正上必杀-4" TitleCount="3">
+<data DataH="45" DataName="0" DataW="42" DataX="-21" DataY="-43"/>
+<Ftitle InFrameReverse="0" InFrameX="-14" InFrameY="-8" InFrameY0="Z05-169.png"/>
+<Ftitle InFrameReverse="0" InFrameX="-16" InFrameY="-54" InFrameY0="Z05-087.png"/>
+<Ftitle InFrameReverse="0" InFrameX="15" InFrameY="-50" InFrameY0="Z05-125.png"/>
+</frame>
+<frame DateCount="0" FrameIndex="91" FrameName="正上蓄力-1" TitleCount="4">
+<Ftitle InFrameReverse="0" InFrameX="-14" InFrameY="-8" InFrameY0="Z05-169.png"/>
+<Ftitle InFrameReverse="0" InFrameX="13" InFrameY="-50" InFrameY0="Z05-124.png"/>
+<Ftitle InFrameReverse="0" InFrameX="-15" InFrameY="-55" InFrameY0="Z05-089.png"/>
+<Ftitle InFrameReverse="0" InFrameX="20" InFrameY="-56" InFrameY0="Z05-161.png"/>
+</frame>
+<frame DateCount="1" FrameIndex="92" FrameName="正上蓄力-2" TitleCount="4">
+<data DataH="45" DataName="0" DataW="42" DataX="-21" DataY="-43"/>
+<Ftitle InFrameReverse="0" InFrameX="-14" InFrameY="-8" InFrameY0="Z05-169.png"/>
+<Ftitle InFrameReverse="1" InFrameX="-6" InFrameY="-50" InFrameY0="Z05-124.png"/>
+<Ftitle InFrameReverse="0" InFrameX="-28" InFrameY="-65" InFrameY0="Z05-162.png"/>
+<Ftitle InFrameReverse="0" InFrameX="-15" InFrameY="-55" InFrameY0="Z05-090.png"/>
+</frame>
+<frame DateCount="2" FrameIndex="93" FrameName="正上蓄力-3" TitleCount="4">
+<data DataH="29" DataName="3" DataW="29" DataX="-17" DataY="-59"/>
+<data DataH="45" DataName="0" DataW="42" DataX="-21" DataY="-43"/>
+<Ftitle InFrameReverse="0" InFrameX="-14" InFrameY="-8" InFrameY0="Z05-169.png"/>
+<Ftitle InFrameReverse="3" InFrameX="-3" InFrameY="-24" InFrameY0="Z05-121.png"/>
+<Ftitle InFrameReverse="0" InFrameX="-38" InFrameY="-65" InFrameY0="Z05-163.png"/>
+<Ftitle InFrameReverse="0" InFrameX="-15" InFrameY="-55" InFrameY0="Z05-091.png"/>
+</frame>
+<frame DateCount="1" FrameIndex="94" FrameName="正上蓄力-4" TitleCount="4">
+<data DataH="45" DataName="0" DataW="42" DataX="-21" DataY="-43"/>
+<Ftitle InFrameReverse="0" InFrameX="-14" InFrameY="-8" InFrameY0="Z05-169.png"/>
+<Ftitle InFrameReverse="3" InFrameX="-3" InFrameY="-24" InFrameY0="Z05-121.png"/>
+<Ftitle InFrameReverse="0" InFrameX="-40" InFrameY="-65" InFrameY0="Z05-164.png"/>
+<Ftitle InFrameReverse="0" InFrameX="-15" InFrameY="-55" InFrameY0="Z05-092.png"/>
+</frame>
+<frame DateCount="1" FrameIndex="95" FrameName="正上蓄力-5" TitleCount="3">
+<data DataH="45" DataName="0" DataW="42" DataX="-21" DataY="-43"/>
+<Ftitle InFrameReverse="0" InFrameX="-14" InFrameY="-8" InFrameY0="Z05-169.png"/>
+<Ftitle InFrameReverse="3" InFrameX="-3" InFrameY="-24" InFrameY0="Z05-121.png"/>
+<Ftitle InFrameReverse="0" InFrameX="-15" InFrameY="-55" InFrameY0="Z05-092.png"/>
+</frame>
+<frame DateCount="1" FrameIndex="96" FrameName="正上蓄力-6" TitleCount="3">
+<data DataH="45" DataName="0" DataW="42" DataX="-21" DataY="-43"/>
+<Ftitle InFrameReverse="0" InFrameX="-14" InFrameY="-8" InFrameY0="Z05-169.png"/>
+<Ftitle InFrameReverse="1" InFrameX="-6" InFrameY="-50" InFrameY0="Z05-124.png"/>
+<Ftitle InFrameReverse="0" InFrameX="-15" InFrameY="-55" InFrameY0="Z05-090.png"/>
+</frame>
+<frame DateCount="1" FrameIndex="97" FrameName="正上蓄力-7" TitleCount="3">
+<data DataH="45" DataName="0" DataW="42" DataX="-21" DataY="-43"/>
+<Ftitle InFrameReverse="0" InFrameX="-14" InFrameY="-8" InFrameY0="Z05-169.png"/>
+<Ftitle InFrameReverse="0" InFrameX="13" InFrameY="-50" InFrameY0="Z05-124.png"/>
+<Ftitle InFrameReverse="0" InFrameX="-15" InFrameY="-55" InFrameY0="Z05-089.png"/>
+</frame>
+<frame DateCount="1" FrameIndex="98" FrameName="正左攻击-1" TitleCount="3">
+<data DataH="45" DataName="0" DataW="42" DataX="-21" DataY="-43"/>
+<Ftitle InFrameReverse="0" InFrameX="-29" InFrameY="-27" InFrameY0="Z05-116.png"/>
+<Ftitle InFrameReverse="0" InFrameX="-14" InFrameY="-8" InFrameY0="Z05-169.png"/>
+<Ftitle InFrameReverse="0" InFrameX="-18" InFrameY="-57" InFrameY0="Z05-065.png"/>
+</frame>
+<frame DateCount="1" FrameIndex="99" FrameName="正左攻击-2" TitleCount="3">
+<data DataH="45" DataName="0" DataW="42" DataX="-21" DataY="-43"/>
+<Ftitle InFrameReverse="0" InFrameX="-14" InFrameY="-8" InFrameY0="Z05-169.png"/>
+<Ftitle InFrameReverse="0" InFrameX="-28" InFrameY="-32" InFrameY0="Z05-114.png"/>
+<Ftitle InFrameReverse="0" InFrameX="-18" InFrameY="-57" InFrameY0="Z05-066.png"/>
+</frame>
+<frame DateCount="1" FrameIndex="100" FrameName="正左攻击-3" TitleCount="3">
+<data DataH="45" DataName="0" DataW="42" DataX="-21" DataY="-43"/>
+<Ftitle InFrameReverse="0" InFrameX="-14" InFrameY="-8" InFrameY0="Z05-169.png"/>
+<Ftitle InFrameReverse="0" InFrameX="-28" InFrameY="-32" InFrameY0="Z05-114.png"/>
+<Ftitle InFrameReverse="0" InFrameX="-19" InFrameY="-57" InFrameY0="Z05-067.png"/>
+</frame>
+<frame DateCount="1" FrameIndex="101" FrameName="正左攻击-4" TitleCount="3">
+<data DataH="45" DataName="0" DataW="42" DataX="-21" DataY="-43"/>
+<Ftitle InFrameReverse="0" InFrameX="-14" InFrameY="-8" InFrameY0="Z05-169.png"/>
+<Ftitle InFrameReverse="0" InFrameX="-28" InFrameY="-32" InFrameY0="Z05-114.png"/>
+<Ftitle InFrameReverse="0" InFrameX="-18" InFrameY="-57" InFrameY0="Z05-068.png"/>
+</frame>
+<frame DateCount="1" FrameIndex="102" FrameName="正左攻击-5" TitleCount="4">
+<data DataH="45" DataName="0" DataW="42" DataX="-21" DataY="-43"/>
+<Ftitle InFrameReverse="0" InFrameX="-14" InFrameY="-8" InFrameY0="Z05-169.png"/>
+<Ftitle InFrameReverse="0" InFrameX="-47" InFrameY="-43" InFrameY0="Z05-171.png"/>
+<Ftitle InFrameReverse="0" InFrameX="-22" InFrameY="-57" InFrameY0="Z05-069.png"/>
+<Ftitle InFrameReverse="0" InFrameX="-43" InFrameY="-31" InFrameY0="Z05-118.png"/>
+</frame>
+<frame DateCount="1" FrameIndex="103" FrameName="正左攻击-6" TitleCount="4">
+<data DataH="45" DataName="0" DataW="42" DataX="-21" DataY="-43"/>
+<Ftitle InFrameReverse="0" InFrameX="-14" InFrameY="-8" InFrameY0="Z05-169.png"/>
+<Ftitle InFrameReverse="0" InFrameX="-17" InFrameY="-57" InFrameY0="Z05-070.png"/>
+<Ftitle InFrameReverse="0" InFrameX="-14" InFrameY="-29" InFrameY0="Z05-119.png"/>
+<Ftitle InFrameReverse="0" InFrameX="-53" InFrameY="-43" InFrameY0="Z05-172.png"/>
+</frame>
+<frame DateCount="3" FrameIndex="104" FrameName="正左攻击-7" TitleCount="4">
+<data DataH="45" DataName="0" DataW="42" DataX="-21" DataY="-43"/>
+<data DataH="43" DataName="1" DataW="35" DataX="-58" DataY="-37"/>
+<data DataH="29" DataName="3" DataW="29" DataX="-17" DataY="-59"/>
+<Ftitle InFrameReverse="0" InFrameX="-14" InFrameY="-8" InFrameY0="Z05-169.png"/>
+<Ftitle InFrameReverse="0" InFrameX="-14" InFrameY="-57" InFrameY0="Z05-071.png"/>
+<Ftitle InFrameReverse="0" InFrameX="-7" InFrameY="-21" InFrameY0="Z05-120.png"/>
+<Ftitle InFrameReverse="0" InFrameX="-55" InFrameY="-38" InFrameY0="Z05-173.png"/>
+</frame>
+<frame DateCount="1" FrameIndex="105" FrameName="正左攻击-8" TitleCount="4">
+<data DataH="45" DataName="0" DataW="42" DataX="-21" DataY="-43"/>
+<Ftitle InFrameReverse="0" InFrameX="-14" InFrameY="-8" InFrameY0="Z05-169.png"/>
+<Ftitle InFrameReverse="0" InFrameX="-14" InFrameY="-57" InFrameY0="Z05-071.png"/>
+<Ftitle InFrameReverse="0" InFrameX="-7" InFrameY="-21" InFrameY0="Z05-120.png"/>
+<Ftitle InFrameReverse="0" InFrameX="-55" InFrameY="-18" InFrameY0="Z05-174.png"/>
+</frame>
+<frame DateCount="1" FrameIndex="106" FrameName="正左攻击-9" TitleCount="3">
+<data DataH="45" DataName="0" DataW="42" DataX="-21" DataY="-43"/>
+<Ftitle InFrameReverse="0" InFrameX="-14" InFrameY="-8" InFrameY0="Z05-169.png"/>
+<Ftitle InFrameReverse="0" InFrameX="-14" InFrameY="-57" InFrameY0="Z05-071.png"/>
+<Ftitle InFrameReverse="0" InFrameX="-7" InFrameY="-21" InFrameY0="Z05-120.png"/>
+</frame>
+<frame DateCount="1" FrameIndex="107" FrameName="正左攻击-10" TitleCount="3">
+<data DataH="45" DataName="0" DataW="42" DataX="-21" DataY="-43"/>
+<Ftitle InFrameReverse="0" InFrameX="-14" InFrameY="-8" InFrameY0="Z05-169.png"/>
+<Ftitle InFrameReverse="0" InFrameX="-17" InFrameY="-57" InFrameY0="Z05-070.png"/>
+<Ftitle InFrameReverse="0" InFrameX="-14" InFrameY="-29" InFrameY0="Z05-119.png"/>
+</frame>
+<frame DateCount="1" FrameIndex="108" FrameName="正左攻击-11" TitleCount="3">
+<data DataH="45" DataName="0" DataW="42" DataX="-21" DataY="-43"/>
+<Ftitle InFrameReverse="0" InFrameX="-14" InFrameY="-8" InFrameY0="Z05-169.png"/>
+<Ftitle InFrameReverse="0" InFrameX="-22" InFrameY="-57" InFrameY0="Z05-069.png"/>
+<Ftitle InFrameReverse="0" InFrameX="-43" InFrameY="-31" InFrameY0="Z05-118.png"/>
+</frame>
+<frame DateCount="1" FrameIndex="109" FrameName="正左攻击-12" TitleCount="3">
+<data DataH="45" DataName="0" DataW="42" DataX="-21" DataY="-43"/>
+<Ftitle InFrameReverse="0" InFrameX="-29" InFrameY="-27" InFrameY0="Z05-116.png"/>
+<Ftitle InFrameReverse="0" InFrameX="-14" InFrameY="-8" InFrameY0="Z05-169.png"/>
+<Ftitle InFrameReverse="0" InFrameX="-18" InFrameY="-57" InFrameY0="Z05-065.png"/>
+</frame>
+<frame DateCount="1" FrameIndex="110" FrameName="正左必杀-1" TitleCount="3">
+<data DataH="45" DataName="0" DataW="42" DataX="-21" DataY="-43"/>
+<Ftitle InFrameReverse="0" InFrameX="-14" InFrameY="-8" InFrameY0="Z05-169.png"/>
+<Ftitle InFrameReverse="0" InFrameX="-30" InFrameY="-51" InFrameY0="Z05-113.png"/>
+<Ftitle InFrameReverse="0" InFrameX="-17" InFrameY="-57" InFrameY0="Z05-072.png"/>
+</frame>
+<frame DateCount="1" FrameIndex="111" FrameName="正左必杀-2" TitleCount="3">
+<data DataH="45" DataName="0" DataW="42" DataX="-21" DataY="-43"/>
+<Ftitle InFrameReverse="0" InFrameX="-14" InFrameY="-8" InFrameY0="Z05-169.png"/>
+<Ftitle InFrameReverse="0" InFrameX="-30" InFrameY="-51" InFrameY0="Z05-113.png"/>
+<Ftitle InFrameReverse="0" InFrameX="-17" InFrameY="-57" InFrameY0="Z05-073.png"/>
+</frame>
+<frame DateCount="1" FrameIndex="112" FrameName="正左必杀-4" TitleCount="3">
+<data DataH="45" DataName="0" DataW="42" DataX="-21" DataY="-43"/>
+<Ftitle InFrameReverse="0" InFrameX="-14" InFrameY="-8" InFrameY0="Z05-169.png"/>
+<Ftitle InFrameReverse="0" InFrameX="-30" InFrameY="-51" InFrameY0="Z05-113.png"/>
+<Ftitle InFrameReverse="0" InFrameX="-17" InFrameY="-57" InFrameY0="Z05-074.png"/>
+</frame>
+<frame DateCount="1" FrameIndex="113" FrameName="正左必杀-5" TitleCount="3">
+<data DataH="45" DataName="0" DataW="42" DataX="-21" DataY="-43"/>
+<Ftitle InFrameReverse="0" InFrameX="-14" InFrameY="-8" InFrameY0="Z05-169.png"/>
+<Ftitle InFrameReverse="0" InFrameX="-30" InFrameY="-51" InFrameY0="Z05-113.png"/>
+<Ftitle InFrameReverse="0" InFrameX="-16" InFrameY="-57" InFrameY0="Z05-075.png"/>
+</frame>
+<frame DateCount="0" FrameIndex="114" FrameName="正左蓄力-1" TitleCount="4">
+<Ftitle InFrameReverse="0" InFrameX="-57" InFrameY="-38" InFrameY0="Z05-171.png"/>
+<Ftitle InFrameReverse="0" InFrameX="-14" InFrameY="-8" InFrameY0="Z05-169.png"/>
+<Ftitle InFrameReverse="0" InFrameX="-29" InFrameY="-51" InFrameY0="Z05-076.png"/>
+<Ftitle InFrameReverse="0" InFrameX="-50" InFrameY="-27" InFrameY0="Z05-118.png"/>
+</frame>
+<frame DateCount="1" FrameIndex="115" FrameName="正左蓄力-2" TitleCount="4">
+<data DataH="45" DataName="0" DataW="42" DataX="-21" DataY="-43"/>
+<Ftitle InFrameReverse="0" InFrameX="-14" InFrameY="-8" InFrameY0="Z05-169.png"/>
+<Ftitle InFrameReverse="0" InFrameX="-63" InFrameY="-38" InFrameY0="Z05-172.png"/>
+<Ftitle InFrameReverse="0" InFrameX="-26" InFrameY="-48" InFrameY0="Z05-077.png"/>
+<Ftitle InFrameReverse="0" InFrameX="-24" InFrameY="-21" InFrameY0="Z05-119.png"/>
+</frame>
+<frame DateCount="2" FrameIndex="116" FrameName="正左蓄力-3" TitleCount="4">
+<data DataH="29" DataName="3" DataW="29" DataX="-17" DataY="-59"/>
+<data DataH="45" DataName="0" DataW="42" DataX="-21" DataY="-43"/>
+<Ftitle InFrameReverse="0" InFrameX="-14" InFrameY="-8" InFrameY0="Z05-169.png"/>
+<Ftitle InFrameReverse="0" InFrameX="-65" InFrameY="-33" InFrameY0="Z05-173.png"/>
+<Ftitle InFrameReverse="0" InFrameX="-23" InFrameY="-48" InFrameY0="Z05-078.png"/>
+<Ftitle InFrameReverse="0" InFrameX="-17" InFrameY="-13" InFrameY0="Z05-120.png"/>
+</frame>
+<frame DateCount="1" FrameIndex="117" FrameName="正左蓄力-4" TitleCount="4">
+<data DataH="45" DataName="0" DataW="42" DataX="-21" DataY="-43"/>
+<Ftitle InFrameReverse="0" InFrameX="-14" InFrameY="-8" InFrameY0="Z05-169.png"/>
+<Ftitle InFrameReverse="0" InFrameX="-65" InFrameY="-13" InFrameY0="Z05-174.png"/>
+<Ftitle InFrameReverse="0" InFrameX="-23" InFrameY="-48" InFrameY0="Z05-078.png"/>
+<Ftitle InFrameReverse="0" InFrameX="-17" InFrameY="-13" InFrameY0="Z05-120.png"/>
+</frame>
+<frame DateCount="1" FrameIndex="118" FrameName="正左蓄力-5" TitleCount="3">
+<data DataH="45" DataName="0" DataW="42" DataX="-21" DataY="-43"/>
+<Ftitle InFrameReverse="0" InFrameX="-14" InFrameY="-8" InFrameY0="Z05-169.png"/>
+<Ftitle InFrameReverse="0" InFrameX="-23" InFrameY="-48" InFrameY0="Z05-078.png"/>
+<Ftitle InFrameReverse="0" InFrameX="-17" InFrameY="-13" InFrameY0="Z05-120.png"/>
+</frame>
+<frame DateCount="1" FrameIndex="119" FrameName="正左蓄力-6" TitleCount="3">
+<data DataH="45" DataName="0" DataW="42" DataX="-21" DataY="-43"/>
+<Ftitle InFrameReverse="0" InFrameX="-14" InFrameY="-8" InFrameY0="Z05-169.png"/>
+<Ftitle InFrameReverse="0" InFrameX="-26" InFrameY="-48" InFrameY0="Z05-077.png"/>
+<Ftitle InFrameReverse="0" InFrameX="-24" InFrameY="-21" InFrameY0="Z05-119.png"/>
+</frame>
+<frame DateCount="1" FrameIndex="120" FrameName="正左蓄力-7" TitleCount="3">
+<data DataH="45" DataName="0" DataW="42" DataX="-21" DataY="-43"/>
+<Ftitle InFrameReverse="0" InFrameX="-14" InFrameY="-8" InFrameY0="Z05-169.png"/>
+<Ftitle InFrameReverse="0" InFrameX="-29" InFrameY="-51" InFrameY0="Z05-076.png"/>
+<Ftitle InFrameReverse="0" InFrameX="-50" InFrameY="-27" InFrameY0="Z05-118.png"/>
+</frame>
+<frame DateCount="1" FrameIndex="121" FrameName="斜上攻击-1" TitleCount="3">
+<data DataH="45" DataName="0" DataW="42" DataX="-21" DataY="-43"/>
+<Ftitle InFrameReverse="0" InFrameX="-14" InFrameY="-8" InFrameY0="Z05-169.png"/>
+<Ftitle InFrameReverse="1" InFrameX="13" InFrameY="-55" InFrameY0="Z05-093.png"/>
+<Ftitle InFrameReverse="1" InFrameX="-15" InFrameY="-11" InFrameY0="Z05-128.png"/>
+</frame>
+<frame DateCount="1" FrameIndex="122" FrameName="斜上攻击-2" TitleCount="3">
+<data DataH="45" DataName="0" DataW="42" DataX="-21" DataY="-43"/>
+<Ftitle InFrameReverse="0" InFrameX="-14" InFrameY="-8" InFrameY0="Z05-169.png"/>
+<Ftitle InFrameReverse="1" InFrameX="13" InFrameY="-55" InFrameY0="Z05-094.png"/>
+<Ftitle InFrameReverse="1" InFrameX="-17" InFrameY="-18" InFrameY0="Z05-129.png"/>
+</frame>
+<frame DateCount="1" FrameIndex="123" FrameName="斜上攻击-3" TitleCount="3">
+<data DataH="45" DataName="0" DataW="42" DataX="-21" DataY="-43"/>
+<Ftitle InFrameReverse="0" InFrameX="-14" InFrameY="-8" InFrameY0="Z05-169.png"/>
+<Ftitle InFrameReverse="1" InFrameX="13" InFrameY="-55" InFrameY0="Z05-095.png"/>
+<Ftitle InFrameReverse="1" InFrameX="-17" InFrameY="-18" InFrameY0="Z05-129.png"/>
+</frame>
+<frame DateCount="1" FrameIndex="124" FrameName="斜上攻击-4" TitleCount="3">
+<data DataH="45" DataName="0" DataW="42" DataX="-21" DataY="-43"/>
+<Ftitle InFrameReverse="0" InFrameX="-14" InFrameY="-8" InFrameY0="Z05-169.png"/>
+<Ftitle InFrameReverse="1" InFrameX="13" InFrameY="-55" InFrameY0="Z05-096.png"/>
+<Ftitle InFrameReverse="1" InFrameX="-17" InFrameY="-18" InFrameY0="Z05-129.png"/>
+</frame>
+<frame DateCount="1" FrameIndex="125" FrameName="斜上攻击-5" TitleCount="4">
+<data DataH="45" DataName="0" DataW="42" DataX="-21" DataY="-43"/>
+<Ftitle InFrameReverse="0" InFrameX="-14" InFrameY="-8" InFrameY0="Z05-169.png"/>
+<Ftitle InFrameReverse="1" InFrameX="13" InFrameY="-55" InFrameY0="Z05-097.png"/>
+<Ftitle InFrameReverse="1" InFrameX="-14" InFrameY="-37" InFrameY0="Z05-130.png"/>
+<Ftitle InFrameReverse="1" InFrameX="-21" InFrameY="-35" InFrameY0="Z05-165.png"/>
+</frame>
+<frame DateCount="1" FrameIndex="126" FrameName="斜上攻击-6" TitleCount="4">
+<data DataH="45" DataName="0" DataW="42" DataX="-21" DataY="-43"/>
+<Ftitle InFrameReverse="0" InFrameX="-14" InFrameY="-8" InFrameY0="Z05-169.png"/>
+<Ftitle InFrameReverse="1" InFrameX="-8" InFrameY="-50" InFrameY0="Z05-166.png"/>
+<Ftitle InFrameReverse="1" InFrameX="0" InFrameY="-49" InFrameY0="Z05-131.png"/>
+<Ftitle InFrameReverse="1" InFrameX="16" InFrameY="-55" InFrameY0="Z05-098.png"/>
+</frame>
+<frame DateCount="3" FrameIndex="127" FrameName="斜上攻击-7" TitleCount="4">
+<data DataH="45" DataName="0" DataW="42" DataX="-21" DataY="-43"/>
+<data DataH="43" DataName="1" DataW="35" DataX="-48" DataY="-58"/>
+<data DataH="29" DataName="3" DataW="29" DataX="-17" DataY="-59"/>
+<Ftitle InFrameReverse="0" InFrameX="-14" InFrameY="-8" InFrameY0="Z05-169.png"/>
+<Ftitle InFrameReverse="0" InFrameX="-4" InFrameY="-36" InFrameY0="Z05-120.png"/>
+<Ftitle InFrameReverse="1" InFrameX="21" InFrameY="-52" InFrameY0="Z05-167.png"/>
+<Ftitle InFrameReverse="1" InFrameX="14" InFrameY="-55" InFrameY0="Z05-099.png"/>
+</frame>
+<frame DateCount="1" FrameIndex="128" FrameName="斜上攻击-8" TitleCount="4">
+<data DataH="45" DataName="0" DataW="42" DataX="-21" DataY="-43"/>
+<Ftitle InFrameReverse="0" InFrameX="-14" InFrameY="-8" InFrameY0="Z05-169.png"/>
+<Ftitle InFrameReverse="0" InFrameX="-4" InFrameY="-36" InFrameY0="Z05-120.png"/>
+<Ftitle InFrameReverse="0" InFrameX="-39" InFrameY="-52" InFrameY0="Z05-168.png"/>
+<Ftitle InFrameReverse="1" InFrameX="14" InFrameY="-55" InFrameY0="Z05-100.png"/>
+</frame>
+<frame DateCount="1" FrameIndex="129" FrameName="斜上攻击-9" TitleCount="3">
+<data DataH="45" DataName="0" DataW="42" DataX="-21" DataY="-43"/>
+<Ftitle InFrameReverse="0" InFrameX="-14" InFrameY="-8" InFrameY0="Z05-169.png"/>
+<Ftitle InFrameReverse="0" InFrameX="-4" InFrameY="-36" InFrameY0="Z05-120.png"/>
+<Ftitle InFrameReverse="1" InFrameX="14" InFrameY="-55" InFrameY0="Z05-100.png"/>
+</frame>
+<frame DateCount="1" FrameIndex="130" FrameName="斜上攻击-10" TitleCount="3">
+<data DataH="45" DataName="0" DataW="42" DataX="-21" DataY="-43"/>
+<Ftitle InFrameReverse="0" InFrameX="-14" InFrameY="-8" InFrameY0="Z05-169.png"/>
+<Ftitle InFrameReverse="1" InFrameX="0" InFrameY="-49" InFrameY0="Z05-131.png"/>
+<Ftitle InFrameReverse="1" InFrameX="16" InFrameY="-55" InFrameY0="Z05-098.png"/>
+</frame>
+<frame DateCount="1" FrameIndex="131" FrameName="斜上攻击-11" TitleCount="3">
+<data DataH="45" DataName="0" DataW="42" DataX="-21" DataY="-43"/>
+<Ftitle InFrameReverse="0" InFrameX="-14" InFrameY="-8" InFrameY0="Z05-169.png"/>
+<Ftitle InFrameReverse="1" InFrameX="13" InFrameY="-55" InFrameY0="Z05-097.png"/>
+<Ftitle InFrameReverse="1" InFrameX="-14" InFrameY="-37" InFrameY0="Z05-130.png"/>
+</frame>
+<frame DateCount="1" FrameIndex="132" FrameName="斜上攻击-12" TitleCount="3">
+<data DataH="45" DataName="0" DataW="42" DataX="-21" DataY="-43"/>
+<Ftitle InFrameReverse="0" InFrameX="-14" InFrameY="-8" InFrameY0="Z05-169.png"/>
+<Ftitle InFrameReverse="1" InFrameX="13" InFrameY="-55" InFrameY0="Z05-093.png"/>
+<Ftitle InFrameReverse="1" InFrameX="-15" InFrameY="-11" InFrameY0="Z05-128.png"/>
+</frame>
+<frame DateCount="1" FrameIndex="133" FrameName="斜上必杀-1" TitleCount="3">
+<data DataH="45" DataName="0" DataW="42" DataX="-21" DataY="-43"/>
+<Ftitle InFrameReverse="0" InFrameX="-14" InFrameY="-8" InFrameY0="Z05-169.png"/>
+<Ftitle InFrameReverse="1" InFrameX="13" InFrameY="-55" InFrameY0="Z05-101.png"/>
+<Ftitle InFrameReverse="1" InFrameX="-14" InFrameY="-33" InFrameY0="Z05-132.png"/>
+</frame>
+<frame DateCount="1" FrameIndex="134" FrameName="斜上必杀-2" TitleCount="3">
+<data DataH="45" DataName="0" DataW="42" DataX="-21" DataY="-43"/>
+<Ftitle InFrameReverse="0" InFrameX="-14" InFrameY="-8" InFrameY0="Z05-169.png"/>
+<Ftitle InFrameReverse="1" InFrameX="13" InFrameY="-55" InFrameY0="Z05-102.png"/>
+<Ftitle InFrameReverse="1" InFrameX="-14" InFrameY="-33" InFrameY0="Z05-132.png"/>
+</frame>
+<frame DateCount="1" FrameIndex="135" FrameName="斜上必杀-3" TitleCount="3">
+<data DataH="45" DataName="0" DataW="42" DataX="-21" DataY="-43"/>
+<Ftitle InFrameReverse="0" InFrameX="-14" InFrameY="-8" InFrameY0="Z05-169.png"/>
+<Ftitle InFrameReverse="1" InFrameX="13" InFrameY="-55" InFrameY0="Z05-103.png"/>
+<Ftitle InFrameReverse="1" InFrameX="-14" InFrameY="-33" InFrameY0="Z05-132.png"/>
+</frame>
+<frame DateCount="1" FrameIndex="136" FrameName="斜上必杀-4" TitleCount="3">
+<data DataH="45" DataName="0" DataW="42" DataX="-21" DataY="-43"/>
+<Ftitle InFrameReverse="0" InFrameX="-14" InFrameY="-8" InFrameY0="Z05-169.png"/>
+<Ftitle InFrameReverse="1" InFrameX="13" InFrameY="-55" InFrameY0="Z05-102.png"/>
+<Ftitle InFrameReverse="1" InFrameX="-14" InFrameY="-33" InFrameY0="Z05-132.png"/>
+</frame>
+<frame DateCount="0" FrameIndex="137" FrameName="斜上蓄力-1" TitleCount="4">
+<Ftitle InFrameReverse="0" InFrameX="-14" InFrameY="-8" InFrameY0="Z05-169.png"/>
+<Ftitle InFrameReverse="1" InFrameX="13" InFrameY="-53" InFrameY0="Z05-104.png"/>
+<Ftitle InFrameReverse="1" InFrameX="-23" InFrameY="-36" InFrameY0="Z05-130.png"/>
+<Ftitle InFrameReverse="1" InFrameX="-30" InFrameY="-34" InFrameY0="Z05-165.png"/>
+</frame>
+<frame DateCount="1" FrameIndex="138" FrameName="斜上蓄力-2" TitleCount="4">
+<data DataH="45" DataName="0" DataW="42" DataX="-21" DataY="-43"/>
+<Ftitle InFrameReverse="1" InFrameX="-17" InFrameY="-49" InFrameY0="Z05-166.png"/>
+<Ftitle InFrameReverse="1" InFrameX="-9" InFrameY="-48" InFrameY0="Z05-131.png"/>
+<Ftitle InFrameReverse="0" InFrameX="-14" InFrameY="-8" InFrameY0="Z05-169.png"/>
+<Ftitle InFrameReverse="1" InFrameX="13" InFrameY="-53" InFrameY0="Z05-105.png"/>
+</frame>
+<frame DateCount="2" FrameIndex="139" FrameName="斜上蓄力-3" TitleCount="4">
+<data DataH="29" DataName="3" DataW="29" DataX="-17" DataY="-59"/>
+<data DataH="45" DataName="0" DataW="42" DataX="-21" DataY="-43"/>
+<Ftitle InFrameReverse="0" InFrameX="-13" InFrameY="-35" InFrameY0="Z05-120.png"/>
+<Ftitle InFrameReverse="1" InFrameX="12" InFrameY="-51" InFrameY0="Z05-167.png"/>
+<Ftitle InFrameReverse="0" InFrameX="-14" InFrameY="-8" InFrameY0="Z05-169.png"/>
+<Ftitle InFrameReverse="1" InFrameX="13" InFrameY="-53" InFrameY0="Z05-106.png"/>
+</frame>
+<frame DateCount="1" FrameIndex="140" FrameName="斜上蓄力-4" TitleCount="4">
+<data DataH="45" DataName="0" DataW="42" DataX="-21" DataY="-43"/>
+<Ftitle InFrameReverse="0" InFrameX="-13" InFrameY="-35" InFrameY0="Z05-120.png"/>
+<Ftitle InFrameReverse="0" InFrameX="-48" InFrameY="-51" InFrameY0="Z05-168.png"/>
+<Ftitle InFrameReverse="0" InFrameX="-14" InFrameY="-8" InFrameY0="Z05-169.png"/>
+<Ftitle InFrameReverse="1" InFrameX="13" InFrameY="-53" InFrameY0="Z05-106.png"/>
+</frame>
+<frame DateCount="1" FrameIndex="141" FrameName="斜上蓄力-5" TitleCount="3">
+<data DataH="45" DataName="0" DataW="42" DataX="-21" DataY="-43"/>
+<Ftitle InFrameReverse="0" InFrameX="-13" InFrameY="-35" InFrameY0="Z05-120.png"/>
+<Ftitle InFrameReverse="0" InFrameX="-14" InFrameY="-8" InFrameY0="Z05-169.png"/>
+<Ftitle InFrameReverse="1" InFrameX="13" InFrameY="-53" InFrameY0="Z05-106.png"/>
+</frame>
+<frame DateCount="1" FrameIndex="142" FrameName="斜上蓄力-6" TitleCount="3">
+<data DataH="45" DataName="0" DataW="42" DataX="-21" DataY="-43"/>
+<Ftitle InFrameReverse="1" InFrameX="-9" InFrameY="-48" InFrameY0="Z05-131.png"/>
+<Ftitle InFrameReverse="0" InFrameX="-14" InFrameY="-8" InFrameY0="Z05-169.png"/>
+<Ftitle InFrameReverse="1" InFrameX="13" InFrameY="-53" InFrameY0="Z05-105.png"/>
+</frame>
+<frame DateCount="1" FrameIndex="143" FrameName="斜上蓄力-7" TitleCount="3">
+<data DataH="45" DataName="0" DataW="42" DataX="-21" DataY="-43"/>
+<Ftitle InFrameReverse="0" InFrameX="-14" InFrameY="-8" InFrameY0="Z05-169.png"/>
+<Ftitle InFrameReverse="1" InFrameX="13" InFrameY="-53" InFrameY0="Z05-104.png"/>
+<Ftitle InFrameReverse="1" InFrameX="-23" InFrameY="-36" InFrameY0="Z05-130.png"/>
+</frame>
+<frame DateCount="1" FrameIndex="144" FrameName="斜下攻击-1" TitleCount="4">
+<data DataH="45" DataName="0" DataW="42" DataX="-21" DataY="-43"/>
+<Ftitle InFrameReverse="0" InFrameX="-14" InFrameY="-8" InFrameY0="Z05-169.png"/>
+<Ftitle InFrameReverse="0" InFrameX="-22" InFrameY="-57" InFrameY0="Z05-069.png"/>
+<Ftitle InFrameReverse="0" InFrameX="-49" InFrameY="-39" InFrameY0="Z05-157.png"/>
+<Ftitle InFrameReverse="0" InFrameX="-43" InFrameY="-31" InFrameY0="Z05-118.png"/>
+</frame>
+<frame DateCount="1" FrameIndex="145" FrameName="斜下攻击-2" TitleCount="4">
+<data DataH="45" DataName="0" DataW="42" DataX="-21" DataY="-43"/>
+<Ftitle InFrameReverse="0" InFrameX="-14" InFrameY="-8" InFrameY0="Z05-169.png"/>
+<Ftitle InFrameReverse="0" InFrameX="-17" InFrameY="-57" InFrameY0="Z05-070.png"/>
+<Ftitle InFrameReverse="0" InFrameX="-14" InFrameY="-29" InFrameY0="Z05-119.png"/>
+<Ftitle InFrameReverse="0" InFrameX="-50" InFrameY="-34" InFrameY0="Z05-158.png"/>
+</frame>
+<frame DateCount="3" FrameIndex="146" FrameName="斜下攻击-3" TitleCount="4">
+<data DataH="45" DataName="0" DataW="42" DataX="-21" DataY="-43"/>
+<data DataH="43" DataName="1" DataW="35" DataX="-42" DataY="-15"/>
+<data DataH="29" DataName="3" DataW="29" DataX="-17" DataY="-59"/>
+<Ftitle InFrameReverse="0" InFrameX="-14" InFrameY="-8" InFrameY0="Z05-169.png"/>
+<Ftitle InFrameReverse="0" InFrameX="-14" InFrameY="-57" InFrameY0="Z05-071.png"/>
+<Ftitle InFrameReverse="0" InFrameX="-7" InFrameY="-21" InFrameY0="Z05-120.png"/>
+<Ftitle InFrameReverse="0" InFrameX="-50" InFrameY="-27" InFrameY0="Z05-159.png"/>
+</frame>
+<frame DateCount="1" FrameIndex="147" FrameName="斜下攻击-4" TitleCount="4">
+<data DataH="45" DataName="0" DataW="42" DataX="-21" DataY="-43"/>
+<Ftitle InFrameReverse="0" InFrameX="-14" InFrameY="-8" InFrameY0="Z05-169.png"/>
+<Ftitle InFrameReverse="0" InFrameX="-14" InFrameY="-57" InFrameY0="Z05-071.png"/>
+<Ftitle InFrameReverse="0" InFrameX="-7" InFrameY="-21" InFrameY0="Z05-120.png"/>
+<Ftitle InFrameReverse="0" InFrameX="-43" InFrameY="-17" InFrameY0="Z05-160.png"/>
+</frame>
+<frame DateCount="0" FrameIndex="148" FrameName="斜下蓄力-1" TitleCount="4">
+<Ftitle InFrameReverse="0" InFrameX="-14" InFrameY="-8" InFrameY0="Z05-169.png"/>
+<Ftitle InFrameReverse="0" InFrameX="-29" InFrameY="-51" InFrameY0="Z05-076.png"/>
+<Ftitle InFrameReverse="0" InFrameX="-51" InFrameY="-30" InFrameY0="Z05-157.png"/>
+<Ftitle InFrameReverse="0" InFrameX="-50" InFrameY="-27" InFrameY0="Z05-118.png"/>
+</frame>
+<frame DateCount="1" FrameIndex="149" FrameName="斜下蓄力-2" TitleCount="4">
+<data DataH="45" DataName="0" DataW="42" DataX="-21" DataY="-43"/>
+<Ftitle InFrameReverse="0" InFrameX="-14" InFrameY="-8" InFrameY0="Z05-169.png"/>
+<Ftitle InFrameReverse="0" InFrameX="-26" InFrameY="-48" InFrameY0="Z05-077.png"/>
+<Ftitle InFrameReverse="0" InFrameX="-24" InFrameY="-21" InFrameY0="Z05-119.png"/>
+<Ftitle InFrameReverse="0" InFrameX="-52" InFrameY="-24" InFrameY0="Z05-158.png"/>
+</frame>
+<frame DateCount="2" FrameIndex="150" FrameName="斜下蓄力-3" TitleCount="4">
+<data DataH="29" DataName="3" DataW="29" DataX="-17" DataY="-59"/>
+<data DataH="45" DataName="0" DataW="42" DataX="-21" DataY="-43"/>
+<Ftitle InFrameReverse="0" InFrameX="-14" InFrameY="-8" InFrameY0="Z05-169.png"/>
+<Ftitle InFrameReverse="0" InFrameX="-23" InFrameY="-48" InFrameY0="Z05-078.png"/>
+<Ftitle InFrameReverse="0" InFrameX="-17" InFrameY="-13" InFrameY0="Z05-120.png"/>
+<Ftitle InFrameReverse="0" InFrameX="-52" InFrameY="-16" InFrameY0="Z05-159.png"/>
+</frame>
+<frame DateCount="1" FrameIndex="151" FrameName="斜下蓄力-4" TitleCount="4">
+<data DataH="45" DataName="0" DataW="42" DataX="-21" DataY="-43"/>
+<Ftitle InFrameReverse="0" InFrameX="-14" InFrameY="-8" InFrameY0="Z05-169.png"/>
+<Ftitle InFrameReverse="0" InFrameX="-23" InFrameY="-48" InFrameY0="Z05-078.png"/>
+<Ftitle InFrameReverse="0" InFrameX="-17" InFrameY="-13" InFrameY0="Z05-120.png"/>
+<Ftitle InFrameReverse="0" InFrameX="-44" InFrameY="-6" InFrameY0="Z05-160.png"/>
+</frame>
+<frame DateCount="1" FrameIndex="152" FrameName="飓风-1" TitleCount="2">
+<data DataH="73" DataName="1" DataW="93" DataX="-44" DataY="-68"/>
+<Ftitle InFrameReverse="0" InFrameX="-32" InFrameY="-23" InFrameY0="Z05-175.png"/>
+<Ftitle InFrameReverse="0" InFrameX="-56" InFrameY="-121" InFrameY0="Z05-133.png"/>
+</frame>
+<frame DateCount="0" FrameIndex="153" FrameName="飓风-2" TitleCount="2">
+<Ftitle InFrameReverse="0" InFrameX="-32" InFrameY="-23" InFrameY0="Z05-175.png"/>
+<Ftitle InFrameReverse="0" InFrameX="-51" InFrameY="-119" InFrameY0="Z05-134.png"/>
+</frame>
+<frame DateCount="0" FrameIndex="154" FrameName="飓风-3" TitleCount="2">
+<Ftitle InFrameReverse="0" InFrameX="-32" InFrameY="-23" InFrameY0="Z05-175.png"/>
+<Ftitle InFrameReverse="0" InFrameX="-58" InFrameY="-118" InFrameY0="Z05-135.png"/>
+</frame>
+<frame DateCount="0" FrameIndex="155" FrameName="鬼爪-1" TitleCount="1">
+<Ftitle InFrameReverse="0" InFrameX="-23" InFrameY="-3" InFrameY0="Z05-136.png"/>
+</frame>
+<frame DateCount="0" FrameIndex="156" FrameName="鬼爪-2" TitleCount="1">
+<Ftitle InFrameReverse="0" InFrameX="-24" InFrameY="-20" InFrameY0="Z05-137.png"/>
+</frame>
+<frame DateCount="1" FrameIndex="157" FrameName="鬼爪-3" TitleCount="1">
+<data DataH="48" DataName="1" DataW="50" DataX="-24" DataY="-47"/>
+<Ftitle InFrameReverse="0" InFrameX="-30" InFrameY="-84" InFrameY0="Z05-138.png"/>
+</frame>
+<frame DateCount="0" FrameIndex="158" FrameName="鬼爪-4" TitleCount="1">
+<Ftitle InFrameReverse="0" InFrameX="-44" InFrameY="-73" InFrameY0="Z05-139.png"/>
+</frame>
+<frame DateCount="1" FrameIndex="159" FrameName="鬼爪-5" TitleCount="1">
+<data DataH="60" DataName="2" DataW="48" DataX="-23" DataY="-53"/>
+<Ftitle InFrameReverse="0" InFrameX="-20" InFrameY="-54" InFrameY0="Z05-140.png"/>
+</frame>
+<frame DateCount="0" FrameIndex="160" FrameName="鬼爪-6" TitleCount="1">
+<Ftitle InFrameReverse="0" InFrameX="-20" InFrameY="-54" InFrameY0="Z05-141.png"/>
+</frame>
+<frame DateCount="0" FrameIndex="161" FrameName="鬼爪-7" TitleCount="1">
+<Ftitle InFrameReverse="0" InFrameX="-23" InFrameY="-43" InFrameY0="Z05-142.png"/>
+</frame>
+<frame DateCount="0" FrameIndex="162" FrameName="鬼爪-8" TitleCount="1">
+<Ftitle InFrameReverse="0" InFrameX="-26" InFrameY="-23" InFrameY0="Z05-143.png"/>
+</frame>
+<frame DateCount="0" FrameIndex="163" FrameName="鬼爪-9" TitleCount="1">
+<Ftitle InFrameReverse="0" InFrameX="-24" InFrameY="-7" InFrameY0="Z05-144.png"/>
+</frame>
+<frame DateCount="0" FrameIndex="164" FrameName="瞬移-1" TitleCount="2">
+<Ftitle InFrameReverse="0" InFrameX="-30" InFrameY="-84" InFrameY0="Z05-138.png"/>
+<Ftitle InFrameReverse="0" InFrameX="-37" InFrameY="-59" InFrameY0="Z05-145.png"/>
+</frame>
+<frame DateCount="0" FrameIndex="165" FrameName="瞬移-2" TitleCount="2">
+<Ftitle InFrameReverse="0" InFrameX="-44" InFrameY="-73" InFrameY0="Z05-139.png"/>
+<Ftitle InFrameReverse="0" InFrameX="-48" InFrameY="-73" InFrameY0="Z05-146.png"/>
+</frame>
+<frame DateCount="0" FrameIndex="166" FrameName="瞬移-3" TitleCount="2">
+<Ftitle InFrameReverse="0" InFrameX="-20" InFrameY="-54" InFrameY0="Z05-140.png"/>
+<Ftitle InFrameReverse="0" InFrameX="-49" InFrameY="-75" InFrameY0="Z05-147.png"/>
+</frame>
+<frame DateCount="0" FrameIndex="167" FrameName="瞬移-4" TitleCount="3">
+<Ftitle InFrameReverse="0" InFrameX="-20" InFrameY="-54" InFrameY0="Z05-140.png"/>
+<Ftitle InFrameReverse="0" InFrameX="-46" InFrameY="-71" InFrameY0="Z05-148.png"/>
+<Ftitle InFrameReverse="0" InFrameX="8" InFrameY="-65" InFrameY0="Z05-149.png"/>
+</frame>
+<frame DateCount="0" FrameIndex="168" FrameName="瞬移-5" TitleCount="3">
+<Ftitle InFrameReverse="0" InFrameX="-20" InFrameY="-54" InFrameY0="Z05-140.png"/>
+<Ftitle InFrameReverse="0" InFrameX="-34" InFrameY="-55" InFrameY0="Z05-151.png"/>
+<Ftitle InFrameReverse="0" InFrameX="8" InFrameY="-42" InFrameY0="Z05-152.png"/>
+</frame>
+<frame DateCount="0" FrameIndex="169" FrameName="0" TitleCount="1">
+<Ftitle InFrameReverse="0" InFrameX="-20" InFrameY="-54" InFrameY0="Z05-141.png"/>
+</frame>
+<frame DateCount="0" FrameIndex="170" FrameName="1" TitleCount="1">
+<Ftitle InFrameReverse="0" InFrameX="-23" InFrameY="-43" InFrameY0="Z05-142.png"/>
+</frame>
+<frame DateCount="0" FrameIndex="171" FrameName="2" TitleCount="1">
+<Ftitle InFrameReverse="0" InFrameX="-26" InFrameY="-23" InFrameY0="Z05-143.png"/>
+</frame>
+<frame DateCount="1" FrameIndex="172" FrameName="00" TitleCount="2">
+<data DataH="43" DataName="1" DataW="55" DataX="-24" DataY="-38"/>
+<Ftitle InFrameReverse="0" InFrameX="-32" InFrameY="-23" InFrameY0="Z05-175.png"/>
+<Ftitle InFrameReverse="0" InFrameX="-56" InFrameY="-121" InFrameY0="Z05-133.png"/>
+</frame>
+<frame DateCount="0" FrameIndex="173" FrameName="11" TitleCount="2">
+<Ftitle InFrameReverse="0" InFrameX="-32" InFrameY="-23" InFrameY0="Z05-175.png"/>
+<Ftitle InFrameReverse="0" InFrameX="-51" InFrameY="-119" InFrameY0="Z05-134.png"/>
+</frame>
+<frame DateCount="0" FrameIndex="174" FrameName="22" TitleCount="2">
+<Ftitle InFrameReverse="0" InFrameX="-32" InFrameY="-23" InFrameY0="Z05-175.png"/>
+<Ftitle InFrameReverse="0" InFrameX="-58" InFrameY="-118" InFrameY0="Z05-135.png"/>
+</frame>
+<frame DateCount="1" FrameIndex="175" FrameName="111" TitleCount="4">
+<data DataH="45" DataName="0" DataW="42" DataX="-21" DataY="-43"/>
+<Ftitle InFrameReverse="0" InFrameX="-14" InFrameY="-8" InFrameY0="Z05-169.png"/>
+<Ftitle InFrameReverse="0" InFrameX="-19" InFrameY="-55" InFrameY0="Z05-058.png"/>
+<Ftitle InFrameReverse="0" InFrameX="-33" InFrameY="-51" InFrameY0="Z05-113.png"/>
+<Ftitle InFrameReverse="0" InFrameX="-19" InFrameY="-55" InFrameY0="Z05-176.png"/>
+</frame>
+<frame DateCount="1" FrameIndex="176" FrameName="222" TitleCount="4">
+<data DataH="45" DataName="0" DataW="42" DataX="-21" DataY="-43"/>
+<Ftitle InFrameReverse="0" InFrameX="-14" InFrameY="-8" InFrameY0="Z05-169.png"/>
+<Ftitle InFrameReverse="0" InFrameX="-16" InFrameY="-54" InFrameY0="Z05-087.png"/>
+<Ftitle InFrameReverse="0" InFrameX="15" InFrameY="-50" InFrameY0="Z05-125.png"/>
+<Ftitle InFrameReverse="0" InFrameX="-16" InFrameY="-54" InFrameY0="Z05-177.png"/>
+</frame>
+<frame DateCount="1" FrameIndex="177" FrameName="333" TitleCount="4">
+<data DataH="45" DataName="0" DataW="42" DataX="-21" DataY="-43"/>
+<Ftitle InFrameReverse="0" InFrameX="-14" InFrameY="-8" InFrameY0="Z05-169.png"/>
+<Ftitle InFrameReverse="0" InFrameX="-30" InFrameY="-51" InFrameY0="Z05-113.png"/>
+<Ftitle InFrameReverse="0" InFrameX="-17" InFrameY="-57" InFrameY0="Z05-073.png"/>
+<Ftitle InFrameReverse="0" InFrameX="-17" InFrameY="-57" InFrameY0="Z05-178.png"/>
+</frame>
+<frame DateCount="1" FrameIndex="178" FrameName="555" TitleCount="4">
+<data DataH="45" DataName="0" DataW="42" DataX="-21" DataY="-43"/>
+<Ftitle InFrameReverse="0" InFrameX="-14" InFrameY="-8" InFrameY0="Z05-169.png"/>
+<Ftitle InFrameReverse="1" InFrameX="13" InFrameY="-55" InFrameY0="Z05-102.png"/>
+<Ftitle InFrameReverse="1" InFrameX="-14" InFrameY="-33" InFrameY0="Z05-132.png"/>
+<Ftitle InFrameReverse="1" InFrameX="13" InFrameY="-55" InFrameY0="Z05-179.png"/>
+</frame>
+</frames>
+<actions ActionCount="62">
+<action FrameCount="8" actionIndex="0" actionName="正上站立">
+<Aframe Delay="5" Index="8"/>
+<Aframe Delay="1" Index="9"/>
+<Aframe Delay="1" Index="10"/>
+<Aframe Delay="1" Index="11"/>
+<Aframe Delay="5" Index="12"/>
+<Aframe Delay="1" Index="13"/>
+<Aframe Delay="1" Index="14"/>
+<Aframe Delay="1" Index="15"/>
+</action>
+<action FrameCount="8" actionIndex="1" actionName="正下站立">
+<Aframe Delay="5" Index="0"/>
+<Aframe Delay="1" Index="1"/>
+<Aframe Delay="1" Index="2"/>
+<Aframe Delay="1" Index="3"/>
+<Aframe Delay="5" Index="4"/>
+<Aframe Delay="1" Index="5"/>
+<Aframe Delay="1" Index="6"/>
+<Aframe Delay="1" Index="7"/>
+</action>
+<action FrameCount="8" actionIndex="2" actionName="正左站立">
+<Aframe Delay="5" Index="16"/>
+<Aframe Delay="1" Index="17"/>
+<Aframe Delay="1" Index="18"/>
+<Aframe Delay="1" Index="19"/>
+<Aframe Delay="5" Index="20"/>
+<Aframe Delay="1" Index="21"/>
+<Aframe Delay="1" Index="22"/>
+<Aframe Delay="1" Index="23"/>
+</action>
+<action FrameCount="8" actionIndex="3" actionName="斜上站立">
+<Aframe Delay="5" Index="24"/>
+<Aframe Delay="1" Index="25"/>
+<Aframe Delay="1" Index="26"/>
+<Aframe Delay="1" Index="27"/>
+<Aframe Delay="5" Index="28"/>
+<Aframe Delay="1" Index="29"/>
+<Aframe Delay="1" Index="30"/>
+<Aframe Delay="1" Index="31"/>
+</action>
+<action FrameCount="8" actionIndex="4" actionName="斜下站立">
+<Aframe Delay="5" Index="16"/>
+<Aframe Delay="1" Index="17"/>
+<Aframe Delay="1" Index="18"/>
+<Aframe Delay="1" Index="19"/>
+<Aframe Delay="5" Index="20"/>
+<Aframe Delay="1" Index="21"/>
+<Aframe Delay="1" Index="22"/>
+<Aframe Delay="1" Index="23"/>
+</action>
+<action FrameCount="4" actionIndex="5" actionName="正上移动">
+<Aframe Delay="2" Index="37"/>
+<Aframe Delay="2" Index="38"/>
+<Aframe Delay="2" Index="39"/>
+<Aframe Delay="2" Index="40"/>
+</action>
+<action FrameCount="5" actionIndex="6" actionName="正下移动">
+<Aframe Delay="2" Index="32"/>
+<Aframe Delay="1" Index="33"/>
+<Aframe Delay="1" Index="34"/>
+<Aframe Delay="2" Index="35"/>
+<Aframe Delay="2" Index="36"/>
+</action>
+<action FrameCount="5" actionIndex="7" actionName="正左移动">
+<Aframe Delay="2" Index="41"/>
+<Aframe Delay="2" Index="42"/>
+<Aframe Delay="1" Index="43"/>
+<Aframe Delay="1" Index="44"/>
+<Aframe Delay="2" Index="45"/>
+</action>
+<action FrameCount="4" actionIndex="8" actionName="斜上移动">
+<Aframe Delay="2" Index="46"/>
+<Aframe Delay="2" Index="47"/>
+<Aframe Delay="2" Index="48"/>
+<Aframe Delay="2" Index="49"/>
+</action>
+<action FrameCount="5" actionIndex="9" actionName="斜下移动">
+<Aframe Delay="2" Index="41"/>
+<Aframe Delay="2" Index="42"/>
+<Aframe Delay="1" Index="43"/>
+<Aframe Delay="1" Index="44"/>
+<Aframe Delay="2" Index="45"/>
+</action>
+<action FrameCount="2" actionIndex="10" actionName="正上挨打">
+<Aframe Delay="8" Index="51"/>
+<Aframe Delay="0" Index="51"/>
+</action>
+<action FrameCount="2" actionIndex="11" actionName="正下挨打">
+<Aframe Delay="8" Index="50"/>
+<Aframe Delay="0" Index="50"/>
+</action>
+<action FrameCount="2" actionIndex="12" actionName="正左挨打">
+<Aframe Delay="8" Index="50"/>
+<Aframe Delay="0" Index="50"/>
+</action>
+<action FrameCount="2" actionIndex="13" actionName="斜上挨打">
+<Aframe Delay="8" Index="51"/>
+<Aframe Delay="0" Index="51"/>
+</action>
+<action FrameCount="2" actionIndex="14" actionName="斜下挨打">
+<Aframe Delay="8" Index="50"/>
+<Aframe Delay="0" Index="50"/>
+</action>
+<action FrameCount="2" actionIndex="15" actionName="正上死亡">
+<Aframe Delay="20" Index="51"/>
+<Aframe Delay="0" Index="51"/>
+</action>
+<action FrameCount="2" actionIndex="16" actionName="正下死亡">
+<Aframe Delay="20" Index="50"/>
+<Aframe Delay="0" Index="50"/>
+</action>
+<action FrameCount="2" actionIndex="17" actionName="正左死亡">
+<Aframe Delay="20" Index="50"/>
+<Aframe Delay="0" Index="50"/>
+</action>
+<action FrameCount="2" actionIndex="18" actionName="斜上死亡">
+<Aframe Delay="20" Index="51"/>
+<Aframe Delay="0" Index="51"/>
+</action>
+<action FrameCount="2" actionIndex="19" actionName="斜下死亡">
+<Aframe Delay="20" Index="50"/>
+<Aframe Delay="0" Index="50"/>
+</action>
+<action FrameCount="12" actionIndex="20" actionName="正上攻击">
+<Aframe Delay="1" Index="75"/>
+<Aframe Delay="1" Index="76"/>
+<Aframe Delay="1" Index="77"/>
+<Aframe Delay="1" Index="78"/>
+<Aframe Delay="1" Index="79"/>
+<Aframe Delay="1" Index="80"/>
+<Aframe Delay="1" Index="81"/>
+<Aframe Delay="1" Index="82"/>
+<Aframe Delay="2" Index="83"/>
+<Aframe Delay="1" Index="84"/>
+<Aframe Delay="1" Index="85"/>
+<Aframe Delay="1" Index="86"/>
+</action>
+<action FrameCount="12" actionIndex="21" actionName="正下攻击">
+<Aframe Delay="1" Index="52"/>
+<Aframe Delay="1" Index="53"/>
+<Aframe Delay="1" Index="54"/>
+<Aframe Delay="1" Index="55"/>
+<Aframe Delay="1" Index="56"/>
+<Aframe Delay="1" Index="57"/>
+<Aframe Delay="1" Index="58"/>
+<Aframe Delay="1" Index="59"/>
+<Aframe Delay="2" Index="60"/>
+<Aframe Delay="1" Index="61"/>
+<Aframe Delay="1" Index="62"/>
+<Aframe Delay="1" Index="63"/>
+</action>
+<action FrameCount="12" actionIndex="22" actionName="正左攻击">
+<Aframe Delay="1" Index="98"/>
+<Aframe Delay="1" Index="99"/>
+<Aframe Delay="1" Index="100"/>
+<Aframe Delay="1" Index="101"/>
+<Aframe Delay="1" Index="102"/>
+<Aframe Delay="1" Index="103"/>
+<Aframe Delay="1" Index="104"/>
+<Aframe Delay="1" Index="105"/>
+<Aframe Delay="2" Index="106"/>
+<Aframe Delay="1" Index="107"/>
+<Aframe Delay="1" Index="108"/>
+<Aframe Delay="1" Index="109"/>
+</action>
+<action FrameCount="12" actionIndex="23" actionName="斜上攻击">
+<Aframe Delay="1" Index="121"/>
+<Aframe Delay="1" Index="122"/>
+<Aframe Delay="1" Index="123"/>
+<Aframe Delay="1" Index="124"/>
+<Aframe Delay="1" Index="125"/>
+<Aframe Delay="1" Index="126"/>
+<Aframe Delay="1" Index="127"/>
+<Aframe Delay="1" Index="128"/>
+<Aframe Delay="2" Index="129"/>
+<Aframe Delay="1" Index="130"/>
+<Aframe Delay="1" Index="131"/>
+<Aframe Delay="1" Index="132"/>
+</action>
+<action FrameCount="12" actionIndex="24" actionName="斜下攻击">
+<Aframe Delay="1" Index="98"/>
+<Aframe Delay="1" Index="99"/>
+<Aframe Delay="1" Index="100"/>
+<Aframe Delay="1" Index="101"/>
+<Aframe Delay="1" Index="144"/>
+<Aframe Delay="1" Index="145"/>
+<Aframe Delay="1" Index="146"/>
+<Aframe Delay="1" Index="147"/>
+<Aframe Delay="2" Index="106"/>
+<Aframe Delay="1" Index="107"/>
+<Aframe Delay="1" Index="108"/>
+<Aframe Delay="1" Index="109"/>
+</action>
+<action FrameCount="19" actionIndex="25" actionName="正上必杀">
+<Aframe Delay="2" Index="176"/>
+<Aframe Delay="2" Index="87"/>
+<Aframe Delay="2" Index="176"/>
+<Aframe Delay="2" Index="87"/>
+<Aframe Delay="2" Index="176"/>
+<Aframe Delay="2" Index="87"/>
+<Aframe Delay="2" Index="176"/>
+<Aframe Delay="1" Index="87"/>
+<Aframe Delay="1" Index="88"/>
+<Aframe Delay="1" Index="89"/>
+<Aframe Delay="1" Index="90"/>
+<Aframe Delay="1" Index="79"/>
+<Aframe Delay="1" Index="80"/>
+<Aframe Delay="1" Index="81"/>
+<Aframe Delay="1" Index="82"/>
+<Aframe Delay="2" Index="83"/>
+<Aframe Delay="1" Index="84"/>
+<Aframe Delay="1" Index="85"/>
+<Aframe Delay="1" Index="86"/>
+</action>
+<action FrameCount="19" actionIndex="26" actionName="正下必杀">
+<Aframe Delay="2" Index="175"/>
+<Aframe Delay="2" Index="64"/>
+<Aframe Delay="2" Index="175"/>
+<Aframe Delay="2" Index="64"/>
+<Aframe Delay="2" Index="175"/>
+<Aframe Delay="2" Index="64"/>
+<Aframe Delay="2" Index="175"/>
+<Aframe Delay="1" Index="64"/>
+<Aframe Delay="1" Index="65"/>
+<Aframe Delay="1" Index="66"/>
+<Aframe Delay="1" Index="67"/>
+<Aframe Delay="1" Index="56"/>
+<Aframe Delay="1" Index="57"/>
+<Aframe Delay="1" Index="58"/>
+<Aframe Delay="1" Index="59"/>
+<Aframe Delay="2" Index="60"/>
+<Aframe Delay="1" Index="61"/>
+<Aframe Delay="1" Index="62"/>
+<Aframe Delay="1" Index="63"/>
+</action>
+<action FrameCount="19" actionIndex="27" actionName="正左必杀">
+<Aframe Delay="2" Index="177"/>
+<Aframe Delay="2" Index="110"/>
+<Aframe Delay="2" Index="177"/>
+<Aframe Delay="2" Index="110"/>
+<Aframe Delay="2" Index="177"/>
+<Aframe Delay="2" Index="110"/>
+<Aframe Delay="2" Index="177"/>
+<Aframe Delay="1" Index="110"/>
+<Aframe Delay="1" Index="111"/>
+<Aframe Delay="1" Index="112"/>
+<Aframe Delay="1" Index="113"/>
+<Aframe Delay="1" Index="102"/>
+<Aframe Delay="1" Index="103"/>
+<Aframe Delay="1" Index="104"/>
+<Aframe Delay="1" Index="105"/>
+<Aframe Delay="2" Index="106"/>
+<Aframe Delay="1" Index="107"/>
+<Aframe Delay="1" Index="108"/>
+<Aframe Delay="1" Index="109"/>
+</action>
+<action FrameCount="19" actionIndex="28" actionName="斜下必杀">
+<Aframe Delay="2" Index="177"/>
+<Aframe Delay="2" Index="110"/>
+<Aframe Delay="2" Index="177"/>
+<Aframe Delay="2" Index="110"/>
+<Aframe Delay="2" Index="177"/>
+<Aframe Delay="2" Index="110"/>
+<Aframe Delay="2" Index="177"/>
+<Aframe Delay="1" Index="110"/>
+<Aframe Delay="1" Index="111"/>
+<Aframe Delay="1" Index="112"/>
+<Aframe Delay="1" Index="113"/>
+<Aframe Delay="1" Index="144"/>
+<Aframe Delay="1" Index="145"/>
+<Aframe Delay="1" Index="146"/>
+<Aframe Delay="1" Index="147"/>
+<Aframe Delay="2" Index="106"/>
+<Aframe Delay="1" Index="107"/>
+<Aframe Delay="1" Index="108"/>
+<Aframe Delay="1" Index="109"/>
+</action>
+<action FrameCount="19" actionIndex="29" actionName="斜上必杀">
+<Aframe Delay="2" Index="178"/>
+<Aframe Delay="2" Index="133"/>
+<Aframe Delay="2" Index="178"/>
+<Aframe Delay="2" Index="133"/>
+<Aframe Delay="2" Index="178"/>
+<Aframe Delay="2" Index="133"/>
+<Aframe Delay="2" Index="178"/>
+<Aframe Delay="1" Index="133"/>
+<Aframe Delay="1" Index="134"/>
+<Aframe Delay="1" Index="135"/>
+<Aframe Delay="1" Index="136"/>
+<Aframe Delay="1" Index="125"/>
+<Aframe Delay="1" Index="126"/>
+<Aframe Delay="1" Index="127"/>
+<Aframe Delay="1" Index="128"/>
+<Aframe Delay="2" Index="129"/>
+<Aframe Delay="1" Index="130"/>
+<Aframe Delay="1" Index="131"/>
+<Aframe Delay="1" Index="132"/>
+</action>
+<action FrameCount="9" actionIndex="30" actionName="正上蓄力">
+<Aframe Delay="5" Index="8"/>
+<Aframe Delay="1" Index="9"/>
+<Aframe Delay="1" Index="10"/>
+<Aframe Delay="1" Index="11"/>
+<Aframe Delay="5" Index="12"/>
+<Aframe Delay="1" Index="75"/>
+<Aframe Delay="1" Index="76"/>
+<Aframe Delay="1" Index="77"/>
+<Aframe Delay="1" Index="78"/>
+</action>
+<action FrameCount="9" actionIndex="31" actionName="正下蓄力">
+<Aframe Delay="5" Index="0"/>
+<Aframe Delay="1" Index="1"/>
+<Aframe Delay="1" Index="2"/>
+<Aframe Delay="1" Index="3"/>
+<Aframe Delay="5" Index="4"/>
+<Aframe Delay="1" Index="52"/>
+<Aframe Delay="1" Index="53"/>
+<Aframe Delay="1" Index="54"/>
+<Aframe Delay="1" Index="55"/>
+</action>
+<action FrameCount="9" actionIndex="32" actionName="正左蓄力">
+<Aframe Delay="5" Index="16"/>
+<Aframe Delay="1" Index="17"/>
+<Aframe Delay="1" Index="18"/>
+<Aframe Delay="1" Index="19"/>
+<Aframe Delay="5" Index="20"/>
+<Aframe Delay="1" Index="98"/>
+<Aframe Delay="1" Index="99"/>
+<Aframe Delay="1" Index="100"/>
+<Aframe Delay="1" Index="101"/>
+</action>
+<action FrameCount="9" actionIndex="33" actionName="斜上蓄力">
+<Aframe Delay="5" Index="24"/>
+<Aframe Delay="1" Index="25"/>
+<Aframe Delay="1" Index="26"/>
+<Aframe Delay="1" Index="27"/>
+<Aframe Delay="5" Index="28"/>
+<Aframe Delay="1" Index="121"/>
+<Aframe Delay="1" Index="122"/>
+<Aframe Delay="1" Index="123"/>
+<Aframe Delay="1" Index="124"/>
+</action>
+<action FrameCount="9" actionIndex="34" actionName="斜下蓄力">
+<Aframe Delay="5" Index="16"/>
+<Aframe Delay="1" Index="17"/>
+<Aframe Delay="1" Index="18"/>
+<Aframe Delay="1" Index="19"/>
+<Aframe Delay="5" Index="20"/>
+<Aframe Delay="1" Index="98"/>
+<Aframe Delay="1" Index="99"/>
+<Aframe Delay="1" Index="100"/>
+<Aframe Delay="1" Index="101"/>
+</action>
+<action FrameCount="7" actionIndex="35" actionName="蓄力攻击1">
+<Aframe Delay="0" Index="92"/>
+<Aframe Delay="0" Index="93"/>
+<Aframe Delay="0" Index="94"/>
+<Aframe Delay="2" Index="95"/>
+<Aframe Delay="1" Index="96"/>
+<Aframe Delay="1" Index="97"/>
+<Aframe Delay="1" Index="86"/>
+</action>
+<action FrameCount="7" actionIndex="36" actionName="蓄力攻击2">
+<Aframe Delay="0" Index="69"/>
+<Aframe Delay="0" Index="70"/>
+<Aframe Delay="0" Index="71"/>
+<Aframe Delay="2" Index="72"/>
+<Aframe Delay="1" Index="73"/>
+<Aframe Delay="1" Index="74"/>
+<Aframe Delay="0" Index="63"/>
+</action>
+<action FrameCount="7" actionIndex="37" actionName="蓄力攻击3">
+<Aframe Delay="0" Index="115"/>
+<Aframe Delay="0" Index="116"/>
+<Aframe Delay="0" Index="117"/>
+<Aframe Delay="2" Index="118"/>
+<Aframe Delay="1" Index="119"/>
+<Aframe Delay="1" Index="120"/>
+<Aframe Delay="1" Index="109"/>
+</action>
+<action FrameCount="7" actionIndex="38" actionName="蓄力攻击4">
+<Aframe Delay="0" Index="138"/>
+<Aframe Delay="0" Index="139"/>
+<Aframe Delay="0" Index="140"/>
+<Aframe Delay="2" Index="141"/>
+<Aframe Delay="1" Index="142"/>
+<Aframe Delay="1" Index="143"/>
+<Aframe Delay="1" Index="132"/>
+</action>
+<action FrameCount="7" actionIndex="39" actionName="蓄力攻击5">
+<Aframe Delay="0" Index="149"/>
+<Aframe Delay="0" Index="150"/>
+<Aframe Delay="0" Index="151"/>
+<Aframe Delay="2" Index="118"/>
+<Aframe Delay="1" Index="119"/>
+<Aframe Delay="1" Index="120"/>
+<Aframe Delay="1" Index="109"/>
+</action>
+<action FrameCount="3" actionIndex="40" actionName="飓风小">
+<Aframe Delay="1" Index="172"/>
+<Aframe Delay="1" Index="173"/>
+<Aframe Delay="1" Index="174"/>
+</action>
+<action FrameCount="3" actionIndex="41" actionName="飓风小1">
+<Aframe Delay="1" Index="172"/>
+<Aframe Delay="1" Index="173"/>
+<Aframe Delay="1" Index="174"/>
+</action>
+<action FrameCount="3" actionIndex="42" actionName="飓风小2">
+<Aframe Delay="1" Index="172"/>
+<Aframe Delay="1" Index="173"/>
+<Aframe Delay="1" Index="174"/>
+</action>
+<action FrameCount="3" actionIndex="43" actionName="飓风小3">
+<Aframe Delay="1" Index="172"/>
+<Aframe Delay="1" Index="173"/>
+<Aframe Delay="1" Index="174"/>
+</action>
+<action FrameCount="3" actionIndex="44" actionName="飓风小4">
+<Aframe Delay="1" Index="172"/>
+<Aframe Delay="1" Index="173"/>
+<Aframe Delay="1" Index="174"/>
+</action>
+<action FrameCount="3" actionIndex="45" actionName="飓风大">
+<Aframe Delay="1" Index="152"/>
+<Aframe Delay="1" Index="153"/>
+<Aframe Delay="1" Index="154"/>
+</action>
+<action FrameCount="3" actionIndex="46" actionName="飓风大1">
+<Aframe Delay="1" Index="152"/>
+<Aframe Delay="1" Index="153"/>
+<Aframe Delay="1" Index="154"/>
+</action>
+<action FrameCount="3" actionIndex="47" actionName="飓风大2">
+<Aframe Delay="1" Index="152"/>
+<Aframe Delay="1" Index="153"/>
+<Aframe Delay="1" Index="154"/>
+</action>
+<action FrameCount="3" actionIndex="48" actionName="飓风大3">
+<Aframe Delay="1" Index="152"/>
+<Aframe Delay="1" Index="153"/>
+<Aframe Delay="1" Index="154"/>
+</action>
+<action FrameCount="3" actionIndex="49" actionName="飓风大4">
+<Aframe Delay="1" Index="152"/>
+<Aframe Delay="1" Index="153"/>
+<Aframe Delay="1" Index="154"/>
+</action>
+<action FrameCount="21" actionIndex="50" actionName="鬼爪">
+<Aframe Delay="2" Index="155"/>
+<Aframe Delay="2" Index="156"/>
+<Aframe Delay="2" Index="171"/>
+<Aframe Delay="2" Index="163"/>
+<Aframe Delay="2" Index="155"/>
+<Aframe Delay="2" Index="156"/>
+<Aframe Delay="2" Index="171"/>
+<Aframe Delay="2" Index="163"/>
+<Aframe Delay="2" Index="155"/>
+<Aframe Delay="2" Index="156"/>
+<Aframe Delay="2" Index="171"/>
+<Aframe Delay="2" Index="163"/>
+<Aframe Delay="2" Index="155"/>
+<Aframe Delay="0" Index="156"/>
+<Aframe Delay="1" Index="157"/>
+<Aframe Delay="5" Index="158"/>
+<Aframe Delay="1" Index="159"/>
+<Aframe Delay="1" Index="160"/>
+<Aframe Delay="1" Index="161"/>
+<Aframe Delay="1" Index="162"/>
+<Aframe Delay="1" Index="163"/>
+</action>
+<action FrameCount="21" actionIndex="51" actionName="鬼爪1">
+<Aframe Delay="2" Index="155"/>
+<Aframe Delay="2" Index="156"/>
+<Aframe Delay="2" Index="171"/>
+<Aframe Delay="2" Index="163"/>
+<Aframe Delay="2" Index="155"/>
+<Aframe Delay="2" Index="156"/>
+<Aframe Delay="2" Index="171"/>
+<Aframe Delay="2" Index="163"/>
+<Aframe Delay="2" Index="155"/>
+<Aframe Delay="2" Index="156"/>
+<Aframe Delay="2" Index="171"/>
+<Aframe Delay="2" Index="163"/>
+<Aframe Delay="2" Index="155"/>
+<Aframe Delay="0" Index="156"/>
+<Aframe Delay="1" Index="157"/>
+<Aframe Delay="5" Index="158"/>
+<Aframe Delay="1" Index="159"/>
+<Aframe Delay="1" Index="160"/>
+<Aframe Delay="1" Index="161"/>
+<Aframe Delay="1" Index="162"/>
+<Aframe Delay="1" Index="163"/>
+</action>
+<action FrameCount="21" actionIndex="52" actionName="鬼爪2">
+<Aframe Delay="2" Index="155"/>
+<Aframe Delay="2" Index="156"/>
+<Aframe Delay="2" Index="171"/>
+<Aframe Delay="2" Index="163"/>
+<Aframe Delay="2" Index="155"/>
+<Aframe Delay="2" Index="156"/>
+<Aframe Delay="2" Index="171"/>
+<Aframe Delay="2" Index="163"/>
+<Aframe Delay="2" Index="155"/>
+<Aframe Delay="2" Index="156"/>
+<Aframe Delay="2" Index="171"/>
+<Aframe Delay="2" Index="163"/>
+<Aframe Delay="2" Index="155"/>
+<Aframe Delay="0" Index="156"/>
+<Aframe Delay="1" Index="157"/>
+<Aframe Delay="5" Index="158"/>
+<Aframe Delay="1" Index="159"/>
+<Aframe Delay="1" Index="160"/>
+<Aframe Delay="1" Index="161"/>
+<Aframe Delay="1" Index="162"/>
+<Aframe Delay="1" Index="163"/>
+</action>
+<action FrameCount="21" actionIndex="53" actionName="鬼爪3">
+<Aframe Delay="2" Index="155"/>
+<Aframe Delay="2" Index="156"/>
+<Aframe Delay="2" Index="171"/>
+<Aframe Delay="2" Index="163"/>
+<Aframe Delay="2" Index="155"/>
+<Aframe Delay="2" Index="156"/>
+<Aframe Delay="2" Index="171"/>
+<Aframe Delay="2" Index="163"/>
+<Aframe Delay="2" Index="155"/>
+<Aframe Delay="2" Index="156"/>
+<Aframe Delay="2" Index="171"/>
+<Aframe Delay="2" Index="163"/>
+<Aframe Delay="2" Index="155"/>
+<Aframe Delay="0" Index="156"/>
+<Aframe Delay="1" Index="157"/>
+<Aframe Delay="5" Index="158"/>
+<Aframe Delay="1" Index="159"/>
+<Aframe Delay="1" Index="160"/>
+<Aframe Delay="1" Index="161"/>
+<Aframe Delay="1" Index="162"/>
+<Aframe Delay="1" Index="163"/>
+</action>
+<action FrameCount="21" actionIndex="54" actionName="鬼爪4">
+<Aframe Delay="2" Index="155"/>
+<Aframe Delay="2" Index="156"/>
+<Aframe Delay="2" Index="171"/>
+<Aframe Delay="2" Index="163"/>
+<Aframe Delay="2" Index="155"/>
+<Aframe Delay="2" Index="156"/>
+<Aframe Delay="2" Index="171"/>
+<Aframe Delay="2" Index="163"/>
+<Aframe Delay="2" Index="155"/>
+<Aframe Delay="2" Index="156"/>
+<Aframe Delay="2" Index="171"/>
+<Aframe Delay="2" Index="163"/>
+<Aframe Delay="2" Index="155"/>
+<Aframe Delay="0" Index="156"/>
+<Aframe Delay="1" Index="157"/>
+<Aframe Delay="5" Index="158"/>
+<Aframe Delay="1" Index="159"/>
+<Aframe Delay="1" Index="160"/>
+<Aframe Delay="1" Index="161"/>
+<Aframe Delay="1" Index="162"/>
+<Aframe Delay="1" Index="163"/>
+</action>
+<action FrameCount="28" actionIndex="55" actionName="瞬移出现">
+<Aframe Delay="1" Index="171"/>
+<Aframe Delay="1" Index="170"/>
+<Aframe Delay="1" Index="169"/>
+<Aframe Delay="1" Index="168"/>
+<Aframe Delay="1" Index="167"/>
+<Aframe Delay="1" Index="166"/>
+<Aframe Delay="1" Index="165"/>
+<Aframe Delay="1" Index="64"/>
+<Aframe Delay="1" Index="164"/>
+<Aframe Delay="1" Index="65"/>
+<Aframe Delay="1" Index="66"/>
+<Aframe Delay="1" Index="67"/>
+<Aframe Delay="2" Index="64"/>
+<Aframe Delay="2" Index="175"/>
+<Aframe Delay="2" Index="64"/>
+<Aframe Delay="2" Index="175"/>
+<Aframe Delay="2" Index="64"/>
+<Aframe Delay="2" Index="175"/>
+<Aframe Delay="2" Index="64"/>
+<Aframe Delay="2" Index="175"/>
+<Aframe Delay="0" Index="56"/>
+<Aframe Delay="0" Index="57"/>
+<Aframe Delay="0" Index="58"/>
+<Aframe Delay="0" Index="59"/>
+<Aframe Delay="0" Index="60"/>
+<Aframe Delay="0" Index="61"/>
+<Aframe Delay="0" Index="62"/>
+<Aframe Delay="0" Index="63"/>
+</action>
+<action FrameCount="28" actionIndex="56" actionName="1">
+<Aframe Delay="1" Index="171"/>
+<Aframe Delay="1" Index="170"/>
+<Aframe Delay="1" Index="169"/>
+<Aframe Delay="1" Index="168"/>
+<Aframe Delay="1" Index="167"/>
+<Aframe Delay="1" Index="166"/>
+<Aframe Delay="1" Index="165"/>
+<Aframe Delay="1" Index="64"/>
+<Aframe Delay="1" Index="164"/>
+<Aframe Delay="1" Index="65"/>
+<Aframe Delay="1" Index="66"/>
+<Aframe Delay="1" Index="67"/>
+<Aframe Delay="2" Index="64"/>
+<Aframe Delay="2" Index="175"/>
+<Aframe Delay="2" Index="64"/>
+<Aframe Delay="2" Index="175"/>
+<Aframe Delay="2" Index="64"/>
+<Aframe Delay="2" Index="175"/>
+<Aframe Delay="2" Index="64"/>
+<Aframe Delay="2" Index="175"/>
+<Aframe Delay="0" Index="56"/>
+<Aframe Delay="0" Index="57"/>
+<Aframe Delay="0" Index="58"/>
+<Aframe Delay="0" Index="59"/>
+<Aframe Delay="0" Index="60"/>
+<Aframe Delay="0" Index="61"/>
+<Aframe Delay="0" Index="62"/>
+<Aframe Delay="0" Index="63"/>
+</action>
+<action FrameCount="28" actionIndex="57" actionName="2">
+<Aframe Delay="1" Index="171"/>
+<Aframe Delay="1" Index="170"/>
+<Aframe Delay="1" Index="169"/>
+<Aframe Delay="1" Index="168"/>
+<Aframe Delay="1" Index="167"/>
+<Aframe Delay="1" Index="166"/>
+<Aframe Delay="1" Index="165"/>
+<Aframe Delay="1" Index="64"/>
+<Aframe Delay="1" Index="164"/>
+<Aframe Delay="1" Index="65"/>
+<Aframe Delay="1" Index="66"/>
+<Aframe Delay="1" Index="67"/>
+<Aframe Delay="2" Index="64"/>
+<Aframe Delay="2" Index="175"/>
+<Aframe Delay="2" Index="64"/>
+<Aframe Delay="2" Index="175"/>
+<Aframe Delay="2" Index="64"/>
+<Aframe Delay="2" Index="175"/>
+<Aframe Delay="2" Index="64"/>
+<Aframe Delay="2" Index="175"/>
+<Aframe Delay="0" Index="56"/>
+<Aframe Delay="0" Index="57"/>
+<Aframe Delay="0" Index="58"/>
+<Aframe Delay="0" Index="59"/>
+<Aframe Delay="0" Index="60"/>
+<Aframe Delay="0" Index="61"/>
+<Aframe Delay="0" Index="62"/>
+<Aframe Delay="0" Index="63"/>
+</action>
+<action FrameCount="28" actionIndex="58" actionName="3">
+<Aframe Delay="1" Index="171"/>
+<Aframe Delay="1" Index="170"/>
+<Aframe Delay="1" Index="169"/>
+<Aframe Delay="1" Index="168"/>
+<Aframe Delay="1" Index="167"/>
+<Aframe Delay="1" Index="166"/>
+<Aframe Delay="1" Index="165"/>
+<Aframe Delay="1" Index="64"/>
+<Aframe Delay="1" Index="164"/>
+<Aframe Delay="1" Index="65"/>
+<Aframe Delay="1" Index="66"/>
+<Aframe Delay="1" Index="67"/>
+<Aframe Delay="2" Index="64"/>
+<Aframe Delay="2" Index="175"/>
+<Aframe Delay="2" Index="64"/>
+<Aframe Delay="2" Index="175"/>
+<Aframe Delay="2" Index="64"/>
+<Aframe Delay="2" Index="175"/>
+<Aframe Delay="2" Index="64"/>
+<Aframe Delay="2" Index="175"/>
+<Aframe Delay="0" Index="56"/>
+<Aframe Delay="0" Index="57"/>
+<Aframe Delay="0" Index="58"/>
+<Aframe Delay="0" Index="59"/>
+<Aframe Delay="0" Index="60"/>
+<Aframe Delay="0" Index="61"/>
+<Aframe Delay="0" Index="62"/>
+<Aframe Delay="0" Index="63"/>
+</action>
+<action FrameCount="28" actionIndex="59" actionName="4">
+<Aframe Delay="1" Index="171"/>
+<Aframe Delay="1" Index="170"/>
+<Aframe Delay="1" Index="169"/>
+<Aframe Delay="1" Index="168"/>
+<Aframe Delay="1" Index="167"/>
+<Aframe Delay="1" Index="166"/>
+<Aframe Delay="1" Index="165"/>
+<Aframe Delay="1" Index="64"/>
+<Aframe Delay="1" Index="164"/>
+<Aframe Delay="1" Index="65"/>
+<Aframe Delay="1" Index="66"/>
+<Aframe Delay="1" Index="67"/>
+<Aframe Delay="2" Index="64"/>
+<Aframe Delay="2" Index="175"/>
+<Aframe Delay="2" Index="64"/>
+<Aframe Delay="2" Index="175"/>
+<Aframe Delay="2" Index="64"/>
+<Aframe Delay="2" Index="175"/>
+<Aframe Delay="2" Index="64"/>
+<Aframe Delay="2" Index="175"/>
+<Aframe Delay="0" Index="56"/>
+<Aframe Delay="0" Index="57"/>
+<Aframe Delay="0" Index="58"/>
+<Aframe Delay="0" Index="59"/>
+<Aframe Delay="0" Index="60"/>
+<Aframe Delay="0" Index="61"/>
+<Aframe Delay="0" Index="62"/>
+<Aframe Delay="0" Index="63"/>
+</action>
+<action FrameCount="4" actionIndex="60" actionName="瞬移持续">
+<Aframe Delay="2" Index="155"/>
+<Aframe Delay="2" Index="156"/>
+<Aframe Delay="2" Index="171"/>
+<Aframe Delay="2" Index="163"/>
+</action>
+<action FrameCount="8" actionIndex="61" actionName="瞬移消失">
+<Aframe Delay="1" Index="164"/>
+<Aframe Delay="1" Index="165"/>
+<Aframe Delay="1" Index="166"/>
+<Aframe Delay="1" Index="167"/>
+<Aframe Delay="1" Index="168"/>
+<Aframe Delay="1" Index="169"/>
+<Aframe Delay="1" Index="170"/>
+<Aframe Delay="1" Index="171"/>
+</action>
+</actions>
+</Map>

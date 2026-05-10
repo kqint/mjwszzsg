@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<Map>
+<frames FrameCount="8">
+<frame DateCount="0" FrameIndex="0" FrameName="0" TitleCount="1">
+<Ftitle InFrameReverse="0" InFrameX="-57" InFrameY="-73" InFrameY0="HU-000.png"/>
+</frame>
+<frame DateCount="0" FrameIndex="1" FrameName="1" TitleCount="1">
+<Ftitle InFrameReverse="0" InFrameX="-57" InFrameY="-83" InFrameY0="HU-001.png"/>
+</frame>
+<frame DateCount="1" FrameIndex="2" FrameName="2" TitleCount="1">
+<data DataH="110" DataName="2" DataW="141" DataX="-73" DataY="-64"/>
+<Ftitle InFrameReverse="0" InFrameX="-63" InFrameY="-105" InFrameY0="HU-002.png"/>
+</frame>
+<frame DateCount="0" FrameIndex="3" FrameName="3" TitleCount="1">
+<Ftitle InFrameReverse="0" InFrameX="-70" InFrameY="-108" InFrameY0="hu-003.png"/>
+</frame>
+<frame DateCount="0" FrameIndex="4" FrameName="4" TitleCount="3">
+<Ftitle InFrameReverse="0" InFrameX="-57" InFrameY="-41" InFrameY0="HU-004.png"/>
+<Ftitle InFrameReverse="0" InFrameX="-57" InFrameY="-41" InFrameY0="HU-004.png"/>
+<Ftitle InFrameReverse="0" InFrameX="-57" InFrameY="-41" InFrameY0="HU-004.png"/>
+</frame>
+<frame DateCount="0" FrameIndex="5" FrameName="5" TitleCount="2">
+<Ftitle InFrameReverse="0" InFrameX="-57" InFrameY="-41" InFrameY0="HU-004.png"/>
+<Ftitle InFrameReverse="0" InFrameX="-57" InFrameY="-41" InFrameY0="HU-004.png"/>
+</frame>
+<frame DateCount="0" FrameIndex="6" FrameName="6" TitleCount="1">
+<Ftitle InFrameReverse="0" InFrameX="-57" InFrameY="-41" InFrameY0="HU-004.png"/>
+</frame>
+<frame DateCount="0" FrameIndex="7" FrameName="7" TitleCount="0"/>
+</frames>
+<actions ActionCount="1">
+<action FrameCount="8" actionIndex="0" actionName="0">
+<Aframe Delay="6" Index="7"/>
+<Aframe Delay="1" Index="0"/>
+<Aframe Delay="1" Index="1"/>
+<Aframe Delay="1" Index="2"/>
+<Aframe Delay="1" Index="3"/>
+<Aframe Delay="1" Index="4"/>
+<Aframe Delay="1" Index="5"/>
+<Aframe Delay="1" Index="6"/>
+</action>
+</actions>
+</Map>

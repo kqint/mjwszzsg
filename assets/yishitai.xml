@@ -1,0 +1,194 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<Map>
+<frames FrameCount="12">
+<frame DateCount="2" FrameIndex="0" FrameName="1" TitleCount="2">
+<data DataH="131" DataName="4" DataW="159" DataX="-78" DataY="-130"/>
+<data DataH="124" DataName="0" DataW="177" DataX="-87" DataY="-100"/>
+<Ftitle InFrameReverse="0" InFrameX="-112" InFrameY="-133" InFrameY0="yishitai-000.png"/>
+<Ftitle InFrameReverse="0" InFrameX="-112" InFrameY="-133" InFrameY0="yishitai-001.png"/>
+</frame>
+<frame DateCount="0" FrameIndex="1" FrameName="JT" TitleCount="1">
+<Ftitle InFrameReverse="0" InFrameX="-19" InFrameY="-28" InFrameY0="yishitai-002.png"/>
+</frame>
+<frame DateCount="0" FrameIndex="2" FrameName="JT2" TitleCount="1">
+<Ftitle InFrameReverse="0" InFrameX="-19" InFrameY="-28" InFrameY0="yishitai-003.png"/>
+</frame>
+<frame DateCount="0" FrameIndex="3" FrameName="JT3" TitleCount="1">
+<Ftitle InFrameReverse="0" InFrameX="-19" InFrameY="-28" InFrameY0="yishitai-004.png"/>
+</frame>
+<frame DateCount="0" FrameIndex="4" FrameName="Z" TitleCount="1">
+<Ftitle InFrameReverse="0" InFrameX="-46" InFrameY="-15" InFrameY0="yishitai-005.png"/>
+</frame>
+<frame DateCount="2" FrameIndex="5" FrameName="0" TitleCount="3">
+<data DataH="124" DataName="0" DataW="177" DataX="-87" DataY="-100"/>
+<data DataH="131" DataName="4" DataW="159" DataX="-78" DataY="-130"/>
+<Ftitle InFrameReverse="0" InFrameX="-112" InFrameY="-133" InFrameY0="yishitai-000.png"/>
+<Ftitle InFrameReverse="0" InFrameX="-19" InFrameY="-171" InFrameY0="yishitai-002.png"/>
+<Ftitle InFrameReverse="0" InFrameX="-46" InFrameY="-196" InFrameY0="yishitai-005.png"/>
+</frame>
+<frame DateCount="2" FrameIndex="6" FrameName="01" TitleCount="3">
+<data DataH="124" DataName="0" DataW="177" DataX="-87" DataY="-100"/>
+<data DataH="131" DataName="4" DataW="159" DataX="-78" DataY="-130"/>
+<Ftitle InFrameReverse="0" InFrameX="-46" InFrameY="-197" InFrameY0="yishitai-005.png"/>
+<Ftitle InFrameReverse="0" InFrameX="-112" InFrameY="-133" InFrameY0="yishitai-000.png"/>
+<Ftitle InFrameReverse="0" InFrameX="-19" InFrameY="-171" InFrameY0="yishitai-003.png"/>
+</frame>
+<frame DateCount="2" FrameIndex="7" FrameName="02" TitleCount="3">
+<data DataH="124" DataName="0" DataW="177" DataX="-87" DataY="-100"/>
+<data DataH="131" DataName="4" DataW="159" DataX="-78" DataY="-130"/>
+<Ftitle InFrameReverse="0" InFrameX="-46" InFrameY="-199" InFrameY0="yishitai-005.png"/>
+<Ftitle InFrameReverse="0" InFrameX="-112" InFrameY="-133" InFrameY0="yishitai-000.png"/>
+<Ftitle InFrameReverse="0" InFrameX="-19" InFrameY="-171" InFrameY0="yishitai-004.png"/>
+</frame>
+<frame DateCount="2" FrameIndex="8" FrameName="03" TitleCount="3">
+<data DataH="124" DataName="0" DataW="177" DataX="-87" DataY="-100"/>
+<data DataH="131" DataName="4" DataW="159" DataX="-78" DataY="-130"/>
+<Ftitle InFrameReverse="0" InFrameX="-46" InFrameY="-200" InFrameY0="yishitai-005.png"/>
+<Ftitle InFrameReverse="0" InFrameX="-112" InFrameY="-133" InFrameY0="yishitai-000.png"/>
+<Ftitle InFrameReverse="0" InFrameX="-19" InFrameY="-171" InFrameY0="yishitai-002.png"/>
+</frame>
+<frame DateCount="2" FrameIndex="9" FrameName="04" TitleCount="3">
+<data DataH="124" DataName="0" DataW="177" DataX="-87" DataY="-100"/>
+<data DataH="131" DataName="4" DataW="159" DataX="-78" DataY="-130"/>
+<Ftitle InFrameReverse="0" InFrameX="-46" InFrameY="-199" InFrameY0="yishitai-005.png"/>
+<Ftitle InFrameReverse="0" InFrameX="-112" InFrameY="-133" InFrameY0="yishitai-000.png"/>
+<Ftitle InFrameReverse="0" InFrameX="-19" InFrameY="-171" InFrameY0="yishitai-003.png"/>
+</frame>
+<frame DateCount="2" FrameIndex="10" FrameName="05" TitleCount="3">
+<data DataH="124" DataName="0" DataW="177" DataX="-87" DataY="-100"/>
+<data DataH="131" DataName="4" DataW="159" DataX="-78" DataY="-130"/>
+<Ftitle InFrameReverse="0" InFrameX="-46" InFrameY="-197" InFrameY0="yishitai-005.png"/>
+<Ftitle InFrameReverse="0" InFrameX="-112" InFrameY="-133" InFrameY0="yishitai-000.png"/>
+<Ftitle InFrameReverse="0" InFrameX="-19" InFrameY="-171" InFrameY0="yishitai-004.png"/>
+</frame>
+<frame DateCount="2" FrameIndex="11" FrameName="00" TitleCount="1">
+<data DataH="124" DataName="0" DataW="177" DataX="-87" DataY="-100"/>
+<data DataH="131" DataName="4" DataW="159" DataX="-78" DataY="-130"/>
+<Ftitle InFrameReverse="0" InFrameX="-112" InFrameY="-133" InFrameY0="yishitai-000.png"/>
+</frame>
+</frames>
+<actions ActionCount="20">
+<action FrameCount="31" actionIndex="0" actionName="站立0">
+<Aframe Delay="2" Index="5"/>
+<Aframe Delay="2" Index="6"/>
+<Aframe Delay="2" Index="7"/>
+<Aframe Delay="2" Index="8"/>
+<Aframe Delay="2" Index="9"/>
+<Aframe Delay="2" Index="10"/>
+<Aframe Delay="2" Index="5"/>
+<Aframe Delay="2" Index="6"/>
+<Aframe Delay="2" Index="7"/>
+<Aframe Delay="2" Index="8"/>
+<Aframe Delay="2" Index="9"/>
+<Aframe Delay="2" Index="10"/>
+<Aframe Delay="2" Index="5"/>
+<Aframe Delay="2" Index="6"/>
+<Aframe Delay="2" Index="7"/>
+<Aframe Delay="2" Index="8"/>
+<Aframe Delay="2" Index="9"/>
+<Aframe Delay="2" Index="10"/>
+<Aframe Delay="2" Index="5"/>
+<Aframe Delay="2" Index="6"/>
+<Aframe Delay="0" Index="7"/>
+<Aframe Delay="0" Index="8"/>
+<Aframe Delay="0" Index="9"/>
+<Aframe Delay="0" Index="10"/>
+<Aframe Delay="0" Index="5"/>
+<Aframe Delay="0" Index="6"/>
+<Aframe Delay="0" Index="7"/>
+<Aframe Delay="0" Index="8"/>
+<Aframe Delay="99" Index="11"/>
+<Aframe Delay="99" Index="11"/>
+<Aframe Delay="0" Index="11"/>
+</action>
+<action FrameCount="1" actionIndex="1" actionName="站立1">
+<Aframe Delay="0" Index="5"/>
+</action>
+<action FrameCount="1" actionIndex="2" actionName="站立2">
+<Aframe Delay="0" Index="5"/>
+</action>
+<action FrameCount="1" actionIndex="3" actionName="站立3">
+<Aframe Delay="0" Index="5"/>
+</action>
+<action FrameCount="1" actionIndex="4" actionName="站立4">
+<Aframe Delay="0" Index="5"/>
+</action>
+<action FrameCount="1" actionIndex="5" actionName="移动0">
+<Aframe Delay="0" Index="11"/>
+</action>
+<action FrameCount="4" actionIndex="6" actionName="移动1">
+<Aframe Delay="2" Index="0"/>
+<Aframe Delay="1" Index="5"/>
+<Aframe Delay="2" Index="0"/>
+<Aframe Delay="0" Index="5"/>
+</action>
+<action FrameCount="4" actionIndex="7" actionName="移动2">
+<Aframe Delay="2" Index="0"/>
+<Aframe Delay="1" Index="5"/>
+<Aframe Delay="2" Index="0"/>
+<Aframe Delay="0" Index="5"/>
+</action>
+<action FrameCount="4" actionIndex="8" actionName="移动3">
+<Aframe Delay="2" Index="0"/>
+<Aframe Delay="1" Index="5"/>
+<Aframe Delay="2" Index="0"/>
+<Aframe Delay="0" Index="5"/>
+</action>
+<action FrameCount="4" actionIndex="9" actionName="移动4">
+<Aframe Delay="2" Index="0"/>
+<Aframe Delay="1" Index="5"/>
+<Aframe Delay="2" Index="0"/>
+<Aframe Delay="0" Index="5"/>
+</action>
+<action FrameCount="4" actionIndex="10" actionName="挨打0">
+<Aframe Delay="2" Index="0"/>
+<Aframe Delay="1" Index="11"/>
+<Aframe Delay="2" Index="0"/>
+<Aframe Delay="1" Index="11"/>
+</action>
+<action FrameCount="4" actionIndex="11" actionName="挨打1">
+<Aframe Delay="2" Index="0"/>
+<Aframe Delay="1" Index="5"/>
+<Aframe Delay="2" Index="0"/>
+<Aframe Delay="0" Index="5"/>
+</action>
+<action FrameCount="4" actionIndex="12" actionName="挨打2">
+<Aframe Delay="2" Index="0"/>
+<Aframe Delay="1" Index="5"/>
+<Aframe Delay="2" Index="0"/>
+<Aframe Delay="0" Index="5"/>
+</action>
+<action FrameCount="4" actionIndex="13" actionName="挨打3">
+<Aframe Delay="2" Index="0"/>
+<Aframe Delay="1" Index="5"/>
+<Aframe Delay="2" Index="0"/>
+<Aframe Delay="0" Index="5"/>
+</action>
+<action FrameCount="4" actionIndex="14" actionName="挨打4">
+<Aframe Delay="2" Index="0"/>
+<Aframe Delay="1" Index="5"/>
+<Aframe Delay="2" Index="0"/>
+<Aframe Delay="0" Index="5"/>
+</action>
+<action FrameCount="2" actionIndex="15" actionName="死亡0">
+<Aframe Delay="40" Index="11"/>
+<Aframe Delay="0" Index="11"/>
+</action>
+<action FrameCount="2" actionIndex="16" actionName="死亡1">
+<Aframe Delay="40" Index="5"/>
+<Aframe Delay="0" Index="5"/>
+</action>
+<action FrameCount="2" actionIndex="17" actionName="死亡2">
+<Aframe Delay="40" Index="5"/>
+<Aframe Delay="0" Index="5"/>
+</action>
+<action FrameCount="2" actionIndex="18" actionName="死亡3">
+<Aframe Delay="40" Index="5"/>
+<Aframe Delay="0" Index="5"/>
+</action>
+<action FrameCount="2" actionIndex="19" actionName="死亡4">
+<Aframe Delay="40" Index="5"/>
+<Aframe Delay="0" Index="5"/>
+</action>
+</actions>
+</Map>

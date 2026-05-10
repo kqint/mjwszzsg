@@ -1,0 +1,533 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<Map>
+<frames FrameCount="23">
+<frame DateCount="0" FrameIndex="0" FrameName="森林底图01" TitleCount="194">
+<Ftitle InFrameReverse="0" InFrameX="-226" InFrameY="-236" InFrameY0="map-001.png"/>
+<Ftitle InFrameReverse="0" InFrameX="109" InFrameY="-241" InFrameY0="map-003.png"/>
+<Ftitle InFrameReverse="0" InFrameX="302" InFrameY="-139" InFrameY0="map-002.png"/>
+<Ftitle InFrameReverse="0" InFrameX="-257" InFrameY="-40" InFrameY0="map-004.png"/>
+<Ftitle InFrameReverse="0" InFrameX="-461" InFrameY="-474" InFrameY0="map-004.png"/>
+<Ftitle InFrameReverse="0" InFrameX="-526" InFrameY="276" InFrameY0="map-001.png"/>
+<Ftitle InFrameReverse="0" InFrameX="-269" InFrameY="-164" InFrameY0="map-006.png"/>
+<Ftitle InFrameReverse="0" InFrameX="-294" InFrameY="-153" InFrameY0="map-006.png"/>
+<Ftitle InFrameReverse="0" InFrameX="-540" InFrameY="22" InFrameY0="map-007.png"/>
+<Ftitle InFrameReverse="0" InFrameX="244" InFrameY="70" InFrameY0="map-008.png"/>
+<Ftitle InFrameReverse="0" InFrameX="-441" InFrameY="-69" InFrameY0="map-009.png"/>
+<Ftitle InFrameReverse="0" InFrameX="204" InFrameY="-240" InFrameY0="map-009.png"/>
+<Ftitle InFrameReverse="0" InFrameX="411" InFrameY="114" InFrameY0="map-007.png"/>
+<Ftitle InFrameReverse="0" InFrameX="101" InFrameY="-52" InFrameY0="map-006.png"/>
+<Ftitle InFrameReverse="0" InFrameX="78" InFrameY="-37" InFrameY0="map-006.png"/>
+<Ftitle InFrameReverse="0" InFrameX="-173" InFrameY="101" InFrameY0="map-008.png"/>
+<Ftitle InFrameReverse="0" InFrameX="-167" InFrameY="123" InFrameY0="map-014.png"/>
+<Ftitle InFrameReverse="0" InFrameX="-426" InFrameY="-57" InFrameY0="map-014.png"/>
+<Ftitle InFrameReverse="0" InFrameX="237" InFrameY="87" InFrameY0="map-014.png"/>
+<Ftitle InFrameReverse="0" InFrameX="266" InFrameY="243" InFrameY0="map-009.png"/>
+<Ftitle InFrameReverse="0" InFrameX="-24" InFrameY="268" InFrameY0="map-006.png"/>
+<Ftitle InFrameReverse="0" InFrameX="-49" InFrameY="279" InFrameY0="map-006.png"/>
+<Ftitle InFrameReverse="0" InFrameX="-73" InFrameY="291" InFrameY0="map-006.png"/>
+<Ftitle InFrameReverse="0" InFrameX="-426" InFrameY="85" InFrameY0="map-011.png"/>
+<Ftitle InFrameReverse="0" InFrameX="-399" InFrameY="100" InFrameY0="map-012.png"/>
+<Ftitle InFrameReverse="0" InFrameX="-371" InFrameY="114" InFrameY0="map-011.png"/>
+<Ftitle InFrameReverse="0" InFrameX="-399" InFrameY="129" InFrameY0="map-012.png"/>
+<Ftitle InFrameReverse="0" InFrameX="-429" InFrameY="143" InFrameY0="map-011.png"/>
+<Ftitle InFrameReverse="0" InFrameX="-343" InFrameY="127" InFrameY0="map-011.png"/>
+<Ftitle InFrameReverse="0" InFrameX="-316" InFrameY="141" InFrameY0="map-012.png"/>
+<Ftitle InFrameReverse="0" InFrameX="-315" InFrameY="171" InFrameY0="map-011.png"/>
+<Ftitle InFrameReverse="0" InFrameX="-343" InFrameY="186" InFrameY0="map-012.png"/>
+<Ftitle InFrameReverse="0" InFrameX="-396" InFrameY="214" InFrameY0="map-011.png"/>
+<Ftitle InFrameReverse="0" InFrameX="-343" InFrameY="215" InFrameY0="map-012.png"/>
+<Ftitle InFrameReverse="0" InFrameX="-314" InFrameY="229" InFrameY0="map-011.png"/>
+<Ftitle InFrameReverse="0" InFrameX="74" InFrameY="113" InFrameY0="map-012.png"/>
+<Ftitle InFrameReverse="0" InFrameX="-353" InFrameY="223" InFrameY0="map-013.png"/>
+<Ftitle InFrameReverse="0" InFrameX="-314" InFrameY="159" InFrameY0="map-015.png"/>
+<Ftitle InFrameReverse="0" InFrameX="104" InFrameY="127" InFrameY0="map-011.png"/>
+<Ftitle InFrameReverse="0" InFrameX="-404" InFrameY="160" InFrameY0="map-013.png"/>
+<Ftitle InFrameReverse="0" InFrameX="134" InFrameY="141" InFrameY0="map-011.png"/>
+<Ftitle InFrameReverse="0" InFrameX="108" InFrameY="155" InFrameY0="map-012.png"/>
+<Ftitle InFrameReverse="0" InFrameX="82" InFrameY="169" InFrameY0="map-011.png"/>
+<Ftitle InFrameReverse="0" InFrameX="54" InFrameY="184" InFrameY0="map-012.png"/>
+<Ftitle InFrameReverse="0" InFrameX="25" InFrameY="198" InFrameY0="map-011.png"/>
+<Ftitle InFrameReverse="0" InFrameX="-3" InFrameY="213" InFrameY0="map-012.png"/>
+<Ftitle InFrameReverse="0" InFrameX="-38" InFrameY="231" InFrameY0="map-011.png"/>
+<Ftitle InFrameReverse="0" InFrameX="-74" InFrameY="249" InFrameY0="map-012.png"/>
+<Ftitle InFrameReverse="0" InFrameX="-102" InFrameY="263" InFrameY0="map-011.png"/>
+<Ftitle InFrameReverse="0" InFrameX="-131" InFrameY="279" InFrameY0="map-012.png"/>
+<Ftitle InFrameReverse="0" InFrameX="-158" InFrameY="294" InFrameY0="map-011.png"/>
+<Ftitle InFrameReverse="0" InFrameX="-184" InFrameY="308" InFrameY0="map-012.png"/>
+<Ftitle InFrameReverse="0" InFrameX="-46" InFrameY="202" InFrameY0="map-009.png"/>
+<Ftitle InFrameReverse="0" InFrameX="272" InFrameY="-23" InFrameY0="map-011.png"/>
+<Ftitle InFrameReverse="0" InFrameX="298" InFrameY="-10" InFrameY0="map-012.png"/>
+<Ftitle InFrameReverse="0" InFrameX="244" InFrameY="-8" InFrameY0="map-012.png"/>
+<Ftitle InFrameReverse="0" InFrameX="272" InFrameY="5" InFrameY0="map-011.png"/>
+<Ftitle InFrameReverse="0" InFrameX="165" InFrameY="154" InFrameY0="map-011.png"/>
+<Ftitle InFrameReverse="0" InFrameX="-21" InFrameY="245" InFrameY0="map-013.png"/>
+<Ftitle InFrameReverse="0" InFrameX="-119" InFrameY="270" InFrameY0="map-015.png"/>
+<Ftitle InFrameReverse="0" InFrameX="155" InFrameY="167" InFrameY0="map-015.png"/>
+<Ftitle InFrameReverse="0" InFrameX="221" InFrameY="152" InFrameY0="map-012.png"/>
+<Ftitle InFrameReverse="0" InFrameX="197" InFrameY="167" InFrameY0="map-011.png"/>
+<Ftitle InFrameReverse="0" InFrameX="226" InFrameY="182" InFrameY0="map-012.png"/>
+<Ftitle InFrameReverse="0" InFrameX="454" InFrameY="40" InFrameY0="map-011.png"/>
+<Ftitle InFrameReverse="0" InFrameX="425" InFrameY="54" InFrameY0="map-012.png"/>
+<Ftitle InFrameReverse="0" InFrameX="398" InFrameY="68" InFrameY0="map-011.png"/>
+<Ftitle InFrameReverse="0" InFrameX="370" InFrameY="81" InFrameY0="map-012.png"/>
+<Ftitle InFrameReverse="0" InFrameX="343" InFrameY="95" InFrameY0="map-011.png"/>
+<Ftitle InFrameReverse="0" InFrameX="315" InFrameY="107" InFrameY0="map-012.png"/>
+<Ftitle InFrameReverse="0" InFrameX="289" InFrameY="120" InFrameY0="map-012.png"/>
+<Ftitle InFrameReverse="0" InFrameX="258" InFrameY="136" InFrameY0="map-011.png"/>
+<Ftitle InFrameReverse="0" InFrameX="252" InFrameY="168" InFrameY0="map-013.png"/>
+<Ftitle InFrameReverse="0" InFrameX="59" InFrameY="115" InFrameY0="map-013.png"/>
+<Ftitle InFrameReverse="0" InFrameX="217" InFrameY="146" InFrameY0="map-015.png"/>
+<Ftitle InFrameReverse="0" InFrameX="366" InFrameY="41" InFrameY0="map-006.png"/>
+<Ftitle InFrameReverse="0" InFrameX="343" InFrameY="53" InFrameY0="map-006.png"/>
+<Ftitle InFrameReverse="0" InFrameX="76" InFrameY="-311" InFrameY0="map-011.png"/>
+<Ftitle InFrameReverse="0" InFrameX="47" InFrameY="-296" InFrameY0="map-012.png"/>
+<Ftitle InFrameReverse="0" InFrameX="103" InFrameY="-296" InFrameY0="map-012.png"/>
+<Ftitle InFrameReverse="0" InFrameX="74" InFrameY="-282" InFrameY0="map-011.png"/>
+<Ftitle InFrameReverse="0" InFrameX="-353" InFrameY="-302" InFrameY0="map-008.png"/>
+<Ftitle InFrameReverse="1" InFrameX="241" InFrameY="-42" InFrameY0="map-009.png"/>
+<Ftitle InFrameReverse="0" InFrameX="-135" InFrameY="-181" InFrameY0="map-014.png"/>
+<Ftitle InFrameReverse="0" InFrameX="-203" InFrameY="83" InFrameY0="map-014.png"/>
+<Ftitle InFrameReverse="0" InFrameX="440" InFrameY="140" InFrameY0="map-014.png"/>
+<Ftitle InFrameReverse="0" InFrameX="-459" InFrameY="-179" InFrameY0="map-016.png"/>
+<Ftitle InFrameReverse="0" InFrameX="318" InFrameY="183" InFrameY0="map-016.png"/>
+<Ftitle InFrameReverse="0" InFrameX="-312" InFrameY="-225" InFrameY0="map-011.png"/>
+<Ftitle InFrameReverse="0" InFrameX="-340" InFrameY="-210" InFrameY0="map-012.png"/>
+<Ftitle InFrameReverse="0" InFrameX="-368" InFrameY="-196" InFrameY0="map-011.png"/>
+<Ftitle InFrameReverse="0" InFrameX="-340" InFrameY="-181" InFrameY0="map-012.png"/>
+<Ftitle InFrameReverse="0" InFrameX="-369" InFrameY="-166" InFrameY0="map-011.png"/>
+<Ftitle InFrameReverse="0" InFrameX="-368" InFrameY="-135" InFrameY0="map-012.png"/>
+<Ftitle InFrameReverse="0" InFrameX="-339" InFrameY="-120" InFrameY0="map-011.png"/>
+<Ftitle InFrameReverse="0" InFrameX="-309" InFrameY="-104" InFrameY0="map-011.png"/>
+<Ftitle InFrameReverse="0" InFrameX="-279" InFrameY="-89" InFrameY0="map-011.png"/>
+<Ftitle InFrameReverse="0" InFrameX="-252" InFrameY="-74" InFrameY0="map-012.png"/>
+<Ftitle InFrameReverse="0" InFrameX="-224" InFrameY="-61" InFrameY0="map-011.png"/>
+<Ftitle InFrameReverse="0" InFrameX="-263" InFrameY="-43" InFrameY0="map-012.png"/>
+<Ftitle InFrameReverse="0" InFrameX="-236" InFrameY="-31" InFrameY0="map-011.png"/>
+<Ftitle InFrameReverse="0" InFrameX="-263" InFrameY="-17" InFrameY0="map-012.png"/>
+<Ftitle InFrameReverse="0" InFrameX="-291" InFrameY="-4" InFrameY0="map-011.png"/>
+<Ftitle InFrameReverse="0" InFrameX="-262" InFrameY="-67" InFrameY0="map-013.png"/>
+<Ftitle InFrameReverse="0" InFrameX="-319" InFrameY="9" InFrameY0="map-011.png"/>
+<Ftitle InFrameReverse="0" InFrameX="-394" InFrameY="43" InFrameY0="map-012.png"/>
+<Ftitle InFrameReverse="0" InFrameX="-423" InFrameY="57" InFrameY0="map-011.png"/>
+<Ftitle InFrameReverse="0" InFrameX="456" InFrameY="-323" InFrameY0="map-011.png"/>
+<Ftitle InFrameReverse="0" InFrameX="428" InFrameY="-309" InFrameY0="map-012.png"/>
+<Ftitle InFrameReverse="0" InFrameX="401" InFrameY="-293" InFrameY0="map-011.png"/>
+<Ftitle InFrameReverse="0" InFrameX="370" InFrameY="-280" InFrameY0="map-012.png"/>
+<Ftitle InFrameReverse="0" InFrameX="342" InFrameY="-265" InFrameY0="map-011.png"/>
+<Ftitle InFrameReverse="0" InFrameX="283" InFrameY="-238" InFrameY0="map-012.png"/>
+<Ftitle InFrameReverse="0" InFrameX="255" InFrameY="-223" InFrameY0="map-011.png"/>
+<Ftitle InFrameReverse="0" InFrameX="227" InFrameY="-209" InFrameY0="map-012.png"/>
+<Ftitle InFrameReverse="0" InFrameX="199" InFrameY="-194" InFrameY0="map-011.png"/>
+<Ftitle InFrameReverse="0" InFrameX="153" InFrameY="-175" InFrameY0="map-012.png"/>
+<Ftitle InFrameReverse="0" InFrameX="123" InFrameY="-160" InFrameY0="map-011.png"/>
+<Ftitle InFrameReverse="0" InFrameX="-96" InFrameY="142" InFrameY0="map-011.png"/>
+<Ftitle InFrameReverse="0" InFrameX="-127" InFrameY="157" InFrameY0="map-012.png"/>
+<Ftitle InFrameReverse="0" InFrameX="-69" InFrameY="157" InFrameY0="map-012.png"/>
+<Ftitle InFrameReverse="0" InFrameX="-97" InFrameY="170" InFrameY0="map-011.png"/>
+<Ftitle InFrameReverse="0" InFrameX="154" InFrameY="-147" InFrameY0="map-011.png"/>
+<Ftitle InFrameReverse="0" InFrameX="212" InFrameY="-119" InFrameY0="map-011.png"/>
+<Ftitle InFrameReverse="0" InFrameX="196" InFrameY="-113" InFrameY0="map-013.png"/>
+<Ftitle InFrameReverse="0" InFrameX="35" InFrameY="-285" InFrameY0="map-013.png"/>
+<Ftitle InFrameReverse="0" InFrameX="68" InFrameY="-211" InFrameY0="map-014.png"/>
+<Ftitle InFrameReverse="0" InFrameX="58" InFrameY="17" InFrameY0="map-014.png"/>
+<Ftitle InFrameReverse="0" InFrameX="175" InFrameY="-302" InFrameY0="map-008.png"/>
+<Ftitle InFrameReverse="0" InFrameX="194" InFrameY="-225" InFrameY0="map-015.png"/>
+<Ftitle InFrameReverse="0" InFrameX="-457" InFrameY="204" InFrameY0="map-006.png"/>
+<Ftitle InFrameReverse="0" InFrameX="-484" InFrameY="219" InFrameY0="map-006.png"/>
+<Ftitle InFrameReverse="0" InFrameX="-498" InFrameY="121" InFrameY0="map-009.png"/>
+<Ftitle InFrameReverse="0" InFrameX="-526" InFrameY="-123" InFrameY0="map-008.png"/>
+<Ftitle InFrameReverse="0" InFrameX="-507" InFrameY="-53" InFrameY0="map-011.png"/>
+<Ftitle InFrameReverse="0" InFrameX="-480" InFrameY="-39" InFrameY0="map-012.png"/>
+<Ftitle InFrameReverse="0" InFrameX="-405" InFrameY="306" InFrameY0="map-013.png"/>
+<Ftitle InFrameReverse="0" InFrameX="144" InFrameY="184" InFrameY0="map-014.png"/>
+<Ftitle InFrameReverse="0" InFrameX="72" InFrameY="133" InFrameY0="map-006.png"/>
+<Ftitle InFrameReverse="0" InFrameX="292" InFrameY="-219" InFrameY0="map-006.png"/>
+<Ftitle InFrameReverse="0" InFrameX="269" InFrameY="-208" InFrameY0="map-006.png"/>
+<Ftitle InFrameReverse="0" InFrameX="346" InFrameY="-73" InFrameY0="map-014.png"/>
+<Ftitle InFrameReverse="0" InFrameX="331" InFrameY="-96" InFrameY0="map-015.png"/>
+<Ftitle InFrameReverse="0" InFrameX="305" InFrameY="-110" InFrameY0="map-013.png"/>
+<Ftitle InFrameReverse="0" InFrameX="370" InFrameY="-200" InFrameY0="map-012.png"/>
+<Ftitle InFrameReverse="0" InFrameX="400" InFrameY="-186" InFrameY0="map-011.png"/>
+<Ftitle InFrameReverse="0" InFrameX="345" InFrameY="-184" InFrameY0="map-011.png"/>
+<Ftitle InFrameReverse="0" InFrameX="375" InFrameY="-172" InFrameY0="map-012.png"/>
+<Ftitle InFrameReverse="0" InFrameX="546" InFrameY="-134" InFrameY0="map-007.png"/>
+<Ftitle InFrameReverse="0" InFrameX="-125" InFrameY="-117" InFrameY0="map-014.png"/>
+<Ftitle InFrameReverse="0" InFrameX="-119" InFrameY="-109" InFrameY0="map-014.png"/>
+<Ftitle InFrameReverse="0" InFrameX="-258" InFrameY="-293" InFrameY0="map-013.png"/>
+<Ftitle InFrameReverse="0" InFrameX="-298" InFrameY="-313" InFrameY0="map-015.png"/>
+<Ftitle InFrameReverse="0" InFrameX="-78" InFrameY="-137" InFrameY0="map-011.png"/>
+<Ftitle InFrameReverse="0" InFrameX="-87" InFrameY="-69" InFrameY0="map-012.png"/>
+<Ftitle InFrameReverse="0" InFrameX="108" InFrameY="269" InFrameY0="map-011.png"/>
+<Ftitle InFrameReverse="0" InFrameX="-115" InFrameY="-53" InFrameY0="map-011.png"/>
+<Ftitle InFrameReverse="0" InFrameX="135" InFrameY="283" InFrameY0="map-012.png"/>
+<Ftitle InFrameReverse="0" InFrameX="164" InFrameY="298" InFrameY0="map-011.png"/>
+<Ftitle InFrameReverse="0" InFrameX="207" InFrameY="311" InFrameY0="map-013.png"/>
+<Ftitle InFrameReverse="0" InFrameX="-160" InFrameY="-336" InFrameY0="map-011.png"/>
+<Ftitle InFrameReverse="0" InFrameX="-189" InFrameY="-321" InFrameY0="map-012.png"/>
+<Ftitle InFrameReverse="0" InFrameX="-135" InFrameY="-322" InFrameY0="map-012.png"/>
+<Ftitle InFrameReverse="0" InFrameX="8" InFrameY="420" InFrameY0="map-006.png"/>
+<Ftitle InFrameReverse="0" InFrameX="158" InFrameY="401" InFrameY0="map-002.png"/>
+<Ftitle InFrameReverse="0" InFrameX="-19" InFrameY="441" InFrameY0="map-008.png"/>
+<Ftitle InFrameReverse="0" InFrameX="-565" InFrameY="261" InFrameY0="map-009.png"/>
+<Ftitle InFrameReverse="0" InFrameX="-42" InFrameY="427" InFrameY0="map-014.png"/>
+<Ftitle InFrameReverse="0" InFrameX="-576" InFrameY="159" InFrameY0="map-016.png"/>
+<Ftitle InFrameReverse="0" InFrameX="-258" InFrameY="430" InFrameY0="map-007.png"/>
+<Ftitle InFrameReverse="0" InFrameX="-671" InFrameY="222" InFrameY0="map-006.png"/>
+<Ftitle InFrameReverse="0" InFrameX="-720" InFrameY="440" InFrameY0="map-006.png"/>
+<Ftitle InFrameReverse="0" InFrameX="-719" InFrameY="-480" InFrameY0="map-006.png"/>
+<Ftitle InFrameReverse="0" InFrameX="662" InFrameY="-478" InFrameY0="map-006.png"/>
+<Ftitle InFrameReverse="0" InFrameX="661" InFrameY="438" InFrameY0="map-006.png"/>
+<Ftitle InFrameReverse="0" InFrameX="-678" InFrameY="7" InFrameY0="map-003.png"/>
+<Ftitle InFrameReverse="0" InFrameX="-771" InFrameY="-212" InFrameY0="map-002.png"/>
+<Ftitle InFrameReverse="0" InFrameX="551" InFrameY="-364" InFrameY0="map-001.png"/>
+<Ftitle InFrameReverse="0" InFrameX="305" InFrameY="-423" InFrameY0="map-003.png"/>
+<Ftitle InFrameReverse="0" InFrameX="459" InFrameY="122" InFrameY0="map-004.png"/>
+<Ftitle InFrameReverse="0" InFrameX="350" InFrameY="346" InFrameY0="map-012.png"/>
+<Ftitle InFrameReverse="0" InFrameX="380" InFrameY="361" InFrameY0="map-011.png"/>
+<Ftitle InFrameReverse="0" InFrameX="355" InFrameY="355" InFrameY0="map-006.png"/>
+<Ftitle InFrameReverse="0" InFrameX="-623" InFrameY="-346" InFrameY0="map-011.png"/>
+<Ftitle InFrameReverse="0" InFrameX="-563" InFrameY="-345" InFrameY0="map-012.png"/>
+<Ftitle InFrameReverse="0" InFrameX="-578" InFrameY="-328" InFrameY0="map-013.png"/>
+<Ftitle InFrameReverse="0" InFrameX="-590" InFrameY="-314" InFrameY0="map-014.png"/>
+<Ftitle InFrameReverse="0" InFrameX="-571" InFrameY="-352" InFrameY0="map-014.png"/>
+<Ftitle InFrameReverse="0" InFrameX="573" InFrameY="-23" InFrameY0="map-016.png"/>
+<Ftitle InFrameReverse="0" InFrameX="576" InFrameY="0" InFrameY0="map-006.png"/>
+<Ftitle InFrameReverse="0" InFrameX="641" InFrameY="7" InFrameY0="map-014.png"/>
+<Ftitle InFrameReverse="0" InFrameX="557" InFrameY="3" InFrameY0="map-014.png"/>
+<Ftitle InFrameReverse="0" InFrameX="623" InFrameY="10" InFrameY0="map-013.png"/>
+<Ftitle InFrameReverse="0" InFrameX="648" InFrameY="-5" InFrameY0="map-015.png"/>
+</frame>
+<frame DateCount="1" FrameIndex="1" FrameName="shu" TitleCount="1">
+<data DataH="73" DataName="4" DataW="72" DataX="-35" DataY="-82"/>
+<Ftitle InFrameReverse="0" InFrameX="-41" InFrameY="-91" InFrameY0="map-005.png"/>
+</frame>
+<frame DateCount="1" FrameIndex="2" FrameName="zhalan" TitleCount="1">
+<data DataH="18" DataName="4" DataW="30" DataX="-15" DataY="-26"/>
+<Ftitle InFrameReverse="0" InFrameX="-17" InFrameY="-27" InFrameY0="map-010.png"/>
+</frame>
+<frame DateCount="1" FrameIndex="3" FrameName="huo1" TitleCount="1">
+<data DataH="28" DataName="4" DataW="29" DataX="-16" DataY="-37"/>
+<Ftitle InFrameReverse="0" InFrameX="-39" InFrameY="-52" InFrameY0="map-017.png"/>
+</frame>
+<frame DateCount="1" FrameIndex="4" FrameName="huo2" TitleCount="1">
+<data DataH="15" DataName="4" DataW="31" DataX="-16" DataY="-24"/>
+<Ftitle InFrameReverse="0" InFrameX="-39" InFrameY="-52" InFrameY0="map-018.png"/>
+</frame>
+<frame DateCount="1" FrameIndex="5" FrameName="huo3" TitleCount="1">
+<data DataH="26" DataName="4" DataW="31" DataX="-16" DataY="-35"/>
+<Ftitle InFrameReverse="0" InFrameX="-39" InFrameY="-52" InFrameY0="map-019.png"/>
+</frame>
+<frame DateCount="1" FrameIndex="6" FrameName="huo4" TitleCount="1">
+<data DataH="28" DataName="4" DataW="29" DataX="-16" DataY="-37"/>
+<Ftitle InFrameReverse="0" InFrameX="-39" InFrameY="-52" InFrameY0="map-020.png"/>
+</frame>
+<frame DateCount="0" FrameIndex="7" FrameName="森林地图02" TitleCount="199">
+<Ftitle InFrameReverse="0" InFrameX="-226" InFrameY="-236" InFrameY0="map-001.png"/>
+<Ftitle InFrameReverse="0" InFrameX="109" InFrameY="-241" InFrameY0="map-003.png"/>
+<Ftitle InFrameReverse="0" InFrameX="-754" InFrameY="123" InFrameY0="map-002.png"/>
+<Ftitle InFrameReverse="0" InFrameX="-783" InFrameY="360" InFrameY0="map-004.png"/>
+<Ftitle InFrameReverse="0" InFrameX="-831" InFrameY="-549" InFrameY0="map-004.png"/>
+<Ftitle InFrameReverse="0" InFrameX="-424" InFrameY="258" InFrameY0="map-001.png"/>
+<Ftitle InFrameReverse="0" InFrameX="-535" InFrameY="68" InFrameY0="map-007.png"/>
+<Ftitle InFrameReverse="0" InFrameX="244" InFrameY="70" InFrameY0="map-008.png"/>
+<Ftitle InFrameReverse="0" InFrameX="-441" InFrameY="-69" InFrameY0="map-009.png"/>
+<Ftitle InFrameReverse="0" InFrameX="204" InFrameY="-240" InFrameY0="map-009.png"/>
+<Ftitle InFrameReverse="0" InFrameX="411" InFrameY="114" InFrameY0="map-007.png"/>
+<Ftitle InFrameReverse="0" InFrameX="-6" InFrameY="-58" InFrameY0="map-006.png"/>
+<Ftitle InFrameReverse="0" InFrameX="26" InFrameY="-42" InFrameY0="map-006.png"/>
+<Ftitle InFrameReverse="0" InFrameX="-173" InFrameY="101" InFrameY0="map-008.png"/>
+<Ftitle InFrameReverse="0" InFrameX="-167" InFrameY="123" InFrameY0="map-014.png"/>
+<Ftitle InFrameReverse="0" InFrameX="-426" InFrameY="-57" InFrameY0="map-014.png"/>
+<Ftitle InFrameReverse="0" InFrameX="237" InFrameY="87" InFrameY0="map-014.png"/>
+<Ftitle InFrameReverse="0" InFrameX="266" InFrameY="243" InFrameY0="map-009.png"/>
+<Ftitle InFrameReverse="0" InFrameX="-24" InFrameY="268" InFrameY0="map-006.png"/>
+<Ftitle InFrameReverse="0" InFrameX="-49" InFrameY="279" InFrameY0="map-006.png"/>
+<Ftitle InFrameReverse="0" InFrameX="-73" InFrameY="291" InFrameY0="map-006.png"/>
+<Ftitle InFrameReverse="0" InFrameX="-426" InFrameY="85" InFrameY0="map-011.png"/>
+<Ftitle InFrameReverse="0" InFrameX="-399" InFrameY="100" InFrameY0="map-012.png"/>
+<Ftitle InFrameReverse="0" InFrameX="-371" InFrameY="114" InFrameY0="map-011.png"/>
+<Ftitle InFrameReverse="0" InFrameX="-399" InFrameY="129" InFrameY0="map-012.png"/>
+<Ftitle InFrameReverse="0" InFrameX="-429" InFrameY="143" InFrameY0="map-011.png"/>
+<Ftitle InFrameReverse="0" InFrameX="-343" InFrameY="127" InFrameY0="map-011.png"/>
+<Ftitle InFrameReverse="0" InFrameX="-316" InFrameY="141" InFrameY0="map-012.png"/>
+<Ftitle InFrameReverse="0" InFrameX="-315" InFrameY="171" InFrameY0="map-011.png"/>
+<Ftitle InFrameReverse="0" InFrameX="-343" InFrameY="186" InFrameY0="map-012.png"/>
+<Ftitle InFrameReverse="0" InFrameX="-396" InFrameY="214" InFrameY0="map-011.png"/>
+<Ftitle InFrameReverse="0" InFrameX="-343" InFrameY="215" InFrameY0="map-012.png"/>
+<Ftitle InFrameReverse="0" InFrameX="-314" InFrameY="229" InFrameY0="map-011.png"/>
+<Ftitle InFrameReverse="0" InFrameX="74" InFrameY="113" InFrameY0="map-012.png"/>
+<Ftitle InFrameReverse="0" InFrameX="-353" InFrameY="223" InFrameY0="map-013.png"/>
+<Ftitle InFrameReverse="0" InFrameX="-314" InFrameY="159" InFrameY0="map-015.png"/>
+<Ftitle InFrameReverse="0" InFrameX="104" InFrameY="127" InFrameY0="map-011.png"/>
+<Ftitle InFrameReverse="0" InFrameX="-404" InFrameY="160" InFrameY0="map-013.png"/>
+<Ftitle InFrameReverse="0" InFrameX="134" InFrameY="141" InFrameY0="map-011.png"/>
+<Ftitle InFrameReverse="0" InFrameX="108" InFrameY="155" InFrameY0="map-012.png"/>
+<Ftitle InFrameReverse="0" InFrameX="82" InFrameY="169" InFrameY0="map-011.png"/>
+<Ftitle InFrameReverse="0" InFrameX="54" InFrameY="184" InFrameY0="map-012.png"/>
+<Ftitle InFrameReverse="0" InFrameX="25" InFrameY="198" InFrameY0="map-011.png"/>
+<Ftitle InFrameReverse="0" InFrameX="-3" InFrameY="213" InFrameY0="map-012.png"/>
+<Ftitle InFrameReverse="0" InFrameX="-38" InFrameY="231" InFrameY0="map-011.png"/>
+<Ftitle InFrameReverse="0" InFrameX="-74" InFrameY="249" InFrameY0="map-012.png"/>
+<Ftitle InFrameReverse="0" InFrameX="-102" InFrameY="263" InFrameY0="map-011.png"/>
+<Ftitle InFrameReverse="0" InFrameX="-131" InFrameY="279" InFrameY0="map-012.png"/>
+<Ftitle InFrameReverse="0" InFrameX="-158" InFrameY="294" InFrameY0="map-011.png"/>
+<Ftitle InFrameReverse="0" InFrameX="-184" InFrameY="308" InFrameY0="map-012.png"/>
+<Ftitle InFrameReverse="0" InFrameX="-46" InFrameY="202" InFrameY0="map-009.png"/>
+<Ftitle InFrameReverse="0" InFrameX="272" InFrameY="-23" InFrameY0="map-011.png"/>
+<Ftitle InFrameReverse="0" InFrameX="298" InFrameY="-10" InFrameY0="map-012.png"/>
+<Ftitle InFrameReverse="0" InFrameX="244" InFrameY="-8" InFrameY0="map-012.png"/>
+<Ftitle InFrameReverse="0" InFrameX="272" InFrameY="5" InFrameY0="map-011.png"/>
+<Ftitle InFrameReverse="0" InFrameX="165" InFrameY="154" InFrameY0="map-011.png"/>
+<Ftitle InFrameReverse="0" InFrameX="-21" InFrameY="245" InFrameY0="map-013.png"/>
+<Ftitle InFrameReverse="0" InFrameX="-119" InFrameY="270" InFrameY0="map-015.png"/>
+<Ftitle InFrameReverse="0" InFrameX="155" InFrameY="167" InFrameY0="map-015.png"/>
+<Ftitle InFrameReverse="0" InFrameX="221" InFrameY="152" InFrameY0="map-012.png"/>
+<Ftitle InFrameReverse="0" InFrameX="197" InFrameY="167" InFrameY0="map-011.png"/>
+<Ftitle InFrameReverse="0" InFrameX="226" InFrameY="182" InFrameY0="map-012.png"/>
+<Ftitle InFrameReverse="0" InFrameX="454" InFrameY="40" InFrameY0="map-011.png"/>
+<Ftitle InFrameReverse="0" InFrameX="425" InFrameY="54" InFrameY0="map-012.png"/>
+<Ftitle InFrameReverse="0" InFrameX="398" InFrameY="68" InFrameY0="map-011.png"/>
+<Ftitle InFrameReverse="0" InFrameX="370" InFrameY="81" InFrameY0="map-012.png"/>
+<Ftitle InFrameReverse="0" InFrameX="343" InFrameY="95" InFrameY0="map-011.png"/>
+<Ftitle InFrameReverse="0" InFrameX="315" InFrameY="107" InFrameY0="map-012.png"/>
+<Ftitle InFrameReverse="0" InFrameX="289" InFrameY="120" InFrameY0="map-012.png"/>
+<Ftitle InFrameReverse="0" InFrameX="258" InFrameY="136" InFrameY0="map-011.png"/>
+<Ftitle InFrameReverse="0" InFrameX="252" InFrameY="168" InFrameY0="map-013.png"/>
+<Ftitle InFrameReverse="0" InFrameX="59" InFrameY="115" InFrameY0="map-013.png"/>
+<Ftitle InFrameReverse="0" InFrameX="217" InFrameY="146" InFrameY0="map-015.png"/>
+<Ftitle InFrameReverse="0" InFrameX="366" InFrameY="41" InFrameY0="map-006.png"/>
+<Ftitle InFrameReverse="0" InFrameX="343" InFrameY="53" InFrameY0="map-006.png"/>
+<Ftitle InFrameReverse="0" InFrameX="76" InFrameY="-311" InFrameY0="map-011.png"/>
+<Ftitle InFrameReverse="0" InFrameX="47" InFrameY="-296" InFrameY0="map-012.png"/>
+<Ftitle InFrameReverse="0" InFrameX="103" InFrameY="-296" InFrameY0="map-012.png"/>
+<Ftitle InFrameReverse="0" InFrameX="74" InFrameY="-282" InFrameY0="map-011.png"/>
+<Ftitle InFrameReverse="0" InFrameX="-353" InFrameY="-302" InFrameY0="map-008.png"/>
+<Ftitle InFrameReverse="1" InFrameX="241" InFrameY="-42" InFrameY0="map-009.png"/>
+<Ftitle InFrameReverse="0" InFrameX="-135" InFrameY="-181" InFrameY0="map-014.png"/>
+<Ftitle InFrameReverse="0" InFrameX="-203" InFrameY="83" InFrameY0="map-014.png"/>
+<Ftitle InFrameReverse="0" InFrameX="440" InFrameY="140" InFrameY0="map-014.png"/>
+<Ftitle InFrameReverse="0" InFrameX="-459" InFrameY="-179" InFrameY0="map-016.png"/>
+<Ftitle InFrameReverse="0" InFrameX="318" InFrameY="204" InFrameY0="map-016.png"/>
+<Ftitle InFrameReverse="0" InFrameX="-312" InFrameY="-225" InFrameY0="map-011.png"/>
+<Ftitle InFrameReverse="0" InFrameX="-340" InFrameY="-210" InFrameY0="map-012.png"/>
+<Ftitle InFrameReverse="0" InFrameX="-368" InFrameY="-196" InFrameY0="map-011.png"/>
+<Ftitle InFrameReverse="0" InFrameX="-340" InFrameY="-181" InFrameY0="map-012.png"/>
+<Ftitle InFrameReverse="0" InFrameX="-369" InFrameY="-166" InFrameY0="map-011.png"/>
+<Ftitle InFrameReverse="0" InFrameX="-368" InFrameY="-135" InFrameY0="map-012.png"/>
+<Ftitle InFrameReverse="0" InFrameX="-339" InFrameY="-120" InFrameY0="map-011.png"/>
+<Ftitle InFrameReverse="0" InFrameX="-309" InFrameY="-104" InFrameY0="map-011.png"/>
+<Ftitle InFrameReverse="0" InFrameX="-279" InFrameY="-89" InFrameY0="map-011.png"/>
+<Ftitle InFrameReverse="0" InFrameX="-252" InFrameY="-74" InFrameY0="map-012.png"/>
+<Ftitle InFrameReverse="0" InFrameX="-224" InFrameY="-61" InFrameY0="map-011.png"/>
+<Ftitle InFrameReverse="0" InFrameX="-263" InFrameY="-43" InFrameY0="map-012.png"/>
+<Ftitle InFrameReverse="0" InFrameX="-236" InFrameY="-31" InFrameY0="map-011.png"/>
+<Ftitle InFrameReverse="0" InFrameX="-263" InFrameY="-17" InFrameY0="map-012.png"/>
+<Ftitle InFrameReverse="0" InFrameX="-291" InFrameY="-4" InFrameY0="map-011.png"/>
+<Ftitle InFrameReverse="0" InFrameX="-262" InFrameY="-67" InFrameY0="map-013.png"/>
+<Ftitle InFrameReverse="0" InFrameX="-319" InFrameY="9" InFrameY0="map-011.png"/>
+<Ftitle InFrameReverse="0" InFrameX="-394" InFrameY="43" InFrameY0="map-012.png"/>
+<Ftitle InFrameReverse="0" InFrameX="-423" InFrameY="57" InFrameY0="map-011.png"/>
+<Ftitle InFrameReverse="0" InFrameX="456" InFrameY="-323" InFrameY0="map-011.png"/>
+<Ftitle InFrameReverse="0" InFrameX="428" InFrameY="-309" InFrameY0="map-012.png"/>
+<Ftitle InFrameReverse="0" InFrameX="401" InFrameY="-293" InFrameY0="map-011.png"/>
+<Ftitle InFrameReverse="0" InFrameX="370" InFrameY="-280" InFrameY0="map-012.png"/>
+<Ftitle InFrameReverse="0" InFrameX="342" InFrameY="-265" InFrameY0="map-011.png"/>
+<Ftitle InFrameReverse="0" InFrameX="283" InFrameY="-238" InFrameY0="map-012.png"/>
+<Ftitle InFrameReverse="0" InFrameX="255" InFrameY="-223" InFrameY0="map-011.png"/>
+<Ftitle InFrameReverse="0" InFrameX="227" InFrameY="-209" InFrameY0="map-012.png"/>
+<Ftitle InFrameReverse="0" InFrameX="199" InFrameY="-194" InFrameY0="map-011.png"/>
+<Ftitle InFrameReverse="0" InFrameX="153" InFrameY="-175" InFrameY0="map-012.png"/>
+<Ftitle InFrameReverse="0" InFrameX="123" InFrameY="-160" InFrameY0="map-011.png"/>
+<Ftitle InFrameReverse="0" InFrameX="-96" InFrameY="142" InFrameY0="map-011.png"/>
+<Ftitle InFrameReverse="0" InFrameX="-127" InFrameY="157" InFrameY0="map-012.png"/>
+<Ftitle InFrameReverse="0" InFrameX="-69" InFrameY="157" InFrameY0="map-012.png"/>
+<Ftitle InFrameReverse="0" InFrameX="-97" InFrameY="170" InFrameY0="map-011.png"/>
+<Ftitle InFrameReverse="0" InFrameX="154" InFrameY="-147" InFrameY0="map-011.png"/>
+<Ftitle InFrameReverse="0" InFrameX="212" InFrameY="-119" InFrameY0="map-011.png"/>
+<Ftitle InFrameReverse="0" InFrameX="196" InFrameY="-113" InFrameY0="map-013.png"/>
+<Ftitle InFrameReverse="0" InFrameX="35" InFrameY="-285" InFrameY0="map-013.png"/>
+<Ftitle InFrameReverse="0" InFrameX="68" InFrameY="-211" InFrameY0="map-014.png"/>
+<Ftitle InFrameReverse="0" InFrameX="58" InFrameY="17" InFrameY0="map-014.png"/>
+<Ftitle InFrameReverse="0" InFrameX="175" InFrameY="-302" InFrameY0="map-008.png"/>
+<Ftitle InFrameReverse="0" InFrameX="194" InFrameY="-225" InFrameY0="map-015.png"/>
+<Ftitle InFrameReverse="1" InFrameX="-1" InFrameY="-56" InFrameY0="map-006.png"/>
+<Ftitle InFrameReverse="1" InFrameX="-33" InFrameY="-41" InFrameY0="map-006.png"/>
+<Ftitle InFrameReverse="0" InFrameX="-622" InFrameY="-85" InFrameY0="map-009.png"/>
+<Ftitle InFrameReverse="0" InFrameX="-526" InFrameY="-123" InFrameY0="map-008.png"/>
+<Ftitle InFrameReverse="0" InFrameX="-507" InFrameY="-53" InFrameY0="map-011.png"/>
+<Ftitle InFrameReverse="0" InFrameX="-480" InFrameY="-39" InFrameY0="map-012.png"/>
+<Ftitle InFrameReverse="0" InFrameX="-405" InFrameY="306" InFrameY0="map-013.png"/>
+<Ftitle InFrameReverse="0" InFrameX="144" InFrameY="184" InFrameY0="map-014.png"/>
+<Ftitle InFrameReverse="0" InFrameX="72" InFrameY="133" InFrameY0="map-006.png"/>
+<Ftitle InFrameReverse="0" InFrameX="292" InFrameY="-219" InFrameY0="map-006.png"/>
+<Ftitle InFrameReverse="0" InFrameX="269" InFrameY="-208" InFrameY0="map-006.png"/>
+<Ftitle InFrameReverse="0" InFrameX="346" InFrameY="-73" InFrameY0="map-014.png"/>
+<Ftitle InFrameReverse="0" InFrameX="331" InFrameY="-96" InFrameY0="map-015.png"/>
+<Ftitle InFrameReverse="0" InFrameX="305" InFrameY="-110" InFrameY0="map-013.png"/>
+<Ftitle InFrameReverse="0" InFrameX="370" InFrameY="-200" InFrameY0="map-012.png"/>
+<Ftitle InFrameReverse="0" InFrameX="400" InFrameY="-186" InFrameY0="map-011.png"/>
+<Ftitle InFrameReverse="0" InFrameX="345" InFrameY="-184" InFrameY0="map-011.png"/>
+<Ftitle InFrameReverse="0" InFrameX="375" InFrameY="-172" InFrameY0="map-012.png"/>
+<Ftitle InFrameReverse="0" InFrameX="546" InFrameY="-134" InFrameY0="map-007.png"/>
+<Ftitle InFrameReverse="0" InFrameX="-125" InFrameY="-117" InFrameY0="map-014.png"/>
+<Ftitle InFrameReverse="0" InFrameX="-119" InFrameY="-109" InFrameY0="map-014.png"/>
+<Ftitle InFrameReverse="0" InFrameX="-258" InFrameY="-293" InFrameY0="map-013.png"/>
+<Ftitle InFrameReverse="0" InFrameX="-298" InFrameY="-313" InFrameY0="map-015.png"/>
+<Ftitle InFrameReverse="0" InFrameX="-78" InFrameY="-137" InFrameY0="map-011.png"/>
+<Ftitle InFrameReverse="0" InFrameX="-248" InFrameY="13" InFrameY0="map-012.png"/>
+<Ftitle InFrameReverse="0" InFrameX="108" InFrameY="269" InFrameY0="map-011.png"/>
+<Ftitle InFrameReverse="0" InFrameX="-362" InFrameY="-57" InFrameY0="map-011.png"/>
+<Ftitle InFrameReverse="0" InFrameX="135" InFrameY="283" InFrameY0="map-012.png"/>
+<Ftitle InFrameReverse="0" InFrameX="164" InFrameY="298" InFrameY0="map-011.png"/>
+<Ftitle InFrameReverse="0" InFrameX="207" InFrameY="311" InFrameY0="map-013.png"/>
+<Ftitle InFrameReverse="0" InFrameX="-160" InFrameY="-336" InFrameY0="map-011.png"/>
+<Ftitle InFrameReverse="0" InFrameX="-189" InFrameY="-321" InFrameY0="map-012.png"/>
+<Ftitle InFrameReverse="0" InFrameX="-135" InFrameY="-322" InFrameY0="map-012.png"/>
+<Ftitle InFrameReverse="0" InFrameX="8" InFrameY="420" InFrameY0="map-006.png"/>
+<Ftitle InFrameReverse="0" InFrameX="158" InFrameY="401" InFrameY0="map-002.png"/>
+<Ftitle InFrameReverse="0" InFrameX="-19" InFrameY="441" InFrameY0="map-008.png"/>
+<Ftitle InFrameReverse="0" InFrameX="-517" InFrameY="206" InFrameY0="map-009.png"/>
+<Ftitle InFrameReverse="0" InFrameX="-42" InFrameY="427" InFrameY0="map-014.png"/>
+<Ftitle InFrameReverse="0" InFrameX="-548" InFrameY="280" InFrameY0="map-016.png"/>
+<Ftitle InFrameReverse="0" InFrameX="-258" InFrameY="430" InFrameY0="map-007.png"/>
+<Ftitle InFrameReverse="1" InFrameX="-66" InFrameY="-25" InFrameY0="map-006.png"/>
+<Ftitle InFrameReverse="0" InFrameX="-720" InFrameY="440" InFrameY0="map-006.png"/>
+<Ftitle InFrameReverse="0" InFrameX="58" InFrameY="-28" InFrameY0="map-006.png"/>
+<Ftitle InFrameReverse="0" InFrameX="662" InFrameY="-478" InFrameY0="map-006.png"/>
+<Ftitle InFrameReverse="0" InFrameX="661" InFrameY="438" InFrameY0="map-006.png"/>
+<Ftitle InFrameReverse="0" InFrameX="-754" InFrameY="-25" InFrameY0="map-003.png"/>
+<Ftitle InFrameReverse="0" InFrameX="-655" InFrameY="-266" InFrameY0="map-002.png"/>
+<Ftitle InFrameReverse="0" InFrameX="551" InFrameY="-364" InFrameY0="map-001.png"/>
+<Ftitle InFrameReverse="0" InFrameX="305" InFrameY="-423" InFrameY0="map-003.png"/>
+<Ftitle InFrameReverse="0" InFrameX="459" InFrameY="122" InFrameY0="map-004.png"/>
+<Ftitle InFrameReverse="0" InFrameX="350" InFrameY="346" InFrameY0="map-012.png"/>
+<Ftitle InFrameReverse="0" InFrameX="380" InFrameY="361" InFrameY0="map-011.png"/>
+<Ftitle InFrameReverse="0" InFrameX="355" InFrameY="355" InFrameY0="map-006.png"/>
+<Ftitle InFrameReverse="0" InFrameX="-623" InFrameY="-346" InFrameY0="map-011.png"/>
+<Ftitle InFrameReverse="0" InFrameX="-563" InFrameY="-345" InFrameY0="map-012.png"/>
+<Ftitle InFrameReverse="0" InFrameX="-578" InFrameY="-328" InFrameY0="map-013.png"/>
+<Ftitle InFrameReverse="0" InFrameX="-590" InFrameY="-314" InFrameY0="map-014.png"/>
+<Ftitle InFrameReverse="0" InFrameX="-571" InFrameY="-352" InFrameY0="map-014.png"/>
+<Ftitle InFrameReverse="0" InFrameX="573" InFrameY="-23" InFrameY0="map-016.png"/>
+<Ftitle InFrameReverse="0" InFrameX="576" InFrameY="0" InFrameY0="map-006.png"/>
+<Ftitle InFrameReverse="0" InFrameX="641" InFrameY="7" InFrameY0="map-014.png"/>
+<Ftitle InFrameReverse="0" InFrameX="557" InFrameY="3" InFrameY0="map-014.png"/>
+<Ftitle InFrameReverse="0" InFrameX="623" InFrameY="10" InFrameY0="map-013.png"/>
+<Ftitle InFrameReverse="0" InFrameX="648" InFrameY="-5" InFrameY0="map-015.png"/>
+<Ftitle InFrameReverse="0" InFrameX="-98" InFrameY="-7" InFrameY0="map-006.png"/>
+<Ftitle InFrameReverse="0" InFrameX="-64" InFrameY="10" InFrameY0="map-006.png"/>
+<Ftitle InFrameReverse="0" InFrameX="-30" InFrameY="-64" InFrameY0="map-006.png"/>
+<Ftitle InFrameReverse="0" InFrameX="-29" InFrameY="26" InFrameY0="map-006.png"/>
+<Ftitle InFrameReverse="1" InFrameX="110" InFrameY="-10" InFrameY0="map-006.png"/>
+<Ftitle InFrameReverse="1" InFrameX="80" InFrameY="6" InFrameY0="map-006.png"/>
+<Ftitle InFrameReverse="1" InFrameX="53" InFrameY="20" InFrameY0="map-006.png"/>
+</frame>
+<frame DateCount="0" FrameIndex="8" FrameName="hua" TitleCount="1">
+<Ftitle InFrameReverse="0" InFrameX="-26" InFrameY="-27" InFrameY0="map-006.png"/>
+</frame>
+<frame DateCount="0" FrameIndex="9" FrameName="chelun" TitleCount="1">
+<Ftitle InFrameReverse="0" InFrameX="-35" InFrameY="-17" InFrameY0="map-008.png"/>
+</frame>
+<frame DateCount="0" FrameIndex="10" FrameName="muban" TitleCount="1">
+<Ftitle InFrameReverse="0" InFrameX="-31" InFrameY="-23" InFrameY0="map-007.png"/>
+</frame>
+<frame DateCount="0" FrameIndex="11" FrameName="hu" TitleCount="1">
+<Ftitle InFrameReverse="0" InFrameX="-23" InFrameY="-12" InFrameY0="map-009.png"/>
+</frame>
+<frame DateCount="0" FrameIndex="12" FrameName="shitou1" TitleCount="1">
+<Ftitle InFrameReverse="0" InFrameX="-25" InFrameY="-18" InFrameY0="map-011.png"/>
+</frame>
+<frame DateCount="0" FrameIndex="13" FrameName="shitou2" TitleCount="1">
+<Ftitle InFrameReverse="0" InFrameX="-25" InFrameY="-16" InFrameY0="map-012.png"/>
+</frame>
+<frame DateCount="0" FrameIndex="14" FrameName="xiaoshitou" TitleCount="1">
+<Ftitle InFrameReverse="0" InFrameX="-11" InFrameY="-15" InFrameY0="map-013.png"/>
+</frame>
+<frame DateCount="0" FrameIndex="15" FrameName="shuichi" TitleCount="1">
+<Ftitle InFrameReverse="0" InFrameX="-38" InFrameY="-24" InFrameY0="map-016.png"/>
+</frame>
+<frame DateCount="0" FrameIndex="16" FrameName="HUA2" TitleCount="1">
+<Ftitle InFrameReverse="1" InFrameX="26" InFrameY="-25" InFrameY0="map-006.png"/>
+</frame>
+<frame DateCount="0" FrameIndex="17" FrameName="TUDI1" TitleCount="1">
+<Ftitle InFrameReverse="0" InFrameX="-157" InFrameY="-88" InFrameY0="map-001.png"/>
+</frame>
+<frame DateCount="0" FrameIndex="18" FrameName="TUDI2" TitleCount="1">
+<Ftitle InFrameReverse="0" InFrameX="-96" InFrameY="-49" InFrameY0="map-002.png"/>
+</frame>
+<frame DateCount="0" FrameIndex="19" FrameName="TUDI3" TitleCount="1">
+<Ftitle InFrameReverse="0" InFrameX="-48" InFrameY="-17" InFrameY0="map-003.png"/>
+</frame>
+<frame DateCount="0" FrameIndex="20" FrameName="TUDI4" TitleCount="1">
+<Ftitle InFrameReverse="0" InFrameX="-209" InFrameY="-120" InFrameY0="map-004.png"/>
+</frame>
+<frame DateCount="0" FrameIndex="21" FrameName="xiaohua" TitleCount="1">
+<Ftitle InFrameReverse="0" InFrameX="-11" InFrameY="-10" InFrameY0="map-014.png"/>
+</frame>
+<frame DateCount="0" FrameIndex="22" FrameName="xiaoshitou2" TitleCount="1">
+<Ftitle InFrameReverse="0" InFrameX="-6" InFrameY="-7" InFrameY0="map-015.png"/>
+</frame>
+</frames>
+<actions ActionCount="19">
+<action FrameCount="1" actionIndex="0" actionName="senlin">
+<Aframe Delay="0" Index="0"/>
+</action>
+<action FrameCount="1" actionIndex="1" actionName="shu">
+<Aframe Delay="0" Index="1"/>
+</action>
+<action FrameCount="1" actionIndex="2" actionName="zhalan">
+<Aframe Delay="0" Index="2"/>
+</action>
+<action FrameCount="4" actionIndex="3" actionName="huo">
+<Aframe Delay="2" Index="3"/>
+<Aframe Delay="2" Index="4"/>
+<Aframe Delay="2" Index="5"/>
+<Aframe Delay="2" Index="6"/>
+</action>
+<action FrameCount="1" actionIndex="4" actionName="hua">
+<Aframe Delay="0" Index="8"/>
+</action>
+<action FrameCount="1" actionIndex="5" actionName="chelun">
+<Aframe Delay="0" Index="9"/>
+</action>
+<action FrameCount="1" actionIndex="6" actionName="muban">
+<Aframe Delay="0" Index="10"/>
+</action>
+<action FrameCount="1" actionIndex="7" actionName="hu">
+<Aframe Delay="0" Index="11"/>
+</action>
+<action FrameCount="1" actionIndex="8" actionName="shitou1">
+<Aframe Delay="0" Index="12"/>
+</action>
+<action FrameCount="1" actionIndex="9" actionName="shitou2">
+<Aframe Delay="0" Index="13"/>
+</action>
+<action FrameCount="1" actionIndex="10" actionName="xiaoshitou">
+<Aframe Delay="0" Index="14"/>
+</action>
+<action FrameCount="1" actionIndex="11" actionName="shuichi">
+<Aframe Delay="0" Index="15"/>
+</action>
+<action FrameCount="1" actionIndex="12" actionName="HUA2">
+<Aframe Delay="0" Index="16"/>
+</action>
+<action FrameCount="1" actionIndex="13" actionName="TUDI1">
+<Aframe Delay="0" Index="17"/>
+</action>
+<action FrameCount="1" actionIndex="14" actionName="TUDI2">
+<Aframe Delay="0" Index="18"/>
+</action>
+<action FrameCount="1" actionIndex="15" actionName="TUDI3">
+<Aframe Delay="0" Index="19"/>
+</action>
+<action FrameCount="1" actionIndex="16" actionName="TUDI4">
+<Aframe Delay="0" Index="20"/>
+</action>
+<action FrameCount="1" actionIndex="17" actionName="xiaohua">
+<Aframe Delay="0" Index="21"/>
+</action>
+<action FrameCount="1" actionIndex="18" actionName="xiaoshitou2">
+<Aframe Delay="0" Index="22"/>
+</action>
+</actions>
+</Map>

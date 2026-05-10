@@ -1,0 +1,354 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<Map>
+<frames FrameCount="52">
+<frame DateCount="0" FrameIndex="0" FrameName="将领头像框低栏" TitleCount="5">
+<Ftitle InFrameReverse="0" InFrameX="100" InFrameY="-102" InFrameY0="ZU-009.png"/>
+<Ftitle InFrameReverse="0" InFrameX="0" InFrameY="-143" InFrameY0="ZU-007.png"/>
+<Ftitle InFrameReverse="0" InFrameX="429" InFrameY="-138" InFrameY0="ZU-055.png"/>
+<Ftitle InFrameReverse="0" InFrameX="171" InFrameY="-137" InFrameY0="ZU-056.png"/>
+<Ftitle InFrameReverse="0" InFrameX="313" InFrameY="-137" InFrameY0="ZU-055.png"/>
+</frame>
+<frame DateCount="0" FrameIndex="1" FrameName="暂停键" TitleCount="1">
+<Ftitle InFrameReverse="0" InFrameX="-4" InFrameY="-76" InFrameY0="ZU-0011.png"/>
+</frame>
+<frame DateCount="0" FrameIndex="2" FrameName="技能框底图" TitleCount="1">
+<Ftitle InFrameReverse="0" InFrameX="-4" InFrameY="-82" InFrameY0="ZU-0012.png"/>
+</frame>
+<frame DateCount="0" FrameIndex="3" FrameName="技能框遮罩" TitleCount="0"/>
+<frame DateCount="0" FrameIndex="4" FrameName="队友头像框" TitleCount="1">
+<Ftitle InFrameReverse="0" InFrameX="1" InFrameY="-87" InFrameY0="ZU-0023.png"/>
+</frame>
+<frame DateCount="0" FrameIndex="5" FrameName="队友头像框遮罩" TitleCount="0"/>
+<frame DateCount="0" FrameIndex="6" FrameName="头像小乔" TitleCount="4">
+<Ftitle InFrameReverse="0" InFrameX="0" InFrameY="-141" InFrameY0="ZU-007.png"/>
+<Ftitle InFrameReverse="0" InFrameX="21" InFrameY="-130" InFrameY0="ZU-0024.png"/>
+<Ftitle InFrameReverse="0" InFrameX="-1" InFrameY="-57" InFrameY0="ZU-008.png"/>
+<Ftitle InFrameReverse="0" InFrameX="77" InFrameY="-88" InFrameY0="ZU-0010.png"/>
+</frame>
+<frame DateCount="0" FrameIndex="7" FrameName="头像曹操" TitleCount="4">
+<Ftitle InFrameReverse="0" InFrameX="0" InFrameY="-141" InFrameY0="ZU-007.png"/>
+<Ftitle InFrameReverse="0" InFrameX="13" InFrameY="-131" InFrameY0="ZU-0025.png"/>
+<Ftitle InFrameReverse="0" InFrameX="77" InFrameY="-88" InFrameY0="ZU-0010.png"/>
+<Ftitle InFrameReverse="0" InFrameX="-1" InFrameY="-57" InFrameY0="ZU-008.png"/>
+</frame>
+<frame DateCount="0" FrameIndex="8" FrameName="头像周瑜" TitleCount="4">
+<Ftitle InFrameReverse="0" InFrameX="0" InFrameY="-141" InFrameY0="ZU-007.png"/>
+<Ftitle InFrameReverse="0" InFrameX="16" InFrameY="-130" InFrameY0="ZU-0026.png"/>
+<Ftitle InFrameReverse="0" InFrameX="-1" InFrameY="-57" InFrameY0="ZU-008.png"/>
+<Ftitle InFrameReverse="0" InFrameX="77" InFrameY="-88" InFrameY0="ZU-0010.png"/>
+</frame>
+<frame DateCount="0" FrameIndex="9" FrameName="头像赵云" TitleCount="4">
+<Ftitle InFrameReverse="0" InFrameX="0" InFrameY="-141" InFrameY0="ZU-007.png"/>
+<Ftitle InFrameReverse="0" InFrameX="13" InFrameY="-132" InFrameY0="ZU-0027.png"/>
+<Ftitle InFrameReverse="0" InFrameX="77" InFrameY="-88" InFrameY0="ZU-0010.png"/>
+<Ftitle InFrameReverse="0" InFrameX="-1" InFrameY="-57" InFrameY0="ZU-008.png"/>
+</frame>
+<frame DateCount="0" FrameIndex="10" FrameName="头像司马懿" TitleCount="4">
+<Ftitle InFrameReverse="0" InFrameX="0" InFrameY="-141" InFrameY0="ZU-007.png"/>
+<Ftitle InFrameReverse="0" InFrameX="15" InFrameY="-130" InFrameY0="ZU-0028.png"/>
+<Ftitle InFrameReverse="0" InFrameX="77" InFrameY="-88" InFrameY0="ZU-0010.png"/>
+<Ftitle InFrameReverse="0" InFrameX="-1" InFrameY="-57" InFrameY0="ZU-008.png"/>
+</frame>
+<frame DateCount="0" FrameIndex="11" FrameName="头像孙尚香" TitleCount="4">
+<Ftitle InFrameReverse="0" InFrameX="0" InFrameY="-141" InFrameY0="ZU-007.png"/>
+<Ftitle InFrameReverse="0" InFrameX="17" InFrameY="-131" InFrameY0="ZU-0029.png"/>
+<Ftitle InFrameReverse="0" InFrameX="-1" InFrameY="-57" InFrameY0="ZU-008.png"/>
+<Ftitle InFrameReverse="0" InFrameX="77" InFrameY="-88" InFrameY0="ZU-0010.png"/>
+</frame>
+<frame DateCount="0" FrameIndex="12" FrameName="头像刘备" TitleCount="4">
+<Ftitle InFrameReverse="0" InFrameX="0" InFrameY="-141" InFrameY0="ZU-007.png"/>
+<Ftitle InFrameReverse="0" InFrameX="19" InFrameY="-130" InFrameY0="ZU-0030.png"/>
+<Ftitle InFrameReverse="0" InFrameX="-1" InFrameY="-57" InFrameY0="ZU-008.png"/>
+<Ftitle InFrameReverse="0" InFrameX="77" InFrameY="-88" InFrameY0="ZU-0010.png"/>
+</frame>
+<frame DateCount="0" FrameIndex="13" FrameName="头像甄姬" TitleCount="4">
+<Ftitle InFrameReverse="0" InFrameX="0" InFrameY="-141" InFrameY0="ZU-007.png"/>
+<Ftitle InFrameReverse="0" InFrameX="11" InFrameY="-130" InFrameY0="ZU-0031.png"/>
+<Ftitle InFrameReverse="0" InFrameX="-1" InFrameY="-57" InFrameY0="ZU-008.png"/>
+<Ftitle InFrameReverse="0" InFrameX="77" InFrameY="-88" InFrameY0="ZU-0010.png"/>
+</frame>
+<frame DateCount="0" FrameIndex="14" FrameName="关卡目标标志1" TitleCount="2">
+<Ftitle InFrameReverse="0" InFrameX="81" InFrameY="-55" InFrameY0="ZU-001.png"/>
+<Ftitle InFrameReverse="0" InFrameX="-8" InFrameY="-72" InFrameY0="ZU-0021.png"/>
+</frame>
+<frame DateCount="0" FrameIndex="15" FrameName="关卡底图" TitleCount="1">
+<Ftitle InFrameReverse="0" InFrameX="-5" InFrameY="-38" InFrameY0="ZU-0020.png"/>
+</frame>
+<frame DateCount="0" FrameIndex="16" FrameName="关卡目标2" TitleCount="2">
+<Ftitle InFrameReverse="0" InFrameX="-9" InFrameY="-77" InFrameY0="ZU-0035.png"/>
+<Ftitle InFrameReverse="0" InFrameX="80" InFrameY="-54" InFrameY0="ZU-002.png"/>
+</frame>
+<frame DateCount="0" FrameIndex="17" FrameName="关卡目标3" TitleCount="2">
+<Ftitle InFrameReverse="0" InFrameX="81" InFrameY="-55" InFrameY0="ZU-003.png"/>
+<Ftitle InFrameReverse="0" InFrameX="-9" InFrameY="-76" InFrameY0="ZU-0034.png"/>
+</frame>
+<frame DateCount="0" FrameIndex="18" FrameName="关卡目标4" TitleCount="2">
+<Ftitle InFrameReverse="0" InFrameX="-8" InFrameY="-76" InFrameY0="ZU-0033.png"/>
+<Ftitle InFrameReverse="0" InFrameX="81" InFrameY="-54" InFrameY0="ZU-004.png"/>
+</frame>
+<frame DateCount="0" FrameIndex="19" FrameName="关卡目标5" TitleCount="2">
+<Ftitle InFrameReverse="0" InFrameX="82" InFrameY="-55" InFrameY0="ZU-005.png"/>
+<Ftitle InFrameReverse="0" InFrameX="-9" InFrameY="-72" InFrameY0="ZU-0036.png"/>
+</frame>
+<frame DateCount="0" FrameIndex="20" FrameName="BOSS0_z" TitleCount="4">
+<Ftitle InFrameReverse="0" InFrameX="175" InFrameY="-58" InFrameY0="ZU-0041.png"/>
+<Ftitle InFrameReverse="0" InFrameX="-7" InFrameY="-95" InFrameY0="ZU-0045.png"/>
+<Ftitle InFrameReverse="0" InFrameX="3" InFrameY="-87" InFrameY0="ZU-0026.png"/>
+<Ftitle InFrameReverse="0" InFrameX="0" InFrameY="-89" InFrameY0="ZU-0044.png"/>
+</frame>
+<frame DateCount="0" FrameIndex="21" FrameName="BOSS1_x" TitleCount="4">
+<Ftitle InFrameReverse="0" InFrameX="175" InFrameY="-58" InFrameY0="ZU-0041.png"/>
+<Ftitle InFrameReverse="0" InFrameX="-7" InFrameY="-95" InFrameY0="ZU-0045.png"/>
+<Ftitle InFrameReverse="0" InFrameX="5" InFrameY="-87" InFrameY0="ZU-0024.png"/>
+<Ftitle InFrameReverse="0" InFrameX="0" InFrameY="-89" InFrameY0="ZU-0044.png"/>
+</frame>
+<frame DateCount="0" FrameIndex="22" FrameName="BOSS2_s" TitleCount="4">
+<Ftitle InFrameReverse="0" InFrameX="175" InFrameY="-58" InFrameY0="ZU-0041.png"/>
+<Ftitle InFrameReverse="0" InFrameX="-7" InFrameY="-95" InFrameY0="ZU-0045.png"/>
+<Ftitle InFrameReverse="0" InFrameX="4" InFrameY="-89" InFrameY0="ZU-0028.png"/>
+<Ftitle InFrameReverse="0" InFrameX="0" InFrameY="-89" InFrameY0="ZU-0044.png"/>
+</frame>
+<frame DateCount="0" FrameIndex="23" FrameName="BOSS3_z" TitleCount="4">
+<Ftitle InFrameReverse="0" InFrameX="175" InFrameY="-58" InFrameY0="ZU-0041.png"/>
+<Ftitle InFrameReverse="0" InFrameX="-7" InFrameY="-95" InFrameY0="ZU-0045.png"/>
+<Ftitle InFrameReverse="0" InFrameX="7" InFrameY="-88" InFrameY0="ZU-0031.png"/>
+<Ftitle InFrameReverse="0" InFrameX="0" InFrameY="-89" InFrameY0="ZU-0044.png"/>
+</frame>
+<frame DateCount="0" FrameIndex="24" FrameName="BOSS4_c" TitleCount="4">
+<Ftitle InFrameReverse="0" InFrameX="175" InFrameY="-58" InFrameY0="ZU-0041.png"/>
+<Ftitle InFrameReverse="0" InFrameX="-7" InFrameY="-95" InFrameY0="ZU-0045.png"/>
+<Ftitle InFrameReverse="0" InFrameX="7" InFrameY="-86" InFrameY0="ZU-0025.png"/>
+<Ftitle InFrameReverse="0" InFrameX="0" InFrameY="-89" InFrameY0="ZU-0044.png"/>
+</frame>
+<frame DateCount="0" FrameIndex="25" FrameName="BOSSxuetiao" TitleCount="1">
+<Ftitle InFrameReverse="0" InFrameX="-10" InFrameY="-72" InFrameY0="ZU-0039.png"/>
+</frame>
+<frame DateCount="0" FrameIndex="26" FrameName="BOSSNU" TitleCount="1">
+<Ftitle InFrameReverse="0" InFrameX="-28" InFrameY="-113" InFrameY0="ZU-0043.png"/>
+</frame>
+<frame DateCount="0" FrameIndex="27" FrameName="蓄力条0" TitleCount="1">
+<Ftitle InFrameReverse="0" InFrameX="-3" InFrameY="-23" InFrameY0="ZU-0046.png"/>
+</frame>
+<frame DateCount="0" FrameIndex="28" FrameName="蓄力条1" TitleCount="1">
+<Ftitle InFrameReverse="0" InFrameX="-16" InFrameY="-35" InFrameY0="ZU-054.png"/>
+</frame>
+<frame DateCount="0" FrameIndex="29" FrameName="蓄力条2" TitleCount="1">
+<Ftitle InFrameReverse="0" InFrameX="-46" InFrameY="-64" InFrameY0="ZU-0048.png"/>
+</frame>
+<frame DateCount="0" FrameIndex="30" FrameName="小兵血条" TitleCount="1">
+<Ftitle InFrameReverse="0" InFrameX="-4" InFrameY="-9" InFrameY0="ZU-0038.png"/>
+</frame>
+<frame DateCount="0" FrameIndex="31" FrameName="守护血条" TitleCount="1">
+<Ftitle InFrameReverse="0" InFrameX="-11" InFrameY="-22" InFrameY0="ZU-050.png"/>
+</frame>
+<frame DateCount="0" FrameIndex="32" FrameName="0" TitleCount="1">
+<Ftitle InFrameReverse="0" InFrameX="-35" InFrameY="-28" InFrameY0="ZU-065.png"/>
+</frame>
+<frame DateCount="0" FrameIndex="33" FrameName="1" TitleCount="1">
+<Ftitle InFrameReverse="0" InFrameX="-31" InFrameY="-24" InFrameY0="ZU-066.png"/>
+</frame>
+<frame DateCount="0" FrameIndex="34" FrameName="2" TitleCount="2">
+<Ftitle InFrameReverse="0" InFrameX="-35" InFrameY="-28" InFrameY0="ZU-065.png"/>
+<Ftitle InFrameReverse="0" InFrameX="22" InFrameY="-30" InFrameY0="ZU-068.png"/>
+</frame>
+<frame DateCount="0" FrameIndex="35" FrameName="3" TitleCount="2">
+<Ftitle InFrameReverse="0" InFrameX="-35" InFrameY="-28" InFrameY0="ZU-065.png"/>
+<Ftitle InFrameReverse="0" InFrameX="15" InFrameY="-38" InFrameY0="ZU-067.png"/>
+</frame>
+<frame DateCount="0" FrameIndex="36" FrameName="4" TitleCount="3">
+<Ftitle InFrameReverse="0" InFrameX="-35" InFrameY="-28" InFrameY0="ZU-065.png"/>
+<Ftitle InFrameReverse="0" InFrameX="22" InFrameY="-30" InFrameY0="ZU-068.png"/>
+<Ftitle InFrameReverse="0" InFrameX="-9" InFrameY="-6" InFrameY0="ZU-068.png"/>
+</frame>
+<frame DateCount="0" FrameIndex="37" FrameName="5" TitleCount="2">
+<Ftitle InFrameReverse="0" InFrameX="-35" InFrameY="-28" InFrameY0="ZU-065.png"/>
+<Ftitle InFrameReverse="0" InFrameX="-15" InFrameY="-14" InFrameY0="ZU-067.png"/>
+</frame>
+<frame DateCount="0" FrameIndex="38" FrameName="6" TitleCount="3">
+<Ftitle InFrameReverse="0" InFrameX="-35" InFrameY="-28" InFrameY0="ZU-065.png"/>
+<Ftitle InFrameReverse="0" InFrameX="-9" InFrameY="-6" InFrameY0="ZU-068.png"/>
+<Ftitle InFrameReverse="0" InFrameX="-24" InFrameY="-29" InFrameY0="ZU-068.png"/>
+</frame>
+<frame DateCount="0" FrameIndex="39" FrameName="7" TitleCount="3">
+<Ftitle InFrameReverse="0" InFrameX="-35" InFrameY="-28" InFrameY0="ZU-065.png"/>
+<Ftitle InFrameReverse="0" InFrameX="23" InFrameY="5" InFrameY0="ZU-068.png"/>
+<Ftitle InFrameReverse="0" InFrameX="-30" InFrameY="-38" InFrameY0="ZU-067.png"/>
+</frame>
+<frame DateCount="0" FrameIndex="40" FrameName="8" TitleCount="2">
+<Ftitle InFrameReverse="0" InFrameX="-35" InFrameY="-28" InFrameY0="ZU-065.png"/>
+<Ftitle InFrameReverse="0" InFrameX="16" InFrameY="-4" InFrameY0="ZU-067.png"/>
+</frame>
+<frame DateCount="0" FrameIndex="41" FrameName="9" TitleCount="3">
+<Ftitle InFrameReverse="0" InFrameX="-35" InFrameY="-28" InFrameY0="ZU-065.png"/>
+<Ftitle InFrameReverse="0" InFrameX="23" InFrameY="3" InFrameY0="ZU-068.png"/>
+<Ftitle InFrameReverse="0" InFrameX="-30" InFrameY="8" InFrameY0="ZU-068.png"/>
+</frame>
+<frame DateCount="0" FrameIndex="42" FrameName="10" TitleCount="2">
+<Ftitle InFrameReverse="0" InFrameX="-35" InFrameY="-28" InFrameY0="ZU-065.png"/>
+<Ftitle InFrameReverse="0" InFrameX="-36" InFrameY="1" InFrameY0="ZU-067.png"/>
+</frame>
+<frame DateCount="0" FrameIndex="43" FrameName="11" TitleCount="2">
+<Ftitle InFrameReverse="0" InFrameX="-35" InFrameY="-28" InFrameY0="ZU-065.png"/>
+<Ftitle InFrameReverse="0" InFrameX="-30" InFrameY="8" InFrameY0="ZU-068.png"/>
+</frame>
+<frame DateCount="0" FrameIndex="44" FrameName="001" TitleCount="1">
+<Ftitle InFrameReverse="0" InFrameX="-111" InFrameY="-193" InFrameY0="ZU-069.png"/>
+</frame>
+<frame DateCount="0" FrameIndex="45" FrameName="002" TitleCount="1">
+<Ftitle InFrameReverse="0" InFrameX="-111" InFrameY="-193" InFrameY0="ZU-069.png"/>
+</frame>
+<frame DateCount="0" FrameIndex="46" FrameName="000" TitleCount="1">
+<Ftitle InFrameReverse="0" InFrameX="-111" InFrameY="-193" InFrameY0="ZU-069.png"/>
+</frame>
+<frame DateCount="0" FrameIndex="47" FrameName="111" TitleCount="2">
+<Ftitle InFrameReverse="0" InFrameX="-111" InFrameY="-193" InFrameY0="ZU-069.png"/>
+<Ftitle InFrameReverse="0" InFrameX="-66" InFrameY="-176" InFrameY0="ZU-070.png"/>
+</frame>
+<frame DateCount="0" FrameIndex="48" FrameName="222" TitleCount="2">
+<Ftitle InFrameReverse="0" InFrameX="-111" InFrameY="-193" InFrameY0="ZU-069.png"/>
+<Ftitle InFrameReverse="0" InFrameX="-65" InFrameY="-174" InFrameY0="ZU-071.png"/>
+</frame>
+<frame DateCount="0" FrameIndex="49" FrameName="333" TitleCount="2">
+<Ftitle InFrameReverse="0" InFrameX="-111" InFrameY="-193" InFrameY0="ZU-069.png"/>
+<Ftitle InFrameReverse="0" InFrameX="-64" InFrameY="-152" InFrameY0="ZU-072.png"/>
+</frame>
+<frame DateCount="0" FrameIndex="50" FrameName="444" TitleCount="2">
+<Ftitle InFrameReverse="0" InFrameX="-111" InFrameY="-193" InFrameY0="ZU-069.png"/>
+<Ftitle InFrameReverse="0" InFrameX="-65" InFrameY="-78" InFrameY0="ZU-073.png"/>
+</frame>
+<frame DateCount="0" FrameIndex="51" FrameName="555" TitleCount="2">
+<Ftitle InFrameReverse="0" InFrameX="-111" InFrameY="-193" InFrameY0="ZU-069.png"/>
+<Ftitle InFrameReverse="0" InFrameX="-65" InFrameY="-30" InFrameY0="ZU-074.png"/>
+</frame>
+</frames>
+<actions ActionCount="34">
+<action FrameCount="1" actionIndex="0" actionName="刘备头像">
+<Aframe Delay="0" Index="12"/>
+</action>
+<action FrameCount="1" actionIndex="1" actionName="赵云头像">
+<Aframe Delay="0" Index="9"/>
+</action>
+<action FrameCount="1" actionIndex="2" actionName="孙尚香头像">
+<Aframe Delay="0" Index="11"/>
+</action>
+<action FrameCount="1" actionIndex="3" actionName="周瑜头像">
+<Aframe Delay="0" Index="8"/>
+</action>
+<action FrameCount="1" actionIndex="4" actionName="小乔头像">
+<Aframe Delay="0" Index="6"/>
+</action>
+<action FrameCount="1" actionIndex="5" actionName="司马懿头像">
+<Aframe Delay="0" Index="10"/>
+</action>
+<action FrameCount="1" actionIndex="6" actionName="甄姬头像">
+<Aframe Delay="0" Index="13"/>
+</action>
+<action FrameCount="1" actionIndex="7" actionName="曹操头像">
+<Aframe Delay="0" Index="7"/>
+</action>
+<action FrameCount="1" actionIndex="8" actionName="将领头像血条栏">
+<Aframe Delay="0" Index="0"/>
+</action>
+<action FrameCount="1" actionIndex="9" actionName="队友头像框">
+<Aframe Delay="0" Index="4"/>
+</action>
+<action FrameCount="1" actionIndex="10" actionName="队友头像框遮罩">
+<Aframe Delay="0" Index="5"/>
+</action>
+<action FrameCount="1" actionIndex="11" actionName="关卡底图">
+<Aframe Delay="0" Index="15"/>
+</action>
+<action FrameCount="1" actionIndex="12" actionName="关卡目标1">
+<Aframe Delay="0" Index="14"/>
+</action>
+<action FrameCount="1" actionIndex="13" actionName="关卡目标2">
+<Aframe Delay="0" Index="18"/>
+</action>
+<action FrameCount="1" actionIndex="14" actionName="关卡目标3">
+<Aframe Delay="0" Index="17"/>
+</action>
+<action FrameCount="1" actionIndex="15" actionName="关卡目标4">
+<Aframe Delay="0" Index="16"/>
+</action>
+<action FrameCount="1" actionIndex="16" actionName="关卡目标5">
+<Aframe Delay="0" Index="19"/>
+</action>
+<action FrameCount="1" actionIndex="17" actionName="技能框底图">
+<Aframe Delay="0" Index="2"/>
+</action>
+<action FrameCount="1" actionIndex="18" actionName="技能框遮罩">
+<Aframe Delay="0" Index="3"/>
+</action>
+<action FrameCount="1" actionIndex="19" actionName="暂停键">
+<Aframe Delay="0" Index="1"/>
+</action>
+<action FrameCount="1" actionIndex="20" actionName="BOSS0">
+<Aframe Delay="0" Index="20"/>
+</action>
+<action FrameCount="1" actionIndex="21" actionName="BOSS1">
+<Aframe Delay="0" Index="21"/>
+</action>
+<action FrameCount="1" actionIndex="22" actionName="BOSS2">
+<Aframe Delay="0" Index="22"/>
+</action>
+<action FrameCount="1" actionIndex="23" actionName="BOSS3">
+<Aframe Delay="0" Index="23"/>
+</action>
+<action FrameCount="1" actionIndex="24" actionName="BOSS4">
+<Aframe Delay="0" Index="24"/>
+</action>
+<action FrameCount="1" actionIndex="25" actionName="BOSS血条">
+<Aframe Delay="0" Index="25"/>
+</action>
+<action FrameCount="1" actionIndex="26" actionName="BOSS怒">
+<Aframe Delay="0" Index="26"/>
+</action>
+<action FrameCount="1" actionIndex="27" actionName="蓄力条底">
+<Aframe Delay="0" Index="27"/>
+</action>
+<action FrameCount="1" actionIndex="28" actionName="蓄力颜色">
+<Aframe Delay="0" Index="29"/>
+</action>
+<action FrameCount="1" actionIndex="29" actionName="小兵血条">
+<Aframe Delay="0" Index="30"/>
+</action>
+<action FrameCount="1" actionIndex="30" actionName="守护血条">
+<Aframe Delay="0" Index="31"/>
+</action>
+<action FrameCount="1" actionIndex="31" actionName="蓄力遮罩">
+<Aframe Delay="0" Index="28"/>
+</action>
+<action FrameCount="20" actionIndex="32" actionName="激活">
+<Aframe Delay="8" Index="32"/>
+<Aframe Delay="3" Index="33"/>
+<Aframe Delay="3" Index="32"/>
+<Aframe Delay="3" Index="33"/>
+<Aframe Delay="3" Index="32"/>
+<Aframe Delay="3" Index="33"/>
+<Aframe Delay="3" Index="32"/>
+<Aframe Delay="3" Index="33"/>
+<Aframe Delay="3" Index="32"/>
+<Aframe Delay="3" Index="33"/>
+<Aframe Delay="3" Index="34"/>
+<Aframe Delay="3" Index="35"/>
+<Aframe Delay="3" Index="36"/>
+<Aframe Delay="3" Index="37"/>
+<Aframe Delay="3" Index="38"/>
+<Aframe Delay="3" Index="39"/>
+<Aframe Delay="3" Index="40"/>
+<Aframe Delay="3" Index="41"/>
+<Aframe Delay="3" Index="42"/>
+<Aframe Delay="3" Index="43"/>
+</action>
+<action FrameCount="8" actionIndex="33" actionName="满血">
+<Aframe Delay="2" Index="44"/>
+<Aframe Delay="2" Index="45"/>
+<Aframe Delay="2" Index="46"/>
+<Aframe Delay="2" Index="47"/>
+<Aframe Delay="2" Index="48"/>
+<Aframe Delay="2" Index="49"/>
+<Aframe Delay="2" Index="50"/>
+<Aframe Delay="2" Index="51"/>
+</action>
+</actions>
+</Map>

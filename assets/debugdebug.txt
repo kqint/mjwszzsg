@@ -1,0 +1,4 @@
+﻿test=test
+debug=1 //0关闭1开启
+debugid=1 //
+

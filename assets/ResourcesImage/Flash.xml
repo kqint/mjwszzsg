@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<Map>
+<frames FrameCount="16">
+<frame DateCount="0" FrameIndex="0" FrameName="大闪1" TitleCount="1">
+<Ftitle InFrameReverse="0" InFrameX="-45" InFrameY="-45" InFrameY0="flash-1.png"/>
+</frame>
+<frame DateCount="0" FrameIndex="1" FrameName="大闪2" TitleCount="1">
+<Ftitle InFrameReverse="0" InFrameX="-45" InFrameY="-45" InFrameY0="flash-2.png"/>
+</frame>
+<frame DateCount="0" FrameIndex="2" FrameName="大闪3" TitleCount="1">
+<Ftitle InFrameReverse="0" InFrameX="-45" InFrameY="-45" InFrameY0="flash-3.png"/>
+</frame>
+<frame DateCount="0" FrameIndex="3" FrameName="大闪4" TitleCount="1">
+<Ftitle InFrameReverse="0" InFrameX="-45" InFrameY="-45" InFrameY0="flash-4.png"/>
+</frame>
+<frame DateCount="0" FrameIndex="4" FrameName="大闪5" TitleCount="1">
+<Ftitle InFrameReverse="0" InFrameX="-45" InFrameY="-45" InFrameY0="flash-5.png"/>
+</frame>
+<frame DateCount="0" FrameIndex="5" FrameName="大闪6" TitleCount="1">
+<Ftitle InFrameReverse="0" InFrameX="-45" InFrameY="-45" InFrameY0="flash-6.png"/>
+</frame>
+<frame DateCount="0" FrameIndex="6" FrameName="大闪7" TitleCount="1">
+<Ftitle InFrameReverse="0" InFrameX="-45" InFrameY="-45" InFrameY0="flash-7.png"/>
+</frame>
+<frame DateCount="0" FrameIndex="7" FrameName="大闪8" TitleCount="1">
+<Ftitle InFrameReverse="0" InFrameX="-45" InFrameY="-45" InFrameY0="flash-8.png"/>
+</frame>
+<frame DateCount="0" FrameIndex="8" FrameName="小闪1" TitleCount="1">
+<Ftitle InFrameReverse="0" InFrameX="-35" InFrameY="-35" InFrameY0="flash-9.png"/>
+</frame>
+<frame DateCount="0" FrameIndex="9" FrameName="小闪2" TitleCount="1">
+<Ftitle InFrameReverse="0" InFrameX="-35" InFrameY="-35" InFrameY0="flash-10.png"/>
+</frame>
+<frame DateCount="0" FrameIndex="10" FrameName="小闪3" TitleCount="1">
+<Ftitle InFrameReverse="0" InFrameX="-35" InFrameY="-35" InFrameY0="flash-11.png"/>
+</frame>
+<frame DateCount="0" FrameIndex="11" FrameName="小闪4" TitleCount="1">
+<Ftitle InFrameReverse="0" InFrameX="-35" InFrameY="-35" InFrameY0="flash-12.png"/>
+</frame>
+<frame DateCount="0" FrameIndex="12" FrameName="小闪5" TitleCount="1">
+<Ftitle InFrameReverse="0" InFrameX="-35" InFrameY="-35" InFrameY0="flash-13.png"/>
+</frame>
+<frame DateCount="0" FrameIndex="13" FrameName="小闪6" TitleCount="1">
+<Ftitle InFrameReverse="0" InFrameX="-35" InFrameY="-35" InFrameY0="flash-14.png"/>
+</frame>
+<frame DateCount="0" FrameIndex="14" FrameName="小闪7" TitleCount="1">
+<Ftitle InFrameReverse="0" InFrameX="-35" InFrameY="-35" InFrameY0="flash-15.png"/>
+</frame>
+<frame DateCount="0" FrameIndex="15" FrameName="小闪8" TitleCount="1">
+<Ftitle InFrameReverse="0" InFrameX="-35" InFrameY="-35" InFrameY0="flash-16.png"/>
+</frame>
+</frames>
+<actions ActionCount="2">
+<action FrameCount="8" actionIndex="0" actionName="大闪">
+<Aframe Delay="1" Index="0"/>
+<Aframe Delay="1" Index="1"/>
+<Aframe Delay="1" Index="2"/>
+<Aframe Delay="1" Index="3"/>
+<Aframe Delay="1" Index="4"/>
+<Aframe Delay="1" Index="5"/>
+<Aframe Delay="1" Index="6"/>
+<Aframe Delay="1" Index="7"/>
+</action>
+<action FrameCount="8" actionIndex="1" actionName="小闪">
+<Aframe Delay="1" Index="8"/>
+<Aframe Delay="1" Index="9"/>
+<Aframe Delay="1" Index="10"/>
+<Aframe Delay="1" Index="11"/>
+<Aframe Delay="1" Index="12"/>
+<Aframe Delay="1" Index="13"/>
+<Aframe Delay="1" Index="14"/>
+<Aframe Delay="1" Index="15"/>
+</action>
+</actions>
+</Map>

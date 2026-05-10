@@ -1,0 +1,133 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<Map>
+<frames FrameCount="19">
+<frame DateCount="0" FrameIndex="0" FrameName="background04" TitleCount="12">
+<Ftitle InFrameReverse="0" InFrameX="-480" InFrameY="-320" InFrameY0="map4-999.png"/>
+<Ftitle InFrameReverse="0" InFrameX="-274" InFrameY="73" InFrameY0="map4-5.png"/>
+<Ftitle InFrameReverse="0" InFrameX="-125" InFrameY="-138" InFrameY0="map4-3.png"/>
+<Ftitle InFrameReverse="0" InFrameX="-165" InFrameY="-118" InFrameY0="map4-4.png"/>
+<Ftitle InFrameReverse="0" InFrameX="119" InFrameY="215" InFrameY0="map4-6.png"/>
+<Ftitle InFrameReverse="0" InFrameX="-261" InFrameY="139" InFrameY0="map4-4.png"/>
+<Ftitle InFrameReverse="0" InFrameX="-273" InFrameY="-207" InFrameY0="map4-6.png"/>
+<Ftitle InFrameReverse="0" InFrameX="225" InFrameY="-111" InFrameY0="map4-11.png"/>
+<Ftitle InFrameReverse="0" InFrameX="154" InFrameY="216" InFrameY0="map4-11.png"/>
+<Ftitle InFrameReverse="0" InFrameX="-155" InFrameY="243" InFrameY0="map4-3.png"/>
+<Ftitle InFrameReverse="0" InFrameX="-415" InFrameY="-205" InFrameY0="map4-5.png"/>
+<Ftitle InFrameReverse="0" InFrameX="298" InFrameY="105" InFrameY0="map4-5.png"/>
+</frame>
+<frame DateCount="0" FrameIndex="1" FrameName="大岩石" TitleCount="1">
+<Ftitle InFrameReverse="0" InFrameX="-55" InFrameY="-49" InFrameY0="map4-2.png"/>
+</frame>
+<frame DateCount="1" FrameIndex="2" FrameName="小废墟1" TitleCount="1">
+<data DataH="28" DataName="4" DataW="70" DataX="-33" DataY="-25"/>
+<Ftitle InFrameReverse="0" InFrameX="-45" InFrameY="-65" InFrameY0="map4-7.png"/>
+</frame>
+<frame DateCount="1" FrameIndex="3" FrameName="小废墟2" TitleCount="1">
+<data DataH="28" DataName="4" DataW="70" DataX="-33" DataY="-25"/>
+<Ftitle InFrameReverse="0" InFrameX="-45" InFrameY="-65" InFrameY0="map4-8.png"/>
+</frame>
+<frame DateCount="1" FrameIndex="4" FrameName="小废墟3" TitleCount="1">
+<data DataH="28" DataName="4" DataW="70" DataX="-33" DataY="-25"/>
+<Ftitle InFrameReverse="0" InFrameX="-45" InFrameY="-65" InFrameY0="map4-9.png"/>
+</frame>
+<frame DateCount="1" FrameIndex="5" FrameName="小废墟4" TitleCount="1">
+<data DataH="28" DataName="4" DataW="70" DataX="-33" DataY="-25"/>
+<Ftitle InFrameReverse="0" InFrameX="-45" InFrameY="-65" InFrameY0="map4-10.png"/>
+</frame>
+<frame DateCount="0" FrameIndex="6" FrameName="小火山" TitleCount="1">
+<Ftitle InFrameReverse="0" InFrameX="-34" InFrameY="-34" InFrameY0="map4-1.png"/>
+</frame>
+<frame DateCount="1" FrameIndex="7" FrameName="树木" TitleCount="1">
+<data DataH="67" DataName="4" DataW="55" DataX="-26" DataY="-62"/>
+<Ftitle InFrameReverse="0" InFrameX="-58" InFrameY="-123" InFrameY0="map4-0.png"/>
+</frame>
+<frame DateCount="1" FrameIndex="8" FrameName="石头" TitleCount="1">
+<data DataH="56" DataName="4" DataW="105" DataX="-52" DataY="-44"/>
+<Ftitle InFrameReverse="0" InFrameX="-55" InFrameY="-52" InFrameY0="map4-2.png"/>
+</frame>
+<frame DateCount="0" FrameIndex="9" FrameName="动物尸体1" TitleCount="1">
+<Ftitle InFrameReverse="0" InFrameX="-47" InFrameY="-34" InFrameY0="map4-3.png"/>
+</frame>
+<frame DateCount="0" FrameIndex="10" FrameName="动物尸体2" TitleCount="1">
+<Ftitle InFrameReverse="0" InFrameX="-30" InFrameY="-22" InFrameY0="map4-4.png"/>
+</frame>
+<frame DateCount="0" FrameIndex="11" FrameName="岩浆" TitleCount="1">
+<Ftitle InFrameReverse="0" InFrameX="-72" InFrameY="-42" InFrameY0="map4-5.png"/>
+</frame>
+<frame DateCount="0" FrameIndex="12" FrameName="败军旗子" TitleCount="1">
+<Ftitle InFrameReverse="0" InFrameX="-30" InFrameY="-27" InFrameY0="map4-6.png"/>
+</frame>
+<frame DateCount="0" FrameIndex="13" FrameName="破车轮" TitleCount="1">
+<Ftitle InFrameReverse="0" InFrameX="-34" InFrameY="-26" InFrameY0="map4-11.png"/>
+</frame>
+<frame DateCount="1" FrameIndex="14" FrameName="树木2" TitleCount="1">
+<data DataH="67" DataName="4" DataW="55" DataX="-26" DataY="-62"/>
+<Ftitle InFrameReverse="1" InFrameX="60" InFrameY="-123" InFrameY0="map4-0.png"/>
+</frame>
+<frame DateCount="0" FrameIndex="15" FrameName="岩浆2" TitleCount="1">
+<Ftitle InFrameReverse="1" InFrameX="72" InFrameY="-42" InFrameY0="map4-5.png"/>
+</frame>
+<frame DateCount="0" FrameIndex="16" FrameName="动物尸体1-1" TitleCount="1">
+<Ftitle InFrameReverse="1" InFrameX="47" InFrameY="-34" InFrameY0="map4-3.png"/>
+</frame>
+<frame DateCount="0" FrameIndex="17" FrameName="动物尸体2-1" TitleCount="1">
+<Ftitle InFrameReverse="1" InFrameX="30" InFrameY="-22" InFrameY0="map4-4.png"/>
+</frame>
+<frame DateCount="0" FrameIndex="18" FrameName="旗子2" TitleCount="1">
+<Ftitle InFrameReverse="1" InFrameX="30" InFrameY="-27" InFrameY0="map4-6.png"/>
+</frame>
+</frames>
+<actions ActionCount="16">
+<action FrameCount="1" actionIndex="0" actionName="背景4">
+<Aframe Delay="0" Index="0"/>
+</action>
+<action FrameCount="1" actionIndex="1" actionName="树木">
+<Aframe Delay="0" Index="7"/>
+</action>
+<action FrameCount="1" actionIndex="2" actionName="大岩石">
+<Aframe Delay="0" Index="8"/>
+</action>
+<action FrameCount="1" actionIndex="3" actionName="小火山">
+<Aframe Delay="0" Index="6"/>
+</action>
+<action FrameCount="4" actionIndex="4" actionName="小废墟">
+<Aframe Delay="2" Index="2"/>
+<Aframe Delay="2" Index="3"/>
+<Aframe Delay="2" Index="4"/>
+<Aframe Delay="2" Index="5"/>
+</action>
+<action FrameCount="1" actionIndex="5" actionName="树木1">
+<Aframe Delay="0" Index="7"/>
+</action>
+<action FrameCount="1" actionIndex="6" actionName="树木2">
+<Aframe Delay="0" Index="14"/>
+</action>
+<action FrameCount="1" actionIndex="7" actionName="0">
+<Aframe Delay="0" Index="11"/>
+</action>
+<action FrameCount="1" actionIndex="8" actionName="1">
+<Aframe Delay="0" Index="15"/>
+</action>
+<action FrameCount="1" actionIndex="9" actionName="3">
+<Aframe Delay="0" Index="12"/>
+</action>
+<action FrameCount="1" actionIndex="10" actionName="4">
+<Aframe Delay="0" Index="18"/>
+</action>
+<action FrameCount="1" actionIndex="11" actionName="5">
+<Aframe Delay="0" Index="13"/>
+</action>
+<action FrameCount="1" actionIndex="12" actionName="6">
+<Aframe Delay="0" Index="9"/>
+</action>
+<action FrameCount="1" actionIndex="13" actionName="7">
+<Aframe Delay="0" Index="10"/>
+</action>
+<action FrameCount="1" actionIndex="14" actionName="8">
+<Aframe Delay="0" Index="16"/>
+</action>
+<action FrameCount="1" actionIndex="15" actionName="9">
+<Aframe Delay="0" Index="17"/>
+</action>
+</actions>
+</Map>

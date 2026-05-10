@@ -1,0 +1,979 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<Map>
+<frames FrameCount="181">
+<frame DateCount="0" FrameIndex="0" FrameName="爆点1" TitleCount="1">
+<Ftitle InFrameReverse="0" InFrameX="-31" InFrameY="-30" InFrameY0="GX-001.png"/>
+</frame>
+<frame DateCount="0" FrameIndex="1" FrameName="爆点2" TitleCount="1">
+<Ftitle InFrameReverse="0" InFrameX="-58" InFrameY="-58" InFrameY0="GX-002.png"/>
+</frame>
+<frame DateCount="0" FrameIndex="2" FrameName="爆点3" TitleCount="1">
+<Ftitle InFrameReverse="0" InFrameX="-69" InFrameY="-67" InFrameY0="GX-003.png"/>
+</frame>
+<frame DateCount="0" FrameIndex="3" FrameName="爆点4" TitleCount="1">
+<Ftitle InFrameReverse="0" InFrameX="-75" InFrameY="-74" InFrameY0="GX-004.png"/>
+</frame>
+<frame DateCount="0" FrameIndex="4" FrameName="爆点5" TitleCount="1">
+<Ftitle InFrameReverse="0" InFrameX="-121" InFrameY="-123" InFrameY0="GX-005.png"/>
+</frame>
+<frame DateCount="0" FrameIndex="5" FrameName="爆点6" TitleCount="1">
+<Ftitle InFrameReverse="0" InFrameX="-124" InFrameY="-119" InFrameY0="GX-006.png"/>
+</frame>
+<frame DateCount="0" FrameIndex="6" FrameName="爆点7" TitleCount="1">
+<Ftitle InFrameReverse="0" InFrameX="-114" InFrameY="-111" InFrameY0="GX-007.png"/>
+</frame>
+<frame DateCount="0" FrameIndex="7" FrameName="打击1" TitleCount="1">
+<Ftitle InFrameReverse="0" InFrameX="-31" InFrameY="-43" InFrameY0="GX-32.png"/>
+</frame>
+<frame DateCount="0" FrameIndex="8" FrameName="打击2" TitleCount="1">
+<Ftitle InFrameReverse="0" InFrameX="-30" InFrameY="-37" InFrameY0="GX-47.png"/>
+</frame>
+<frame DateCount="0" FrameIndex="9" FrameName="打击3" TitleCount="2">
+<Ftitle InFrameReverse="0" InFrameX="-34" InFrameY="-42" InFrameY0="GX-33.png"/>
+<Ftitle InFrameReverse="0" InFrameX="-34" InFrameY="-42" InFrameY0="GX-33.png"/>
+</frame>
+<frame DateCount="0" FrameIndex="10" FrameName="打击4" TitleCount="1">
+<Ftitle InFrameReverse="0" InFrameX="-34" InFrameY="-42" InFrameY0="GX-33.png"/>
+</frame>
+<frame DateCount="0" FrameIndex="11" FrameName="斩击1" TitleCount="1">
+<Ftitle InFrameReverse="0" InFrameX="-37" InFrameY="-49" InFrameY0="GX-34.png"/>
+</frame>
+<frame DateCount="0" FrameIndex="12" FrameName="斩击2" TitleCount="1">
+<Ftitle InFrameReverse="0" InFrameX="-38" InFrameY="-87" InFrameY0="GX-35.png"/>
+</frame>
+<frame DateCount="0" FrameIndex="13" FrameName="斩击3" TitleCount="1">
+<Ftitle InFrameReverse="0" InFrameX="-37" InFrameY="-90" InFrameY0="GX-36.png"/>
+</frame>
+<frame DateCount="0" FrameIndex="14" FrameName="斩击4" TitleCount="1">
+<Ftitle InFrameReverse="0" InFrameX="-41" InFrameY="-82" InFrameY0="GX-37.png"/>
+</frame>
+<frame DateCount="0" FrameIndex="15" FrameName="速度线1" TitleCount="16">
+<Ftitle InFrameReverse="1" InFrameX="243" InFrameY="3" InFrameY0="GX-015.png"/>
+<Ftitle InFrameReverse="3" InFrameX="243" InFrameY="-3" InFrameY0="GX-015.png"/>
+<Ftitle InFrameReverse="0" InFrameX="-243" InFrameY="3" InFrameY0="GX-015.png"/>
+<Ftitle InFrameReverse="2" InFrameX="-243" InFrameY="-3" InFrameY0="GX-015.png"/>
+<Ftitle InFrameReverse="1" InFrameX="243" InFrameY="3" InFrameY0="GX-015.png"/>
+<Ftitle InFrameReverse="3" InFrameX="243" InFrameY="-3" InFrameY0="GX-015.png"/>
+<Ftitle InFrameReverse="0" InFrameX="-243" InFrameY="3" InFrameY0="GX-015.png"/>
+<Ftitle InFrameReverse="2" InFrameX="-243" InFrameY="-3" InFrameY0="GX-015.png"/>
+<Ftitle InFrameReverse="1" InFrameX="243" InFrameY="3" InFrameY0="GX-015.png"/>
+<Ftitle InFrameReverse="3" InFrameX="243" InFrameY="-3" InFrameY0="GX-015.png"/>
+<Ftitle InFrameReverse="0" InFrameX="-243" InFrameY="3" InFrameY0="GX-015.png"/>
+<Ftitle InFrameReverse="2" InFrameX="-243" InFrameY="-3" InFrameY0="GX-015.png"/>
+<Ftitle InFrameReverse="1" InFrameX="243" InFrameY="3" InFrameY0="GX-015.png"/>
+<Ftitle InFrameReverse="3" InFrameX="243" InFrameY="-3" InFrameY0="GX-015.png"/>
+<Ftitle InFrameReverse="0" InFrameX="-243" InFrameY="3" InFrameY0="GX-015.png"/>
+<Ftitle InFrameReverse="2" InFrameX="-243" InFrameY="-3" InFrameY0="GX-015.png"/>
+</frame>
+<frame DateCount="0" FrameIndex="16" FrameName="速度线2" TitleCount="16">
+<Ftitle InFrameReverse="0" InFrameX="-243" InFrameY="3" InFrameY0="GX-016.png"/>
+<Ftitle InFrameReverse="1" InFrameX="243" InFrameY="3" InFrameY0="GX-016.png"/>
+<Ftitle InFrameReverse="2" InFrameX="-243" InFrameY="-3" InFrameY0="GX-016.png"/>
+<Ftitle InFrameReverse="3" InFrameX="243" InFrameY="-3" InFrameY0="GX-016.png"/>
+<Ftitle InFrameReverse="0" InFrameX="-243" InFrameY="3" InFrameY0="GX-016.png"/>
+<Ftitle InFrameReverse="1" InFrameX="243" InFrameY="3" InFrameY0="GX-016.png"/>
+<Ftitle InFrameReverse="2" InFrameX="-243" InFrameY="-3" InFrameY0="GX-016.png"/>
+<Ftitle InFrameReverse="3" InFrameX="243" InFrameY="-3" InFrameY0="GX-016.png"/>
+<Ftitle InFrameReverse="0" InFrameX="-243" InFrameY="3" InFrameY0="GX-016.png"/>
+<Ftitle InFrameReverse="1" InFrameX="243" InFrameY="3" InFrameY0="GX-016.png"/>
+<Ftitle InFrameReverse="2" InFrameX="-243" InFrameY="-3" InFrameY0="GX-016.png"/>
+<Ftitle InFrameReverse="3" InFrameX="243" InFrameY="-3" InFrameY0="GX-016.png"/>
+<Ftitle InFrameReverse="0" InFrameX="-243" InFrameY="3" InFrameY0="GX-016.png"/>
+<Ftitle InFrameReverse="1" InFrameX="243" InFrameY="3" InFrameY0="GX-016.png"/>
+<Ftitle InFrameReverse="2" InFrameX="-243" InFrameY="-3" InFrameY0="GX-016.png"/>
+<Ftitle InFrameReverse="3" InFrameX="243" InFrameY="-3" InFrameY0="GX-016.png"/>
+</frame>
+<frame DateCount="0" FrameIndex="17" FrameName="速度线3" TitleCount="16">
+<Ftitle InFrameReverse="0" InFrameX="-243" InFrameY="3" InFrameY0="GX-017.png"/>
+<Ftitle InFrameReverse="1" InFrameX="243" InFrameY="3" InFrameY0="GX-017.png"/>
+<Ftitle InFrameReverse="2" InFrameX="-243" InFrameY="-3" InFrameY0="GX-017.png"/>
+<Ftitle InFrameReverse="3" InFrameX="243" InFrameY="-3" InFrameY0="GX-017.png"/>
+<Ftitle InFrameReverse="0" InFrameX="-243" InFrameY="3" InFrameY0="GX-017.png"/>
+<Ftitle InFrameReverse="1" InFrameX="243" InFrameY="3" InFrameY0="GX-017.png"/>
+<Ftitle InFrameReverse="2" InFrameX="-243" InFrameY="-3" InFrameY0="GX-017.png"/>
+<Ftitle InFrameReverse="3" InFrameX="243" InFrameY="-3" InFrameY0="GX-017.png"/>
+<Ftitle InFrameReverse="0" InFrameX="-243" InFrameY="3" InFrameY0="GX-017.png"/>
+<Ftitle InFrameReverse="1" InFrameX="243" InFrameY="3" InFrameY0="GX-017.png"/>
+<Ftitle InFrameReverse="2" InFrameX="-243" InFrameY="-3" InFrameY0="GX-017.png"/>
+<Ftitle InFrameReverse="3" InFrameX="243" InFrameY="-3" InFrameY0="GX-017.png"/>
+<Ftitle InFrameReverse="0" InFrameX="-243" InFrameY="3" InFrameY0="GX-017.png"/>
+<Ftitle InFrameReverse="1" InFrameX="243" InFrameY="3" InFrameY0="GX-017.png"/>
+<Ftitle InFrameReverse="2" InFrameX="-243" InFrameY="-3" InFrameY0="GX-017.png"/>
+<Ftitle InFrameReverse="3" InFrameX="243" InFrameY="-3" InFrameY0="GX-017.png"/>
+</frame>
+<frame DateCount="0" FrameIndex="18" FrameName="爆点8" TitleCount="0"/>
+<frame DateCount="0" FrameIndex="19" FrameName="0" TitleCount="12">
+<Ftitle InFrameReverse="0" InFrameX="-111" InFrameY="-160" InFrameY0="GX-019.png"/>
+<Ftitle InFrameReverse="0" InFrameX="-242" InFrameY="-160" InFrameY0="GX-020.png"/>
+<Ftitle InFrameReverse="1" InFrameX="242" InFrameY="-160" InFrameY0="GX-020.png"/>
+<Ftitle InFrameReverse="2" InFrameX="-243" InFrameY="161" InFrameY0="GX-020.png"/>
+<Ftitle InFrameReverse="3" InFrameX="241" InFrameY="160" InFrameY0="GX-020.png"/>
+<Ftitle InFrameReverse="3" InFrameX="116" InFrameY="160" InFrameY0="GX-019.png"/>
+<Ftitle InFrameReverse="0" InFrameX="-111" InFrameY="-160" InFrameY0="GX-019.png"/>
+<Ftitle InFrameReverse="0" InFrameX="-242" InFrameY="-160" InFrameY0="GX-020.png"/>
+<Ftitle InFrameReverse="1" InFrameX="242" InFrameY="-160" InFrameY0="GX-020.png"/>
+<Ftitle InFrameReverse="2" InFrameX="-243" InFrameY="161" InFrameY0="GX-020.png"/>
+<Ftitle InFrameReverse="3" InFrameX="241" InFrameY="160" InFrameY0="GX-020.png"/>
+<Ftitle InFrameReverse="3" InFrameX="116" InFrameY="160" InFrameY0="GX-019.png"/>
+</frame>
+<frame DateCount="0" FrameIndex="20" FrameName="1" TitleCount="6">
+<Ftitle InFrameReverse="0" InFrameX="-111" InFrameY="-160" InFrameY0="GX-019.png"/>
+<Ftitle InFrameReverse="0" InFrameX="-242" InFrameY="-160" InFrameY0="GX-020.png"/>
+<Ftitle InFrameReverse="1" InFrameX="242" InFrameY="-160" InFrameY0="GX-020.png"/>
+<Ftitle InFrameReverse="2" InFrameX="-243" InFrameY="161" InFrameY0="GX-020.png"/>
+<Ftitle InFrameReverse="3" InFrameX="241" InFrameY="160" InFrameY0="GX-020.png"/>
+<Ftitle InFrameReverse="3" InFrameX="116" InFrameY="160" InFrameY0="GX-019.png"/>
+</frame>
+<frame DateCount="0" FrameIndex="21" FrameName="背光大" TitleCount="2">
+<Ftitle InFrameReverse="0" InFrameX="-2" InFrameY="-32" InFrameY0="GX-021.png"/>
+<Ftitle InFrameReverse="1" InFrameX="1" InFrameY="-32" InFrameY0="GX-021.png"/>
+</frame>
+<frame DateCount="0" FrameIndex="22" FrameName="背光中" TitleCount="2">
+<Ftitle InFrameReverse="0" InFrameX="-1" InFrameY="-17" InFrameY0="GX-022.png"/>
+<Ftitle InFrameReverse="1" InFrameX="0" InFrameY="-17" InFrameY0="GX-022.png"/>
+</frame>
+<frame DateCount="0" FrameIndex="23" FrameName="背光小" TitleCount="2">
+<Ftitle InFrameReverse="0" InFrameX="-1" InFrameY="-7" InFrameY0="GX-023.png"/>
+<Ftitle InFrameReverse="1" InFrameX="-1" InFrameY="-7" InFrameY0="GX-023.png"/>
+</frame>
+<frame DateCount="0" FrameIndex="24" FrameName="D0" TitleCount="1">
+<Ftitle InFrameReverse="0" InFrameX="-39" InFrameY="-48" InFrameY0="GX-40.png"/>
+</frame>
+<frame DateCount="0" FrameIndex="25" FrameName="D1" TitleCount="1">
+<Ftitle InFrameReverse="0" InFrameX="-50" InFrameY="-43" InFrameY0="GX-41.png"/>
+</frame>
+<frame DateCount="0" FrameIndex="26" FrameName="D2" TitleCount="1">
+<Ftitle InFrameReverse="0" InFrameX="-58" InFrameY="-44" InFrameY0="GX-42.png"/>
+</frame>
+<frame DateCount="0" FrameIndex="27" FrameName="D3" TitleCount="1">
+<Ftitle InFrameReverse="0" InFrameX="-67" InFrameY="-48" InFrameY0="GX-43.png"/>
+</frame>
+<frame DateCount="0" FrameIndex="28" FrameName="D4" TitleCount="1">
+<Ftitle InFrameReverse="0" InFrameX="-32" InFrameY="-30" InFrameY0="GX-44.png"/>
+</frame>
+<frame DateCount="0" FrameIndex="29" FrameName="D5" TitleCount="1">
+<Ftitle InFrameReverse="0" InFrameX="-32" InFrameY="-27" InFrameY0="GX-45.png"/>
+</frame>
+<frame DateCount="0" FrameIndex="30" FrameName="D6" TitleCount="1">
+<Ftitle InFrameReverse="0" InFrameX="-32" InFrameY="-27" InFrameY0="GX-46.png"/>
+</frame>
+<frame DateCount="0" FrameIndex="31" FrameName="斩击5" TitleCount="1">
+<Ftitle InFrameReverse="0" InFrameX="-42" InFrameY="-91" InFrameY0="GX-38.png"/>
+</frame>
+<frame DateCount="0" FrameIndex="32" FrameName="斩击6" TitleCount="1">
+<Ftitle InFrameReverse="0" InFrameX="-40" InFrameY="-89" InFrameY0="GX-39.png"/>
+</frame>
+<frame DateCount="0" FrameIndex="33" FrameName="10" TitleCount="1">
+<Ftitle InFrameReverse="0" InFrameX="-59" InFrameY="-45" InFrameY0="GX-024.png"/>
+</frame>
+<frame DateCount="0" FrameIndex="34" FrameName="11" TitleCount="1">
+<Ftitle InFrameReverse="0" InFrameX="-59" InFrameY="-45" InFrameY0="GX-025.png"/>
+</frame>
+<frame DateCount="0" FrameIndex="35" FrameName="12" TitleCount="1">
+<Ftitle InFrameReverse="0" InFrameX="-59" InFrameY="-45" InFrameY0="GX-026.png"/>
+</frame>
+<frame DateCount="0" FrameIndex="36" FrameName="13" TitleCount="1">
+<Ftitle InFrameReverse="0" InFrameX="-59" InFrameY="-45" InFrameY0="GX-027.png"/>
+</frame>
+<frame DateCount="0" FrameIndex="37" FrameName="14" TitleCount="1">
+<Ftitle InFrameReverse="0" InFrameX="-59" InFrameY="-45" InFrameY0="GX-028.png"/>
+</frame>
+<frame DateCount="0" FrameIndex="38" FrameName="15" TitleCount="1">
+<Ftitle InFrameReverse="0" InFrameX="-59" InFrameY="-45" InFrameY0="GX-029.png"/>
+</frame>
+<frame DateCount="0" FrameIndex="39" FrameName="16" TitleCount="1">
+<Ftitle InFrameReverse="0" InFrameX="-59" InFrameY="-45" InFrameY0="GX-030.png"/>
+</frame>
+<frame DateCount="0" FrameIndex="40" FrameName="18" TitleCount="1">
+<Ftitle InFrameReverse="0" InFrameX="-59" InFrameY="-45" InFrameY0="GX-031.png"/>
+</frame>
+<frame DateCount="0" FrameIndex="41" FrameName="X0" TitleCount="1">
+<Ftitle InFrameReverse="0" InFrameX="-64" InFrameY="-55" InFrameY0="GX-59.png"/>
+</frame>
+<frame DateCount="0" FrameIndex="42" FrameName="X1" TitleCount="1">
+<Ftitle InFrameReverse="0" InFrameX="-65" InFrameY="-61" InFrameY0="GX-49.png"/>
+</frame>
+<frame DateCount="0" FrameIndex="43" FrameName="X2" TitleCount="1">
+<Ftitle InFrameReverse="0" InFrameX="-66" InFrameY="-61" InFrameY0="GX-51.png"/>
+</frame>
+<frame DateCount="0" FrameIndex="44" FrameName="X3" TitleCount="1">
+<Ftitle InFrameReverse="0" InFrameX="-69" InFrameY="-74" InFrameY0="GX-53.png"/>
+</frame>
+<frame DateCount="0" FrameIndex="45" FrameName="X4" TitleCount="1">
+<Ftitle InFrameReverse="0" InFrameX="-72" InFrameY="-74" InFrameY0="GX-55.png"/>
+</frame>
+<frame DateCount="0" FrameIndex="46" FrameName="X5" TitleCount="1">
+<Ftitle InFrameReverse="0" InFrameX="-72" InFrameY="-65" InFrameY0="GX-57.png"/>
+</frame>
+<frame DateCount="0" FrameIndex="47" FrameName="XX0" TitleCount="1">
+<Ftitle InFrameReverse="0" InFrameX="-39" InFrameY="-17" InFrameY0="GX-48.png"/>
+</frame>
+<frame DateCount="0" FrameIndex="48" FrameName="XX1" TitleCount="1">
+<Ftitle InFrameReverse="0" InFrameX="-49" InFrameY="-59" InFrameY0="GX-50.png"/>
+</frame>
+<frame DateCount="0" FrameIndex="49" FrameName="XX2" TitleCount="1">
+<Ftitle InFrameReverse="0" InFrameX="-49" InFrameY="-74" InFrameY0="GX-52.png"/>
+</frame>
+<frame DateCount="0" FrameIndex="50" FrameName="XX3" TitleCount="1">
+<Ftitle InFrameReverse="0" InFrameX="-49" InFrameY="-74" InFrameY0="GX-54.png"/>
+</frame>
+<frame DateCount="0" FrameIndex="51" FrameName="XX4" TitleCount="1">
+<Ftitle InFrameReverse="0" InFrameX="-49" InFrameY="-74" InFrameY0="GX-56.png"/>
+</frame>
+<frame DateCount="0" FrameIndex="52" FrameName="XX5" TitleCount="1">
+<Ftitle InFrameReverse="0" InFrameX="-39" InFrameY="-24" InFrameY0="GX-58.png"/>
+</frame>
+<frame DateCount="0" FrameIndex="53" FrameName="血迹" TitleCount="1">
+<Ftitle InFrameReverse="0" InFrameX="-31" InFrameY="-25" InFrameY0="GX-61.png"/>
+</frame>
+<frame DateCount="0" FrameIndex="54" FrameName="投石车标记" TitleCount="1">
+<Ftitle InFrameReverse="2" InFrameX="-28" InFrameY="55" InFrameY0="GX-62.png"/>
+</frame>
+<frame DateCount="0" FrameIndex="55" FrameName="护送标记" TitleCount="1">
+<Ftitle InFrameReverse="2" InFrameX="-28" InFrameY="55" InFrameY0="GX-63.png"/>
+</frame>
+<frame DateCount="0" FrameIndex="56" FrameName="闪避0" TitleCount="3">
+<Ftitle InFrameReverse="0" InFrameX="-22" InFrameY="-22" InFrameY0="GX-60.png"/>
+<Ftitle InFrameReverse="0" InFrameX="-22" InFrameY="-22" InFrameY0="GX-60.png"/>
+<Ftitle InFrameReverse="0" InFrameX="-22" InFrameY="-22" InFrameY0="GX-60.png"/>
+</frame>
+<frame DateCount="0" FrameIndex="57" FrameName="闪避1" TitleCount="1">
+<Ftitle InFrameReverse="0" InFrameX="-22" InFrameY="-22" InFrameY0="GX-60.png"/>
+</frame>
+<frame DateCount="0" FrameIndex="58" FrameName="蹦0" TitleCount="1">
+<Ftitle InFrameReverse="0" InFrameX="-47" InFrameY="-50" InFrameY0="GX-96.png"/>
+</frame>
+<frame DateCount="0" FrameIndex="59" FrameName="蹦1" TitleCount="1">
+<Ftitle InFrameReverse="0" InFrameX="-61" InFrameY="-77" InFrameY0="GX-97.png"/>
+</frame>
+<frame DateCount="0" FrameIndex="60" FrameName="蹦2" TitleCount="1">
+<Ftitle InFrameReverse="0" InFrameX="-81" InFrameY="-81" InFrameY0="GX-98.png"/>
+</frame>
+<frame DateCount="0" FrameIndex="61" FrameName="蹦3" TitleCount="3">
+<Ftitle InFrameReverse="0" InFrameX="-82" InFrameY="-82" InFrameY0="GX-99.png"/>
+<Ftitle InFrameReverse="0" InFrameX="-82" InFrameY="-82" InFrameY0="GX-99.png"/>
+<Ftitle InFrameReverse="0" InFrameX="-82" InFrameY="-82" InFrameY0="GX-99.png"/>
+</frame>
+<frame DateCount="0" FrameIndex="62" FrameName="蹦4" TitleCount="2">
+<Ftitle InFrameReverse="0" InFrameX="-82" InFrameY="-82" InFrameY0="GX-99.png"/>
+<Ftitle InFrameReverse="0" InFrameX="-82" InFrameY="-82" InFrameY0="GX-99.png"/>
+</frame>
+<frame DateCount="0" FrameIndex="63" FrameName="蹦5" TitleCount="1">
+<Ftitle InFrameReverse="0" InFrameX="-82" InFrameY="-82" InFrameY0="GX-99.png"/>
+</frame>
+<frame DateCount="0" FrameIndex="64" FrameName="地震0" TitleCount="1">
+<Ftitle InFrameReverse="0" InFrameX="-32" InFrameY="-26" InFrameY0="GX-100.png"/>
+</frame>
+<frame DateCount="0" FrameIndex="65" FrameName="地震1" TitleCount="1">
+<Ftitle InFrameReverse="0" InFrameX="-40" InFrameY="-42" InFrameY0="GX-101.png"/>
+</frame>
+<frame DateCount="0" FrameIndex="66" FrameName="地震2" TitleCount="1">
+<Ftitle InFrameReverse="0" InFrameX="-45" InFrameY="-40" InFrameY0="GX-102.png"/>
+</frame>
+<frame DateCount="0" FrameIndex="67" FrameName="地震3" TitleCount="1">
+<Ftitle InFrameReverse="0" InFrameX="-53" InFrameY="-37" InFrameY0="GX-103.png"/>
+</frame>
+<frame DateCount="0" FrameIndex="68" FrameName="地震4" TitleCount="1">
+<Ftitle InFrameReverse="0" InFrameX="-56" InFrameY="-39" InFrameY0="GX-104.png"/>
+</frame>
+<frame DateCount="0" FrameIndex="69" FrameName="地震5" TitleCount="1">
+<Ftitle InFrameReverse="0" InFrameX="-57" InFrameY="-42" InFrameY0="GX-105.png"/>
+</frame>
+<frame DateCount="0" FrameIndex="70" FrameName="地震7" TitleCount="1">
+<Ftitle InFrameReverse="0" InFrameX="-55" InFrameY="-46" InFrameY0="GX-106.png"/>
+</frame>
+<frame DateCount="0" FrameIndex="71" FrameName="箭风0" TitleCount="1">
+<Ftitle InFrameReverse="1" InFrameX="12" InFrameY="-57" InFrameY0="GX-107.png"/>
+</frame>
+<frame DateCount="0" FrameIndex="72" FrameName="箭风1" TitleCount="1">
+<Ftitle InFrameReverse="0" InFrameX="-12" InFrameY="-57" InFrameY0="GX-107.png"/>
+</frame>
+<frame DateCount="0" FrameIndex="73" FrameName="箭塔爆炸1" TitleCount="1">
+<Ftitle InFrameReverse="0" InFrameX="-54" InFrameY="-126" InFrameY0="GX-108.png"/>
+</frame>
+<frame DateCount="0" FrameIndex="74" FrameName="箭塔爆炸2" TitleCount="2">
+<Ftitle InFrameReverse="0" InFrameX="-6" InFrameY="-55" InFrameY0="GX-108.png"/>
+<Ftitle InFrameReverse="0" InFrameX="-70" InFrameY="-126" InFrameY0="GX-109.png"/>
+</frame>
+<frame DateCount="0" FrameIndex="75" FrameName="箭塔爆炸3" TitleCount="2">
+<Ftitle InFrameReverse="0" InFrameX="-12" InFrameY="-73" InFrameY0="GX-109.png"/>
+<Ftitle InFrameReverse="0" InFrameX="-75" InFrameY="-137" InFrameY0="GX-110.png"/>
+</frame>
+<frame DateCount="0" FrameIndex="76" FrameName="箭塔爆炸4" TitleCount="3">
+<Ftitle InFrameReverse="0" InFrameX="-16" InFrameY="-86" InFrameY0="GX-110.png"/>
+<Ftitle InFrameReverse="0" InFrameX="-69" InFrameY="-136" InFrameY0="GX-111.png"/>
+<Ftitle InFrameReverse="0" InFrameX="-45" InFrameY="-70" InFrameY0="GX-108.png"/>
+</frame>
+<frame DateCount="0" FrameIndex="77" FrameName="箭塔爆炸5" TitleCount="3">
+<Ftitle InFrameReverse="0" InFrameX="-12" InFrameY="-78" InFrameY0="GX-111.png"/>
+<Ftitle InFrameReverse="0" InFrameX="-64" InFrameY="-136" InFrameY0="GX-112.png"/>
+<Ftitle InFrameReverse="0" InFrameX="-60" InFrameY="-91" InFrameY0="GX-109.png"/>
+</frame>
+<frame DateCount="0" FrameIndex="78" FrameName="箭塔爆炸6" TitleCount="3">
+<Ftitle InFrameReverse="0" InFrameX="-61" InFrameY="-136" InFrameY0="GX-113.png"/>
+<Ftitle InFrameReverse="0" InFrameX="-16" InFrameY="-77" InFrameY0="GX-112.png"/>
+<Ftitle InFrameReverse="0" InFrameX="-72" InFrameY="-99" InFrameY0="GX-110.png"/>
+</frame>
+<frame DateCount="0" FrameIndex="79" FrameName="箭塔爆炸7" TitleCount="4">
+<Ftitle InFrameReverse="0" InFrameX="-58" InFrameY="-123" InFrameY0="GX-114.png"/>
+<Ftitle InFrameReverse="0" InFrameX="-10" InFrameY="-66" InFrameY0="GX-113.png"/>
+<Ftitle InFrameReverse="0" InFrameX="-68" InFrameY="-86" InFrameY0="GX-111.png"/>
+<Ftitle InFrameReverse="0" InFrameX="-11" InFrameY="-141" InFrameY0="GX-108.png"/>
+</frame>
+<frame DateCount="0" FrameIndex="80" FrameName="箭塔爆炸8" TitleCount="3">
+<Ftitle InFrameReverse="0" InFrameX="-60" InFrameY="-83" InFrameY0="GX-112.png"/>
+<Ftitle InFrameReverse="0" InFrameX="-14" InFrameY="-74" InFrameY0="GX-114.png"/>
+<Ftitle InFrameReverse="0" InFrameX="-25" InFrameY="-150" InFrameY0="GX-109.png"/>
+</frame>
+<frame DateCount="0" FrameIndex="81" FrameName="箭塔爆炸9" TitleCount="2">
+<Ftitle InFrameReverse="0" InFrameX="-62" InFrameY="-86" InFrameY0="GX-113.png"/>
+<Ftitle InFrameReverse="0" InFrameX="-28" InFrameY="-157" InFrameY0="GX-110.png"/>
+</frame>
+<frame DateCount="0" FrameIndex="82" FrameName="箭塔爆炸10" TitleCount="2">
+<Ftitle InFrameReverse="0" InFrameX="-58" InFrameY="-80" InFrameY0="GX-114.png"/>
+<Ftitle InFrameReverse="0" InFrameX="-22" InFrameY="-157" InFrameY0="GX-111.png"/>
+</frame>
+<frame DateCount="0" FrameIndex="83" FrameName="箭塔爆炸11" TitleCount="1">
+<Ftitle InFrameReverse="0" InFrameX="-18" InFrameY="-156" InFrameY0="GX-112.png"/>
+</frame>
+<frame DateCount="0" FrameIndex="84" FrameName="箭塔爆炸12" TitleCount="1">
+<Ftitle InFrameReverse="0" InFrameX="-22" InFrameY="-162" InFrameY0="GX-113.png"/>
+</frame>
+<frame DateCount="0" FrameIndex="85" FrameName="箭塔爆炸13" TitleCount="1">
+<Ftitle InFrameReverse="0" InFrameX="-19" InFrameY="-174" InFrameY0="GX-114.png"/>
+</frame>
+<frame DateCount="0" FrameIndex="86" FrameName="牛爆炸" TitleCount="1">
+<Ftitle InFrameReverse="0" InFrameX="20" InFrameY="-76" InFrameY0="GX-108.png"/>
+</frame>
+<frame DateCount="0" FrameIndex="87" FrameName="牛爆炸2" TitleCount="2">
+<Ftitle InFrameReverse="0" InFrameX="-69" InFrameY="-43" InFrameY0="GX-108.png"/>
+<Ftitle InFrameReverse="0" InFrameX="4" InFrameY="-92" InFrameY0="GX-109.png"/>
+</frame>
+<frame DateCount="0" FrameIndex="88" FrameName="牛爆炸3" TitleCount="2">
+<Ftitle InFrameReverse="0" InFrameX="-78" InFrameY="-57" InFrameY0="GX-109.png"/>
+<Ftitle InFrameReverse="0" InFrameX="-1" InFrameY="-107" InFrameY0="GX-110.png"/>
+</frame>
+<frame DateCount="0" FrameIndex="89" FrameName="牛爆炸4" TitleCount="2">
+<Ftitle InFrameReverse="0" InFrameX="10" InFrameY="-102" InFrameY0="GX-111.png"/>
+<Ftitle InFrameReverse="0" InFrameX="-85" InFrameY="-66" InFrameY0="GX-110.png"/>
+</frame>
+<frame DateCount="0" FrameIndex="90" FrameName="牛爆炸5" TitleCount="3">
+<Ftitle InFrameReverse="0" InFrameX="-34" InFrameY="-83" InFrameY0="GX-108.png"/>
+<Ftitle InFrameReverse="0" InFrameX="-72" InFrameY="-61" InFrameY0="GX-111.png"/>
+<Ftitle InFrameReverse="0" InFrameX="18" InFrameY="-101" InFrameY0="GX-112.png"/>
+</frame>
+<frame DateCount="0" FrameIndex="91" FrameName="牛爆炸6" TitleCount="3">
+<Ftitle InFrameReverse="0" InFrameX="-49" InFrameY="-93" InFrameY0="GX-109.png"/>
+<Ftitle InFrameReverse="0" InFrameX="17" InFrameY="-96" InFrameY0="GX-113.png"/>
+<Ftitle InFrameReverse="0" InFrameX="-72" InFrameY="-54" InFrameY0="GX-112.png"/>
+</frame>
+<frame DateCount="0" FrameIndex="92" FrameName="牛爆炸7" TitleCount="3">
+<Ftitle InFrameReverse="0" InFrameX="-58" InFrameY="-97" InFrameY0="GX-110.png"/>
+<Ftitle InFrameReverse="0" InFrameX="-78" InFrameY="-54" InFrameY0="GX-113.png"/>
+<Ftitle InFrameReverse="0" InFrameX="20" InFrameY="-93" InFrameY0="GX-114.png"/>
+</frame>
+<frame DateCount="0" FrameIndex="93" FrameName="牛爆炸8" TitleCount="3">
+<Ftitle InFrameReverse="0" InFrameX="-77" InFrameY="-46" InFrameY0="GX-114.png"/>
+<Ftitle InFrameReverse="0" InFrameX="-50" InFrameY="-93" InFrameY0="GX-111.png"/>
+<Ftitle InFrameReverse="0" InFrameX="-1" InFrameY="-39" InFrameY0="GX-108.png"/>
+</frame>
+<frame DateCount="0" FrameIndex="94" FrameName="牛爆炸9" TitleCount="2">
+<Ftitle InFrameReverse="0" InFrameX="-43" InFrameY="-83" InFrameY0="GX-112.png"/>
+<Ftitle InFrameReverse="0" InFrameX="-15" InFrameY="-53" InFrameY0="GX-109.png"/>
+</frame>
+<frame DateCount="0" FrameIndex="95" FrameName="牛爆炸10" TitleCount="3">
+<Ftitle InFrameReverse="0" InFrameX="-41" InFrameY="-91" InFrameY0="GX-113.png"/>
+<Ftitle InFrameReverse="0" InFrameX="-13" InFrameY="-67" InFrameY0="GX-110.png"/>
+<Ftitle InFrameReverse="0" InFrameX="-61" InFrameY="-57" InFrameY0="GX-108.png"/>
+</frame>
+<frame DateCount="0" FrameIndex="96" FrameName="牛爆炸11" TitleCount="3">
+<Ftitle InFrameReverse="0" InFrameX="-6" InFrameY="-65" InFrameY0="GX-111.png"/>
+<Ftitle InFrameReverse="0" InFrameX="-84" InFrameY="-79" InFrameY0="GX-109.png"/>
+<Ftitle InFrameReverse="0" InFrameX="-28" InFrameY="-97" InFrameY0="GX-114.png"/>
+</frame>
+<frame DateCount="0" FrameIndex="97" FrameName="牛爆炸12" TitleCount="2">
+<Ftitle InFrameReverse="0" InFrameX="4" InFrameY="-61" InFrameY0="GX-112.png"/>
+<Ftitle InFrameReverse="0" InFrameX="-82" InFrameY="-89" InFrameY0="GX-110.png"/>
+</frame>
+<frame DateCount="0" FrameIndex="98" FrameName="牛爆炸13" TitleCount="2">
+<Ftitle InFrameReverse="0" InFrameX="-76" InFrameY="-89" InFrameY0="GX-111.png"/>
+<Ftitle InFrameReverse="0" InFrameX="11" InFrameY="-57" InFrameY0="GX-113.png"/>
+</frame>
+<frame DateCount="0" FrameIndex="99" FrameName="牛爆炸14" TitleCount="2">
+<Ftitle InFrameReverse="0" InFrameX="23" InFrameY="-61" InFrameY0="GX-114.png"/>
+<Ftitle InFrameReverse="0" InFrameX="-76" InFrameY="-86" InFrameY0="GX-112.png"/>
+</frame>
+<frame DateCount="0" FrameIndex="100" FrameName="牛爆炸15" TitleCount="1">
+<Ftitle InFrameReverse="0" InFrameX="-76" InFrameY="-90" InFrameY0="GX-113.png"/>
+</frame>
+<frame DateCount="0" FrameIndex="101" FrameName="牛爆炸16" TitleCount="1">
+<Ftitle InFrameReverse="0" InFrameX="-68" InFrameY="-98" InFrameY0="GX-114.png"/>
+</frame>
+<frame DateCount="0" FrameIndex="102" FrameName="台爆炸" TitleCount="1">
+<Ftitle InFrameReverse="0" InFrameX="-73" InFrameY="-47" InFrameY0="GX-108.png"/>
+</frame>
+<frame DateCount="0" FrameIndex="103" FrameName="台爆炸2" TitleCount="3">
+<Ftitle InFrameReverse="0" InFrameX="-51" InFrameY="-138" InFrameY0="GX-108.png"/>
+<Ftitle InFrameReverse="0" InFrameX="16" InFrameY="-42" InFrameY0="GX-108.png"/>
+<Ftitle InFrameReverse="0" InFrameX="-83" InFrameY="-62" InFrameY0="GX-109.png"/>
+</frame>
+<frame DateCount="0" FrameIndex="104" FrameName="台爆炸3" TitleCount="3">
+<Ftitle InFrameReverse="0" InFrameX="-64" InFrameY="-149" InFrameY0="GX-109.png"/>
+<Ftitle InFrameReverse="0" InFrameX="-1" InFrameY="-69" InFrameY0="GX-109.png"/>
+<Ftitle InFrameReverse="0" InFrameX="-98" InFrameY="-75" InFrameY0="GX-110.png"/>
+</frame>
+<frame DateCount="0" FrameIndex="105" FrameName="台爆炸4" TitleCount="4">
+<Ftitle InFrameReverse="0" InFrameX="-3" InFrameY="-75" InFrameY0="GX-110.png"/>
+<Ftitle InFrameReverse="0" InFrameX="-86" InFrameY="-149" InFrameY0="GX-110.png"/>
+<Ftitle InFrameReverse="0" InFrameX="-88" InFrameY="-61" InFrameY0="GX-112.png"/>
+<Ftitle InFrameReverse="0" InFrameX="-103" InFrameY="-88" InFrameY0="GX-108.png"/>
+</frame>
+<frame DateCount="0" FrameIndex="106" FrameName="台爆炸5" TitleCount="4">
+<Ftitle InFrameReverse="0" InFrameX="4" InFrameY="-77" InFrameY0="GX-111.png"/>
+<Ftitle InFrameReverse="0" InFrameX="-114" InFrameY="-101" InFrameY0="GX-109.png"/>
+<Ftitle InFrameReverse="0" InFrameX="-73" InFrameY="-135" InFrameY0="GX-111.png"/>
+<Ftitle InFrameReverse="0" InFrameX="-84" InFrameY="-63" InFrameY0="GX-113.png"/>
+</frame>
+<frame DateCount="0" FrameIndex="107" FrameName="台爆炸6" TitleCount="5">
+<Ftitle InFrameReverse="0" InFrameX="-111" InFrameY="-118" InFrameY0="GX-110.png"/>
+<Ftitle InFrameReverse="0" InFrameX="-74" InFrameY="-62" InFrameY0="GX-114.png"/>
+<Ftitle InFrameReverse="0" InFrameX="-71" InFrameY="-144" InFrameY0="GX-112.png"/>
+<Ftitle InFrameReverse="0" InFrameX="11" InFrameY="-78" InFrameY0="GX-112.png"/>
+<Ftitle InFrameReverse="0" InFrameX="-20" InFrameY="-104" InFrameY0="GX-108.png"/>
+</frame>
+<frame DateCount="0" FrameIndex="108" FrameName="台爆炸7" TitleCount="4">
+<Ftitle InFrameReverse="0" InFrameX="-92" InFrameY="-112" InFrameY0="GX-111.png"/>
+<Ftitle InFrameReverse="0" InFrameX="6" InFrameY="-74" InFrameY0="GX-113.png"/>
+<Ftitle InFrameReverse="0" InFrameX="-62" InFrameY="-148" InFrameY0="GX-113.png"/>
+<Ftitle InFrameReverse="0" InFrameX="-28" InFrameY="-120" InFrameY0="GX-109.png"/>
+</frame>
+<frame DateCount="0" FrameIndex="109" FrameName="台爆炸8" TitleCount="4">
+<Ftitle InFrameReverse="0" InFrameX="-81" InFrameY="-109" InFrameY0="GX-112.png"/>
+<Ftitle InFrameReverse="0" InFrameX="-38" InFrameY="-123" InFrameY0="GX-110.png"/>
+<Ftitle InFrameReverse="0" InFrameX="-58" InFrameY="-150" InFrameY0="GX-114.png"/>
+<Ftitle InFrameReverse="0" InFrameX="34" InFrameY="-108" InFrameY0="GX-114.png"/>
+</frame>
+<frame DateCount="0" FrameIndex="110" FrameName="台爆炸9" TitleCount="2">
+<Ftitle InFrameReverse="0" InFrameX="-76" InFrameY="-100" InFrameY0="GX-113.png"/>
+<Ftitle InFrameReverse="0" InFrameX="-37" InFrameY="-116" InFrameY0="GX-112.png"/>
+</frame>
+<frame DateCount="0" FrameIndex="111" FrameName="台爆炸10" TitleCount="2">
+<Ftitle InFrameReverse="0" InFrameX="-83" InFrameY="-93" InFrameY0="GX-114.png"/>
+<Ftitle InFrameReverse="0" InFrameX="-39" InFrameY="-116" InFrameY0="GX-113.png"/>
+</frame>
+<frame DateCount="0" FrameIndex="112" FrameName="台爆炸11" TitleCount="1">
+<Ftitle InFrameReverse="0" InFrameX="-37" InFrameY="-119" InFrameY0="GX-114.png"/>
+</frame>
+<frame DateCount="0" FrameIndex="113" FrameName="手0_0" TitleCount="1">
+<Ftitle InFrameReverse="0" InFrameX="-23" InFrameY="-79" InFrameY0="GX-115.png"/>
+</frame>
+<frame DateCount="0" FrameIndex="114" FrameName="手0_1" TitleCount="1">
+<Ftitle InFrameReverse="0" InFrameX="-18" InFrameY="-84" InFrameY0="GX-115.png"/>
+</frame>
+<frame DateCount="0" FrameIndex="115" FrameName="手0_2" TitleCount="1">
+<Ftitle InFrameReverse="0" InFrameX="-13" InFrameY="-89" InFrameY0="GX-115.png"/>
+</frame>
+<frame DateCount="0" FrameIndex="116" FrameName="手0_3" TitleCount="1">
+<Ftitle InFrameReverse="0" InFrameX="-8" InFrameY="-94" InFrameY0="GX-115.png"/>
+</frame>
+<frame DateCount="0" FrameIndex="117" FrameName="手0_4" TitleCount="1">
+<Ftitle InFrameReverse="0" InFrameX="-3" InFrameY="-99" InFrameY0="GX-115.png"/>
+</frame>
+<frame DateCount="0" FrameIndex="118" FrameName="手0_5" TitleCount="1">
+<Ftitle InFrameReverse="0" InFrameX="2" InFrameY="-104" InFrameY0="GX-115.png"/>
+</frame>
+<frame DateCount="0" FrameIndex="119" FrameName="手0_6" TitleCount="1">
+<Ftitle InFrameReverse="0" InFrameX="7" InFrameY="-109" InFrameY0="GX-115.png"/>
+</frame>
+<frame DateCount="0" FrameIndex="120" FrameName="手0_7" TitleCount="1">
+<Ftitle InFrameReverse="0" InFrameX="12" InFrameY="-114" InFrameY0="GX-115.png"/>
+</frame>
+<frame DateCount="0" FrameIndex="121" FrameName="手0_8" TitleCount="1">
+<Ftitle InFrameReverse="0" InFrameX="17" InFrameY="-119" InFrameY0="GX-115.png"/>
+</frame>
+<frame DateCount="0" FrameIndex="122" FrameName="手0_9" TitleCount="1">
+<Ftitle InFrameReverse="0" InFrameX="22" InFrameY="-124" InFrameY0="GX-115.png"/>
+</frame>
+<frame DateCount="0" FrameIndex="123" FrameName="手0_10" TitleCount="2">
+<Ftitle InFrameReverse="0" InFrameX="-16" InFrameY="-16" InFrameY0="GX-116.png"/>
+<Ftitle InFrameReverse="0" InFrameX="-23" InFrameY="-79" InFrameY0="GX-115.png"/>
+</frame>
+<frame DateCount="0" FrameIndex="124" FrameName="手0_11" TitleCount="2">
+<Ftitle InFrameReverse="0" InFrameX="-29" InFrameY="-26" InFrameY0="GX-117.png"/>
+<Ftitle InFrameReverse="0" InFrameX="-23" InFrameY="-79" InFrameY0="GX-115.png"/>
+</frame>
+<frame DateCount="0" FrameIndex="125" FrameName="手0_12" TitleCount="2">
+<Ftitle InFrameReverse="0" InFrameX="-51" InFrameY="-40" InFrameY0="GX-118.png"/>
+<Ftitle InFrameReverse="0" InFrameX="-23" InFrameY="-79" InFrameY0="GX-115.png"/>
+</frame>
+<frame DateCount="0" FrameIndex="126" FrameName="手0_13" TitleCount="2">
+<Ftitle InFrameReverse="0" InFrameX="-46" InFrameY="-45" InFrameY0="GX-119.png"/>
+<Ftitle InFrameReverse="0" InFrameX="-23" InFrameY="-79" InFrameY0="GX-115.png"/>
+</frame>
+<frame DateCount="0" FrameIndex="127" FrameName="1_0" TitleCount="1">
+<Ftitle InFrameReverse="1" InFrameX="23" InFrameY="-79" InFrameY0="GX-115.png"/>
+</frame>
+<frame DateCount="0" FrameIndex="128" FrameName="1_1" TitleCount="1">
+<Ftitle InFrameReverse="1" InFrameX="18" InFrameY="-84" InFrameY0="GX-115.png"/>
+</frame>
+<frame DateCount="0" FrameIndex="129" FrameName="1_2" TitleCount="1">
+<Ftitle InFrameReverse="1" InFrameX="13" InFrameY="-89" InFrameY0="GX-115.png"/>
+</frame>
+<frame DateCount="0" FrameIndex="130" FrameName="1_3" TitleCount="1">
+<Ftitle InFrameReverse="1" InFrameX="8" InFrameY="-94" InFrameY0="GX-115.png"/>
+</frame>
+<frame DateCount="0" FrameIndex="131" FrameName="1_4" TitleCount="1">
+<Ftitle InFrameReverse="1" InFrameX="3" InFrameY="-99" InFrameY0="GX-115.png"/>
+</frame>
+<frame DateCount="0" FrameIndex="132" FrameName="1_5" TitleCount="1">
+<Ftitle InFrameReverse="1" InFrameX="-2" InFrameY="-104" InFrameY0="GX-115.png"/>
+</frame>
+<frame DateCount="0" FrameIndex="133" FrameName="1_6" TitleCount="1">
+<Ftitle InFrameReverse="1" InFrameX="-7" InFrameY="-109" InFrameY0="GX-115.png"/>
+</frame>
+<frame DateCount="0" FrameIndex="134" FrameName="1_7" TitleCount="1">
+<Ftitle InFrameReverse="1" InFrameX="-12" InFrameY="-114" InFrameY0="GX-115.png"/>
+</frame>
+<frame DateCount="0" FrameIndex="135" FrameName="1_8" TitleCount="1">
+<Ftitle InFrameReverse="1" InFrameX="-17" InFrameY="-119" InFrameY0="GX-115.png"/>
+</frame>
+<frame DateCount="0" FrameIndex="136" FrameName="1_9" TitleCount="1">
+<Ftitle InFrameReverse="1" InFrameX="-22" InFrameY="-124" InFrameY0="GX-115.png"/>
+</frame>
+<frame DateCount="0" FrameIndex="137" FrameName="1_10" TitleCount="2">
+<Ftitle InFrameReverse="1" InFrameX="16" InFrameY="-16" InFrameY0="GX-116.png"/>
+<Ftitle InFrameReverse="1" InFrameX="23" InFrameY="-79" InFrameY0="GX-115.png"/>
+</frame>
+<frame DateCount="0" FrameIndex="138" FrameName="1_11" TitleCount="2">
+<Ftitle InFrameReverse="1" InFrameX="29" InFrameY="-26" InFrameY0="GX-117.png"/>
+<Ftitle InFrameReverse="1" InFrameX="23" InFrameY="-79" InFrameY0="GX-115.png"/>
+</frame>
+<frame DateCount="0" FrameIndex="139" FrameName="1_12" TitleCount="2">
+<Ftitle InFrameReverse="1" InFrameX="51" InFrameY="-40" InFrameY0="GX-118.png"/>
+<Ftitle InFrameReverse="1" InFrameX="23" InFrameY="-79" InFrameY0="GX-115.png"/>
+</frame>
+<frame DateCount="0" FrameIndex="140" FrameName="1_13" TitleCount="2">
+<Ftitle InFrameReverse="1" InFrameX="46" InFrameY="-45" InFrameY0="GX-119.png"/>
+<Ftitle InFrameReverse="1" InFrameX="23" InFrameY="-79" InFrameY0="GX-115.png"/>
+</frame>
+<frame DateCount="0" FrameIndex="141" FrameName="2_0" TitleCount="1">
+<Ftitle InFrameReverse="3" InFrameX="23" InFrameY="79" InFrameY0="GX-115.png"/>
+</frame>
+<frame DateCount="0" FrameIndex="142" FrameName="2_1" TitleCount="1">
+<Ftitle InFrameReverse="3" InFrameX="18" InFrameY="84" InFrameY0="GX-115.png"/>
+</frame>
+<frame DateCount="0" FrameIndex="143" FrameName="2_2" TitleCount="1">
+<Ftitle InFrameReverse="3" InFrameX="13" InFrameY="89" InFrameY0="GX-115.png"/>
+</frame>
+<frame DateCount="0" FrameIndex="144" FrameName="2_3" TitleCount="1">
+<Ftitle InFrameReverse="3" InFrameX="8" InFrameY="94" InFrameY0="GX-115.png"/>
+</frame>
+<frame DateCount="0" FrameIndex="145" FrameName="2_4" TitleCount="1">
+<Ftitle InFrameReverse="3" InFrameX="3" InFrameY="99" InFrameY0="GX-115.png"/>
+</frame>
+<frame DateCount="0" FrameIndex="146" FrameName="2_5" TitleCount="1">
+<Ftitle InFrameReverse="3" InFrameX="-2" InFrameY="104" InFrameY0="GX-115.png"/>
+</frame>
+<frame DateCount="0" FrameIndex="147" FrameName="2_6" TitleCount="1">
+<Ftitle InFrameReverse="3" InFrameX="-7" InFrameY="109" InFrameY0="GX-115.png"/>
+</frame>
+<frame DateCount="0" FrameIndex="148" FrameName="2_7" TitleCount="1">
+<Ftitle InFrameReverse="3" InFrameX="-12" InFrameY="114" InFrameY0="GX-115.png"/>
+</frame>
+<frame DateCount="0" FrameIndex="149" FrameName="2_8" TitleCount="1">
+<Ftitle InFrameReverse="3" InFrameX="-17" InFrameY="119" InFrameY0="GX-115.png"/>
+</frame>
+<frame DateCount="0" FrameIndex="150" FrameName="2_9" TitleCount="1">
+<Ftitle InFrameReverse="3" InFrameX="-22" InFrameY="124" InFrameY0="GX-115.png"/>
+</frame>
+<frame DateCount="0" FrameIndex="151" FrameName="2_10" TitleCount="2">
+<Ftitle InFrameReverse="3" InFrameX="16" InFrameY="16" InFrameY0="GX-116.png"/>
+<Ftitle InFrameReverse="3" InFrameX="23" InFrameY="79" InFrameY0="GX-115.png"/>
+</frame>
+<frame DateCount="0" FrameIndex="152" FrameName="2_11" TitleCount="2">
+<Ftitle InFrameReverse="3" InFrameX="29" InFrameY="26" InFrameY0="GX-117.png"/>
+<Ftitle InFrameReverse="3" InFrameX="23" InFrameY="79" InFrameY0="GX-115.png"/>
+</frame>
+<frame DateCount="0" FrameIndex="153" FrameName="2_12" TitleCount="2">
+<Ftitle InFrameReverse="3" InFrameX="51" InFrameY="40" InFrameY0="GX-118.png"/>
+<Ftitle InFrameReverse="3" InFrameX="23" InFrameY="79" InFrameY0="GX-115.png"/>
+</frame>
+<frame DateCount="0" FrameIndex="154" FrameName="2_13" TitleCount="2">
+<Ftitle InFrameReverse="3" InFrameX="46" InFrameY="45" InFrameY0="GX-119.png"/>
+<Ftitle InFrameReverse="3" InFrameX="23" InFrameY="79" InFrameY0="GX-115.png"/>
+</frame>
+<frame DateCount="0" FrameIndex="155" FrameName="3_0" TitleCount="1">
+<Ftitle InFrameReverse="2" InFrameX="-23" InFrameY="79" InFrameY0="GX-115.png"/>
+</frame>
+<frame DateCount="0" FrameIndex="156" FrameName="3_1" TitleCount="1">
+<Ftitle InFrameReverse="2" InFrameX="-18" InFrameY="84" InFrameY0="GX-115.png"/>
+</frame>
+<frame DateCount="0" FrameIndex="157" FrameName="3_2" TitleCount="1">
+<Ftitle InFrameReverse="2" InFrameX="-13" InFrameY="89" InFrameY0="GX-115.png"/>
+</frame>
+<frame DateCount="0" FrameIndex="158" FrameName="3_3" TitleCount="1">
+<Ftitle InFrameReverse="2" InFrameX="-8" InFrameY="94" InFrameY0="GX-115.png"/>
+</frame>
+<frame DateCount="0" FrameIndex="159" FrameName="3_4" TitleCount="1">
+<Ftitle InFrameReverse="2" InFrameX="-3" InFrameY="99" InFrameY0="GX-115.png"/>
+</frame>
+<frame DateCount="0" FrameIndex="160" FrameName="3_5" TitleCount="1">
+<Ftitle InFrameReverse="2" InFrameX="2" InFrameY="104" InFrameY0="GX-115.png"/>
+</frame>
+<frame DateCount="0" FrameIndex="161" FrameName="3_6" TitleCount="1">
+<Ftitle InFrameReverse="2" InFrameX="7" InFrameY="109" InFrameY0="GX-115.png"/>
+</frame>
+<frame DateCount="0" FrameIndex="162" FrameName="3_7" TitleCount="1">
+<Ftitle InFrameReverse="2" InFrameX="12" InFrameY="114" InFrameY0="GX-115.png"/>
+</frame>
+<frame DateCount="0" FrameIndex="163" FrameName="3_8" TitleCount="1">
+<Ftitle InFrameReverse="2" InFrameX="17" InFrameY="119" InFrameY0="GX-115.png"/>
+</frame>
+<frame DateCount="0" FrameIndex="164" FrameName="3_9" TitleCount="1">
+<Ftitle InFrameReverse="2" InFrameX="22" InFrameY="124" InFrameY0="GX-115.png"/>
+</frame>
+<frame DateCount="0" FrameIndex="165" FrameName="3_10" TitleCount="2">
+<Ftitle InFrameReverse="2" InFrameX="-16" InFrameY="16" InFrameY0="GX-116.png"/>
+<Ftitle InFrameReverse="2" InFrameX="-23" InFrameY="79" InFrameY0="GX-115.png"/>
+</frame>
+<frame DateCount="0" FrameIndex="166" FrameName="3_11" TitleCount="2">
+<Ftitle InFrameReverse="2" InFrameX="-29" InFrameY="26" InFrameY0="GX-117.png"/>
+<Ftitle InFrameReverse="2" InFrameX="-23" InFrameY="79" InFrameY0="GX-115.png"/>
+</frame>
+<frame DateCount="0" FrameIndex="167" FrameName="3_12" TitleCount="2">
+<Ftitle InFrameReverse="2" InFrameX="-51" InFrameY="40" InFrameY0="GX-118.png"/>
+<Ftitle InFrameReverse="2" InFrameX="-23" InFrameY="79" InFrameY0="GX-115.png"/>
+</frame>
+<frame DateCount="0" FrameIndex="168" FrameName="3_13" TitleCount="2">
+<Ftitle InFrameReverse="2" InFrameX="-46" InFrameY="45" InFrameY0="GX-119.png"/>
+<Ftitle InFrameReverse="2" InFrameX="-23" InFrameY="79" InFrameY0="GX-115.png"/>
+</frame>
+<frame DateCount="0" FrameIndex="169" FrameName="光圈0" TitleCount="1">
+<Ftitle InFrameReverse="2" InFrameX="-16" InFrameY="15" InFrameY0="GX-116.png"/>
+</frame>
+<frame DateCount="0" FrameIndex="170" FrameName="光圈1" TitleCount="1">
+<Ftitle InFrameReverse="2" InFrameX="-28" InFrameY="25" InFrameY0="GX-117.png"/>
+</frame>
+<frame DateCount="0" FrameIndex="171" FrameName="光圈2" TitleCount="1">
+<Ftitle InFrameReverse="2" InFrameX="-51" InFrameY="38" InFrameY0="GX-118.png"/>
+</frame>
+<frame DateCount="0" FrameIndex="172" FrameName="光圈3" TitleCount="1">
+<Ftitle InFrameReverse="2" InFrameX="-46" InFrameY="43" InFrameY0="GX-119.png"/>
+</frame>
+<frame DateCount="0" FrameIndex="173" FrameName="指示光圈" TitleCount="1">
+<Ftitle InFrameReverse="0" InFrameX="-30" InFrameY="-19" InFrameY0="GX-120.png"/>
+</frame>
+<frame DateCount="0" FrameIndex="174" FrameName="指示箭头1" TitleCount="1">
+<Ftitle InFrameReverse="0" InFrameX="-8" InFrameY="-23" InFrameY0="GX-121.png"/>
+</frame>
+<frame DateCount="0" FrameIndex="175" FrameName="指示箭头2" TitleCount="1">
+<Ftitle InFrameReverse="0" InFrameX="-8" InFrameY="-23" InFrameY0="GX-122.png"/>
+</frame>
+<frame DateCount="0" FrameIndex="176" FrameName="指示箭头3" TitleCount="1">
+<Ftitle InFrameReverse="0" InFrameX="-7" InFrameY="-23" InFrameY0="GX-123.png"/>
+</frame>
+<frame DateCount="0" FrameIndex="177" FrameName="4" TitleCount="1">
+<Ftitle InFrameReverse="0" InFrameX="-12" InFrameY="-30" InFrameY0="GX-124.png"/>
+</frame>
+<frame DateCount="0" FrameIndex="178" FrameName="5" TitleCount="1">
+<Ftitle InFrameReverse="0" InFrameX="-12" InFrameY="-30" InFrameY0="GX-125.png"/>
+</frame>
+<frame DateCount="0" FrameIndex="179" FrameName="6" TitleCount="1">
+<Ftitle InFrameReverse="0" InFrameX="-12" InFrameY="-30" InFrameY0="GX-126.png"/>
+</frame>
+<frame DateCount="0" FrameIndex="180" FrameName="光圈" TitleCount="4">
+<Ftitle InFrameReverse="2" InFrameX="-121" InFrameY="85" InFrameY0="GX-127.png"/>
+<Ftitle InFrameReverse="0" InFrameX="-121" InFrameY="-87" InFrameY0="GX-127.png"/>
+<Ftitle InFrameReverse="3" InFrameX="119" InFrameY="85" InFrameY0="GX-127.png"/>
+<Ftitle InFrameReverse="1" InFrameX="119" InFrameY="-87" InFrameY0="GX-127.png"/>
+</frame>
+</frames>
+<actions ActionCount="33">
+<action FrameCount="5" actionIndex="0" actionName="打击">
+<Aframe Delay="2" Index="7"/>
+<Aframe Delay="1" Index="8"/>
+<Aframe Delay="1" Index="9"/>
+<Aframe Delay="0" Index="10"/>
+<Aframe Delay="0" Index="10"/>
+</action>
+<action FrameCount="6" actionIndex="1" actionName="斩击">
+<Aframe Delay="0" Index="11"/>
+<Aframe Delay="1" Index="12"/>
+<Aframe Delay="0" Index="13"/>
+<Aframe Delay="0" Index="14"/>
+<Aframe Delay="1" Index="31"/>
+<Aframe Delay="0" Index="32"/>
+</action>
+<action FrameCount="3" actionIndex="2" actionName="速度线">
+<Aframe Delay="1" Index="15"/>
+<Aframe Delay="1" Index="16"/>
+<Aframe Delay="1" Index="17"/>
+</action>
+<action FrameCount="11" actionIndex="3" actionName="爆点">
+<Aframe Delay="4" Index="18"/>
+<Aframe Delay="0" Index="0"/>
+<Aframe Delay="0" Index="1"/>
+<Aframe Delay="1" Index="2"/>
+<Aframe Delay="2" Index="3"/>
+<Aframe Delay="1" Index="4"/>
+<Aframe Delay="1" Index="5"/>
+<Aframe Delay="0" Index="6"/>
+<Aframe Delay="0" Index="6"/>
+<Aframe Delay="5" Index="18"/>
+<Aframe Delay="0" Index="18"/>
+</action>
+<action FrameCount="3" actionIndex="4" actionName="红闪">
+<Aframe Delay="0" Index="20"/>
+<Aframe Delay="1" Index="19"/>
+<Aframe Delay="0" Index="20"/>
+</action>
+<action FrameCount="1" actionIndex="5" actionName="背光大">
+<Aframe Delay="0" Index="21"/>
+</action>
+<action FrameCount="1" actionIndex="6" actionName="背光中">
+<Aframe Delay="0" Index="22"/>
+</action>
+<action FrameCount="1" actionIndex="7" actionName="背光小">
+<Aframe Delay="0" Index="23"/>
+</action>
+<action FrameCount="7" actionIndex="8" actionName="钝器打击">
+<Aframe Delay="1" Index="24"/>
+<Aframe Delay="1" Index="25"/>
+<Aframe Delay="0" Index="26"/>
+<Aframe Delay="0" Index="27"/>
+<Aframe Delay="0" Index="28"/>
+<Aframe Delay="0" Index="29"/>
+<Aframe Delay="0" Index="30"/>
+</action>
+<action FrameCount="8" actionIndex="9" actionName="喷血">
+<Aframe Delay="0" Index="33"/>
+<Aframe Delay="0" Index="34"/>
+<Aframe Delay="0" Index="35"/>
+<Aframe Delay="0" Index="36"/>
+<Aframe Delay="1" Index="37"/>
+<Aframe Delay="1" Index="38"/>
+<Aframe Delay="1" Index="39"/>
+<Aframe Delay="1" Index="40"/>
+</action>
+<action FrameCount="6" actionIndex="10" actionName="蓄力人后">
+<Aframe Delay="1" Index="41"/>
+<Aframe Delay="1" Index="42"/>
+<Aframe Delay="1" Index="43"/>
+<Aframe Delay="1" Index="44"/>
+<Aframe Delay="1" Index="45"/>
+<Aframe Delay="1" Index="46"/>
+</action>
+<action FrameCount="6" actionIndex="11" actionName="蓄力人前">
+<Aframe Delay="0" Index="47"/>
+<Aframe Delay="0" Index="48"/>
+<Aframe Delay="0" Index="49"/>
+<Aframe Delay="0" Index="50"/>
+<Aframe Delay="0" Index="51"/>
+<Aframe Delay="0" Index="52"/>
+</action>
+<action FrameCount="2" actionIndex="12" actionName="血迹">
+<Aframe Delay="40" Index="53"/>
+<Aframe Delay="0" Index="53"/>
+</action>
+<action FrameCount="2" actionIndex="13" actionName="闪避">
+<Aframe Delay="1" Index="56"/>
+<Aframe Delay="1" Index="57"/>
+</action>
+<action FrameCount="1" actionIndex="14" actionName="投石车标记">
+<Aframe Delay="0" Index="54"/>
+</action>
+<action FrameCount="1" actionIndex="15" actionName="VIP标记">
+<Aframe Delay="0" Index="55"/>
+</action>
+<action FrameCount="6" actionIndex="16" actionName="背波">
+<Aframe Delay="0" Index="58"/>
+<Aframe Delay="1" Index="59"/>
+<Aframe Delay="1" Index="60"/>
+<Aframe Delay="1" Index="61"/>
+<Aframe Delay="1" Index="62"/>
+<Aframe Delay="1" Index="63"/>
+</action>
+<action FrameCount="7" actionIndex="17" actionName="地震">
+<Aframe Delay="1" Index="64"/>
+<Aframe Delay="1" Index="65"/>
+<Aframe Delay="1" Index="66"/>
+<Aframe Delay="2" Index="67"/>
+<Aframe Delay="2" Index="68"/>
+<Aframe Delay="2" Index="69"/>
+<Aframe Delay="2" Index="70"/>
+</action>
+<action FrameCount="1" actionIndex="18" actionName="箭风0">
+<Aframe Delay="0" Index="71"/>
+</action>
+<action FrameCount="1" actionIndex="19" actionName="箭风1">
+<Aframe Delay="0" Index="72"/>
+</action>
+<action FrameCount="23" actionIndex="20" actionName="箭塔爆炸">
+<Aframe Delay="2" Index="73"/>
+<Aframe Delay="2" Index="74"/>
+<Aframe Delay="2" Index="75"/>
+<Aframe Delay="2" Index="76"/>
+<Aframe Delay="2" Index="77"/>
+<Aframe Delay="2" Index="78"/>
+<Aframe Delay="2" Index="79"/>
+<Aframe Delay="2" Index="80"/>
+<Aframe Delay="2" Index="81"/>
+<Aframe Delay="2" Index="82"/>
+<Aframe Delay="2" Index="73"/>
+<Aframe Delay="2" Index="74"/>
+<Aframe Delay="2" Index="75"/>
+<Aframe Delay="2" Index="76"/>
+<Aframe Delay="2" Index="77"/>
+<Aframe Delay="2" Index="78"/>
+<Aframe Delay="2" Index="79"/>
+<Aframe Delay="2" Index="80"/>
+<Aframe Delay="2" Index="81"/>
+<Aframe Delay="2" Index="82"/>
+<Aframe Delay="2" Index="83"/>
+<Aframe Delay="2" Index="84"/>
+<Aframe Delay="2" Index="85"/>
+</action>
+<action FrameCount="28" actionIndex="21" actionName="牛爆炸">
+<Aframe Delay="2" Index="86"/>
+<Aframe Delay="2" Index="87"/>
+<Aframe Delay="2" Index="88"/>
+<Aframe Delay="2" Index="89"/>
+<Aframe Delay="2" Index="90"/>
+<Aframe Delay="2" Index="91"/>
+<Aframe Delay="2" Index="92"/>
+<Aframe Delay="2" Index="93"/>
+<Aframe Delay="2" Index="94"/>
+<Aframe Delay="2" Index="95"/>
+<Aframe Delay="2" Index="96"/>
+<Aframe Delay="2" Index="97"/>
+<Aframe Delay="2" Index="86"/>
+<Aframe Delay="2" Index="87"/>
+<Aframe Delay="2" Index="88"/>
+<Aframe Delay="2" Index="89"/>
+<Aframe Delay="2" Index="90"/>
+<Aframe Delay="2" Index="91"/>
+<Aframe Delay="2" Index="92"/>
+<Aframe Delay="2" Index="93"/>
+<Aframe Delay="2" Index="94"/>
+<Aframe Delay="2" Index="95"/>
+<Aframe Delay="2" Index="96"/>
+<Aframe Delay="2" Index="97"/>
+<Aframe Delay="2" Index="98"/>
+<Aframe Delay="2" Index="99"/>
+<Aframe Delay="2" Index="100"/>
+<Aframe Delay="2" Index="101"/>
+</action>
+<action FrameCount="35" actionIndex="22" actionName="台爆炸">
+<Aframe Delay="2" Index="102"/>
+<Aframe Delay="2" Index="103"/>
+<Aframe Delay="2" Index="104"/>
+<Aframe Delay="2" Index="105"/>
+<Aframe Delay="2" Index="106"/>
+<Aframe Delay="2" Index="107"/>
+<Aframe Delay="2" Index="108"/>
+<Aframe Delay="2" Index="109"/>
+<Aframe Delay="2" Index="110"/>
+<Aframe Delay="2" Index="103"/>
+<Aframe Delay="2" Index="104"/>
+<Aframe Delay="2" Index="105"/>
+<Aframe Delay="2" Index="106"/>
+<Aframe Delay="2" Index="107"/>
+<Aframe Delay="2" Index="108"/>
+<Aframe Delay="2" Index="109"/>
+<Aframe Delay="2" Index="110"/>
+<Aframe Delay="2" Index="103"/>
+<Aframe Delay="2" Index="104"/>
+<Aframe Delay="2" Index="105"/>
+<Aframe Delay="2" Index="106"/>
+<Aframe Delay="2" Index="107"/>
+<Aframe Delay="2" Index="108"/>
+<Aframe Delay="2" Index="109"/>
+<Aframe Delay="2" Index="110"/>
+<Aframe Delay="2" Index="103"/>
+<Aframe Delay="2" Index="104"/>
+<Aframe Delay="2" Index="105"/>
+<Aframe Delay="2" Index="106"/>
+<Aframe Delay="2" Index="107"/>
+<Aframe Delay="2" Index="108"/>
+<Aframe Delay="2" Index="109"/>
+<Aframe Delay="2" Index="110"/>
+<Aframe Delay="2" Index="111"/>
+<Aframe Delay="2" Index="112"/>
+</action>
+<action FrameCount="10" actionIndex="23" actionName="手0">
+<Aframe Delay="0" Index="122"/>
+<Aframe Delay="0" Index="120"/>
+<Aframe Delay="0" Index="118"/>
+<Aframe Delay="0" Index="116"/>
+<Aframe Delay="0" Index="114"/>
+<Aframe Delay="0" Index="123"/>
+<Aframe Delay="0" Index="124"/>
+<Aframe Delay="0" Index="125"/>
+<Aframe Delay="0" Index="126"/>
+<Aframe Delay="5" Index="113"/>
+</action>
+<action FrameCount="10" actionIndex="24" actionName="手1">
+<Aframe Delay="0" Index="136"/>
+<Aframe Delay="0" Index="134"/>
+<Aframe Delay="0" Index="132"/>
+<Aframe Delay="0" Index="130"/>
+<Aframe Delay="0" Index="128"/>
+<Aframe Delay="0" Index="137"/>
+<Aframe Delay="0" Index="138"/>
+<Aframe Delay="0" Index="139"/>
+<Aframe Delay="0" Index="140"/>
+<Aframe Delay="5" Index="127"/>
+</action>
+<action FrameCount="10" actionIndex="25" actionName="手2">
+<Aframe Delay="0" Index="150"/>
+<Aframe Delay="0" Index="148"/>
+<Aframe Delay="0" Index="146"/>
+<Aframe Delay="0" Index="144"/>
+<Aframe Delay="0" Index="142"/>
+<Aframe Delay="0" Index="141"/>
+<Aframe Delay="0" Index="151"/>
+<Aframe Delay="0" Index="152"/>
+<Aframe Delay="0" Index="153"/>
+<Aframe Delay="0" Index="154"/>
+</action>
+<action FrameCount="10" actionIndex="26" actionName="手3">
+<Aframe Delay="0" Index="164"/>
+<Aframe Delay="0" Index="162"/>
+<Aframe Delay="0" Index="160"/>
+<Aframe Delay="0" Index="158"/>
+<Aframe Delay="0" Index="156"/>
+<Aframe Delay="0" Index="165"/>
+<Aframe Delay="0" Index="166"/>
+<Aframe Delay="0" Index="167"/>
+<Aframe Delay="0" Index="168"/>
+<Aframe Delay="5" Index="155"/>
+</action>
+<action FrameCount="1" actionIndex="27" actionName="光圈">
+<Aframe Delay="0" Index="173"/>
+</action>
+<action FrameCount="3" actionIndex="28" actionName="箭头">
+<Aframe Delay="2" Index="174"/>
+<Aframe Delay="2" Index="175"/>
+<Aframe Delay="2" Index="176"/>
+</action>
+<action FrameCount="5" actionIndex="29" actionName="手4">
+<Aframe Delay="0" Index="113"/>
+<Aframe Delay="0" Index="123"/>
+<Aframe Delay="0" Index="124"/>
+<Aframe Delay="0" Index="125"/>
+<Aframe Delay="0" Index="126"/>
+</action>
+<action FrameCount="1" actionIndex="30" actionName="血量警示">
+<Aframe Delay="0" Index="20"/>
+</action>
+<action FrameCount="3" actionIndex="31" actionName="箭头2">
+<Aframe Delay="1" Index="177"/>
+<Aframe Delay="1" Index="178"/>
+<Aframe Delay="1" Index="179"/>
+</action>
+<action FrameCount="2" actionIndex="32" actionName="大光圈">
+<Aframe Delay="5" Index="180"/>
+<Aframe Delay="0" Index="180"/>
+</action>
+</actions>
+</Map>
