@@ -1,3 +1,6 @@
+# 反汇编文件（很大，不提交）
+so_analysis/*.lst
+
 # Build outputs
 *.apk
 *.jar
