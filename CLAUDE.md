@@ -133,7 +133,7 @@ xxd -s <offset> -l <length> lib/armeabi/libgame.so
 ```
 
 ### IDA disassembly
-The file `lib/armeabi/libgame.lst` is a full IDA Pro disassembly listing (4.7M lines). Use `grep` to search it. Key patterns:
+The file `so_analysis/libgame.lst` is a full IDA Pro disassembly listing (4.7M lines). Use `grep` to search it. Key patterns:
 - Symbol names demangle with `c++filt` (e.g. `_ZN8MapLayer7restartEi` → `MapLayer::restart(int)`)
 - `CODE XREF` shows callers
 - `DATA XREF` shows data references
@@ -160,7 +160,7 @@ The file `lib/armeabi/libgame.lst` is a full IDA Pro disassembly listing (4.7M l
 | `smali/cn/cmgame/billing/api/GameInterface.smali` | CMGame SDK entry point (now stubbed) |
 | `smali/com/gamedo/v360/sanguoAndroid360.smali` | Main Activity — StrictMode patch, denglu/guanka init |
 | `lib/armeabi/libgame.so` | Game engine native code — ARM patches for crash/curl/zhengban |
-| `lib/armeabi/libgame.lst` | IDA Pro disassembly listing for analysis |
+| `so_analysis/libgame.lst` | IDA Pro disassembly listing for analysis |
 
 ## Document Index
 

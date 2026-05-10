@@ -15,7 +15,7 @@
 
 ## 发现过程
 
-通过 IDA 反汇编文本 (`lib/armeabi/libgame.lst`) 追踪 `getNowMapIndex()` 函数，发现了游戏的正版门机制。
+通过 IDA 反汇编文本 (`so_analysis/libgame.lst`) 追踪 `getNowMapIndex()` 函数，发现了游戏的正版门机制。
 
 ## 正版门机制
 
