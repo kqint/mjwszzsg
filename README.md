@@ -1,11 +1,23 @@
 # 猛将无双之战三国 - 解包修复
 
-使用 apktool 对 “猛将无双之战三国” 游戏旧版 APK（com.gamedo.v360）解包，通过修改 smali 和 ARM 补丁修复其在 Android 11+ 上的兼容性问题。
+使用 apktool 对360渠道的 “猛将无双之战三国” 游戏旧版 APK（com.gamedo.v360）解包，通过修改 smali 和 ARM 补丁修复其在 Android 11+ 上的兼容性问题。
 
-你可以自行打包与安装游戏。
+> [!TIP]
+>
+> 我发现还有其他两个渠道的包：
+>
+> ```
+> # 游戏名叫“战三国”
+> com.gamedo
+> # QQ 游戏渠道的
+> com.gamedo.qq
+> ```
+>
+> 你可以自行打包与安装游戏。
+>
 
 > [!NOTE]
-> 跳过了序章，直接进入正式关卡（因为序章到固定进度会黑屏，怎么修复还不知道，所以直接跳了）。
+> 这个修复版，跳过了序章，直接进入正式关卡（因为序章到固定进度会黑屏，怎么修复还不知道，所以直接跳了）。
 
 > [!WARNING]
 > 这是32位游戏，需要手机支持运行32位应用（原生支持或系统提供转译兼容）。
@@ -20,6 +32,8 @@
 
 ```bash
 java -jar apktool.jar d mjwszzsg.apk -o .
+# 如果已经在系统其他地方安装了apktool，并配置好环境变量的话，就运行下面这条命令
+apktool d 游戏名.apk -o ./output_files
 ```
 
 ## 打包与安装
@@ -27,6 +41,8 @@ java -jar apktool.jar d mjwszzsg.apk -o .
 ```bash
 # 重建 APK
 java -jar apktool.jar b -o mjwszzsg_fixed.apk .
+# 已安装 apktool 的命令
+apktool b -o mjwszzsg_fixed.apk .
 
 # 签名
 jarsigner -verbose -keystore debug.keystore -storepass android \
