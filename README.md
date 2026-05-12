@@ -4,7 +4,7 @@
 
 你可以自行打包与安装游戏。或者[点击下载](https://github.com/kqint/mjwszzsg/releases/download/1.8/mjwszzsg_v1.8.apk)
 
-![示例图片](docs/README.assets/游戏示例图片.jpg)
+<img src="docs/README.assets/游戏示例图片.jpg" width="500" alt="示例图片">
 
 > [!NOTE]
 >这个修复版，跳过了序章，直接进入正式关卡。删除了登录，游戏内购买道具可以直接获得。（因为序章到固定进度会黑屏，怎么修复还不知道，所以直接跳了）。
