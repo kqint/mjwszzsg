@@ -2,7 +2,7 @@
 
 使用 apktool 对360渠道的 “猛将无双之战三国” 游戏旧版 APK（com.gamedo.v360）解包，通过修改 smali 和 ARM 补丁修复其在 Android 11+ 上的兼容性问题。
 
-你可以自行打包与安装游戏。
+你可以自行打包与安装游戏。或者[点击下载](https://github.com/kqint/mjwszzsg/releases/tag/1.8)
 
 > [!NOTE]
 >这个修复版，跳过了序章，直接进入正式关卡（因为序章到固定进度会黑屏，怎么修复还不知道，所以直接跳了）。
